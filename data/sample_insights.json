@@ -1,0 +1,345 @@
+{
+  "themes": [
+    {
+      "theme": "Infrastructure",
+      "summary": "The Ministry of Heavy Industries approved a capital subsidy of Rs. 800 Crore to set up 7,432 Electric Vehicle Public Charging Stations under FAME India Phase-II. The Indian government plans to add approximately 72,000 new EV chargers by FY26.",
+      "evidence_ids": [
+        "s_1ecb33cc_e2",
+        "s_1ecb33cc_e4",
+        "s_1ecb33cc_e5",
+        "s_af8f590e_e11",
+        "s_af8f590e_e20",
+        "s_af8f590e_e27",
+        "s_1ecb33cc_e3",
+        "s_39864bd5_e1",
+        "s_39864bd5_e3",
+        "s_3bc30a3c_e5",
+        "s_ca4a152c_e3",
+        "s_ca4a152c_e5",
+        "s_a4047e0b_e2",
+        "s_a4047e0b_e5",
+        "s_39864bd5_e2",
+        "s_3bc30a3c_e8",
+        "s_ca4a152c_e2",
+        "s_3bc30a3c_e12",
+        "s_e62b3e8c_e5",
+        "s_e62b3e8c_e3",
+        "s_e62b3e8c_e6",
+        "s_e62b3e8c_e13",
+        "s_e62b3e8c_e14",
+        "s_e62b3e8c_e15",
+        "s_e62b3e8c_e1"
+      ]
+    },
+    {
+      "theme": "Market Size",
+      "summary": "Markets and Markets reported the India EV market size was $5.76billion in 2026. Markets and Markets reported the India EV charging infrastructure market was valued at $129million in 2026.",
+      "evidence_ids": [
+        "s_af8f590e_e4",
+        "s_af8f590e_e5",
+        "s_af8f590e_e6",
+        "s_af8f590e_e7",
+        "s_af8f590e_e10",
+        "s_af8f590e_e18",
+        "s_af8f590e_e15",
+        "s_e62b3e8c_e2"
+      ]
+    },
+    {
+      "theme": "Technology",
+      "summary": "Most electric vehicle chargers currently in India do not support vehicle-to-grid (V2G) capability. Battery costs are steadily declining.",
+      "evidence_ids": [
+        "s_3bc30a3c_e1",
+        "s_a4047e0b_e6",
+        "s_e62b3e8c_e12",
+        "s_e62b3e8c_e4"
+      ]
+    },
+    {
+      "theme": "Competitors",
+      "summary": "Tata Power is a private charge point operator building dense metro and highway coverage in India. Ola used proprietary connectors for their two-wheeler and three-wheeler EVs.",
+      "evidence_ids": [
+        "s_39864bd5_e5",
+        "s_e62b3e8c_e10"
+      ]
+    },
+    {
+      "theme": "Market Share",
+      "summary": "India accounted for 1.4% of the global electric vehicle charging infrastructure market in 2025. Maharashtra represents the dominant market in West India, accounting for approximately 64% of the region's EV market.",
+      "evidence_ids": [
+        "s_af8f590e_e8",
+        "s_af8f590e_e17",
+        "s_af8f590e_e21",
+        "s_af8f590e_e22",
+        "s_af8f590e_e24",
+        "s_af8f590e_e19",
+        "s_af8f590e_e23",
+        "s_af8f590e_e12"
+      ]
+    },
+    {
+      "theme": "Policy",
+      "summary": "Maharashtra has a budget allocation of Rs. 1,993 crore for its Electric Vehicle Policy 2025\u20132030. The government increased the PLI allocation for automobiles and auto components to Rs. 3,500 crores in FY25.",
+      "evidence_ids": [
+        "s_1ecb33cc_e1",
+        "s_1ecb33cc_e7",
+        "s_1ecb33cc_e8",
+        "s_af8f590e_e13",
+        "s_3bc30a3c_e3",
+        "s_3bc30a3c_e4",
+        "s_3bc30a3c_e6",
+        "s_3bc30a3c_e9",
+        "s_3bc30a3c_e10",
+        "s_ca4a152c_e1",
+        "s_3bc30a3c_e2",
+        "s_3bc30a3c_e7",
+        "s_ca4a152c_e4",
+        "s_ca4a152c_e6"
+      ]
+    },
+    {
+      "theme": "Growth",
+      "summary": "Gujarat's battery manufacturing corridor and Maharashtra's proactive EV legislation could facilitate a state-wide CAGR of 44% in the coming years. Projections indicate that in Delhi, 95% of new vehicle registrations will be EVs by 2027.",
+      "evidence_ids": [
+        "s_af8f590e_e16",
+        "s_af8f590e_e26",
+        "s_a4047e0b_e3",
+        "s_a4047e0b_e4",
+        "s_af8f590e_e28"
+      ]
+    },
+    {
+      "theme": "Other",
+      "summary": "IREDA offers soft loans and green credit lines to ease financing for EV charging projects. SBI EV Mitra lends from above \u20b910 lakh up to \u20b95 crore for EV charging stations.",
+      "evidence_ids": [
+        "s_3bc30a3c_e11",
+        "s_ca4a152c_e7",
+        "s_ca4a152c_e8",
+        "s_a4047e0b_e7",
+        "s_a4047e0b_e1"
+      ]
+    }
+  ],
+  "key_findings": [
+    {
+      "text": "As of March 2026, India had 27,700 public electric vehicle (EV) charging stations, resulting in a charger-to-EV ratio of approximately 1:235.",
+      "evidence_ids": [
+        "s_39864bd5_e1",
+        "s_39864bd5_e3"
+      ],
+      "needs_review": false,
+      "verify_status": false
+    },
+    {
+      "text": "The Indian EV charging infrastructure market was valued at $129 million in 2026 and is projected to reach $1.65 billion by 2030.",
+      "evidence_ids": [
+        "s_af8f590e_e5",
+        "s_af8f590e_e10"
+      ],
+      "needs_review": false,
+      "verify_status": false
+    },
+    {
+      "text": "Public direct current (DC) charging stations in India currently experience low utilization, with typical usage at approximately 2 hours per day.",
+      "evidence_ids": [
+        "s_ca4a152c_e2",
+        "s_ca4a152c_e5"
+      ],
+      "needs_review": false,
+      "verify_status": false
+    }
+  ],
+  "competitor_table": [
+    {
+      "company": "Ola",
+      "key_fact": "Ola used proprietary connectors for their two-wheeler and three-wheeler EVs.",
+      "figure": null,
+      "measure": null,
+      "kind": null,
+      "evidence_ids": [
+        "s_e62b3e8c_e10"
+      ]
+    },
+    {
+      "company": "Tata Power",
+      "key_fact": "Tata Power is a private charge point operator building dense metro and highway coverage in India.",
+      "figure": null,
+      "measure": null,
+      "kind": null,
+      "evidence_ids": [
+        "s_39864bd5_e5"
+      ]
+    }
+  ],
+  "market_size_series": [
+    {
+      "year": "2025",
+      "value": 0.5574,
+      "unit": "USD billion",
+      "measure": "India EV charging infrastructure market value",
+      "source": "Grand View Research",
+      "kind": "actual",
+      "evidence_ids": [
+        "s_af8f590e_e7"
+      ]
+    },
+    {
+      "year": "2026",
+      "value": 0.129,
+      "unit": "USD billion",
+      "measure": "India EV charging infrastructure market value",
+      "source": "Markets and Markets",
+      "kind": "actual",
+      "evidence_ids": [
+        "s_af8f590e_e5"
+      ]
+    },
+    {
+      "year": "2030",
+      "value": 1.65,
+      "unit": "USD billion",
+      "measure": "India EV charging infrastructure market value",
+      "source": "Next MSC",
+      "kind": "forecast",
+      "evidence_ids": [
+        "s_af8f590e_e10"
+      ]
+    }
+  ],
+  "opportunities": [
+    {
+      "text": "Setting up and operating an EV charging station is a de-licensed activity under Ministry of Power guidelines, simplifying market entry.",
+      "evidence_ids": [
+        "s_ca4a152c_e1",
+        "s_ca4a152c_e4"
+      ],
+      "needs_review": false,
+      "verify_status": true
+    },
+    {
+      "text": "Financial support is available through government programs like PM E-DRIVE and specialized bank loans from institutions such as SBI and Indian Bank.",
+      "evidence_ids": [
+        "s_ca4a152c_e3",
+        "s_ca4a152c_e7",
+        "s_ca4a152c_e8",
+        "s_3bc30a3c_e10"
+      ],
+      "needs_review": false,
+      "verify_status": true
+    },
+    {
+      "text": "There is a growing trend of pairing battery energy storage systems with charging stations to improve efficiency and grid interaction.",
+      "evidence_ids": [
+        "s_3bc30a3c_e5"
+      ],
+      "needs_review": false,
+      "verify_status": false
+    }
+  ],
+  "risks": [
+    {
+      "text": "Most chargers in India lack vehicle-to-grid (V2G) capability, which allows EVs to send power back to the electrical grid, though national standards for this are currently under development.",
+      "evidence_ids": [
+        "s_3bc30a3c_e1",
+        "s_3bc30a3c_e4"
+      ],
+      "needs_review": false,
+      "verify_status": true
+    },
+    {
+      "text": "Charging station operators must navigate complex regulatory requirements from Distribution Companies (DISCOMs) regarding solar power metering and grid connection.",
+      "evidence_ids": [
+        "s_3bc30a3c_e6"
+      ],
+      "needs_review": false,
+      "verify_status": true
+    },
+    {
+      "text": "Safety regulations enforced by the Central Electricity Authority require strict compliance to prevent unsafe backfeeding of electricity into the grid.",
+      "evidence_ids": [
+        "s_3bc30a3c_e7"
+      ],
+      "needs_review": false,
+      "verify_status": true
+    }
+  ],
+  "charts": [
+    {
+      "title": "India EV charging infrastructure market value: estimates by source (USD billion)",
+      "plotly_json": "{\"data\":[{\"marker\":{\"color\":\"#2F5597\"},\"name\":\"Grand View Research\",\"text\":[\"0.5574\",null,null],\"textposition\":\"outside\",\"x\":[\"2025\",\"2026\",\"2030\"],\"y\":[0.5574,null,null],\"type\":\"bar\"},{\"marker\":{\"color\":\"#ED7D31\"},\"name\":\"Markets and Markets\",\"text\":[null,\"0.129\",null],\"textposition\":\"outside\",\"x\":[\"2025\",\"2026\",\"2030\"],\"y\":[null,0.129,null],\"type\":\"bar\"},{\"marker\":{\"color\":\"#70AD47\"},\"name\":\"Next MSC\",\"text\":[null,null,\"1.65\"],\"textposition\":\"outside\",\"x\":[\"2025\",\"2026\",\"2030\"],\"y\":[null,null,1.65],\"type\":\"bar\"}],\"layout\":{\"template\":{\"data\":{\"barpolar\":[{\"marker\":{\"line\":{\"color\":\"white\",\"width\":0.5},\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"barpolar\"}],\"bar\":[{\"error_x\":{\"color\":\"#2a3f5f\"},\"error_y\":{\"color\":\"#2a3f5f\"},\"marker\":{\"line\":{\"color\":\"white\",\"width\":0.5},\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"bar\"}],\"carpet\":[{\"aaxis\":{\"endlinecolor\":\"#2a3f5f\",\"gridcolor\":\"#C8D4E3\",\"linecolor\":\"#C8D4E3\",\"minorgridcolor\":\"#C8D4E3\",\"startlinecolor\":\"#2a3f5f\"},\"baxis\":{\"endlinecolor\":\"#2a3f5f\",\"gridcolor\":\"#C8D4E3\",\"linecolor\":\"#C8D4E3\",\"minorgridcolor\":\"#C8D4E3\",\"startlinecolor\":\"#2a3f5f\"},\"type\":\"carpet\"}],\"choropleth\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"type\":\"choropleth\"}],\"contourcarpet\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"type\":\"contourcarpet\"}],\"contour\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"contour\"}],\"heatmap\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"heatmap\"}],\"histogram2dcontour\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"histogram2dcontour\"}],\"histogram2d\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"histogram2d\"}],\"histogram\":[{\"marker\":{\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"histogram\"}],\"mesh3d\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"type\":\"mesh3d\"}],\"parcoords\":[{\"line\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"parcoords\"}],\"pie\":[{\"automargin\":true,\"type\":\"pie\"}],\"scatter3d\":[{\"line\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scatter3d\"}],\"scattercarpet\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scattercarpet\"}],\"scattergeo\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scattergeo\"}],\"scattergl\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scattergl\"}],\"scattermap\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scattermap\"}],\"scatterpolargl\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scatterpolargl\"}],\"scatterpolar\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scatterpolar\"}],\"scatter\":[{\"fillpattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2},\"type\":\"scatter\"}],\"scatterternary\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scatterternary\"}],\"surface\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"surface\"}],\"table\":[{\"cells\":{\"fill\":{\"color\":\"#EBF0F8\"},\"line\":{\"color\":\"white\"}},\"header\":{\"fill\":{\"color\":\"#C8D4E3\"},\"line\":{\"color\":\"white\"}},\"type\":\"table\"}]},\"layout\":{\"annotationdefaults\":{\"arrowcolor\":\"#2a3f5f\",\"arrowhead\":0,\"arrowwidth\":1},\"autotypenumbers\":\"strict\",\"coloraxis\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"colorscale\":{\"diverging\":[[0,\"#8e0152\"],[0.1,\"#c51b7d\"],[0.2,\"#de77ae\"],[0.3,\"#f1b6da\"],[0.4,\"#fde0ef\"],[0.5,\"#f7f7f7\"],[0.6,\"#e6f5d0\"],[0.7,\"#b8e186\"],[0.8,\"#7fbc41\"],[0.9,\"#4d9221\"],[1,\"#276419\"]],\"sequential\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"sequentialminus\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]},\"colorway\":[\"#636efa\",\"#EF553B\",\"#00cc96\",\"#ab63fa\",\"#FFA15A\",\"#19d3f3\",\"#FF6692\",\"#B6E880\",\"#FF97FF\",\"#FECB52\"],\"font\":{\"color\":\"#2a3f5f\"},\"geo\":{\"bgcolor\":\"white\",\"lakecolor\":\"white\",\"landcolor\":\"white\",\"showlakes\":true,\"showland\":true,\"subunitcolor\":\"#C8D4E3\"},\"hoverlabel\":{\"align\":\"left\"},\"hovermode\":\"closest\",\"paper_bgcolor\":\"white\",\"plot_bgcolor\":\"white\",\"polar\":{\"angularaxis\":{\"gridcolor\":\"#EBF0F8\",\"linecolor\":\"#EBF0F8\",\"ticks\":\"\"},\"bgcolor\":\"white\",\"radialaxis\":{\"gridcolor\":\"#EBF0F8\",\"linecolor\":\"#EBF0F8\",\"ticks\":\"\"}},\"scene\":{\"xaxis\":{\"backgroundcolor\":\"white\",\"gridcolor\":\"#DFE8F3\",\"gridwidth\":2,\"linecolor\":\"#EBF0F8\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"#EBF0F8\"},\"yaxis\":{\"backgroundcolor\":\"white\",\"gridcolor\":\"#DFE8F3\",\"gridwidth\":2,\"linecolor\":\"#EBF0F8\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"#EBF0F8\"},\"zaxis\":{\"backgroundcolor\":\"white\",\"gridcolor\":\"#DFE8F3\",\"gridwidth\":2,\"linecolor\":\"#EBF0F8\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"#EBF0F8\"}},\"shapedefaults\":{\"line\":{\"color\":\"#2a3f5f\"}},\"ternary\":{\"aaxis\":{\"gridcolor\":\"#DFE8F3\",\"linecolor\":\"#A2B1C6\",\"ticks\":\"\"},\"baxis\":{\"gridcolor\":\"#DFE8F3\",\"linecolor\":\"#A2B1C6\",\"ticks\":\"\"},\"bgcolor\":\"white\",\"caxis\":{\"gridcolor\":\"#DFE8F3\",\"linecolor\":\"#A2B1C6\",\"ticks\":\"\"}},\"title\":{\"x\":0.05},\"xaxis\":{\"automargin\":true,\"gridcolor\":\"#EBF0F8\",\"linecolor\":\"#EBF0F8\",\"ticks\":\"\",\"title\":{\"standoff\":15},\"zerolinecolor\":\"#EBF0F8\",\"zerolinewidth\":2},\"yaxis\":{\"automargin\":true,\"gridcolor\":\"#EBF0F8\",\"linecolor\":\"#EBF0F8\",\"ticks\":\"\",\"title\":{\"standoff\":15},\"zerolinecolor\":\"#EBF0F8\",\"zerolinewidth\":2}}},\"title\":{\"text\":\"India EV charging infrastructure market value: estimates by source (USD billion)\"},\"xaxis\":{\"title\":{\"text\":\"Year\"}},\"yaxis\":{\"title\":{\"text\":\"USD billion\"}},\"barmode\":\"overlay\",\"showlegend\":true}}",
+      "png_path": "storage/charts\\job_real_market_size.png",
+      "name": "market_size",
+      "section": "Market Insights",
+      "description": "Estimates range from US$0.129 billion (2026) to US$1.65 billion (2030). The estimates come from different sources and do not form one consistent trend (the 2026 figure is lower than the 2025 figure), so they should not be read as growth. The 2030 figure is a forecast.\nSource: Grand View Research, Markets and Markets, Next MSC, as reported in the pages listed in the Evidence Appendix. Based on 3 estimates."
+    }
+  ],
+  "quality": {
+    "counts": {
+      "accepted": 71,
+      "needs_review": 29,
+      "rejected": 5
+    },
+    "coverage": {
+      "by_task": {
+        "t1": {
+          "accepted": 36,
+          "needs_review": 8
+        },
+        "t2": {
+          "accepted": 15,
+          "needs_review": 9
+        },
+        "t3": {
+          "accepted": 8,
+          "needs_review": 10
+        },
+        "t4": {
+          "accepted": 12,
+          "needs_review": 8
+        }
+      },
+      "weak_tasks": [],
+      "unverified_tasks": []
+    },
+    "accepted_by_source_tier": {
+      "unknown": 42,
+      "reputable": 22,
+      "official": 7
+    }
+  },
+  "warnings": [],
+  "market_size_comparable": false,
+  "other_estimates": [
+    {
+      "measure": "India electric car market valuation",
+      "unit": "USD billion",
+      "by_year": [
+        {
+          "year": "2025",
+          "min": 3.58,
+          "max": 3.58,
+          "n": 1
+        }
+      ],
+      "evidence_ids": [
+        "s_af8f590e_e6"
+      ]
+    },
+    {
+      "measure": "India EV market size",
+      "unit": "USD billion",
+      "by_year": [
+        {
+          "year": "2026",
+          "min": 5.76,
+          "max": 5.76,
+          "n": 1
+        }
+      ],
+      "evidence_ids": [
+        "s_af8f590e_e4"
+      ]
+    }
+  ],
+  "findings_unavailable": false
+}

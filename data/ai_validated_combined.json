@@ -1,0 +1,4872 @@
+[
+  {
+    "claim": "Flipkart utilizes AI-driven data to provide tailored advertisements to specific customer segments.",
+    "entity": "Flipkart",
+    "topic": "technology",
+    "excerpt": "Flipkart can show tailored adverts to particular client segments thanks to AI-driven data.",
+    "source_id": "s_c97a5b9b",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_c97a5b9b_e1",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Age unknown (no page date or figure year)",
+    "confidence": 0.65,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Flipkart faces challenges regarding data security and privacy due to its reliance on customer data for AI systems.",
+    "entity": "Flipkart",
+    "topic": "other",
+    "excerpt": "Flipkart is confronted with problems of data security and privacy due to the widespread utilization of customer data in AI systems.",
+    "source_id": "s_c97a5b9b",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_c97a5b9b_e2",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Age unknown (no page date or figure year)",
+    "confidence": 0.68,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Flipkart requires ongoing investments in IT infrastructure modernization to effectively utilize AI.",
+    "entity": "Flipkart",
+    "topic": "infrastructure",
+    "excerpt": "For Flipkart to truly benefit from AI capabilities, it needs to make ongoing investments in modernizing its IT infrastructure.",
+    "source_id": "s_c97a5b9b",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_c97a5b9b_e3",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Age unknown (no page date or figure year)",
+    "confidence": 0.68,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Flipkart experiences a shortage of skilled AI specialists for advanced system development.",
+    "entity": "Flipkart",
+    "topic": "other",
+    "excerpt": "Flipkart faces a hurdle in the lack of skilled AI specialists since advanced AI system development and [...]",
+    "source_id": "s_c97a5b9b",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_c97a5b9b_e4",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Age unknown (no page date or figure year)",
+    "confidence": 0.68,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Reliance encounters data security and privacy challenges as its dependency on AI increases.",
+    "entity": "Reliance",
+    "topic": "other",
+    "excerpt": "Data security and privacy issues are becoming more relevant as Reliance depends more and more on AI.",
+    "source_id": "s_c97a5b9b",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_c97a5b9b_e5",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Age unknown (no page date or figure year)",
+    "confidence": 0.68,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Reliance must implement strict data governance to comply with the Personal Data Protection Bill while managing large consumer datasets.",
+    "entity": "Reliance",
+    "topic": "policy",
+    "excerpt": "Strict data governance structures are necessary when handling large volumes of consumer data to guarantee compliance with laws such as the Personal Data Protection Bill.",
+    "source_id": "s_c97a5b9b",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_c97a5b9b_e6",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": false,
+    "date_source": null,
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Claim is not fully backed by its excerpt (a number or the source name is missing); age unknown (no page date or figure year)",
+    "confidence": 0.47,
+    "scores": {
+      "credibility": 0.5,
+      "support": 0.4,
+      "relevance": 0.5,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Developing and implementing AI technologies is costly for Reliance, especially in the oil and gas sector due to legacy system integration.",
+    "entity": "Reliance",
+    "topic": "market size",
+    "excerpt": "The cost of developing and implementing AI technologies is high, particularly in industries like oil and gas where integrating AI with current infrastructure is difficult and costly.",
+    "source_id": "s_c97a5b9b",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_c97a5b9b_e7",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": false,
+    "date_source": null,
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Claim is not fully backed by its excerpt (a number or the source name is missing); age unknown (no page date or figure year)",
+    "confidence": 0.47,
+    "scores": {
+      "credibility": 0.5,
+      "support": 0.4,
+      "relevance": 0.5,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Emergent is capturing venture capital to expand AI product offerings.",
+    "entity": "Emergent",
+    "topic": "growth",
+    "excerpt": "Companies like Emergent are capturing venture capital to expand AI product offerings — such as platforms for building AI-driven applications — solidifying India’s startup momentum in AI.",
+    "source_id": "s_fb5d3664",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_fb5d3664_e1",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Age unknown (no page date or figure year)",
+    "confidence": 0.65,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Nearly 47% of Indian enterprises have multiple AI use cases in production.",
+    "entity": "EY",
+    "topic": "market size",
+    "excerpt": "According to an EY-CII report, nearly 47% of Indian enterprises now have multiple AI use cases in production, signaling that AI is increasingly mainstream, not experimental.",
+    "source_id": "s_fb5d3664",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_fb5d3664_e2",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Age unknown (no page date or figure year)",
+    "confidence": 0.68,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "HDFC Bank uses AI for customer engagement, risk management, supply chain optimization, marketing strategies, and decision-making processes.",
+    "entity": "HDFC Bank",
+    "topic": "technology",
+    "excerpt": "Using real-world examples from leading Indian brands such as HDFC Bank, ICICI Bank, Paytm, Myntra, Tata Motors, Reliance Jio, and Cadbury, the study highlights how AI is reshaping customer engagement, risk management, supply chain optimization, marketing strategies, and decision-making processes.",
+    "source_id": "s_fb5d3664",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_fb5d3664_e3",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Age unknown (no page date or figure year)",
+    "confidence": 0.65,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "ICICI Bank uses AI for customer engagement, risk management, supply chain optimization, marketing strategies, and decision-making processes.",
+    "entity": "ICICI Bank",
+    "topic": "technology",
+    "excerpt": "Using real-world examples from leading Indian brands such as HDFC Bank, ICICI Bank, Paytm, Myntra, Tata Motors, Reliance Jio, and Cadbury, the study highlights how AI is reshaping customer engagement, risk management, supply chain optimization, marketing strategies, and decision-making processes.",
+    "source_id": "s_fb5d3664",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_fb5d3664_e4",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "rejected",
+    "reason": "Duplicate of s_fb5d3664_e3",
+    "confidence": 0.65,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": "s_fb5d3664_e3",
+    "conflict_with": []
+  },
+  {
+    "claim": "Paytm uses AI for customer engagement, risk management, supply chain optimization, marketing strategies, and decision-making processes.",
+    "entity": "Paytm",
+    "topic": "technology",
+    "excerpt": "Using real-world examples from leading Indian brands such as HDFC Bank, ICICI Bank, Paytm, Myntra, Tata Motors, Reliance Jio, and Cadbury, the study highlights how AI is reshaping customer engagement, risk management, supply chain optimization, marketing strategies, and decision-making processes.",
+    "source_id": "s_fb5d3664",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_fb5d3664_e5",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "rejected",
+    "reason": "Duplicate of s_fb5d3664_e3",
+    "confidence": 0.65,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": "s_fb5d3664_e3",
+    "conflict_with": []
+  },
+  {
+    "claim": "Myntra uses AI for customer engagement, risk management, supply chain optimization, marketing strategies, and decision-making processes.",
+    "entity": "Myntra",
+    "topic": "technology",
+    "excerpt": "Using real-world examples from leading Indian brands such as HDFC Bank, ICICI Bank, Paytm, Myntra, Tata Motors, Reliance Jio, and Cadbury, the study highlights how AI is reshaping customer engagement, risk management, supply chain optimization, marketing strategies, and decision-making processes.",
+    "source_id": "s_fb5d3664",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_fb5d3664_e6",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "rejected",
+    "reason": "Duplicate of s_fb5d3664_e3",
+    "confidence": 0.65,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": "s_fb5d3664_e3",
+    "conflict_with": []
+  },
+  {
+    "claim": "Tata Motors uses AI for customer engagement, risk management, supply chain optimization, marketing strategies, and decision-making processes.",
+    "entity": "Tata Motors",
+    "topic": "technology",
+    "excerpt": "Using real-world examples from leading Indian brands such as HDFC Bank, ICICI Bank, Paytm, Myntra, Tata Motors, Reliance Jio, and Cadbury, the study highlights how AI is reshaping customer engagement, risk management, supply chain optimization, marketing strategies, and decision-making processes.",
+    "source_id": "s_fb5d3664",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_fb5d3664_e7",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "rejected",
+    "reason": "Duplicate of s_fb5d3664_e3",
+    "confidence": 0.65,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": "s_fb5d3664_e3",
+    "conflict_with": []
+  },
+  {
+    "claim": "Reliance Jio uses AI for customer engagement, risk management, supply chain optimization, marketing strategies, and decision-making processes.",
+    "entity": "Reliance Jio",
+    "topic": "technology",
+    "excerpt": "Using real-world examples from leading Indian brands such as HDFC Bank, ICICI Bank, Paytm, Myntra, Tata Motors, Reliance Jio, and Cadbury, the study highlights how AI is reshaping customer engagement, risk management, supply chain optimization, marketing strategies, and decision-making processes.",
+    "source_id": "s_fb5d3664",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_fb5d3664_e8",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "rejected",
+    "reason": "Duplicate of s_fb5d3664_e3",
+    "confidence": 0.65,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": "s_fb5d3664_e3",
+    "conflict_with": []
+  },
+  {
+    "claim": "Cadbury uses AI for customer engagement, risk management, supply chain optimization, marketing strategies, and decision-making processes.",
+    "entity": "Cadbury",
+    "topic": "technology",
+    "excerpt": "Using real-world examples from leading Indian brands such as HDFC Bank, ICICI Bank, Paytm, Myntra, Tata Motors, Reliance Jio, and Cadbury, the study highlights how AI is reshaping customer engagement, risk management, supply chain optimization, marketing strategies, and decision-making processes.",
+    "source_id": "s_fb5d3664",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_fb5d3664_e9",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "rejected",
+    "reason": "Duplicate of s_fb5d3664_e3",
+    "confidence": 0.65,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": "s_fb5d3664_e3",
+    "conflict_with": []
+  },
+  {
+    "claim": "Private investment in AI in India reached $4.1 billion in 2025.",
+    "entity": "India",
+    "topic": "market size",
+    "excerpt": "Private investment in AI in India surged to $4.1 billion in 2025, a significant increase from $1.2 billion in 2024.",
+    "source_id": "s_d9fffe87",
+    "date": "2026-10-13",
+    "excerpt_found": true,
+    "evidence_id": "s_d9fffe87_e1",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Private investment in AI in India was $1.2 billion in 2024.",
+    "entity": "India",
+    "topic": "market size",
+    "excerpt": "Private investment in AI in India surged to $4.1 billion in 2025, a significant increase from $1.2 billion in 2024.",
+    "source_id": "s_d9fffe87",
+    "date": "2026-10-13",
+    "excerpt_found": true,
+    "evidence_id": "s_d9fffe87_e2",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2024,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.74,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.8,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "23.4% of Indian firms reported using AI.",
+    "entity": "India",
+    "topic": "other",
+    "excerpt": "A World Bank survey revealed that only 23.4% of Indian firms reported using AI, a stark contrast to 42.7% in the United States.",
+    "source_id": "s_d9fffe87",
+    "date": "2026-10-13",
+    "excerpt_found": true,
+    "evidence_id": "s_d9fffe87_e3",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "42.7% of US firms reported using AI.",
+    "entity": "United States",
+    "topic": "other",
+    "excerpt": "A World Bank survey revealed that only 23.4% of Indian firms reported using AI, a stark contrast to 42.7% in the United States.",
+    "source_id": "s_d9fffe87",
+    "date": "2026-10-13",
+    "excerpt_found": true,
+    "evidence_id": "s_d9fffe87_e4",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "3.5% of Indian firms pay for AI software or subscriptions.",
+    "entity": "India",
+    "topic": "other",
+    "excerpt": "When measured by payment for AI software or subscriptions, the gap widened further, with only 3.5% of Indian firms paying, compared to 23.1% of US firms.",
+    "source_id": "s_d9fffe87",
+    "date": "2026-10-13",
+    "excerpt_found": true,
+    "evidence_id": "s_d9fffe87_e5",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "23.1% of US firms pay for AI software or subscriptions.",
+    "entity": "United States",
+    "topic": "other",
+    "excerpt": "When measured by payment for AI software or subscriptions, the gap widened further, with only 3.5% of Indian firms paying, compared to 23.1% of US firms.",
+    "source_id": "s_d9fffe87",
+    "date": "2026-10-13",
+    "excerpt_found": true,
+    "evidence_id": "s_d9fffe87_e6",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Claim is not fully backed by its excerpt (a number or the source name is missing)",
+    "confidence": 0.6,
+    "scores": {
+      "credibility": 0.5,
+      "support": 0.4,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India has a score of 0.27 on the World Bank’s AI Adoption Index.",
+    "entity": "India",
+    "topic": "other",
+    "excerpt": "While India ranks among leading emerging economies in AI readiness, its score of 0.27 on the World Bank’s AI Adoption Index, against the US's 0.85, indicates substantial room for growth.",
+    "source_id": "s_d9fffe87",
+    "date": "2026-10-13",
+    "excerpt_found": true,
+    "evidence_id": "s_d9fffe87_e7",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The United States has a score of 0.85 on the World Bank’s AI Adoption Index.",
+    "entity": "United States",
+    "topic": "other",
+    "excerpt": "While India ranks among leading emerging economies in AI readiness, its score of 0.27 on the World Bank’s AI Adoption Index, against the US's 0.85, indicates substantial room for growth.",
+    "source_id": "s_d9fffe87",
+    "date": "2026-10-13",
+    "excerpt_found": true,
+    "evidence_id": "s_d9fffe87_e8",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Claim is not fully backed by its excerpt (a number or the source name is missing)",
+    "confidence": 0.6,
+    "scores": {
+      "credibility": 0.5,
+      "support": 0.4,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "41% of enterprises cite integration complexity as a barrier to AI implementation.",
+    "entity": "enterprises",
+    "topic": "other",
+    "excerpt": "Integration complexity is a major barrier, with 41% of enterprises citing it as an issue, often because existing systems were not designed to connect with the data an AI model needs.",
+    "source_id": "s_d9fffe87",
+    "date": "2026-10-13",
+    "excerpt_found": true,
+    "evidence_id": "s_d9fffe87_e9",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "26% of enterprises have operationalized AI at scale.",
+    "entity": "enterprises",
+    "topic": "other",
+    "excerpt": "Only 26% of enterprises have operationalized AI at scale, according to Forrester's 2026 research, suggesting many struggle to move beyond initial experiments.",
+    "source_id": "s_d9fffe87",
+    "date": "2026-10-13",
+    "excerpt_found": true,
+    "evidence_id": "s_d9fffe87_e10",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "78% of Indian SMBs surveyed by Salesforce were using or experimenting with AI.",
+    "entity": "Salesforce",
+    "topic": "other",
+    "excerpt": "A Salesforce survey of over 200 Indian SMBs found 78% were using or experimenting with AI.",
+    "source_id": "s_d9fffe87",
+    "date": "2026-10-13",
+    "excerpt_found": true,
+    "evidence_id": "s_d9fffe87_e11",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "78% of Indian SMBs were using or experimenting with AI.",
+    "entity": "Indian SMBs",
+    "topic": "market share",
+    "excerpt": "A Salesforce survey showed 78% of Indian SMBs were using or experimenting with AI, with high reported gains in efficiency and productivity.",
+    "source_id": "s_d9fffe87",
+    "date": "2026-10-13",
+    "excerpt_found": true,
+    "evidence_id": "s_d9fffe87_e12",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "rejected",
+    "reason": "Duplicate of s_d9fffe87_e11",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": "s_d9fffe87_e11",
+    "conflict_with": []
+  },
+  {
+    "claim": "India's AI market is valued at approximately Rs 1.2-1.5 lakh crore in 2026.",
+    "entity": "India",
+    "topic": "market size",
+    "excerpt": "India's AI market in 2026 is valued at approximately Rs 1.2-1.5 lakh crore (USD 14-17 billion), depending on methodology and inclusion criteria.",
+    "source_id": "s_11d3bf6a",
+    "date": "2026-06-02",
+    "excerpt_found": true,
+    "evidence_id": "s_11d3bf6a_e1",
+    "task_id": "t1",
+    "task_ids": [
+      "t1",
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India represents approximately 5-6% of the global AI market.",
+    "entity": "India",
+    "topic": "market share",
+    "excerpt": "India represents approximately 5-6% of the global AI market — disproportionately small relative to India's 18% share of global population.",
+    "source_id": "s_11d3bf6a",
+    "date": "2026-06-02",
+    "excerpt_found": true,
+    "evidence_id": "s_11d3bf6a_e2",
+    "task_id": "t1",
+    "task_ids": [
+      "t1",
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The IndiaAI Mission has a government allocation of Rs 10,372 crore.",
+    "entity": "IndiaAI Mission",
+    "topic": "policy",
+    "excerpt": "The government's IndiaAI Mission (Rs 10,372 crore allocation) focuses on:\n- Compute infrastructure: 10,000+ GPU cluster for AI training, available to Indian researchers and startups\n- Datasets: IndiaDatasets platform — curated, anonymised Indian data for AI training\n- Innovation: AI Centres of Excellence across sectors (agriculture, healthcare, education)\n- Talent: AI skill development targeting 1 million professionals by 2027\n- Startups: Financial support and incubation for AI startups",
+    "source_id": "s_11d3bf6a",
+    "date": "2026-06-02",
+    "excerpt_found": true,
+    "evidence_id": "s_11d3bf6a_e3",
+    "task_id": "t1",
+    "task_ids": [
+      "t1",
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.73,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The Reserve Bank of India issued detailed AI guidelines in 2025.",
+    "entity": "RBI",
+    "topic": "policy",
+    "excerpt": "Banking/Finance | RBI | Detailed guidelines issued (2025)",
+    "source_id": "s_11d3bf6a",
+    "date": "2026-06-02",
+    "excerpt_found": true,
+    "evidence_id": "s_11d3bf6a_e4",
+    "task_id": "t1",
+    "task_ids": [
+      "t1",
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "IRDAI published an AI regulatory framework in 2025.",
+    "entity": "IRDAI",
+    "topic": "policy",
+    "excerpt": "Insurance | IRDAI | Framework published (2025)",
+    "source_id": "s_11d3bf6a",
+    "date": "2026-06-02",
+    "excerpt_found": true,
+    "evidence_id": "s_11d3bf6a_e5",
+    "task_id": "t1",
+    "task_ids": [
+      "t1",
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.75,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "IT services companies including TCS, Infosys, and Wipro are investing Rs 2,000-5,000 crore each in AI capabilities.",
+    "entity": "TCS",
+    "topic": "market size",
+    "excerpt": "IT services companies (TCS, Infosys, Wipro): Rs 2,000-5,000 crore each in AI capabilities",
+    "source_id": "s_11d3bf6a",
+    "date": "2026-06-02",
+    "excerpt_found": true,
+    "evidence_id": "s_11d3bf6a_e6",
+    "task_id": "t1",
+    "task_ids": [
+      "t1",
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Top 10 Banks are investing Rs 200-800 crore each in AI deployments.",
+    "entity": "Banks",
+    "topic": "market size",
+    "excerpt": "Banks (Top 10): Rs 200-800 crore each in AI deployments",
+    "source_id": "s_11d3bf6a",
+    "date": "2026-06-02",
+    "excerpt_found": true,
+    "evidence_id": "s_11d3bf6a_e7",
+    "task_id": "t1",
+    "task_ids": [
+      "t1",
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.75,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Conglomerates Tata, Reliance, and Adani are investing Rs 500-2,000 crore each in AI across subsidiaries.",
+    "entity": "Tata",
+    "topic": "market size",
+    "excerpt": "Conglomerates (Tata, Reliance, Adani): Rs 500-2,000 crore each in AI across subsidiaries",
+    "source_id": "s_11d3bf6a",
+    "date": "2026-06-02",
+    "excerpt_found": true,
+    "evidence_id": "s_11d3bf6a_e8",
+    "task_id": "t1",
+    "task_ids": [
+      "t1",
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.75,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Bangalore holds 30-35% of India's AI talent.",
+    "entity": "Bangalore",
+    "topic": "other",
+    "excerpt": "- Bangalore: 30-35% of India's AI talent",
+    "source_id": "s_11d3bf6a",
+    "date": "2026-06-02",
+    "excerpt_found": true,
+    "evidence_id": "s_11d3bf6a_e9",
+    "task_id": "t1",
+    "task_ids": [
+      "t1",
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India's AI market size is between Rs 1.2-1.5 lakh crore.",
+    "entity": "India",
+    "topic": "market size",
+    "excerpt": "The market size is substantial (Rs 1.2-1.5 lakh crore), the growth rate is strong (28-35% annually), and the opportunity landscape is vast and varied.",
+    "source_id": "s_11d3bf6a",
+    "date": "2026-06-02",
+    "excerpt_found": true,
+    "evidence_id": "s_11d3bf6a_e10",
+    "task_id": "t1",
+    "task_ids": [
+      "t1",
+      "t2"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Excerpt only partly supports the claim: The excerpt does not explicitly state that this refers to India's AI market.",
+    "confidence": 0.59,
+    "scores": {
+      "credibility": 0.5,
+      "support": 0.85,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India's AI market has a growth rate of 28-35% annually.",
+    "entity": "India",
+    "topic": "growth",
+    "excerpt": "The market size is substantial (Rs 1.2-1.5 lakh crore), the growth rate is strong (28-35% annually), and the opportunity landscape is vast and varied.",
+    "source_id": "s_11d3bf6a",
+    "date": "2026-06-02",
+    "excerpt_found": true,
+    "evidence_id": "s_11d3bf6a_e11",
+    "task_id": "t1",
+    "task_ids": [
+      "t1",
+      "t2"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Excerpt only partly supports the claim: The excerpt does not explicitly state that this refers to India's AI market.",
+    "confidence": 0.59,
+    "scores": {
+      "credibility": 0.5,
+      "support": 0.85,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Bangalore leads AI adoption in India with 35-40% of AI activity.",
+    "entity": "Bangalore",
+    "topic": "market share",
+    "excerpt": "Bangalore leads (35-40% of AI activity), followed by Hyderabad (15-18%), Delhi-NCR (12-15%), Mumbai-Pune (12-15%), and Chennai (8-10%).",
+    "source_id": "s_11d3bf6a",
+    "date": "2026-06-02",
+    "excerpt_found": true,
+    "evidence_id": "s_11d3bf6a_e12",
+    "task_id": "t1",
+    "task_ids": [
+      "t1",
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Excerpt only partly supports the claim: The excerpt does not explicitly state that this refers to AI adoption in India.",
+    "confidence": 0.59,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "There is a gap of 3-4 lakh unfilled AI positions in India.",
+    "entity": "India",
+    "topic": "other",
+    "excerpt": "No. India has a gap of 3-4 lakh unfilled AI positions.",
+    "source_id": "s_11d3bf6a",
+    "date": "2026-06-02",
+    "excerpt_found": true,
+    "evidence_id": "s_11d3bf6a_e13",
+    "task_id": "t1",
+    "task_ids": [
+      "t1",
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The MSME segment is projected to reach 50-60% AI adoption by 2028.",
+    "entity": "SME",
+    "topic": "growth",
+    "excerpt": "Among large enterprises: 70-80%. Mid-market: 40-55%. SMEs: 20-30%. Micro businesses: 5-10%. The fastest growth is in the SME segment, which is projected to reach 50-60% adoption by 2028 as solutions become more accessible and affordable through platforms like YuVerse.",
+    "source_id": "s_11d3bf6a",
+    "date": "2026-06-02",
+    "excerpt_found": true,
+    "evidence_id": "s_11d3bf6a_e14",
+    "task_id": "t1",
+    "task_ids": [
+      "t1",
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2028,
+    "status": "needs_review",
+    "reason": "Excerpt only partly supports the claim: The excerpt refers to the SME segment rather than MSME segment.",
+    "confidence": 0.59,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The market for AI for MSMEs is worth Rs 15,000-20,000 crore.",
+    "entity": "MSME",
+    "topic": "market size",
+    "excerpt": "The largest underserved opportunity is AI for MSMEs — 63 million businesses largely without AI access, representing a Rs 15,000-20,000 crore market even at modest per-business spending.",
+    "source_id": "s_11d3bf6a",
+    "date": "2026-06-02",
+    "excerpt_found": true,
+    "evidence_id": "s_11d3bf6a_e15",
+    "task_id": "t1",
+    "task_ids": [
+      "t1",
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India ranks second globally in enterprise AI adoption with 83% of enterprises actively using or exploring AI.",
+    "entity": "IBM Global AI Adoption Index",
+    "topic": "market share",
+    "excerpt": "According to the IBM Global AI Adoption Index, India ranks second globally in enterprise AI adoption, with 83% of surveyed Indian enterprises actively using or exploring AI — trailing only China at 86%, and ahead of the UAE, the US, and Europe.",
+    "source_id": "s_8594cfcf",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_8594cfcf_e1",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Age unknown (no page date or figure year)",
+    "confidence": 0.68,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India recorded a 47% compound annual growth rate in AI services exports.",
+    "entity": "India",
+    "topic": "growth",
+    "excerpt": "India also recorded a 47% compound annual growth rate in AI services exports, and a 35% annual increase in AI talent, according to a 2026 analysis.",
+    "source_id": "s_8594cfcf",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_8594cfcf_e2",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": 2026,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India recorded a 35% annual increase in AI talent.",
+    "entity": "India",
+    "topic": "growth",
+    "excerpt": "India also recorded a 47% compound annual growth rate in AI services exports, and a 35% annual increase in AI talent, according to a 2026 analysis.",
+    "source_id": "s_8594cfcf",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_8594cfcf_e3",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": 2026,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The Banking, Financial Services & Insurance (BFSI) sector commands 19.6% of total AI end-use spend globally.",
+    "entity": "BFSI",
+    "topic": "market size",
+    "excerpt": "BFSI is the single largest sector by AI market share globally, commanding 19.6% of total AI end-use spend.",
+    "source_id": "s_8594cfcf",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_8594cfcf_e4",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Age unknown (no page date or figure year); global figure, but the research scope is India",
+    "confidence": 0.63,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Financial services reached $38.2 billion in global AI spending.",
+    "entity": "Financial services",
+    "topic": "market size",
+    "excerpt": "Financial services leads global AI spending — at $38.2 billion in 2026, with fraud detection at 89% adoption among financial AI users",
+    "source_id": "s_8594cfcf",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_8594cfcf_e5",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": 2026,
+    "status": "needs_review",
+    "reason": "Global figure, but the research scope is India",
+    "confidence": 0.73,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Retail and CPG recorded 47% adoption of agentic AI globally.",
+    "entity": "NVIDIA",
+    "topic": "market share",
+    "excerpt": "Globally, retail and CPG recorded 47% adoption of agentic AI — the second highest of any sector after telecoms, according to NVIDIA's 2026 State of AI report.",
+    "source_id": "s_8594cfcf",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_8594cfcf_e6",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": 2026,
+    "status": "needs_review",
+    "reason": "Global figure, but the research scope is India",
+    "confidence": 0.73,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Companies using AI in manufacturing report an average 23% reduction in unplanned downtime through predictive maintenance.",
+    "entity": "Manufacturing",
+    "topic": "technology",
+    "excerpt": "The headline number: companies using AI in manufacturing report an average 23% reduction in unplanned downtime through predictive maintenance alone.",
+    "source_id": "s_8594cfcf",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_8594cfcf_e7",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Age unknown (no page date or figure year)",
+    "confidence": 0.65,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "AI adoption in the Indian healthcare sector grew from 38% in 2024 to 67% in 2026.",
+    "entity": "Healthcare",
+    "topic": "growth",
+    "excerpt": "Healthcare shows the most dramatic acceleration of any sector in 2026 — jumping from 38% AI adoption in 2024 to 67% in 2026, a 29 percentage point increase in two years.",
+    "source_id": "s_8594cfcf",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_8594cfcf_e8",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": 2026,
+    "status": "needs_review",
+    "reason": "Excerpt only partly supports the claim: The excerpt does not explicitly state that the healthcare sector mentioned is in India.",
+    "confidence": 0.59,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Appointment scheduling and reminder automation reduced no-show rates at Indian clinics and hospitals by 20–35%.",
+    "entity": "Indian clinics",
+    "topic": "infrastructure",
+    "excerpt": "Appointment scheduling and reminder automation is reducing no-show rates at Indian clinics and hospitals by 20–35%",
+    "source_id": "s_8594cfcf",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_8594cfcf_e9",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Age unknown (no page date or figure year)",
+    "confidence": 0.68,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Healthcare AI spending grew 68% year-over-year in 2026.",
+    "entity": "Healthcare",
+    "topic": "growth",
+    "excerpt": "Healthcare AI spending grew 68% year-over-year — the fastest spending growth rate of any sector in 2026",
+    "source_id": "s_8594cfcf",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_8594cfcf_e10",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": 2026,
+    "status": "needs_review",
+    "reason": "Excerpt only partly supports the claim: The excerpt does not explicitly state that the healthcare sector mentioned is in India.",
+    "confidence": 0.59,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Global technology and SaaS industries lead AI adoption at 92%.",
+    "entity": "SaaS",
+    "topic": "growth",
+    "excerpt": "Among global industries, technology and SaaS leads AI adoption at 92%, with AI-assisted code generation used by 64% of professional software developers.",
+    "source_id": "s_8594cfcf",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_8594cfcf_e11",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Age unknown (no page date or figure year); global figure, but the research scope is India",
+    "confidence": 0.63,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "NASSCOM surveys report enterprise AI use exceeding 80% among large IT services firms in India.",
+    "entity": "NASSCOM",
+    "topic": "growth",
+    "excerpt": "For Indian IT services companies — which form a significant portion of India's formal enterprise economy — AI adoption is happening at both the delivery layer (using AI to serve clients better) and the internal operations layer (using AI to increase output per developer and reduce delivery costs). NASSCOM surveys report enterprise AI use exceeding 80% among large IT services firms in India.",
+    "source_id": "s_8594cfcf",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_8594cfcf_e12",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Age unknown (no page date or figure year)",
+    "confidence": 0.68,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "87% of Indian companies are in the Enthusiast or Expert stages of AI adoption according to the IndiaAI 2024 Adoption Index.",
+    "entity": "IndiaAI",
+    "topic": "growth",
+    "excerpt": "87% of Indian companies — are in the Enthusiast or Expert stages of AI adoption — IndiaAI 2024 Adoption Index",
+    "source_id": "s_8594cfcf",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_8594cfcf_e13",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": 2024,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.74,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.8,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "30% of Indian businesses cite limited AI skills and expertise as a top barrier to AI adoption.",
+    "entity": "IBM",
+    "topic": "other",
+    "excerpt": "The IBM data gives a clear answer. The top three barriers to AI adoption among Indian businesses are: \n• Limited AI skills and expertise (cited by 30% of respondents)",
+    "source_id": "s_8594cfcf",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_8594cfcf_e14",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Age unknown (no page date or figure year)",
+    "confidence": 0.68,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "28% of Indian businesses cite lack of suitable tools or platforms as a top barrier to AI adoption.",
+    "entity": "IBM",
+    "topic": "other",
+    "excerpt": "The IBM data gives a clear answer. The top three barriers to AI adoption among Indian businesses are: \n• Limited AI skills and expertise (cited by 30% of respondents) — not enough people who can bridge the gap between technical AI capability and business application \n• Lack of suitable tools or platforms (28%)",
+    "source_id": "s_8594cfcf",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_8594cfcf_e15",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Age unknown (no page date or figure year)",
+    "confidence": 0.68,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "27% of Indian businesses cite difficulty integrating and scaling AI with existing systems as a top barrier to AI adoption.",
+    "entity": "IBM",
+    "topic": "other",
+    "excerpt": "The IBM data gives a clear answer. The top three barriers to AI adoption among Indian businesses are: \n• Limited AI skills and expertise (cited by 30% of respondents) — not enough people who can bridge the gap between technical AI capability and business application \n• Lack of suitable tools or platforms (28%) — many available AI solutions are designed for US or European enterprise contexts and don't map cleanly to Indian data structures, regulatory environments, or business workflows \n• Difficulty integrating and scaling AI with existing systems (27%)",
+    "source_id": "s_8594cfcf",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_8594cfcf_e16",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Age unknown (no page date or figure year)",
+    "confidence": 0.68,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India's AI talent grew 35% year-over-year.",
+    "entity": "India",
+    "topic": "growth",
+    "excerpt": "The skills barrier is real but improving — India's AI talent grew 35% year-over-year.",
+    "source_id": "s_8594cfcf",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_8594cfcf_e17",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Age unknown (no page date or figure year)",
+    "confidence": 0.68,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India's AI market was valued at $9.8 billion in 2025 and is projected to reach $14.3 billion in 2026.",
+    "entity": "India",
+    "topic": "market size",
+    "excerpt": "India's AI market was valued at approximately $9.8 billion in 2025 and is projected to reach $14.3 billion in 2026 — a 46% single-year jump.",
+    "source_id": "s_8594cfcf",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_8594cfcf_e18",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India's AI market is projected to reach $195 billion by 2035 at a 33.6% CAGR.",
+    "entity": "India",
+    "topic": "market size",
+    "excerpt": "Over the next decade, that trajectory points toward $195 billion by 2035 at a 33.6% CAGR, driven by government-backed AI infrastructure, enterprise automation demand, and a rapidly growing base of AI-ready developers and businesses.",
+    "source_id": "s_8594cfcf",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_8594cfcf_e19",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": false,
+    "date_source": null,
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Age unknown (no page date or figure year)",
+    "confidence": 0.635,
+    "scores": {
+      "credibility": 0.5,
+      "support": 0.85,
+      "relevance": 0.8,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "More than 80% of Indian organisations are exploring autonomous AI agents.",
+    "entity": "Deloitte",
+    "topic": "technology",
+    "excerpt": "Deloitte's 2026 India survey found that more than 80% of Indian organisations are exploring autonomous AI agents — systems that don't just assist human decisions but carry out multi-step tasks independently.",
+    "source_id": "s_8594cfcf",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_8594cfcf_e20",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": 2026,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "BigFAT AI Labs provides an AI Chat Platform for customer-facing query automation.",
+    "entity": "BigFAT AI Labs",
+    "topic": "technology",
+    "excerpt": "BigFAT AI Labs builds AI solutions specifically for Indian businesses: an AI Chat Platform for customer-facing query automation, an AI Analytics Dashboard for operational decision-making, Workflow Automation tools that plug into existing business processes, and API-based AI Services for companies that want to embed intelligence directly into their own products.",
+    "source_id": "s_8594cfcf",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_8594cfcf_e21",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Age unknown (no page date or figure year)",
+    "confidence": 0.65,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "BigFAT AI Labs provides an AI Analytics Dashboard for operational decision-making.",
+    "entity": "BigFAT AI Labs",
+    "topic": "technology",
+    "excerpt": "BigFAT AI Labs builds AI solutions specifically for Indian businesses: an AI Chat Platform for customer-facing query automation, an AI Analytics Dashboard for operational decision-making, Workflow Automation tools that plug into existing business processes, and API-based AI Services for companies that want to embed intelligence directly into their own products.",
+    "source_id": "s_8594cfcf",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_8594cfcf_e22",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Age unknown (no page date or figure year)",
+    "confidence": 0.65,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "BigFAT AI Labs provides Workflow Automation tools that plug into existing business processes.",
+    "entity": "BigFAT AI Labs",
+    "topic": "technology",
+    "excerpt": "BigFAT AI Labs builds AI solutions specifically for Indian businesses: an AI Chat Platform for customer-facing query automation, an AI Analytics Dashboard for operational decision-making, Workflow Automation tools that plug into existing business processes, and API-based AI Services for companies that want to embed intelligence directly into their own products.",
+    "source_id": "s_8594cfcf",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_8594cfcf_e23",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Age unknown (no page date or figure year)",
+    "confidence": 0.65,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "BigFAT AI Labs provides API-based AI Services for companies that want to embed intelligence directly into their own products.",
+    "entity": "BigFAT AI Labs",
+    "topic": "technology",
+    "excerpt": "BigFAT AI Labs builds AI solutions specifically for Indian businesses: an AI Chat Platform for customer-facing query automation, an AI Analytics Dashboard for operational decision-making, Workflow Automation tools that plug into existing business processes, and API-based AI Services for companies that want to embed intelligence directly into their own products.",
+    "source_id": "s_8594cfcf",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_8594cfcf_e24",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Age unknown (no page date or figure year)",
+    "confidence": 0.68,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "47% of 200 organisations surveyed had multiple GenAI use cases live in production.",
+    "entity": "EY",
+    "topic": "market share",
+    "excerpt": "In November 2025, EY and CII reported that of 200 organisations surveyed, 47% had multiple GenAI use cases live in production and 23% were in pilot, with operations, customer service and marketing the top functions for the next 12 months.",
+    "source_id": "s_5f8a073a",
+    "date": "2026-10-30",
+    "excerpt_found": true,
+    "evidence_id": "s_5f8a073a_e1",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.73,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "87% of enterprises in India are actively using AI solutions.",
+    "entity": "NASSCOM",
+    "topic": "market share",
+    "excerpt": "The NASSCOM AI Adoption Index, as cited in a Press Information Bureau (PIB) backgrounder of 12 February 2026, found 87% of enterprises in India actively using AI solutions.",
+    "source_id": "s_5f8a073a",
+    "date": "2026-10-30",
+    "excerpt_found": true,
+    "evidence_id": "s_5f8a073a_e2",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "26% of Indian companies have reached AI maturity at scale.",
+    "entity": "BCG",
+    "topic": "market share",
+    "excerpt": "A BCG survey cited in an earlier PIB backgrounder, dated 12 October 2025, put the share of Indian companies that have reached AI maturity at scale at about 26%.",
+    "source_id": "s_5f8a073a",
+    "date": "2026-10-30",
+    "excerpt_found": true,
+    "evidence_id": "s_5f8a073a_e3",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "76% of leaders surveyed by EY and CII expected a significant business impact from AI.",
+    "entity": "EY",
+    "topic": "other",
+    "excerpt": "The EY and CII report, \"The AIdea of India: Outlook 2026\", sits between the two. Its survey of 200 organisations in more than 20 industries, answered by C-suite and senior leaders, found 47% with multiple GenAI use cases live in production and a further 23% in pilot. Of those leaders, 76% expected a significant business impact.",
+    "source_id": "s_5f8a073a",
+    "date": "2026-10-30",
+    "excerpt_found": true,
+    "evidence_id": "s_5f8a073a_e4",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.75,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "59% of Indian business leaders are using agents to automate workstreams across entire teams.",
+    "entity": "Microsoft",
+    "topic": "market share",
+    "excerpt": "Microsoft's India survey of leaders, published on 20 August 2025, found 59% already using agents to automate workstreams across entire teams and 93% intending to use agents to extend workforce capacity within 12 to 18 months.",
+    "source_id": "s_5f8a073a",
+    "date": "2026-10-30",
+    "excerpt_found": true,
+    "evidence_id": "s_5f8a073a_e5",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.75,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "88% of McKinsey respondents use AI regularly in at least one business function.",
+    "entity": "McKinsey",
+    "topic": "market share",
+    "excerpt": "McKinsey's 2025 State of AI survey, as reported by PPC Land in November 2025, found 88% of its 1,993 respondents using AI regularly in at least one business function, up from 78% in 2024.",
+    "source_id": "s_5f8a073a",
+    "date": "2026-10-30",
+    "excerpt_found": true,
+    "evidence_id": "s_5f8a073a_e6",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.75,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "95% of organisations in the MIT NANDA report were getting zero return on investment from enterprise GenAI.",
+    "entity": "MIT NANDA",
+    "topic": "other",
+    "excerpt": "The sharpest gap comes from a preliminary MIT NANDA report of July 2025, built on 300+ public initiatives, interviews at 52 organisations and a survey of 153 senior leaders. It found that 60% of organisations had evaluated custom task-specific AI tools, 20% had reached pilot and 5% had reached production, and it stated that 95% of organisations were getting zero return on $30-40 billion of enterprise GenAI investment.",
+    "source_id": "s_5f8a073a",
+    "date": "2026-10-30",
+    "excerpt_found": true,
+    "evidence_id": "s_5f8a073a_e7",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.75,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "11.7% of Indian job postings on Indeed mentioned AI.",
+    "entity": "Indeed",
+    "topic": "market share",
+    "excerpt": "Indeed Hiring Lab's September 2025 update found AI mentioned in 39% of data and analytics postings on Indeed India, 23% of software development postings, 18% of insurance postings and 17% of scientific research postings. Across all postings, 11.7% mentioned AI, up from 8.2% a year earlier, and Indeed says its India data skews towards technology, management and sales.",
+    "source_id": "s_5f8a073a",
+    "date": "2026-10-30",
+    "excerpt_found": true,
+    "evidence_id": "s_5f8a073a_e8",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "More than 500 of India's global capability centres are focused on AI.",
+    "entity": "PIB",
+    "topic": "infrastructure",
+    "excerpt": "Global capability centres are one channel: PIB's October 2025 backgrounder says more than 500 of India's are focused on AI.",
+    "source_id": "s_5f8a073a",
+    "date": "2026-10-30",
+    "excerpt_found": true,
+    "evidence_id": "s_5f8a073a_e9",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "5.8% of India's white-collar job listings required AI expertise.",
+    "entity": "India",
+    "topic": "growth",
+    "excerpt": "PIB's backgrounder of 12 February 2026, citing the World Bank's South Asia Development Update, says 5.8% of India's white-collar job listings in 2025 required AI expertise, about 1 in 17.",
+    "source_id": "s_5f8a073a",
+    "date": "2026-10-30",
+    "excerpt_found": true,
+    "evidence_id": "s_5f8a073a_e10",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Bangalore accounted for 11% of AI jobs.",
+    "entity": "Bangalore",
+    "topic": "market share",
+    "excerpt": "The same backgrounder gives city shares of AI jobs, not of all jobs: Bangalore at 11%, Hyderabad at 9.57%, Pune at 6.95% and Chennai at 6.62%.",
+    "source_id": "s_5f8a073a",
+    "date": "2026-10-30",
+    "excerpt_found": true,
+    "evidence_id": "s_5f8a073a_e11",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.75,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Hyderabad accounted for 9.57% of AI jobs.",
+    "entity": "Hyderabad",
+    "topic": "market share",
+    "excerpt": "The same backgrounder gives city shares of AI jobs, not of all jobs: Bangalore at 11%, Hyderabad at 9.57%, Pune at 6.95% and Chennai at 6.62%.",
+    "source_id": "s_5f8a073a",
+    "date": "2026-10-30",
+    "excerpt_found": true,
+    "evidence_id": "s_5f8a073a_e12",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.75,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Pune accounted for 6.95% of AI jobs.",
+    "entity": "Pune",
+    "topic": "market share",
+    "excerpt": "The same backgrounder gives city shares of AI jobs, not of all jobs: Bangalore at 11%, Hyderabad at 9.57%, Pune at 6.95% and Chennai at 6.62%.",
+    "source_id": "s_5f8a073a",
+    "date": "2026-10-30",
+    "excerpt_found": true,
+    "evidence_id": "s_5f8a073a_e13",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.75,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Chennai accounted for 6.62% of AI jobs.",
+    "entity": "Chennai",
+    "topic": "market share",
+    "excerpt": "The same backgrounder gives city shares of AI jobs, not of all jobs: Bangalore at 11%, Hyderabad at 9.57%, Pune at 6.95% and Chennai at 6.62%.",
+    "source_id": "s_5f8a073a",
+    "date": "2026-10-30",
+    "excerpt_found": true,
+    "evidence_id": "s_5f8a073a_e14",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.75,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "92% of leaders in India are considering adding AI-specific roles.",
+    "entity": "Microsoft",
+    "topic": "other",
+    "excerpt": "Microsoft's India findings say 92% of leaders are considering adding AI-specific roles, and 57% expect teams to build multi-agent systems.",
+    "source_id": "s_5f8a073a",
+    "date": "2026-10-30",
+    "excerpt_found": true,
+    "evidence_id": "s_5f8a073a_e15",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "57% of leaders in India expect teams to build multi-agent systems.",
+    "entity": "Microsoft",
+    "topic": "technology",
+    "excerpt": "Microsoft's India findings say 92% of leaders are considering adding AI-specific roles, and 57% expect teams to build multi-agent systems.",
+    "source_id": "s_5f8a073a",
+    "date": "2026-10-30",
+    "excerpt_found": true,
+    "evidence_id": "s_5f8a073a_e16",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.75,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Jobs requiring digital skills command a 12% salary premium.",
+    "entity": "World Bank",
+    "topic": "other",
+    "excerpt": "On pay, the World Bank figure quoted by PIB is a premium over comparable roles, not a salary level: 12% on average for jobs requiring digital skills and 28% for AI-focused roles.",
+    "source_id": "s_5f8a073a",
+    "date": "2026-10-30",
+    "excerpt_found": true,
+    "evidence_id": "s_5f8a073a_e17",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.73,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "AI-focused roles command a 28% salary premium.",
+    "entity": "World Bank",
+    "topic": "other",
+    "excerpt": "On pay, the World Bank figure quoted by PIB is a premium over comparable roles, not a salary level: 12% on average for jobs requiring digital skills and 28% for AI-focused roles.",
+    "source_id": "s_5f8a073a",
+    "date": "2026-10-30",
+    "excerpt_found": true,
+    "evidence_id": "s_5f8a073a_e18",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.75,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Global employers expect 170 million jobs to be created and 92 million displaced between 2025 and 2030.",
+    "entity": "World Economic Forum",
+    "topic": "growth",
+    "excerpt": "The World Economic Forum's 2025 survey of over 1,000 employers expects, globally, 170 million jobs to be created and 92 million displaced between 2025 and 2030, a net increase of 7%, or 78 million jobs.",
+    "source_id": "s_5f8a073a",
+    "date": "2026-10-30",
+    "excerpt_found": true,
+    "evidence_id": "s_5f8a073a_e19",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "needs_review",
+    "reason": "Global figure, but the research scope is India",
+    "confidence": 0.73,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "92% of workers in India use AI regularly.",
+    "entity": "BCG",
+    "topic": "other",
+    "excerpt": "BCG's 2025 survey of over 10,600 workers in 11 countries found India at 92% for regular AI use, and also among the greatest fear about automation, with 41% of all respondents worried their roles could disappear within a decade.",
+    "source_id": "s_5f8a073a",
+    "date": "2026-10-30",
+    "excerpt_found": true,
+    "evidence_id": "s_5f8a073a_e20",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "41% of respondents in BCG's survey were worried their roles could disappear within a decade.",
+    "entity": "BCG",
+    "topic": "other",
+    "excerpt": "BCG's 2025 survey of over 10,600 workers in 11 countries found India at 92% for regular AI use, and also among the greatest fear about automation, with 41% of all respondents worried their roles could disappear within a decade.",
+    "source_id": "s_5f8a073a",
+    "date": "2026-10-30",
+    "excerpt_found": true,
+    "evidence_id": "s_5f8a073a_e21",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.73,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "AI/ML roles grew 20% year on year in September 2026.",
+    "entity": "Naukri",
+    "topic": "growth",
+    "excerpt": "Naukri's JobSpeak for September 2026 had AI/ML roles up 20% year on year, overall white-collar hiring up 2% and IT and software services hiring down 4%.",
+    "source_id": "s_5f8a073a",
+    "date": "2026-10-30",
+    "excerpt_found": true,
+    "evidence_id": "s_5f8a073a_e22",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.75,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Overall white-collar hiring was up 2% in September 2026.",
+    "entity": "Naukri",
+    "topic": "growth",
+    "excerpt": "Naukri's JobSpeak for September 2026 had AI/ML roles up 20% year on year, overall white-collar hiring up 2% and IT and software services hiring down 4%.",
+    "source_id": "s_5f8a073a",
+    "date": "2026-10-30",
+    "excerpt_found": true,
+    "evidence_id": "s_5f8a073a_e23",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.73,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "IT and software services hiring was down 4% in September 2026.",
+    "entity": "Naukri",
+    "topic": "growth",
+    "excerpt": "Naukri's JobSpeak for September 2026 had AI/ML roles up 20% year on year, overall white-collar hiring up 2% and IT and software services hiring down 4%.",
+    "source_id": "s_5f8a073a",
+    "date": "2026-10-30",
+    "excerpt_found": true,
+    "evidence_id": "s_5f8a073a_e24",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.75,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "AI-led roles rose from 1% to 4% of fresher postings in one year as of July 2026.",
+    "entity": "foundit",
+    "topic": "growth",
+    "excerpt": "foundit's July 2026 tracker had AI-led roles rising from about 1% of fresher postings to 4% in a year while overall fresher hiring fell 10%.",
+    "source_id": "s_5f8a073a",
+    "date": "2026-10-30",
+    "excerpt_found": true,
+    "evidence_id": "s_5f8a073a_e25",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.75,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Overall fresher hiring fell 10% as of July 2026.",
+    "entity": "foundit",
+    "topic": "growth",
+    "excerpt": "foundit's July 2026 tracker had AI-led roles rising from about 1% of fresher postings to 4% in a year while overall fresher hiring fell 10%.",
+    "source_id": "s_5f8a073a",
+    "date": "2026-10-30",
+    "excerpt_found": true,
+    "evidence_id": "s_5f8a073a_e26",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.73,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "47% of workers spend more time managing and directing AI than doing the work itself.",
+    "entity": "BCG",
+    "topic": "other",
+    "excerpt": "In BCG's 2026 survey of 11,749 workers in 14 markets, 47% said they spend more time managing and directing AI than doing the work itself, and 72% said AI has considerably changed skills expectations in their role.",
+    "source_id": "s_5f8a073a",
+    "date": "2026-10-30",
+    "excerpt_found": true,
+    "evidence_id": "s_5f8a073a_e27",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.75,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "72% of workers said AI has considerably changed skills expectations in their role.",
+    "entity": "BCG",
+    "topic": "other",
+    "excerpt": "In BCG's 2026 survey of 11,749 workers in 14 markets, 47% said they spend more time managing and directing AI than doing the work itself, and 72% said AI has considerably changed skills expectations in their role.",
+    "source_id": "s_5f8a073a",
+    "date": "2026-10-30",
+    "excerpt_found": true,
+    "evidence_id": "s_5f8a073a_e28",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.75,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "74% of frontline employees are regular AI users.",
+    "entity": "BCG",
+    "topic": "other",
+    "excerpt": "BCG also found 74% of frontline employees are regular AI users, up 23 percentage points on a year earlier.",
+    "source_id": "s_5f8a073a",
+    "date": "2026-10-30",
+    "excerpt_found": true,
+    "evidence_id": "s_5f8a073a_e29",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.75,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "66% of regular frontline users get limited or no guidance on AI usage.",
+    "entity": "BCG",
+    "topic": "other",
+    "excerpt": "BCG's 2026 survey found 66% of regular frontline users get limited or no guidance on what to do with the time AI saves them.",
+    "source_id": "s_5f8a073a",
+    "date": "2026-10-30",
+    "excerpt_found": true,
+    "evidence_id": "s_5f8a073a_e30",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.75,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "36% of employees feel adequately trained on AI.",
+    "entity": "BCG",
+    "topic": "other",
+    "excerpt": "Its 2025 survey found only 36% of employees feel adequately trained.",
+    "source_id": "s_5f8a073a",
+    "date": "2026-10-30",
+    "excerpt_found": true,
+    "evidence_id": "s_5f8a073a_e31",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "needs_review",
+    "reason": "Claim is not fully backed by its excerpt (a number or the source name is missing)",
+    "confidence": 0.57,
+    "scores": {
+      "credibility": 0.5,
+      "support": 0.4,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "77% of professionals use AI at work at least sometimes.",
+    "entity": "Naukri",
+    "topic": "other",
+    "excerpt": "In Naukri's AI at Work survey, 77% of professionals use AI at work at least sometimes and 79% are upskilling or plan to start soon, yet only 35% say their employer actively provides AI training.",
+    "source_id": "s_5f8a073a",
+    "date": "2026-10-30",
+    "excerpt_found": true,
+    "evidence_id": "s_5f8a073a_e32",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.75,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "35% of professionals say their employer actively provides AI training.",
+    "entity": "Naukri",
+    "topic": "other",
+    "excerpt": "In Naukri's AI at Work survey, 77% of professionals use AI at work at least sometimes and 79% are upskilling or plan to start soon, yet only 35% say their employer actively provides AI training.",
+    "source_id": "s_5f8a073a",
+    "date": "2026-10-30",
+    "excerpt_found": true,
+    "evidence_id": "s_5f8a073a_e33",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.75,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "A clear AI strategy lifts measurable business impact by 25 percentage points.",
+    "entity": "BCG",
+    "topic": "other",
+    "excerpt": "BCG's 2026 survey found that a clear AI strategy lifts measurable business impact by 25 percentage points, while better tools alone lift it by about 5.",
+    "source_id": "s_5f8a073a",
+    "date": "2026-10-30",
+    "excerpt_found": true,
+    "evidence_id": "s_5f8a073a_e34",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.75,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "83% of CEOs and senior leaders say AI success depends more on people's adoption than on technology.",
+    "entity": "IBM",
+    "topic": "other",
+    "excerpt": "IBM's 2026 study of 2,000 CEOs and senior leaders found 83% say AI success depends more on people's adoption than on technology, and 85% say all functional leaders must become technology experts in their domain.",
+    "source_id": "s_5f8a073a",
+    "date": "2026-10-30",
+    "excerpt_found": true,
+    "evidence_id": "s_5f8a073a_e35",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "85% of CEOs and senior leaders say all functional leaders must become technology experts in their domain.",
+    "entity": "IBM",
+    "topic": "other",
+    "excerpt": "IBM's 2026 study of 2,000 CEOs and senior leaders found 83% say AI success depends more on people's adoption than on technology, and 85% say all functional leaders must become technology experts in their domain.",
+    "source_id": "s_5f8a073a",
+    "date": "2026-10-30",
+    "excerpt_found": true,
+    "evidence_id": "s_5f8a073a_e36",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.75,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "26% of enterprises are at AI maturity at scale.",
+    "entity": "BCG",
+    "topic": "market share",
+    "excerpt": "BCG's separate figure of about 26% at AI maturity at scale describes depth.",
+    "source_id": "s_5f8a073a",
+    "date": "2026-10-30",
+    "excerpt_found": true,
+    "evidence_id": "s_5f8a073a_e37",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Microsoft identifies Agent Boss and AI Workflow Designer as non-technical AI roles in India.",
+    "entity": "Microsoft",
+    "topic": "other",
+    "excerpt": "Microsoft's India findings add Agent Boss and AI Workflow Designer, which are Microsoft's own labels.",
+    "source_id": "s_5f8a073a",
+    "date": "2026-10-30",
+    "excerpt_found": true,
+    "evidence_id": "s_5f8a073a_e38",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "92% of surveyed workers in India use AI regularly.",
+    "entity": "BCG",
+    "topic": "market share",
+    "excerpt": "BCG's 2025 survey of workers in 11 countries found 92% of respondents in India using AI regularly, the highest of any country, and its 2026 survey again placed India above the global average.",
+    "source_id": "s_5f8a073a",
+    "date": "2026-10-30",
+    "excerpt_found": true,
+    "evidence_id": "s_5f8a073a_e39",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "rejected",
+    "reason": "Duplicate of s_5f8a073a_e20",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": "s_5f8a073a_e20",
+    "conflict_with": []
+  },
+  {
+    "claim": "96% of surveyed organisations in India are running AI programmes.",
+    "entity": "World Economic Forum",
+    "topic": "market share",
+    "excerpt": "The World Economic Forum had 96% of surveyed organisations in India running AI programmes, against 88% globally.",
+    "source_id": "s_5f8a073a",
+    "date": "2026-10-30",
+    "excerpt_found": true,
+    "evidence_id": "s_5f8a073a_e40",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "47% of 200 surveyed organisations have multiple GenAI use cases live in production.",
+    "entity": "EY",
+    "topic": "market share",
+    "excerpt": "EY and CII found 47% of 200 organisations with multiple GenAI use cases live in production and 23% in pilot.",
+    "source_id": "s_5f8a073a",
+    "date": "2026-10-30",
+    "excerpt_found": true,
+    "evidence_id": "s_5f8a073a_e41",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.73,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "5% of organisations reached production with custom AI tools according to an MIT NANDA report.",
+    "entity": "MIT NANDA",
+    "topic": "market share",
+    "excerpt": "A preliminary MIT NANDA report found only 5% of organisations had reached production with custom tools, from a smaller interview sample.",
+    "source_id": "s_5f8a073a",
+    "date": "2026-10-30",
+    "excerpt_found": true,
+    "evidence_id": "s_5f8a073a_e42",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.75,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "65% of managers and leaders believe agents will take over at least half of their job within three years.",
+    "entity": "BCG",
+    "topic": "other",
+    "excerpt": "BCG's 2026 survey found 65% of managers and leaders believe agents will take over at least half of their job within three years, but that is a belief.",
+    "source_id": "s_5f8a073a",
+    "date": "2026-10-30",
+    "excerpt_found": true,
+    "evidence_id": "s_5f8a073a_e43",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.73,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India has the DPDP Act 2023 and DPDP Rules 2025 as part of its regulatory base.",
+    "entity": "India",
+    "topic": "policy",
+    "excerpt": "India Regulatory Base\n- ▸IT Act + DPDP Act + Sectoral (MeitY Health/Finance)\n- ▸Law vs Guideline vs Best Practice\n- ▸DPDP Act 2023 + DPDP Rules 2025",
+    "source_id": "s_782cf408",
+    "date": "2026-01-04",
+    "excerpt_found": true,
+    "evidence_id": "s_782cf408_e1",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The India AI Impact Summit 2026 is scheduled to take place on 19 and 20 February 2026.",
+    "entity": "India AI Impact Summit 2026",
+    "topic": "other",
+    "excerpt": "The India AI Impact Summit 2026 in New Delhi at Bharat Mandapam on 19 and 20 February 2026 matters, because it is positioned around impact, not hype, and around what can be demonstrated in policy, controls, and evidence.",
+    "source_id": "s_782cf408",
+    "date": "2026-01-04",
+    "excerpt_found": true,
+    "evidence_id": "s_782cf408_e2",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "AMLEGALS provides AI governance advisory services.",
+    "entity": "AMLEGALS",
+    "topic": "other",
+    "excerpt": "AMLEGALS provides comprehensive AI governance advisory services aligned with global regulatory standards.",
+    "source_id": "s_782cf408",
+    "date": "2026-01-04",
+    "excerpt_found": true,
+    "evidence_id": "s_782cf408_e3",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India has its first set of binding, AI-specific obligations effective from 20 February 2026.",
+    "entity": "India",
+    "topic": "policy",
+    "excerpt": "However, with effect from 20 February 2026, India has its first set of binding, AI-specific obligations.",
+    "source_id": "s_42985b2e",
+    "date": "2026-07-21",
+    "excerpt_found": true,
+    "evidence_id": "s_42985b2e_e1",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The Information Technology Act, 2000 is the primary legislation governing electronic communications, transactions and digital commerce in India.",
+    "entity": "Information Technology Act, 2000",
+    "topic": "policy",
+    "excerpt": "Information Technology Act, 2000: This is the primary legislation governing electronic communications, transactions and digital commerce in India.",
+    "source_id": "s_42985b2e",
+    "date": "2026-07-21",
+    "excerpt_found": true,
+    "evidence_id": "s_42985b2e_e2",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2000,
+    "status": "needs_review",
+    "reason": "Figure is about 26 years old",
+    "confidence": 0.57,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 0.1,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The Digital Personal Data Protection Act, 2023 requires Significant Data Fiduciaries to conduct algorithmic audits and data protection impact assessments.",
+    "entity": "Digital Personal Data Protection Act, 2023",
+    "topic": "policy",
+    "excerpt": "Digital Personal Data Protection Act, 2023: imposes obligations on \"data fiduciaries\" for informed consent, security safeguards, and breach notifications. It also requires \"Significant Data Fiduciaries\" to conduct algorithmic audits and data protection impact assessments for bias detection and mitigation.",
+    "source_id": "s_42985b2e",
+    "date": "2026-07-21",
+    "excerpt_found": true,
+    "evidence_id": "s_42985b2e_e3",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2023,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.7,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.6,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The Consumer Protection Act, 2019 protects consumers against unfair trade practices including AI-driven misleading experience patterns.",
+    "entity": "Consumer Protection Act, 2019",
+    "topic": "policy",
+    "excerpt": "Consumer Protection Act, 2019: protects consumers against unfair trade practices, including against dark patterns through the Guidelines for Prevention and Regulation of Dark Patterns, which proscribe deceptive designs including algorithmic designs and AI - driven misleading experience patterns.",
+    "source_id": "s_42985b2e",
+    "date": "2026-07-21",
+    "excerpt_found": true,
+    "evidence_id": "s_42985b2e_e4",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2019,
+    "status": "needs_review",
+    "reason": "Figure is about 7 years old",
+    "confidence": 0.57,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 0.1,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The Reserve Bank of India has published a framework for responsible AI use in the financial sector.",
+    "entity": "Reserve Bank of India",
+    "topic": "policy",
+    "excerpt": "Financial Services: The Reserve Bank of India have published a framework for responsible AI use, reiterating foundational AI use principles in the financial sector.",
+    "source_id": "s_42985b2e",
+    "date": "2026-07-21",
+    "excerpt_found": true,
+    "evidence_id": "s_42985b2e_e5",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The Competition Commission of India published a report on AI and competition recommending self-audits of AI systems for compliance.",
+    "entity": "Competition Commission of India",
+    "topic": "policy",
+    "excerpt": "Antitrust: The Competition Commission of India (CCI) have published a report on AI and competition, recommending enterprises to self-audit AI systems for competition compliance and adopt transparency measures.",
+    "source_id": "s_42985b2e",
+    "date": "2026-07-21",
+    "excerpt_found": true,
+    "evidence_id": "s_42985b2e_e6",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "MeitY acts as the nodal ministry for AI governance and policy coordination in India.",
+    "entity": "Ministry of Electronics and Information Technology",
+    "topic": "policy",
+    "excerpt": "Ministry of Electronics and Information Technology (MeitY): nodal ministry for AI governance and policy coordination.",
+    "source_id": "s_42985b2e",
+    "date": "2026-07-21",
+    "excerpt_found": true,
+    "evidence_id": "s_42985b2e_e7",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Binding due diligence requirements for labelling AI-generated content, unique identifiers, and automated tools will be effective from 20 February 2026.",
+    "entity": "Ministry of Electronics and Information Technology",
+    "topic": "policy",
+    "excerpt": "With effect from 20 February 2026, the substance of these advisories to the extent of labelling of AI-generated content, the embedding of unique identifiers and the deployment of automated tools has been codified as binding due diligence requirements under the amended IT Rules.",
+    "source_id": "s_42985b2e",
+    "date": "2026-07-21",
+    "excerpt_found": true,
+    "evidence_id": "s_42985b2e_e8",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "needs_review",
+    "reason": "Claim is not fully backed by its excerpt (a number or the source name is missing)",
+    "confidence": 0.57,
+    "scores": {
+      "credibility": 0.5,
+      "support": 0.4,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "NITI Aayog published its National AI Strategy in 2018 focusing on five priority sectors.",
+    "entity": "NITI Aayog",
+    "topic": "policy",
+    "excerpt": "The NITI Aayog (National Institution for Transforming India) had published its National AI Strategy in 2018 that pursues inclusive growth through AI, focusing on five priority sectors i.e., healthcare, agriculture, education, smart cities, and smart mobility to drive economic growth and address societal challenges through responsible AI development.",
+    "source_id": "s_42985b2e",
+    "date": "2026-07-21",
+    "excerpt_found": true,
+    "evidence_id": "s_42985b2e_e9",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2018,
+    "status": "needs_review",
+    "reason": "Figure is about 8 years old",
+    "confidence": 0.57,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 0.1,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "NITI Aayog published an approach document establishing seven foundational principles for responsible AI in February 2021.",
+    "entity": "NITI Aayog",
+    "topic": "policy",
+    "excerpt": "The NITI Aayog’s approach document towards Principles for Responsible AI published in February 2021 establishes seven foundational principles—safety and reliability, equality, inclusivity and non-discrimination, privacy and security, transparency, accountability, and protection of positive human values—grounded in India's Constitution to guide responsible AI development across all stakeholders.",
+    "source_id": "s_42985b2e",
+    "date": "2026-07-21",
+    "excerpt_found": true,
+    "evidence_id": "s_42985b2e_e10",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2021,
+    "status": "needs_review",
+    "reason": "Figure is about 5 years old",
+    "confidence": 0.59,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 0.2,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The Ministry of Electronics and Information Technology published India AI Governance Guidelines in November 2025.",
+    "entity": "Ministry of Electronics and Information Technology",
+    "topic": "policy",
+    "excerpt": "The Ministry of Electronics and Information Technology's India AI Governance Guidelines published in November 2025, recommends a pro-innovation framework with seven ethical principles, six governance pillars (infrastructure, capacity-building, regulation, risk mitigation, accountability, institutions), phased implementation timelines which balance responsible AI adoption with sectoral oversight.",
+    "source_id": "s_42985b2e",
+    "date": "2026-07-21",
+    "excerpt_found": true,
+    "evidence_id": "s_42985b2e_e11",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The Ministry of Commerce’s Department for Promotion of Industry and Internal Trade published a working paper on Generative AI and Copyright in December 2025.",
+    "entity": "Department for Promotion of Industry and Internal Trade",
+    "topic": "policy",
+    "excerpt": "The Ministry of Commerce’s Department for Promotion of Industry and Internal Trade published a Working Paper (Part I) on Generative AI and Copyright in December 2025 proposing a hybrid statutory licensing framework, granting AI developers blanket license for training while imposing royalty obligations upon commercialization, with a centralized collecting entity managing payments to copyright holders.",
+    "source_id": "s_42985b2e",
+    "date": "2026-07-21",
+    "excerpt_found": true,
+    "evidence_id": "s_42985b2e_e12",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.75,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "A top bureaucrat from MeitY stated that discussions are ongoing regarding standalone AI regulations and drafting will commence soon on 9 July 2026.",
+    "entity": "MeitY",
+    "topic": "policy",
+    "excerpt": "A top bureaucrat from MeitY has reportedly stated to the press on 9 July 2026 that discussions are ongoing regarding standalone AI regulations and that a process of drafting will be commenced soon.",
+    "source_id": "s_42985b2e",
+    "date": "2026-07-21",
+    "excerpt_found": true,
+    "evidence_id": "s_42985b2e_e13",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The Indian Minister for Electronics and Information Technology stated on 10 June 2026 that there is a requirement for a new law on AI.",
+    "entity": "Indian Minister for Electronics and Information Technology",
+    "topic": "policy",
+    "excerpt": "The Indian Minister for Electronics and Information Technology too has stated in a media interview on 10 June 2026 that there is a requirement for a new law on AI and that the Indian Government is discussing with the industry to come up with a framework.",
+    "source_id": "s_42985b2e",
+    "date": "2026-07-21",
+    "excerpt_found": true,
+    "evidence_id": "s_42985b2e_e14",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "A minister from the Ministry of Commerce in India stated before the Parliament of India in February 2024 that the current legal framework governing patents and copyrights is well-equipped to protect AI-generated works.",
+    "entity": "Ministry of Commerce",
+    "topic": "policy",
+    "excerpt": "A minister from the Ministry of Commerce in India had also stated before the Parliament of India in February 2024 that the current legal framework governing patents and copyrights is well-equipped to protect artificial intelligence generated works and related innovations, and that there is no need for separate legislative amendments.",
+    "source_id": "s_42985b2e",
+    "date": "2026-07-21",
+    "excerpt_found": true,
+    "evidence_id": "s_42985b2e_e15",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2024,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.74,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.8,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The Ministry of Commerce’s Department for Promotion of Industry and Internal Trade published the first part of its working paper on 8 December 2025 choosing not to suggest any amendments.",
+    "entity": "Ministry of Commerce",
+    "topic": "policy",
+    "excerpt": "The first part of the working paper was published on 8 December 2025 and ultimately chose not to suggest any amendments to the law in the working paper.",
+    "source_id": "s_42985b2e",
+    "date": "2026-07-21",
+    "excerpt_found": true,
+    "evidence_id": "s_42985b2e_e16",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "needs_review",
+    "reason": "Claim is not fully backed by its excerpt (a number or the source name is missing)",
+    "confidence": 0.55,
+    "scores": {
+      "credibility": 0.5,
+      "support": 0.4,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "MeitY released the India AI Governance Guidelines under the IndiaAI Mission.",
+    "entity": "MeitY",
+    "topic": "policy",
+    "excerpt": "In November 2025, MeitY released the India AI Governance Guidelines under the IndiaAI Mission.",
+    "source_id": "s_54c24fd1",
+    "date": "2026-02-20",
+    "excerpt_found": true,
+    "evidence_id": "s_54c24fd1_e1",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The Office of the Principal Scientific Adviser issued a white paper advocating for a techno-legal framework for AI.",
+    "entity": "Office of the Principal Scientific Adviser",
+    "topic": "policy",
+    "excerpt": "A January 2026 white paper from the Office of the Principal Scientific Adviser further advances a \"techno-legal\" framework, advocating embedding compliance (legal safeguards + technical controls like watermarking and bias detection) directly into AI system design.",
+    "source_id": "s_54c24fd1",
+    "date": "2026-02-20",
+    "excerpt_found": true,
+    "evidence_id": "s_54c24fd1_e2",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "MeitY notified the IT (Intermediary Guidelines and Digital Media Ethics Code) Amendment Rules, 2026, targeting synthetically generated information.",
+    "entity": "MeitY",
+    "topic": "policy",
+    "excerpt": "on 20th Feb 2026, MeitY notified The IT (Intermediary Guidelines and Digital Media Ethics Code) Amedment Rules, 2026 specifically targeting \"synthetically generated information\" (SGI) - content created or altered by AI/algorithms that appears authentic.",
+    "source_id": "s_54c24fd1",
+    "date": "2026-02-20",
+    "excerpt_found": true,
+    "evidence_id": "s_54c24fd1_e3",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The Digital Personal Data Protection Act (DPDPA) rules were notified in 2025 with a phased rollout until 2027.",
+    "entity": "DPDPA",
+    "topic": "policy",
+    "excerpt": "The DPDPA, with its Rules notified in 2025 (phased rollout until 2027), is highly relevant for AI systems processing personal data.",
+    "source_id": "s_54c24fd1",
+    "date": "2026-02-20",
+    "excerpt_found": true,
+    "evidence_id": "s_54c24fd1_e4",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.75,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The Artificial Intelligence (Ethics and Accountability) Bill was introduced in December 2025 in the Lok Sabha.",
+    "entity": "Lok Sabha",
+    "topic": "policy",
+    "excerpt": "Artificial Intelligence (Ethics and Accountability) Bill, 2025: A Private Member’s Bill introduced in December 2025 in the Lok Sabha.",
+    "source_id": "s_54c24fd1",
+    "date": "2026-02-20",
+    "excerpt_found": true,
+    "evidence_id": "s_54c24fd1_e5",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.75,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The Artificial Intelligence (Ethics and Accountability) Bill proposes penalties up to ₹5 crore.",
+    "entity": "Lok Sabha",
+    "topic": "policy",
+    "excerpt": "It proposes a statutory Ethics Committee for AI, mandatory ethical reviews (especially for surveillance and high-risk systems), bias audits, developer obligations, restrictions on certain AI uses in law enforcement/employment, grievance mechanisms, and penalties up to ₹5 crore.",
+    "source_id": "s_54c24fd1",
+    "date": "2026-02-20",
+    "excerpt_found": true,
+    "evidence_id": "s_54c24fd1_e6",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Claim is not fully backed by its excerpt (a number or the source name is missing)",
+    "confidence": 0.57,
+    "scores": {
+      "credibility": 0.5,
+      "support": 0.4,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Entrepreneurs exploring how to register a business in India are increasingly choosing AI-based ventures for long-term growth.",
+    "entity": "India",
+    "topic": "growth",
+    "excerpt": "Entrepreneurs exploring how to register a business in India are increasingly choosing AI-based ventures for long-term growth.",
+    "source_id": "s_3f64c7d6",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_3f64c7d6_e1",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Age unknown (no page date or figure year)",
+    "confidence": 0.68,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Entrepreneurs can start a chatbot development company that serves e-commerce, healthcare, and service industries.",
+    "entity": "India",
+    "topic": "other",
+    "excerpt": "You can start a chatbot development company that serves e-commerce, healthcare, and service industries. This model works well after completing private limited company registration in India for better credibility.",
+    "source_id": "s_3f64c7d6",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_3f64c7d6_e2",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Age unknown (no page date or figure year)",
+    "confidence": 0.65,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Chartered accountants, lawyers, and insurance underwriters in India are paid $80K per year versus $400K in the US.",
+    "entity": "India",
+    "topic": "other",
+    "excerpt": "The talent exists - chartered accountants, lawyers, insurance underwriters - at $80K/year versus $400K in the US.",
+    "source_id": "s_0f24897c",
+    "date": "2025-11-27",
+    "excerpt_found": true,
+    "evidence_id": "s_0f24897c_e1",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "User-generated source",
+    "confidence": 0.643,
+    "scores": {
+      "credibility": 0.25,
+      "support": 0.85,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "US healthcare administrative costs exceed $1 trillion annually.",
+    "entity": "US",
+    "topic": "market size",
+    "excerpt": "US healthcare administrative costs are over $1 trillion annually.",
+    "source_id": "s_0f24897c",
+    "date": "2025-11-27",
+    "excerpt_found": true,
+    "evidence_id": "s_0f24897c_e2",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "User-generated source",
+    "confidence": 0.667,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Commercial insurance brokerage generates $80-140B in annual revenue in the US alone.",
+    "entity": "US",
+    "topic": "market size",
+    "excerpt": "Commercial insurance brokerage generates $80-140B in annual revenue in the US alone.",
+    "source_id": "s_0f24897c",
+    "date": "2025-11-27",
+    "excerpt_found": true,
+    "evidence_id": "s_0f24897c_e3",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "User-generated source",
+    "confidence": 0.667,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Corporate travel is a $1.4 trillion global market.",
+    "entity": "Corporate travel",
+    "topic": "market size",
+    "excerpt": "Corporate travel is a $1.4 trillion global market.",
+    "source_id": "s_0f24897c",
+    "date": "2025-11-27",
+    "excerpt_found": true,
+    "evidence_id": "s_0f24897c_e4",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "User-generated source; global figure, but the research scope is India",
+    "confidence": 0.667,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Global freight forwarding is a $200B+ market.",
+    "entity": "Global freight forwarding",
+    "topic": "market size",
+    "excerpt": "Global freight forwarding is a $200B+ market.",
+    "source_id": "s_0f24897c",
+    "date": "2025-11-27",
+    "excerpt_found": true,
+    "evidence_id": "s_0f24897c_e5",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "User-generated source; global figure, but the research scope is India",
+    "confidence": 0.667,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Enterprise software implementation is a $50B+ annual market.",
+    "entity": "Enterprise software",
+    "topic": "market size",
+    "excerpt": "Enterprise software implementation is a $50B+ annual market.",
+    "source_id": "s_0f24897c",
+    "date": "2025-11-27",
+    "excerpt_found": true,
+    "evidence_id": "s_0f24897c_e6",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "User-generated source",
+    "confidence": 0.688,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "TCS does $100B+ annually in traditional implementation.",
+    "entity": "TCS",
+    "topic": "market size",
+    "excerpt": "Indian IT services firms (TCS, Infosys, Wipro) do $100B+ annually in traditional implementation.",
+    "source_id": "s_0f24897c",
+    "date": "2025-11-27",
+    "excerpt_found": true,
+    "evidence_id": "s_0f24897c_e7",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "User-generated source",
+    "confidence": 0.667,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Infosys does $100B+ annually in traditional implementation.",
+    "entity": "Infosys",
+    "topic": "market size",
+    "excerpt": "Indian IT services firms (TCS, Infosys, Wipro) do $100B+ annually in traditional implementation.",
+    "source_id": "s_0f24897c",
+    "date": "2025-11-27",
+    "excerpt_found": true,
+    "evidence_id": "s_0f24897c_e8",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "rejected",
+    "reason": "Duplicate of s_0f24897c_e7",
+    "confidence": 0.667,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": "s_0f24897c_e7",
+    "conflict_with": []
+  },
+  {
+    "claim": "Wipro does $100B+ annually in traditional implementation.",
+    "entity": "Wipro",
+    "topic": "market size",
+    "excerpt": "Indian IT services firms (TCS, Infosys, Wipro) do $100B+ annually in traditional implementation.",
+    "source_id": "s_0f24897c",
+    "date": "2025-11-27",
+    "excerpt_found": true,
+    "evidence_id": "s_0f24897c_e9",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "rejected",
+    "reason": "Duplicate of s_0f24897c_e7",
+    "confidence": 0.667,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": "s_0f24897c_e7",
+    "conflict_with": []
+  },
+  {
+    "claim": "1.3-1.4M doctors serve 1.4 billion people in India.",
+    "entity": "India",
+    "topic": "infrastructure",
+    "excerpt": "Clinics are overcrowded - 1.3-1.4M doctors serve 1.4 billion people (1:1000 ratio).",
+    "source_id": "s_0f24897c",
+    "date": "2025-11-27",
+    "excerpt_found": true,
+    "evidence_id": "s_0f24897c_e10",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "User-generated source",
+    "confidence": 0.643,
+    "scores": {
+      "credibility": 0.25,
+      "support": 0.85,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Indian families spend $10-11B annually on private tutoring and coaching.",
+    "entity": "India",
+    "topic": "market size",
+    "excerpt": "Indian families spend $10-11B annually on private tutoring and coaching, largely for competitive exam prep (JEE, NEET, UPSC, CAT).",
+    "source_id": "s_0f24897c",
+    "date": "2025-11-27",
+    "excerpt_found": true,
+    "evidence_id": "s_0f24897c_e11",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "User-generated source",
+    "confidence": 0.688,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Estimates of the online astrology market are at $163M in 2024.",
+    "entity": "online market",
+    "topic": "market size",
+    "excerpt": "Indians spend approximately $500M-$1B annually on astrology consultations, with estimates of the online market at $163M in 2024 and growing to $1.8B by 2030.",
+    "source_id": "s_0f24897c",
+    "date": "2025-11-27",
+    "excerpt_found": true,
+    "evidence_id": "s_0f24897c_e12",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2024,
+    "status": "needs_review",
+    "reason": "User-generated source",
+    "confidence": 0.647,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 0.8,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The online astrology market is growing to $1.8B by 2030.",
+    "entity": "online market",
+    "topic": "growth",
+    "excerpt": "Indians spend approximately $500M-$1B annually on astrology consultations, with estimates of the online market at $163M in 2024 and growing to $1.8B by 2030.",
+    "source_id": "s_0f24897c",
+    "date": "2025-11-27",
+    "excerpt_found": true,
+    "evidence_id": "s_0f24897c_e13",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2030,
+    "status": "needs_review",
+    "reason": "User-generated source",
+    "confidence": 0.688,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Character.AI has 20M+ monthly active users.",
+    "entity": "Character.AI",
+    "topic": "market size",
+    "excerpt": "Character.AI has shown that AI companions are a multi-billion dollar category globally, with 20M+ monthly active users.",
+    "source_id": "s_0f24897c",
+    "date": "2025-11-27",
+    "excerpt_found": true,
+    "evidence_id": "s_0f24897c_e14",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "User-generated source",
+    "confidence": 0.688,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "AI is projected to add US$15.7 trillion to the global Gross Domestic Product by 2030.",
+    "entity": "Global Gross Domestic Product",
+    "topic": "market size",
+    "excerpt": "Even as AI is projected to add US$15.7 trillion to the global Gross Domestic Product by 2030, North America, China, and Europe are estimated to capture over 84 percent of these gains.",
+    "source_id": "s_b2632d56",
+    "date": "2026-01-05",
+    "excerpt_found": true,
+    "evidence_id": "s_b2632d56_e1",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2030,
+    "status": "needs_review",
+    "reason": "Global figure, but the research scope is India",
+    "confidence": 0.73,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "North America, China, and Europe are estimated to capture over 84 percent of the AI-driven economic gains.",
+    "entity": "North America",
+    "topic": "market share",
+    "excerpt": "Even as AI is projected to add US$15.7 trillion to the global Gross Domestic Product by 2030, North America, China, and Europe are estimated to capture over 84 percent of these gains.",
+    "source_id": "s_b2632d56",
+    "date": "2026-01-05",
+    "excerpt_found": true,
+    "evidence_id": "s_b2632d56_e2",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.75,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The United States leads the field in AI chip production, raw compute capacity, global cloud infrastructure, and foundation model development.",
+    "entity": "United States",
+    "topic": "infrastructure",
+    "excerpt": "The United States (US) leads the field in AI chip production, raw compute capacity, global cloud infrastructure, and foundation model development, powered by deep private investment, patent ownership, and a strong venture ecosystem.",
+    "source_id": "s_b2632d56",
+    "date": "2026-01-05",
+    "excerpt_found": true,
+    "evidence_id": "s_b2632d56_e3",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Global figure, but the research scope is India",
+    "confidence": 0.73,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The European Union has positioned itself as a norm-setter and regulatory power in AI.",
+    "entity": "European Union",
+    "topic": "policy",
+    "excerpt": "Where the US leads on infrastructural capacity, the European Union has positioned itself as a norm-setter and regulatory power, aiming to set global standards through its rights-based and transparency-driven frameworks.",
+    "source_id": "s_b2632d56",
+    "date": "2026-01-05",
+    "excerpt_found": true,
+    "evidence_id": "s_b2632d56_e4",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.75,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The US has imposed semiconductor export restrictions on China since 2018.",
+    "entity": "China",
+    "topic": "policy",
+    "excerpt": "China, meanwhile, is investing heavily in domestic AI ecosystems, integrating state-led research with industrial application, undeterred by the semiconductor export restrictions imposed by the US since 2018.",
+    "source_id": "s_b2632d56",
+    "date": "2026-01-05",
+    "excerpt_found": true,
+    "evidence_id": "s_b2632d56_e5",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2018,
+    "status": "needs_review",
+    "reason": "Figure is about 8 years old",
+    "confidence": 0.55,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 0.1,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India championed Digital Public Infrastructure as a global public good during its G20 Presidency in 2023.",
+    "entity": "India",
+    "topic": "policy",
+    "excerpt": "During its G20 Presidency in 2023, it championed Digital Public Infrastructure (DPI) as a global public good to accelerate progress on the Sustainable Development Goals.",
+    "source_id": "s_b2632d56",
+    "date": "2026-01-05",
+    "excerpt_found": true,
+    "evidence_id": "s_b2632d56_e6",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": 2023,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.655,
+    "scores": {
+      "credibility": 0.5,
+      "support": 0.85,
+      "relevance": 0.8,
+      "recency": 0.6,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India served as co-chair of the Paris AI Action Summit in February 2025.",
+    "entity": "India",
+    "topic": "other",
+    "excerpt": "Moreover, as co-chair of the Paris AI Action Summit in February 2025, India advanced the global dialogue on responsible AI governance.",
+    "source_id": "s_b2632d56",
+    "date": "2026-01-05",
+    "excerpt_found": true,
+    "evidence_id": "s_b2632d56_e7",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India is investing INR 10,300 crore in its AI infrastructure under the IndiaAI Mission.",
+    "entity": "India",
+    "topic": "infrastructure",
+    "excerpt": "As of October 2025, India's AI infrastructure is supported by an INR 10,300 crore investment under the IndiaAI Mission, which aims to deploy 38,000 Graphics Processing Units (GPUs) and establish 600 AI Data Labs to boost innovation.",
+    "source_id": "s_b2632d56",
+    "date": "2026-01-05",
+    "excerpt_found": true,
+    "evidence_id": "s_b2632d56_e8",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The IndiaAI Mission aims to deploy 38,000 Graphics Processing Units.",
+    "entity": "IndiaAI Mission",
+    "topic": "infrastructure",
+    "excerpt": "As of October 2025, India's AI infrastructure is supported by an INR 10,300 crore investment under the IndiaAI Mission, which aims to deploy 38,000 Graphics Processing Units (GPUs) and establish 600 AI Data Labs to boost innovation.",
+    "source_id": "s_b2632d56",
+    "date": "2026-01-05",
+    "excerpt_found": true,
+    "evidence_id": "s_b2632d56_e9",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.73,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India is establishing 600 AI Data Labs.",
+    "entity": "India",
+    "topic": "infrastructure",
+    "excerpt": "As of October 2025, India's AI infrastructure is supported by an INR 10,300 crore investment under the IndiaAI Mission, which aims to deploy 38,000 Graphics Processing Units (GPUs) and establish 600 AI Data Labs to boost innovation.",
+    "source_id": "s_b2632d56",
+    "date": "2026-01-05",
+    "excerpt_found": true,
+    "evidence_id": "s_b2632d56_e10",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India's AI-focussed talent base is expected to reach 1.25 million by 2027.",
+    "entity": "India",
+    "topic": "growth",
+    "excerpt": "As India works to build an inclusive AI ecosystem, its AI-focussed talent base is also expected to grow from 600,000 to 1.25 million by 2027.",
+    "source_id": "s_b2632d56",
+    "date": "2026-01-05",
+    "excerpt_found": true,
+    "evidence_id": "s_b2632d56_e11",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2027,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Price of automation, uncertainty regarding future and top management support were identified as factors that drive other bottlenecks in MSMEs.",
+    "entity": "MSMEs",
+    "topic": "technology",
+    "excerpt": "Price of automation, uncertainty regarding future and top management support were identified as factors that drive other bottlenecks.",
+    "source_id": "s_92b9104f",
+    "date": "2025-02-02",
+    "excerpt_found": true,
+    "evidence_id": "s_92b9104f_e1",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Excerpt only partly supports the claim: The excerpt does not explicitly specify that these factors relate to MSMEs.",
+    "confidence": 0.59,
+    "scores": {
+      "credibility": 0.5,
+      "support": 0.85,
+      "relevance": 0.5,
+      "recency": 0.844,
+      "corroboration": 0.5,
+      "semantic_support": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The barriers to AI adoption in MSMEs in India were studied using the TOE framework.",
+    "entity": "MSMEs",
+    "topic": "other",
+    "excerpt": "This is the first study of this type, to the best of the authors’ knowledge, on MSMEs in India. Factors such as lack of top management support, change resistance, perseverance and price of the automation can be viewed as organizational blocks to AI implementation. Lack of knowledge about AI in automation and Lack of resources are technology-related barriers, whereas uncertainty regarding the future of technology and job loss are related to the environment.",
+    "source_id": "s_92b9104f",
+    "date": "2025-02-02",
+    "excerpt_found": true,
+    "evidence_id": "s_92b9104f_e2",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Excerpt only partly supports the claim: The excerpt mentions studying MSMEs in India but does not state the TOE framework was used.",
+    "confidence": 0.59,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.844,
+      "corroboration": 0.5,
+      "semantic_support": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  }
+]

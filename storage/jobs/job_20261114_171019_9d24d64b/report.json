@@ -1,0 +1,340 @@
+{
+  "job_id": "job_20261114_171019_9d24d64b",
+  "sections": [
+    {
+      "title": "Executive Summary",
+      "content": "India maintains a significant presence in the global artificial intelligence (AI) landscape, holding approximately 16% of the global AI talent pool [E1][E2]. While 97% of organizations expect productivity gains from AI, the country faces a substantial workforce constraint with a projected shortage of 1.4 million AI professionals by 2026 [E3][E4][E5][E6].",
+      "citations": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5",
+        "E6"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Market Insights",
+      "content": "Projections indicate the industry could reach more than $35 billion by 2032 [E7]. India currently accounts for approximately 5-6% of the global AI market [E8]. Organizations show a preference for blended buy-build strategies at 49% for their AI tools [E9]. However, adoption is hindered by challenges such as regulatory and compliance requirements, which are identified as the top integration hurdle by 39% of organizations (verify the current status) [E10].",
+      "citations": [
+        "E7",
+        "E8",
+        "E9",
+        "E10"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Competitor Analysis",
+      "content": "The accepted evidence does not identify enough verified companies providing products or services in the Artificial Intelligence market to support a company-level competitor comparison. Funding and investor activity may provide market context, but do not establish that an organisation is a competitor.",
+      "citations": [],
+      "needs_review": false
+    },
+    {
+      "title": "Opportunities and Risks",
+      "content": "Opportunities:\n• Organizations are increasingly adopting blended strategies for AI integration, with 49 percent preferring a mix of buying and building solutions rather than relying solely on custom or off-the-shelf tools [E9].\n• Major infrastructure investments, such as the construction of a 3 gigawatt data center in Jamnagar, are helping to build the necessary capacity for scalable AI services [E11].\nRisks:\n• India faces a significant talent shortage, with projections indicating a need for more than 1.4 million AI professionals by 2026 and an 82.9% gap in Generative AI (GenAI) skills [E5][E12].\n• Regulatory and compliance requirements represent the top challenge for AI integration in India, cited by 39 percent of organizations (verify the current status) [E10].\n• Only 25% of Indian organizations believe their current workforce is adequately prepared to use AI effectively, highlighting a critical gap in training and practical readiness [E13][E14].",
+      "citations": [
+        "E9",
+        "E11",
+        "E5",
+        "E12",
+        "E10",
+        "E13",
+        "E14"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Recommendations",
+      "content": "• Implement comprehensive upskilling and reskilling programs, as 61% of organizations already use these measures to support AI adoption and address the significant skills gap [E15].\n• Prioritize investments in security and compliance controls, which are the leading priority for 68% of organizations looking to enable AI scale [E16].\n• Adopt a blended buy-build strategy for AI solutions, as this approach is preferred by 49% of organizations over relying solely on off-the-shelf or custom tools [E9].",
+      "citations": [
+        "E15",
+        "E16",
+        "E9"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Evidence Requiring Review",
+      "content": "These 8 statements could not be fully confirmed, so they are not used in the findings above. The reason for each is shown in brackets. Please check them before using them.\n• India’s AI ecosystem raised $3.94 billion in venture capital in Q1 2026 [E17] (from a page written by a user).\n• The IndiaAI Mission is a ₹10,300 crore initiative [E18] (from a page written by a user).\n• Krutrim trained large language models on 2 trillion tokens across 22 Indian languages [E19] (from a page written by a user).\n• Krutrim's Krutrim-2 model has 12 billion parameters [E20] (from a page written by a user).\n• The artificial intelligence market in India is growing at 40% CAGR between 2020 and 2025 [E21] (publication date unknown).\n• NASSCOM and Boston Consulting Group estimate that India's AI services might be valued at $17 billion by 2027 [E22] (publication date unknown).\n• Microsoft will invest ₹25,000 crore (US$2.7 billion) on cloud and AI infrastructure from 2025 to 2027 [E23] (publication date unknown).\n• Yotta Data Services announced a $12 billion, 80,000 NVIDIA Vera Rubin GPU expansion in September 2026 [E24] (from a page written by a user).",
+      "citations": [
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24"
+      ],
+      "needs_review": true
+    },
+    {
+      "title": "Method and Limitations",
+      "content": "AI-generated draft for consultant review. Not final client advice.\nNumbers in square brackets, such as [E3], refer to the Evidence Appendix at the end of this report.\nFacts checked: 76 accepted, 45 need review (the 8 most relevant are listed in the review section) and 18 rejected (duplicates, quotes not found on the page, or claims the quote does not support).\nEstimates of the same market differ between sources. They are shown side by side, not averaged.\nDates come from page information and are approximate. Rules and schemes change, so check policy statements with the official source before relying on them.",
+      "citations": [],
+      "needs_review": false
+    },
+    {
+      "title": "Glossary",
+      "content": "Simple explanations of important terms used in this report. These definitions are explanatory notes, not research evidence.\n- Artificial Intelligence: This refers to computer systems designed to perform tasks that typically require human intelligence.\n- Generative AI: This is a type of artificial intelligence technology that can create new content such as text, images, or code.\n- Blended buy-build strategy: This is an approach where an organization combines purchasing ready-made software with developing custom solutions internally.\n- Gigawatt: This is a unit of power equal to one billion watts used to measure the capacity of large infrastructure projects.\n- Upskilling: This is the process of teaching employees new skills to improve their performance in their current roles.\n- Reskilling: This is the process of training employees for a completely different job function within an organization.\n- Compliance: This refers to the act of ensuring that organizational practices adhere to relevant laws, regulations, and industry standards.",
+      "citations": [],
+      "needs_review": false
+    }
+  ],
+  "charts": [
+    {
+      "title": "AI market size: estimates by source (USD billion)",
+      "plotly_json": "{\"data\":[{\"marker\":{\"color\":\"#2F5597\"},\"name\":\"en.wikipedia.org\",\"text\":[\"8.0\",null,null],\"textposition\":\"outside\",\"x\":[\"2025\",\"2026\",\"2032\"],\"y\":[8.0,null,null],\"type\":\"bar\"},{\"marker\":{\"color\":\"#ED7D31\"},\"name\":\"groww.in\",\"text\":[null,\"7.0\",\"35.0\"],\"textposition\":\"outside\",\"x\":[\"2025\",\"2026\",\"2032\"],\"y\":[null,7.0,35.0],\"type\":\"bar\"}],\"layout\":{\"template\":{\"data\":{\"barpolar\":[{\"marker\":{\"line\":{\"color\":\"white\",\"width\":0.5},\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"barpolar\"}],\"bar\":[{\"error_x\":{\"color\":\"#2a3f5f\"},\"error_y\":{\"color\":\"#2a3f5f\"},\"marker\":{\"line\":{\"color\":\"white\",\"width\":0.5},\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"bar\"}],\"carpet\":[{\"aaxis\":{\"endlinecolor\":\"#2a3f5f\",\"gridcolor\":\"#C8D4E3\",\"linecolor\":\"#C8D4E3\",\"minorgridcolor\":\"#C8D4E3\",\"startlinecolor\":\"#2a3f5f\"},\"baxis\":{\"endlinecolor\":\"#2a3f5f\",\"gridcolor\":\"#C8D4E3\",\"linecolor\":\"#C8D4E3\",\"minorgridcolor\":\"#C8D4E3\",\"startlinecolor\":\"#2a3f5f\"},\"type\":\"carpet\"}],\"choropleth\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"type\":\"choropleth\"}],\"contourcarpet\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"type\":\"contourcarpet\"}],\"contour\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"contour\"}],\"heatmap\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"heatmap\"}],\"histogram2dcontour\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"histogram2dcontour\"}],\"histogram2d\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"histogram2d\"}],\"histogram\":[{\"marker\":{\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"histogram\"}],\"mesh3d\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"type\":\"mesh3d\"}],\"parcoords\":[{\"line\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"parcoords\"}],\"pie\":[{\"automargin\":true,\"type\":\"pie\"}],\"scatter3d\":[{\"line\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scatter3d\"}],\"scattercarpet\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scattercarpet\"}],\"scattergeo\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scattergeo\"}],\"scattergl\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scattergl\"}],\"scattermap\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scattermap\"}],\"scatterpolargl\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scatterpolargl\"}],\"scatterpolar\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scatterpolar\"}],\"scatter\":[{\"fillpattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2},\"type\":\"scatter\"}],\"scatterternary\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scatterternary\"}],\"surface\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"surface\"}],\"table\":[{\"cells\":{\"fill\":{\"color\":\"#EBF0F8\"},\"line\":{\"color\":\"white\"}},\"header\":{\"fill\":{\"color\":\"#C8D4E3\"},\"line\":{\"color\":\"white\"}},\"type\":\"table\"}]},\"layout\":{\"annotationdefaults\":{\"arrowcolor\":\"#2a3f5f\",\"arrowhead\":0,\"arrowwidth\":1},\"autotypenumbers\":\"strict\",\"coloraxis\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"colorscale\":{\"diverging\":[[0,\"#8e0152\"],[0.1,\"#c51b7d\"],[0.2,\"#de77ae\"],[0.3,\"#f1b6da\"],[0.4,\"#fde0ef\"],[0.5,\"#f7f7f7\"],[0.6,\"#e6f5d0\"],[0.7,\"#b8e186\"],[0.8,\"#7fbc41\"],[0.9,\"#4d9221\"],[1,\"#276419\"]],\"sequential\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"sequentialminus\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]},\"colorway\":[\"#636efa\",\"#EF553B\",\"#00cc96\",\"#ab63fa\",\"#FFA15A\",\"#19d3f3\",\"#FF6692\",\"#B6E880\",\"#FF97FF\",\"#FECB52\"],\"font\":{\"color\":\"#2a3f5f\"},\"geo\":{\"bgcolor\":\"white\",\"lakecolor\":\"white\",\"landcolor\":\"white\",\"showlakes\":true,\"showland\":true,\"subunitcolor\":\"#C8D4E3\"},\"hoverlabel\":{\"align\":\"left\"},\"hovermode\":\"closest\",\"paper_bgcolor\":\"white\",\"plot_bgcolor\":\"white\",\"polar\":{\"angularaxis\":{\"gridcolor\":\"#EBF0F8\",\"linecolor\":\"#EBF0F8\",\"ticks\":\"\"},\"bgcolor\":\"white\",\"radialaxis\":{\"gridcolor\":\"#EBF0F8\",\"linecolor\":\"#EBF0F8\",\"ticks\":\"\"}},\"scene\":{\"xaxis\":{\"backgroundcolor\":\"white\",\"gridcolor\":\"#DFE8F3\",\"gridwidth\":2,\"linecolor\":\"#EBF0F8\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"#EBF0F8\"},\"yaxis\":{\"backgroundcolor\":\"white\",\"gridcolor\":\"#DFE8F3\",\"gridwidth\":2,\"linecolor\":\"#EBF0F8\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"#EBF0F8\"},\"zaxis\":{\"backgroundcolor\":\"white\",\"gridcolor\":\"#DFE8F3\",\"gridwidth\":2,\"linecolor\":\"#EBF0F8\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"#EBF0F8\"}},\"shapedefaults\":{\"line\":{\"color\":\"#2a3f5f\"}},\"ternary\":{\"aaxis\":{\"gridcolor\":\"#DFE8F3\",\"linecolor\":\"#A2B1C6\",\"ticks\":\"\"},\"baxis\":{\"gridcolor\":\"#DFE8F3\",\"linecolor\":\"#A2B1C6\",\"ticks\":\"\"},\"bgcolor\":\"white\",\"caxis\":{\"gridcolor\":\"#DFE8F3\",\"linecolor\":\"#A2B1C6\",\"ticks\":\"\"}},\"title\":{\"x\":0.05},\"xaxis\":{\"automargin\":true,\"gridcolor\":\"#EBF0F8\",\"linecolor\":\"#EBF0F8\",\"ticks\":\"\",\"title\":{\"standoff\":15},\"zerolinecolor\":\"#EBF0F8\",\"zerolinewidth\":2},\"yaxis\":{\"automargin\":true,\"gridcolor\":\"#EBF0F8\",\"linecolor\":\"#EBF0F8\",\"ticks\":\"\",\"title\":{\"standoff\":15},\"zerolinecolor\":\"#EBF0F8\",\"zerolinewidth\":2}}},\"title\":{\"text\":\"AI market size: estimates by source (USD billion)\"},\"xaxis\":{\"title\":{\"text\":\"Year\"}},\"yaxis\":{\"title\":{\"text\":\"USD billion\"}},\"barmode\":\"overlay\",\"showlegend\":true}}",
+      "png_path": "storage/charts\\job_20261114_171019_9d24d64b_market_size.png",
+      "name": "market_size",
+      "section": "Market Insights",
+      "description": "Estimates range from US$7.00 billion (2026) to US$35.00 billion (2032). The estimates come from different sources and do not form one consistent trend (the 2026 figure is lower than the 2025 figure), so they should not be read as growth. The 2025 and 2026 and 2032 figures are forecasts.\nSource: en.wikipedia.org, groww.in, as reported in the pages listed in the Evidence Appendix. Based on 3 estimates."
+    }
+  ],
+  "evidence_appendix": [
+    {
+      "id": "E1",
+      "evidence_id": "s_add103e9_e6",
+      "claim": "India holds about 16% of the global AI talent pool.",
+      "source": "onlineaju.ac.in",
+      "source_url": "https://onlineaju.ac.in/india-ai-talent-shortage-2026",
+      "date": "2026-08-26",
+      "confidence": 0.892,
+      "status": "accepted"
+    },
+    {
+      "id": "E2",
+      "evidence_id": "s_79e2e3b5_e8",
+      "claim": "India produces 16% of global AI talent according to NASSCOM.",
+      "source": "seafund.in",
+      "source_url": "https://seafund.in/article/governments-role-in-ai-adoption-indias-push-for-an-ai-driven-economy",
+      "date": "2025-04-28",
+      "confidence": 0.758,
+      "status": "accepted"
+    },
+    {
+      "id": "E3",
+      "evidence_id": "s_7a196ec1_e9",
+      "claim": "97 percent of respondents expect productivity to increase as a result of AI adoption.",
+      "source": "deloitte.com",
+      "source_url": "https://www.deloitte.com/in/en/about/press-room/indian-enterprises-lead-global-peers-in-at-scale-ai-adoption-across-most-functions.html",
+      "date": "2026-03-25",
+      "confidence": 0.797,
+      "status": "accepted"
+    },
+    {
+      "id": "E4",
+      "evidence_id": "s_add103e9_e2",
+      "claim": "Nearly 45% of Indian organisations identify AI, digital, and data skills as their single largest workforce constraint.",
+      "source": "onlineaju.ac.in",
+      "source_url": "https://onlineaju.ac.in/india-ai-talent-shortage-2026",
+      "date": "2026-08-26",
+      "confidence": 0.892,
+      "status": "accepted"
+    },
+    {
+      "id": "E5",
+      "evidence_id": "s_add103e9_e5",
+      "claim": "India could face a shortage of more than 1.4 million AI professionals by 2026.",
+      "source": "onlineaju.ac.in",
+      "source_url": "https://onlineaju.ac.in/india-ai-talent-shortage-2026",
+      "date": "2026-08-26",
+      "confidence": 0.892,
+      "status": "accepted"
+    },
+    {
+      "id": "E6",
+      "evidence_id": "s_52c568a1_e1",
+      "claim": "India is projected to require 1.4 million artificial intelligence professionals by 2026.",
+      "source": "rediff.com",
+      "source_url": "https://www.rediff.com/business/report/indias-ai-talent-demand-outstrips-supply-by-35-times/20261009.htm",
+      "date": "2026-10-09",
+      "confidence": 0.75,
+      "status": "accepted"
+    },
+    {
+      "id": "E7",
+      "evidence_id": "s_735a7f11_e2",
+      "claim": "The Indian AI industry is forecasted to reach more than $35 billion by 2032.",
+      "source": "groww.in",
+      "source_url": "https://groww.in/blog/best-artificial-intelligence-stocks-in-india",
+      "date": "2024-04-03",
+      "confidence": 0.715,
+      "status": "accepted"
+    },
+    {
+      "id": "E8",
+      "evidence_id": "s_11d3bf6a_e2",
+      "claim": "India accounts for approximately 5-6% of the global AI market.",
+      "source": "yuverse.ai",
+      "source_url": "https://www.yuverse.ai/blog/ai-in-india-2026-market-size-adoption-opportunities",
+      "date": "2026-06-02",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E9",
+      "evidence_id": "s_7a196ec1_e6",
+      "claim": "Organizations indicate a preference for off-the-shelf tools at 31 percent and blended buy-build strategies at 49 percent compared to custom solutions at 19 percent.",
+      "source": "deloitte.com",
+      "source_url": "https://www.deloitte.com/in/en/about/press-room/indian-enterprises-lead-global-peers-in-at-scale-ai-adoption-across-most-functions.html",
+      "date": "2026-03-25",
+      "confidence": 0.768,
+      "status": "accepted"
+    },
+    {
+      "id": "E10",
+      "evidence_id": "s_7a196ec1_e7",
+      "claim": "Regulatory and compliance requirements are the top AI integration challenge at 39 percent, followed by resistance to change at 34 percent.",
+      "source": "deloitte.com",
+      "source_url": "https://www.deloitte.com/in/en/about/press-room/indian-enterprises-lead-global-peers-in-at-scale-ai-adoption-across-most-functions.html",
+      "date": "2026-03-25",
+      "confidence": 0.768,
+      "status": "accepted"
+    },
+    {
+      "id": "E11",
+      "evidence_id": "s_ed329e5e_e15",
+      "claim": "Reliance Industries announced the construction of a 3 GW data center for AI services in Jamnagar in 2025.",
+      "source": "en.wikipedia.org",
+      "source_url": "https://en.wikipedia.org/wiki/Artificial_intelligence_in_India",
+      "date": "",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E12",
+      "evidence_id": "s_add103e9_e4",
+      "claim": "There is an 82.9% GenAI skills gap in India.",
+      "source": "onlineaju.ac.in",
+      "source_url": "https://onlineaju.ac.in/india-ai-talent-shortage-2026",
+      "date": "2026-08-26",
+      "confidence": 0.892,
+      "status": "accepted"
+    },
+    {
+      "id": "E13",
+      "evidence_id": "s_add103e9_e8",
+      "claim": "Only 25% of Indian organisations believe their workforce is adequately prepared to use AI effectively.",
+      "source": "onlineaju.ac.in",
+      "source_url": "https://onlineaju.ac.in/india-ai-talent-shortage-2026",
+      "date": "2026-08-26",
+      "confidence": 0.863,
+      "status": "accepted"
+    },
+    {
+      "id": "E14",
+      "evidence_id": "s_add103e9_e9",
+      "claim": "SHRM identifies gaps in training, practical readiness, and skill alignment regarding AI requirements in India.",
+      "source": "onlineaju.ac.in",
+      "source_url": "https://onlineaju.ac.in/india-ai-talent-shortage-2026",
+      "date": "2026-08-26",
+      "confidence": 0.892,
+      "status": "accepted"
+    },
+    {
+      "id": "E15",
+      "evidence_id": "s_7a196ec1_e8",
+      "claim": "Most common workforce measures to support adoption include upskilling and reskilling programs at 61 percent, incentives to drive AI adoption at 59 percent, and broader workforce education at 53 percent.",
+      "source": "deloitte.com",
+      "source_url": "https://www.deloitte.com/in/en/about/press-room/indian-enterprises-lead-global-peers-in-at-scale-ai-adoption-across-most-functions.html",
+      "date": "2026-03-25",
+      "confidence": 0.797,
+      "status": "accepted"
+    },
+    {
+      "id": "E16",
+      "evidence_id": "s_7a196ec1_e5",
+      "claim": "Leading investment priorities for enabling AI scale include security and compliance controls at 68 percent, data storage and management at 61 percent, and scalable infrastructure and compute capacity at 54 percent.",
+      "source": "deloitte.com",
+      "source_url": "https://www.deloitte.com/in/en/about/press-room/indian-enterprises-lead-global-peers-in-at-scale-ai-adoption-across-most-functions.html",
+      "date": "2026-03-25",
+      "confidence": 0.797,
+      "status": "accepted"
+    },
+    {
+      "id": "E17",
+      "evidence_id": "s_d6fa7ef9_e3",
+      "claim": "India’s AI ecosystem raised $3.94 billion in venture capital in Q1 2026.",
+      "source": "medium.com",
+      "source_url": "https://medium.com/@pratik-rupareliya/top-20-indian-ai-companies-building-real-infrastructure-in-2026-a97473ffa287",
+      "date": "2026-02-18",
+      "confidence": 0.718,
+      "status": "needs_review"
+    },
+    {
+      "id": "E18",
+      "evidence_id": "s_31de8da7_e1",
+      "claim": "The IndiaAI Mission is a ₹10,300 crore initiative.",
+      "source": "youtube.com",
+      "source_url": "https://www.youtube.com/watch?v=5toRrTG4Idk",
+      "date": "2026-06-25",
+      "confidence": 0.688,
+      "status": "needs_review"
+    },
+    {
+      "id": "E19",
+      "evidence_id": "s_d6fa7ef9_e7",
+      "claim": "Krutrim trained large language models on 2 trillion tokens across 22 Indian languages.",
+      "source": "medium.com",
+      "source_url": "https://medium.com/@pratik-rupareliya/top-20-indian-ai-companies-building-real-infrastructure-in-2026-a97473ffa287",
+      "date": "2026-02-18",
+      "confidence": 0.688,
+      "status": "needs_review"
+    },
+    {
+      "id": "E20",
+      "evidence_id": "s_d6fa7ef9_e8",
+      "claim": "Krutrim's Krutrim-2 model has 12 billion parameters.",
+      "source": "medium.com",
+      "source_url": "https://medium.com/@pratik-rupareliya/top-20-indian-ai-companies-building-real-infrastructure-in-2026-a97473ffa287",
+      "date": "2026-02-18",
+      "confidence": 0.688,
+      "status": "needs_review"
+    },
+    {
+      "id": "E21",
+      "evidence_id": "s_ed329e5e_e2",
+      "claim": "The artificial intelligence market in India is growing at 40% CAGR between 2020 and 2025.",
+      "source": "en.wikipedia.org",
+      "source_url": "https://en.wikipedia.org/wiki/Artificial_intelligence_in_India",
+      "date": "",
+      "confidence": 0.68,
+      "status": "needs_review"
+    },
+    {
+      "id": "E22",
+      "evidence_id": "s_ed329e5e_e4",
+      "claim": "NASSCOM and Boston Consulting Group estimate that India's AI services might be valued at $17 billion by 2027.",
+      "source": "en.wikipedia.org",
+      "source_url": "https://en.wikipedia.org/wiki/Artificial_intelligence_in_India",
+      "date": "",
+      "confidence": 0.68,
+      "status": "needs_review"
+    },
+    {
+      "id": "E23",
+      "evidence_id": "s_ed329e5e_e16",
+      "claim": "Microsoft will invest ₹25,000 crore (US$2.7 billion) on cloud and AI infrastructure from 2025 to 2027.",
+      "source": "en.wikipedia.org",
+      "source_url": "https://en.wikipedia.org/wiki/Artificial_intelligence_in_India",
+      "date": "",
+      "confidence": 0.68,
+      "status": "needs_review"
+    },
+    {
+      "id": "E24",
+      "evidence_id": "s_d6fa7ef9_e1",
+      "claim": "Yotta Data Services announced a $12 billion, 80,000 NVIDIA Vera Rubin GPU expansion in September 2026.",
+      "source": "medium.com",
+      "source_url": "https://medium.com/@pratik-rupareliya/top-20-indian-ai-companies-building-real-infrastructure-in-2026-a97473ffa287",
+      "date": "2026-02-18",
+      "confidence": 0.667,
+      "status": "needs_review"
+    }
+  ],
+  "pdf_path": "storage/reports\\job_20261114_171019_9d24d64b.pdf",
+  "warnings": []
+}

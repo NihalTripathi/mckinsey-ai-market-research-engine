@@ -1,0 +1,99 @@
+{
+  "research_objectives": [
+    "Assess the current market size, growth drivers, and adoption barriers for EVs in India.",
+    "Evaluate the competitive landscape and identify gaps in existing EV charging infrastructure.",
+    "Analyze the regulatory environment, government subsidies, and policy support for charging operators in India.",
+    "Determine the most viable business models and expected unit economics for an EV charging startup.",
+    "Identify key risks and infrastructure challenges for scaling charging operations in Indian urban and highway corridors."
+  ],
+  "tasks": [
+    {
+      "task_id": "t1",
+      "task_name": "Market Dynamics and Demand Analysis",
+      "search_queries": [
+        "current Indian EV market penetration and growth forecast 2026-2031",
+        "EV adoption trends by vehicle segment India",
+        "consumer barriers to EV adoption in India"
+      ],
+      "research_questions": [
+        "What is the projected growth rate of the Indian EV fleet over the next 5 years?",
+        "Which vehicle segments are seeing the highest electrification rates?",
+        "What are the primary factors preventing wider EV adoption?"
+      ],
+      "expected_evidence": "Industry market research reports and government transport data",
+      "priority": "high"
+    },
+    {
+      "task_id": "t2",
+      "task_name": "Competitive and Infrastructure Landscape",
+      "search_queries": [
+        "major EV charging infrastructure players in India",
+        "types of EV charging technology in India market",
+        "gaps in existing public EV charging networks India"
+      ],
+      "research_questions": [
+        "Who are the key players currently dominating the charging infrastructure space?",
+        "What types of charging technology are most prevalent (AC vs DC fast charging)?",
+        "Where are the geographical and coverage gaps in the current charging network?"
+      ],
+      "expected_evidence": "Competitive landscape analysis and infrastructure whitepapers",
+      "priority": "high"
+    },
+    {
+      "task_id": "t3",
+      "task_name": "Regulatory Environment and Incentives",
+      "search_queries": [
+        "government policies for EV charging infrastructure India 2026",
+        "subsidies and incentives for EV charging operators India",
+        "regulatory requirements for setting up EV charging stations India"
+      ],
+      "research_questions": [
+        "What specific financial incentives exist for setting up new charging infrastructure?",
+        "What is the current regulatory framework for utility grid connectivity for EV chargers?",
+        "Are there specific land-use or zoning regulations for charging hubs?"
+      ],
+      "expected_evidence": "Government gazettes, regulatory policy documents, and circulars",
+      "priority": "high"
+    },
+    {
+      "task_id": "t4",
+      "task_name": "Business Models and Economic Feasibility",
+      "search_queries": [
+        "EV charging station business models India",
+        "unit economics for EV charging station operators India",
+        "revenue streams for EV charging startups"
+      ],
+      "research_questions": [
+        "What are the most successful business models for charging providers (e.g., CPO vs aggregator)?",
+        "What are the key drivers of profitability and payback periods for charging stations?",
+        "How do energy pricing and demand charges impact operating margins?"
+      ],
+      "expected_evidence": "Financial feasibility studies and industry case studies",
+      "priority": "medium"
+    },
+    {
+      "task_id": "t5",
+      "task_name": "Risk and Implementation Challenges",
+      "search_queries": [
+        "challenges for EV charging infrastructure deployment in India",
+        "grid infrastructure capacity for EV charging stations India",
+        "operational risks for Indian EV charging companies"
+      ],
+      "research_questions": [
+        "What are the biggest grid-related technical constraints for scaling?",
+        "What operational risks are unique to the Indian market environment?",
+        "How do real estate costs and site availability impact deployment?"
+      ],
+      "expected_evidence": "Risk assessment reports and technical industry commentary",
+      "priority": "medium"
+    }
+  ],
+  "industry": "EV Charging Infrastructure",
+  "geography": "India",
+  "timeframe": "2026-2031",
+  "assumptions": [
+    "The analysis assumes a continued government commitment to the transition to clean mobility in India.",
+    "The analysis assumes availability of public data on current infrastructure deployments.",
+    "The research will focus primarily on public and semi-public charging infrastructure rather than private residential charging."
+  ]
+}

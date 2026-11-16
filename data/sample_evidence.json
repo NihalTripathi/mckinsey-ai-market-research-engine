@@ -1,0 +1,1723 @@
+[
+  {
+    "claim": "DC fast charging in India typically commands \u20b912-18 per kWh.",
+    "entity": "India",
+    "topic": "market size",
+    "excerpt": "In India, DC fast charging typically commands \u20b912-18 per kWh, while AC charging ranges from \u20b98-14 per kWh.",
+    "source_id": "s_0ad46773",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_0ad46773_e1",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null
+  },
+  {
+    "claim": "AC charging in India ranges from \u20b98-14 per kWh.",
+    "entity": "India",
+    "topic": "market size",
+    "excerpt": "In India, DC fast charging typically commands \u20b912-18 per kWh, while AC charging ranges from \u20b98-14 per kWh.",
+    "source_id": "s_0ad46773",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_0ad46773_e2",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null
+  },
+  {
+    "claim": "EV charging stations in India typically achieve gross margins of 30-50% after electricity costs.",
+    "entity": "India",
+    "topic": "market size",
+    "excerpt": "Typical EV charging stations in India achieve gross margins of 30-50% after electricity costs, with net margins of 15-25% after all operating expenses.",
+    "source_id": "s_0ad46773",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_0ad46773_e3",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null
+  },
+  {
+    "claim": "EV charging stations in India achieve net margins of 15-25% after all operating expenses.",
+    "entity": "India",
+    "topic": "market size",
+    "excerpt": "Typical EV charging stations in India achieve gross margins of 30-50% after electricity costs, with net margins of 15-25% after all operating expenses.",
+    "source_id": "s_0ad46773",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_0ad46773_e4",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null
+  },
+  {
+    "claim": "Altarbyte helps operators develop profitable EV charging business models.",
+    "entity": "Altarbyte",
+    "topic": "other",
+    "excerpt": "Altarbyte helps operators develop profitable EV charging business models with comprehensive market analysis, financial modeling, and operational support.",
+    "source_id": "s_0ad46773",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_0ad46773_e5",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null
+  },
+  {
+    "claim": "Altarbyte products and installations are compliant with Indian regulatory requirements and international standards.",
+    "entity": "Altarbyte",
+    "topic": "policy",
+    "excerpt": "Altarbyte products and installations are fully compliant with Indian regulatory requirements and international standards.",
+    "source_id": "s_0ad46773",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_0ad46773_e6",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null
+  },
+  {
+    "claim": "The Government of India has introduced standardization for electric vehicle (EV) charging infrastructure to streamline the process across the country.",
+    "entity": "Government of India",
+    "topic": "infrastructure",
+    "excerpt": "Recognizing the urgent need for standardization in the electric vehicle (EV) charging sector, the Government of India has taken a crucial step to streamline the charging infrastructure across the country through standardization.",
+    "source_id": "s_e62b3e8c",
+    "date": "2024-02-17",
+    "excerpt_found": true,
+    "evidence_id": "s_e62b3e8c_e1",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "In September 2023, the Bureau of Indian Standards approved ISI 7017 2023, which defines a unified AC and DC charging connector for light electric vehicles (LEVs).",
+    "entity": "Bureau of Indian Standards",
+    "topic": "technology",
+    "excerpt": "According to Dinesh Arjun, CEO and Co-founder, Raptee Energy, \u201cIn September 2023, the Bureau of Indian Standards approved ISI 7017 2023, a standard defining a unified AC and DC charging connector for light electric vehicles (LEVs).",
+    "source_id": "s_e62b3e8c",
+    "date": "2024-02-17",
+    "excerpt_found": true,
+    "evidence_id": "s_e62b3e8c_e2",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2023
+  },
+  {
+    "claim": "India introduced a national standard for a combined AC and DC charging connector for light electric vehicles.",
+    "entity": "India",
+    "topic": "infrastructure",
+    "excerpt": "The recent Introduction of a national standard for a combined AC and DC charging connector for light electric vehicles (LEVs) in India represents a significant milestone with far-reaching implications.",
+    "source_id": "s_e62b3e8c",
+    "date": "2024-02-17",
+    "excerpt_found": true,
+    "evidence_id": "s_e62b3e8c_e3",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "NITI Aayog collaborated on the development of the standardized charging connector for light electric vehicles in India.",
+    "entity": "NITI Aayog",
+    "topic": "infrastructure",
+    "excerpt": "Collaboratively developed by NITI Aayog, the Department of Science and Technology, ARAI, EV manufacturers, and the Bureau of Indian Standards, this innovation positions India to set a global benchmark for LEVs.",
+    "source_id": "s_e62b3e8c",
+    "date": "2024-02-17",
+    "excerpt_found": true,
+    "evidence_id": "s_e62b3e8c_e4",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "The Department of Science and Technology collaborated on the development of the standardized charging connector for light electric vehicles in India.",
+    "entity": "Department of Science and Technology",
+    "topic": "infrastructure",
+    "excerpt": "Collaboratively developed by NITI Aayog, the Department of Science and Technology, ARAI, EV manufacturers, and the Bureau of Indian Standards, this innovation positions India to set a global benchmark for LEVs.",
+    "source_id": "s_e62b3e8c",
+    "date": "2024-02-17",
+    "excerpt_found": true,
+    "evidence_id": "s_e62b3e8c_e5",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "ARAI collaborated on the development of the standardized charging connector for light electric vehicles in India.",
+    "entity": "ARAI",
+    "topic": "infrastructure",
+    "excerpt": "Collaboratively developed by NITI Aayog, the Department of Science and Technology, ARAI, EV manufacturers, and the Bureau of Indian Standards, this innovation positions India to set a global benchmark for LEVs.",
+    "source_id": "s_e62b3e8c",
+    "date": "2024-02-17",
+    "excerpt_found": true,
+    "evidence_id": "s_e62b3e8c_e6",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "The Bureau of Indian Standards collaborated on the development of the standardized charging connector for light electric vehicles in India.",
+    "entity": "Bureau of Indian Standards",
+    "topic": "infrastructure",
+    "excerpt": "Collaboratively developed by NITI Aayog, the Department of Science and Technology, ARAI, EV manufacturers, and the Bureau of Indian Standards, this innovation positions India to set a global benchmark for LEVs.",
+    "source_id": "s_e62b3e8c",
+    "date": "2024-02-17",
+    "excerpt_found": true,
+    "evidence_id": "s_e62b3e8c_e7",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "Ola used their own proprietary connectors for charging two-wheelers and three-wheelers.",
+    "entity": "Ola",
+    "topic": "technology",
+    "excerpt": "Multiple standards: Until recently, India lacked a unified EV charging standard for two-wheelers and three-wheelers, leading to fragmentation and interoperability issues. Different manufacturers like Ola and Ather used their own proprietary connectors.",
+    "source_id": "s_e62b3e8c",
+    "date": "2024-02-17",
+    "excerpt_found": true,
+    "evidence_id": "s_e62b3e8c_e8",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "Ather used their own proprietary connectors for charging two-wheelers and three-wheelers.",
+    "entity": "Ather",
+    "topic": "technology",
+    "excerpt": "Multiple standards: Until recently, India lacked a unified EV charging standard for two-wheelers and three-wheelers, leading to fragmentation and interoperability issues. Different manufacturers like Ola and Ather used their own proprietary connectors.",
+    "source_id": "s_e62b3e8c",
+    "date": "2024-02-17",
+    "excerpt_found": true,
+    "evidence_id": "s_e62b3e8c_e9",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "The Bureau of Indian Standards developed a new combined AC/DC charging standard for light electric vehicles.",
+    "entity": "Bureau of Indian Standards",
+    "topic": "infrastructure",
+    "excerpt": "New Combined Charging System (CCS) for LEVs: In a significant step, India recently introduced the world\u2019s first combined AC/DC charging standard for light electric vehicles (LEVs). This standard, developed by the Bureau of Indian Standards (BIS), offers several advantages:",
+    "source_id": "s_e62b3e8c",
+    "date": "2024-02-17",
+    "excerpt_found": true,
+    "evidence_id": "s_e62b3e8c_e10",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "India follows established global standards like CCS for four-wheeler EVs.",
+    "entity": "India",
+    "topic": "infrastructure",
+    "excerpt": "Existing standards for four-wheelers: India already follows established global standards like CCS for four-wheeler EVs, ensuring compatibility with international markets.",
+    "source_id": "s_e62b3e8c",
+    "date": "2024-02-17",
+    "excerpt_found": true,
+    "evidence_id": "s_e62b3e8c_e11",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "EV charging demands higher power than residential loads, making power distribution networks more susceptible to voltage sags.",
+    "entity": "EV",
+    "topic": "infrastructure",
+    "excerpt": "Voltage stability issues: EV charging demands higher power than residential loads, making power distribution networks more susceptible to voltage sags.",
+    "source_id": "s_663fb454",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_663fb454_e1",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null
+  },
+  {
+    "claim": "Large frequency deviations in electric power systems threaten system stability and may lead to large-scale blackouts.",
+    "entity": "electric power systems",
+    "topic": "infrastructure",
+    "excerpt": "Also, large frequency deviations correspond to large power imbalances, which threaten system stability and may lead to large-scale blackouts.",
+    "source_id": "s_663fb454",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_663fb454_e2",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": false,
+    "date_source": null,
+    "data_year": null
+  },
+  {
+    "claim": "EV chargers inject voltage and current harmonic distortions into the power distribution network.",
+    "entity": "EV chargers",
+    "topic": "infrastructure",
+    "excerpt": "EV chargers incorporate nonlinear power electronic converters that act as a nonlinear load within the system and inject voltage and current harmonic distortions into the power distribution network.",
+    "source_id": "s_663fb454",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_663fb454_e3",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null
+  },
+  {
+    "claim": "High EV penetration and rapid charging rates cause significant voltage and current harmonic distortions.",
+    "entity": "EV",
+    "topic": "infrastructure",
+    "excerpt": "Conversely, high EV penetration and rapid charging rates cause significant voltage and current harmonic distortions.",
+    "source_id": "s_663fb454",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_663fb454_e4",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null
+  },
+  {
+    "claim": "As of March 2026, India had 27,700 public EV charging stations installed.",
+    "entity": "India",
+    "topic": "infrastructure",
+    "excerpt": "As of March 2026, India had around 27,700 public EV charging stations installed (about 22,750 operational), up roughly\nfive-fold since 2022.",
+    "source_id": "s_39864bd5",
+    "date": "2026-10-09",
+    "excerpt_found": true,
+    "evidence_id": "s_39864bd5_e1",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026
+  },
+  {
+    "claim": "The PM E-DRIVE scheme aims to add 72,300 public charging stations by March 2028.",
+    "entity": "PM E-DRIVE",
+    "topic": "policy",
+    "excerpt": "The government\u2019s PM E-DRIVE scheme has earmarked \u20b92,000 crore to add 72,300 public stations by\nMarch 2028, with up to 80% subsidy for operators.",
+    "source_id": "s_39864bd5",
+    "date": "2026-10-09",
+    "excerpt_found": true,
+    "evidence_id": "s_39864bd5_e2",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2028
+  },
+  {
+    "claim": "India's charger-to-EV ratio is 1:235.",
+    "entity": "India",
+    "topic": "infrastructure",
+    "excerpt": "The core challenge is not the headline count but density and\nreliability \u2014 India\u2019s charger-to-EV ratio sits near 1:235 versus a global benchmark of 1:6\u201320 \u2014 which makes charging one\nof the biggest infrastructure opportunities in the country.",
+    "source_id": "s_39864bd5",
+    "date": "2026-10-09",
+    "excerpt_found": true,
+    "evidence_id": "s_39864bd5_e3",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "India had 7,400 DC fast chargers as of March 2026.",
+    "entity": "India",
+    "topic": "infrastructure",
+    "excerpt": "First, only around 7,400 of those stations are DC fast chargers (60 kW or higher) \u2014 the type\nhighway travel actually needs.",
+    "source_id": "s_39864bd5",
+    "date": "2026-10-09",
+    "excerpt_found": true,
+    "evidence_id": "s_39864bd5_e4",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "The PM E-DRIVE scheme was notified in September 2024 with a total outlay of \u20b910,900 crore.",
+    "entity": "PM E-DRIVE",
+    "topic": "policy",
+    "excerpt": "The single biggest catalyst is the PM E-DRIVE scheme, notified in September 2024 with a \u20b910,900 crore outlay, of which\n\u20b92,000 crore is dedicated to public charging.",
+    "source_id": "s_39864bd5",
+    "date": "2026-10-09",
+    "excerpt_found": true,
+    "evidence_id": "s_39864bd5_e5",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2024
+  },
+  {
+    "claim": "Tata Power builds dense metro and highway charging coverage.",
+    "entity": "Tata Power",
+    "topic": "competitors",
+    "excerpt": "Private charge point operators like Tata Power (MegaCharger hubs) and networks such as EZ Charge are building dense\nmetro and highway coverage.",
+    "source_id": "s_39864bd5",
+    "date": "2026-10-09",
+    "excerpt_found": true,
+    "evidence_id": "s_39864bd5_e6",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "EZ Charge is building dense metro and highway coverage.",
+    "entity": "EZ Charge",
+    "topic": "competitors",
+    "excerpt": "Private charge point operators like Tata Power (MegaCharger hubs) and networks such as EZ Charge are building dense\nmetro and highway coverage.",
+    "source_id": "s_39864bd5",
+    "date": "2026-10-09",
+    "excerpt_found": true,
+    "evidence_id": "s_39864bd5_e7",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "91% of national highways in India have a charger roughly every 50 km.",
+    "entity": "India",
+    "topic": "infrastructure",
+    "excerpt": "Around 91% of national highways now have a charger roughly every 50 km, making EV road trips increasingly practical.",
+    "source_id": "s_39864bd5",
+    "date": "2026-10-09",
+    "excerpt_found": true,
+    "evidence_id": "s_39864bd5_e8",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "The Bureau of Indian Standards (BIS) is the national standards body of India responsible for formulating EV charging standards for the country.",
+    "entity": "Bureau of Indian Standards",
+    "topic": "policy",
+    "excerpt": "The Bureau of Indian Standards (BIS), the national standards body of India, is responsible for formulating EV charging standards for the country.",
+    "source_id": "s_b0de20af",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_b0de20af_e1",
+    "task_id": "t2",
+    "task_ids": [
+      "t2",
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null
+  },
+  {
+    "claim": "BIS is a member of the International Electrotechnical Commission (IEC).",
+    "entity": "Bureau of Indian Standards",
+    "topic": "policy",
+    "excerpt": "BIS is a member of the International Electrotechnical Commission (IEC), which is the global body that is developing reference standards to ensure interoperability and minimize trade barriers for electric vehicles and their components.",
+    "source_id": "s_b0de20af",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_b0de20af_e2",
+    "task_id": "t2",
+    "task_ids": [
+      "t2",
+      "t4"
+    ],
+    "claim_supported": false,
+    "date_source": null,
+    "data_year": null
+  },
+  {
+    "claim": "IS-17017-Part-23 specifies requirements for DC charging stations with power output ranging from 50kW to 200kW.",
+    "entity": "IS-17017-Part-23",
+    "topic": "technology",
+    "excerpt": "IS-17017-Part-23 describes the requirements for DC charging stations, with power output of 50kW to 200kW.",
+    "source_id": "s_b0de20af",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_b0de20af_e3",
+    "task_id": "t2",
+    "task_ids": [
+      "t2",
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null
+  },
+  {
+    "claim": "The BIS has finalized IS-17017-Part-25 to provide low DC power of less than 7kW for light EVs.",
+    "entity": "Bureau of Indian Standards",
+    "topic": "technology",
+    "excerpt": "Recently, the BIS has finalized the IS-17017-Part-25, which is specifically for providing low DC power of less than 7kW for light EVs.",
+    "source_id": "s_b0de20af",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_b0de20af_e4",
+    "task_id": "t2",
+    "task_ids": [
+      "t2",
+      "t4"
+    ],
+    "claim_supported": false,
+    "date_source": null,
+    "data_year": null
+  },
+  {
+    "claim": "IMARC estimated the India EV market size was $1.45 billion in 2025.",
+    "entity": "IMARC",
+    "topic": "market size",
+    "excerpt": "IMARC has estimated that the India EV market size reached $1.45billion in 2025, with projections indicating the market will attain $50.51billion by 2034.",
+    "source_id": "s_af8f590e",
+    "date": "2026-09-25",
+    "excerpt_found": true,
+    "evidence_id": "s_af8f590e_e1",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025
+  },
+  {
+    "claim": "IMARC projects the India EV market will reach $50.51 billion by 2034.",
+    "entity": "IMARC",
+    "topic": "market size",
+    "excerpt": "IMARC has estimated that the India EV market size reached $1.45billion in 2025, with projections indicating the market will attain $50.51billion by 2034.",
+    "source_id": "s_af8f590e",
+    "date": "2026-09-25",
+    "excerpt_found": true,
+    "evidence_id": "s_af8f590e_e2",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2034
+  },
+  {
+    "claim": "Battery EVs (BEVs) commanded a 58% market share in the India EV market according to IMARC.",
+    "entity": "IMARC",
+    "topic": "market share",
+    "excerpt": "Within their analysis, battery EVs (BEVs) commanded the largest market share at 58%, whilst plug-in hybrid EVs (PHEVs) held the second largest market share at 30%.",
+    "source_id": "s_af8f590e",
+    "date": "2026-09-25",
+    "excerpt_found": true,
+    "evidence_id": "s_af8f590e_e3",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "Markets and Markets reported the India EV market size was $5.76 billion in 2026.",
+    "entity": "Markets and Markets",
+    "topic": "market size",
+    "excerpt": "Markets and Markets has reported that the India EV market size stood at $5.76billion in 2026, with projections to reach $80.64billion by 2031.",
+    "source_id": "s_af8f590e",
+    "date": "2026-09-25",
+    "excerpt_found": true,
+    "evidence_id": "s_af8f590e_e4",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026
+  },
+  {
+    "claim": "Markets and Markets reported the India EV charging infrastructure market was valued at $129 million in 2026.",
+    "entity": "Markets and Markets",
+    "topic": "market size",
+    "excerpt": "Markets and Markets also reported that the India EV charging infrastructure market was valued at $129million in 2026, with projections to reach $824million by 2031.",
+    "source_id": "s_af8f590e",
+    "date": "2026-09-25",
+    "excerpt_found": true,
+    "evidence_id": "s_af8f590e_e5",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026
+  },
+  {
+    "claim": "Markets Research Future indicated the India electric car market achieved a $3.58 billion valuation in 2025.",
+    "entity": "Markets Research Future",
+    "topic": "market size",
+    "excerpt": "Markets Research Future indicates that the India electric car market achieved a $3.58billion valuation in 2025, with forecasts suggesting the EV market size could reach $5.05billion by the end of 2026 and $111.24billion by 2035.",
+    "source_id": "s_af8f590e",
+    "date": "2026-09-25",
+    "excerpt_found": true,
+    "evidence_id": "s_af8f590e_e6",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025
+  },
+  {
+    "claim": "Grand View Research stated that the India EV charging infrastructure market generated $557.4 million in revenue in 2025.",
+    "entity": "Grand View Research",
+    "topic": "market size",
+    "excerpt": "According to Grand View Research, the India EV charging infrastructure market generated $557.4million in revenue in 2025, which is projected to reach $3.86billion by 2033.",
+    "source_id": "s_af8f590e",
+    "date": "2026-09-25",
+    "excerpt_found": true,
+    "evidence_id": "s_af8f590e_e7",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025
+  },
+  {
+    "claim": "India accounted for 1.4% of the global electric vehicle charging infrastructure market in 2025 according to Grand View Research.",
+    "entity": "Grand View Research",
+    "topic": "market share",
+    "excerpt": "Whilst significant growth is projected, India accounted for only 1.4% of the global electric vehicle charging infrastructure market in 2025.",
+    "source_id": "s_af8f590e",
+    "date": "2026-09-25",
+    "excerpt_found": true,
+    "evidence_id": "s_af8f590e_e8",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": 2025
+  },
+  {
+    "claim": "Expert Market Research stated the India EV market size reached $7.38 billion in 2025.",
+    "entity": "Expert Market Research",
+    "topic": "market size",
+    "excerpt": "According to Expert Market Research, the India EV market size reached $7.38billion in 2025, with projections of reaching $145.12billion by 2035, representing a CAGR of 34.7% between 2026\u20132035.",
+    "source_id": "s_af8f590e",
+    "date": "2026-09-25",
+    "excerpt_found": true,
+    "evidence_id": "s_af8f590e_e9",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025
+  },
+  {
+    "claim": "Next MSC projects India's EV charging infrastructure market will reach $1.65 billion by 2030.",
+    "entity": "Next MSC",
+    "topic": "market size",
+    "excerpt": "Next MSC (NMSC) projects that India's EV charging infrastructure market will reach $1.65billion by 2030, with a CAGR of 27.67% between 2025\u20132030.",
+    "source_id": "s_af8f590e",
+    "date": "2026-09-25",
+    "excerpt_found": true,
+    "evidence_id": "s_af8f590e_e10",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2030
+  },
+  {
+    "claim": "The FAME II scheme concluded in March 2024.",
+    "entity": "FAME II",
+    "topic": "policy",
+    "excerpt": "The FAME II scheme officially concluded in March 2024; however, a successor scheme termed the Electric Mobility Promotion Scheme (EMPS-2024), specifically targeting two-wheelers and three-wheelers, operated until September 2024 before being integrated into the broader PM E-DRIVE scheme.",
+    "source_id": "s_af8f590e",
+    "date": "2026-09-25",
+    "excerpt_found": true,
+    "evidence_id": "s_af8f590e_e11",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2024
+  },
+  {
+    "claim": "The FAME II scheme sold 1,671,606 EVs over a five-year duration.",
+    "entity": "FAME II",
+    "topic": "market size",
+    "excerpt": "The FAME II scheme has delivered substantial impact on the Indian EV ecosystem, despite utilising only 69% of the INR11,500crore allocated budget. The FAME II scheme was instrumental in reducing upfront purchase costs and supporting the deployment of new public charging infrastructure in major urban centres. Throughout the FAME II scheme's implementation period, a total of 1,671,606 EVs were sold over the five-year duration, and over 8,900 public chargers were installed.",
+    "source_id": "s_af8f590e",
+    "date": "2026-09-25",
+    "excerpt_found": true,
+    "evidence_id": "s_af8f590e_e12",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "The PM E-DRIVE scheme is operational until March 31, 2028.",
+    "entity": "PM E-DRIVE",
+    "topic": "policy",
+    "excerpt": "The PM E-DRIVE scheme represents the latest policy initiative, operational until 31st March 2028, which will drive the next phase of EV and EV charging growth in India.",
+    "source_id": "s_af8f590e",
+    "date": "2026-09-25",
+    "excerpt_found": true,
+    "evidence_id": "s_af8f590e_e13",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2028
+  },
+  {
+    "claim": "The PM E-DRIVE scheme has been allocated a budget of INR 10,900 crore.",
+    "entity": "PM E-DRIVE",
+    "topic": "policy",
+    "excerpt": "The PM E-DRIVE scheme has been allocated an INR10,900crore budget and aims to subsidise 72,000+ charging stations and 22,000+ four-wheelers before the scheme concludes.",
+    "source_id": "s_af8f590e",
+    "date": "2026-09-25",
+    "excerpt_found": true,
+    "evidence_id": "s_af8f590e_e14",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "Uttar Pradesh accounts for 1.8 million EVs.",
+    "entity": "Uttar Pradesh",
+    "topic": "market size",
+    "excerpt": "In the North, the Delhi-NCR metropolitan area is currently serving as a policy testing ground for congestion-linked EV incentives; however, the entire North region demonstrates the highest EV adoption rates, with the Uttar Pradesh region accounting for 1.8million EVs.",
+    "source_id": "s_af8f590e",
+    "date": "2026-09-25",
+    "excerpt_found": true,
+    "evidence_id": "s_af8f590e_e15",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "Maharashtra accounts for approximately 64% of the West India EV market.",
+    "entity": "Maharashtra",
+    "topic": "market share",
+    "excerpt": "Within West India, Maharashtra represents the dominant market, accounting for approximately 64% of the region's EV market.",
+    "source_id": "s_af8f590e",
+    "date": "2026-09-25",
+    "excerpt_found": true,
+    "evidence_id": "s_af8f590e_e16",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "Karnataka's EV sales accounted for approximately 10% of India's total sales in August 2026.",
+    "entity": "Karnataka",
+    "topic": "market share",
+    "excerpt": "In August 2026, 26,597 EV sales occurred in Karnataka out of 297,820 nationwide EV sales (representing approximately 10% of India's total sales that month).",
+    "source_id": "s_af8f590e",
+    "date": "2026-09-25",
+    "excerpt_found": true,
+    "evidence_id": "s_af8f590e_e17",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026
+  },
+  {
+    "claim": "Two-wheelers account for 78% of the Karnataka EV market.",
+    "entity": "Karnataka",
+    "topic": "market share",
+    "excerpt": "Karnataka has now become India's third largest EV market, with two-wheelers accounting for 78% of the Karnataka market.",
+    "source_id": "s_af8f590e",
+    "date": "2026-09-25",
+    "excerpt_found": true,
+    "evidence_id": "s_af8f590e_e18",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "Karnataka has over 6,000 public EV charging stations.",
+    "entity": "Karnataka",
+    "topic": "infrastructure",
+    "excerpt": "Karnataka also maintains the most developed charging network in India, with over 6,000 public EV charging stations.",
+    "source_id": "s_af8f590e",
+    "date": "2026-09-25",
+    "excerpt_found": true,
+    "evidence_id": "s_af8f590e_e19",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "Karnataka's EV charging stations represent approximately 20% of India's EV charging network.",
+    "entity": "Karnataka",
+    "topic": "infrastructure",
+    "excerpt": "Karnataka's EV charging stations currently represent approximately 20% of India's EV charging network.",
+    "source_id": "s_af8f590e",
+    "date": "2026-09-25",
+    "excerpt_found": true,
+    "evidence_id": "s_af8f590e_e20",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "Uttar Pradesh accounts for approximately 20% of India's EV fleet.",
+    "entity": "Uttar Pradesh",
+    "topic": "market share",
+    "excerpt": "Uttar Pradesh accounts for approximately 20% of India's EV fleet, with a substantial proportion attributable to commercial three-wheelers.",
+    "source_id": "s_af8f590e",
+    "date": "2026-09-25",
+    "excerpt_found": true,
+    "evidence_id": "s_af8f590e_e21",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "Uttar Pradesh accounts for approximately 40% of India's three-wheelers.",
+    "entity": "Uttar Pradesh",
+    "topic": "market share",
+    "excerpt": "Uttar Pradesh also accounts for approximately 40% of India's three-wheelers, and the EVs in the region are supported by more than 2,300 public charging stations.",
+    "source_id": "s_af8f590e",
+    "date": "2026-09-25",
+    "excerpt_found": true,
+    "evidence_id": "s_af8f590e_e22",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "Uttar Pradesh represented 14% of India's EV sales in August 2026.",
+    "entity": "Uttar Pradesh",
+    "topic": "market share",
+    "excerpt": "In August 2026, Uttar Pradesh represented 14% of India's EV sales, demonstrating continued growth despite already maintaining the largest fleet.",
+    "source_id": "s_af8f590e",
+    "date": "2026-09-25",
+    "excerpt_found": true,
+    "evidence_id": "s_af8f590e_e23",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026
+  },
+  {
+    "claim": "Delhi maintains approximately 4,850 electric public buses as of July 2026.",
+    "entity": "Delhi",
+    "topic": "infrastructure",
+    "excerpt": "With this policy-driven transformation, Delhi is positioned to become one of the largest EV hubs in India, and it already maintains the largest fleet of electric public buses in India\u2014approximately 4,850 electric buses as of July 2026.",
+    "source_id": "s_af8f590e",
+    "date": "2026-09-25",
+    "excerpt_found": true,
+    "evidence_id": "s_af8f590e_e24",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026
+  },
+  {
+    "claim": "EV two-wheelers increased 65% year-on-year in August 2026.",
+    "entity": "India",
+    "topic": "growth",
+    "excerpt": "The market demonstrates no indication of deceleration, as EV two-wheelers increased 65% year-on-year in August 2026, with over 180,000 sales of EV two-wheelers in August 2026 alone.",
+    "source_id": "s_af8f590e",
+    "date": "2026-09-25",
+    "excerpt_found": true,
+    "evidence_id": "s_af8f590e_e25",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": 2026
+  },
+  {
+    "claim": "Most electric vehicle chargers currently used in India do not support vehicle-to-grid (V2G) capability.",
+    "entity": "India",
+    "topic": "technology",
+    "excerpt": "This is especially critical in vehicle-to-grid (V2G) scenarios, where EVs act as mobile batteries, charging when renewable energy is abundant and feeding power back during peak demand. For this to work, chargers must seamlessly switch between drawing and injecting power while staying synchronized with the grid. Most EV chargers in India today do not yet support this capability.",
+    "source_id": "s_3bc30a3c",
+    "date": "2026-02-27",
+    "excerpt_found": true,
+    "evidence_id": "s_3bc30a3c_e1",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "The Central Electricity Authority is in the process of developing national standards regarding bidirectional charging and grid safety.",
+    "entity": "Central Electricity Authority",
+    "topic": "policy",
+    "excerpt": "India has begun testing V2G through limited pilots, such as Kerala\u2019s program that incentivizes EV owners to export power during evening peaks. These trials show promise but also highlight challenges: most chargers and vehicles lack reverse power capability, and unmanaged backfeed could pose grid safety risks. To address this, the Central Electricity Authority (CEA) is developing national standards under the Ministry of Power.",
+    "source_id": "s_3bc30a3c",
+    "date": "2026-02-27",
+    "excerpt_found": true,
+    "evidence_id": "s_3bc30a3c_e2",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "The state of Kerala has implemented a pilot program that provides incentives for electric vehicle owners to export power to the grid during evening peak hours.",
+    "entity": "Kerala",
+    "topic": "policy",
+    "excerpt": "India has begun testing V2G through limited pilots, such as Kerala\u2019s program that incentivizes EV owners to export power during evening peaks.",
+    "source_id": "s_3bc30a3c",
+    "date": "2026-02-27",
+    "excerpt_found": true,
+    "evidence_id": "s_3bc30a3c_e3",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "In India, battery energy storage systems are increasingly paired with EV charging.",
+    "entity": "India",
+    "topic": "infrastructure",
+    "excerpt": "In India, battery energy storage systems (BESS) are increasingly paired with EV charging, though cost remains a challenge.",
+    "source_id": "s_3bc30a3c",
+    "date": "2026-02-27",
+    "excerpt_found": true,
+    "evidence_id": "s_3bc30a3c_e4",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "India's DISCOMs determine how solar power at charging stations is metered, billed, and connected to the grid.",
+    "entity": "DISCOMs",
+    "topic": "policy",
+    "excerpt": "In India, DISCOMs determine how solar power at charging stations is metered, billed, and connected to the grid.",
+    "source_id": "s_3bc30a3c",
+    "date": "2026-02-27",
+    "excerpt_found": true,
+    "evidence_id": "s_3bc30a3c_e5",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "Second-life EV batteries were used in Bengaluru\u2019s airport project.",
+    "entity": "Bengaluru",
+    "topic": "infrastructure",
+    "excerpt": "Where upfront battery cost is an issue, explore innovative options like second-life EV batteries (as done in Bengaluru\u2019s airport project) or battery leasing models.",
+    "source_id": "s_3bc30a3c",
+    "date": "2026-02-27",
+    "excerpt_found": true,
+    "evidence_id": "s_3bc30a3c_e6",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "FAME-II and PM E-DRIVE programs offer capital support for charging infrastructure.",
+    "entity": "FAME-II",
+    "topic": "policy",
+    "excerpt": "Programs like FAME-II and PM E-DRIVE offer capital support for charging infrastructure, while many states provide additional subsidies for chargers paired with solar.",
+    "source_id": "s_3bc30a3c",
+    "date": "2026-02-27",
+    "excerpt_found": true,
+    "evidence_id": "s_3bc30a3c_e7",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "PM E-DRIVE programs offer capital support for charging infrastructure.",
+    "entity": "PM E-DRIVE",
+    "topic": "policy",
+    "excerpt": "Programs like FAME-II and PM E-DRIVE offer capital support for charging infrastructure, while many states provide additional subsidies for chargers paired with solar.",
+    "source_id": "s_3bc30a3c",
+    "date": "2026-02-27",
+    "excerpt_found": true,
+    "evidence_id": "s_3bc30a3c_e8",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "IREDA provides soft loans and green credit lines to ease financing for EV charging projects.",
+    "entity": "IREDA",
+    "topic": "other",
+    "excerpt": "Beyond grants, soft loans and green credit lines from institutions like IREDA can ease financing.",
+    "source_id": "s_3bc30a3c",
+    "date": "2026-02-27",
+    "excerpt_found": true,
+    "evidence_id": "s_3bc30a3c_e9",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "Projects like the Jabalpur kiosks show the need for simple, rugged systems, easy maintenance, and local training in small towns and rural areas.",
+    "entity": "Jabalpur",
+    "topic": "infrastructure",
+    "excerpt": "In small towns and rural areas, projects like the Jabalpur kiosks show the need for simple, rugged systems, easy maintenance, and local training.",
+    "source_id": "s_3bc30a3c",
+    "date": "2026-02-27",
+    "excerpt_found": true,
+    "evidence_id": "s_3bc30a3c_e10",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "Maharashtra has a budget allocation of Rs. 1,993 crore for its Electric Vehicle Policy 2025\u20132030.",
+    "entity": "Maharashtra",
+    "topic": "policy",
+    "excerpt": "Maharashtra has introduced an ambitious Electric Vehicle (EV) Policy 2025\u20132030 with a budget allocation of Rs. 1,993 crore (US$ 230.48 million), more than twice the funding provided under the previous policy.",
+    "source_id": "s_1ecb33cc",
+    "date": "2026-10-22",
+    "excerpt_found": true,
+    "evidence_id": "s_1ecb33cc_e1",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "The Ministry of Heavy Industries approved a capital subsidy of Rs. 800 Crore to set up 7,432 Electric Vehicle Public Charging Stations under FAME India Phase-II.",
+    "entity": "Ministry of Heavy Industries",
+    "topic": "infrastructure",
+    "excerpt": "In Phase-II of the FAME India scheme, the Ministry of Heavy Industries (MHI) approved a capital subsidy of Rs. 800 Crore (US$ 96.13 million) to set up 7,432 Electric Vehicle Public Charging Stations (EVPCS).",
+    "source_id": "s_1ecb33cc",
+    "date": "2026-10-22",
+    "excerpt_found": true,
+    "evidence_id": "s_1ecb33cc_e2",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "The Ministry of Housing and Urban Affairs launched the PM-eBus Sewa Scheme with Rs. 20,000 crore to deploy 10,000 electric buses.",
+    "entity": "Ministry of Housing and Urban Affairs",
+    "topic": "infrastructure",
+    "excerpt": "The Ministry of Housing and Urban Affairs launched the PM-eBus Sewa Scheme on August 16, 2023, with a Rs. 20,000 crore (US$ 2.28 billion) support to deploy 10,000 electric buses through the PPP model.",
+    "source_id": "s_1ecb33cc",
+    "date": "2026-10-22",
+    "excerpt_found": true,
+    "evidence_id": "s_1ecb33cc_e3",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2023
+  },
+  {
+    "claim": "The Indian government plans to add approximately 72,000 new EV chargers by FY26.",
+    "entity": "Indian government",
+    "topic": "infrastructure",
+    "excerpt": "The Indian government launched ambitious plans to add approximately 72,000 new EV chargers by FY26, including around 22,100 fast chargers for cars, reflecting strong policy support for infrastructure development.",
+    "source_id": "s_1ecb33cc",
+    "date": "2026-10-22",
+    "excerpt_found": true,
+    "evidence_id": "s_1ecb33cc_e4",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "NITI Aayog targeted 30% EV share of total vehicle sales by 2030.",
+    "entity": "NITI Aayog",
+    "topic": "market share",
+    "excerpt": "In August 2025, NITI Aayog proposed a national EV policy focusing on mandates and disincentives rather than subsidies, targeting 30% EV share of total vehicle sales by 2030 and pilot programs for 100% electrification of buses and freight vehicles.",
+    "source_id": "s_1ecb33cc",
+    "date": "2026-10-22",
+    "excerpt_found": true,
+    "evidence_id": "s_1ecb33cc_e5",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2030
+  },
+  {
+    "claim": "FAME India Phase-II had a budget of Rs. 11,500 crore.",
+    "entity": "FAME India Phase-II",
+    "topic": "market size",
+    "excerpt": "FAME India Phase-II, launched in April 2019 with a budget of Rs. 11,500 crore (US$ 1.31 billion), aims to boost EV adoption, expand electric bus fleets, and develop charging infrastructure.",
+    "source_id": "s_1ecb33cc",
+    "date": "2026-10-22",
+    "excerpt_found": true,
+    "evidence_id": "s_1ecb33cc_e6",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2019
+  },
+  {
+    "claim": "The government increased the PLI allocation for automobiles and auto components to Rs. 3,500 crores in FY25.",
+    "entity": "government",
+    "topic": "policy",
+    "excerpt": "The government increased the PLI allocation for automobiles and auto components to Rs. 3,500 crores (US$ 409 million) in FY25, up from Rs. 604 crores (US$ 70 million) in FY24.",
+    "source_id": "s_1ecb33cc",
+    "date": "2026-10-22",
+    "excerpt_found": true,
+    "evidence_id": "s_1ecb33cc_e7",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "The Ministry of Heavy Industries launched the PM E-DRIVE Scheme with Rs. 10,900 crore.",
+    "entity": "Ministry of Heavy Industries",
+    "topic": "market size",
+    "excerpt": "The Ministry of Heavy Industries launched the PM E-DRIVE Scheme with Rs. 10,900 crore (US$ 1.30 billion) to boost India's EV ecosystem, promoting electric mobility and reducing fossil fuel reliance.",
+    "source_id": "s_1ecb33cc",
+    "date": "2026-10-22",
+    "excerpt_found": true,
+    "evidence_id": "s_1ecb33cc_e8",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "Setting up and operating an EV charging station is a de-licensed activity in India.",
+    "entity": "Ministry of Power",
+    "topic": "policy",
+    "excerpt": "No licence is needed. Setting up and running a charging station is a de-licensed activity under the Ministry of Power's guidelines.",
+    "source_id": "s_ca4a152c",
+    "date": "2026-02-27",
+    "excerpt_found": true,
+    "evidence_id": "s_ca4a152c_e1",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "The typical public DC charger in India is in use for 2 hours a day.",
+    "entity": "Ministry of Power",
+    "topic": "infrastructure",
+    "excerpt": "Location decides almost everything. The typical public DC charger in India is in use only about 2 hours a day.",
+    "source_id": "s_ca4a152c",
+    "date": "2026-02-27",
+    "excerpt_found": true,
+    "evidence_id": "s_ca4a152c_e2",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "SBI offers EV Mitra loans for charging stations.",
+    "entity": "SBI",
+    "topic": "infrastructure",
+    "excerpt": "Banks now have loans just for charging stations, like SBI EV Mitra and Indian Bank's IND Green Charge.",
+    "source_id": "s_ca4a152c",
+    "date": "2026-02-27",
+    "excerpt_found": true,
+    "evidence_id": "s_ca4a152c_e3",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "Indian Bank offers IND Green Charge loans for charging stations.",
+    "entity": "Indian Bank",
+    "topic": "infrastructure",
+    "excerpt": "Banks now have loans just for charging stations, like SBI EV Mitra and Indian Bank's IND Green Charge.",
+    "source_id": "s_ca4a152c",
+    "date": "2026-02-27",
+    "excerpt_found": true,
+    "evidence_id": "s_ca4a152c_e4",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "Setting up and operating an EV charging station is a de-licensed activity per 2024 guidelines.",
+    "entity": "Ministry of Power",
+    "topic": "policy",
+    "excerpt": "The Ministry of Power's 2024 guidelines say that setting up and operating an EV charging station is a de-licensed activity, so anyone can do it, as long as the station meets the technical and safety standards.",
+    "source_id": "s_ca4a152c",
+    "date": "2026-02-27",
+    "excerpt_found": true,
+    "evidence_id": "s_ca4a152c_e5",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2024
+  },
+  {
+    "claim": "Public DC chargers across India were in use 2 hours a day on average for the 30 days leading up to 1 November 2026.",
+    "entity": "Ministry of Power",
+    "topic": "infrastructure",
+    "excerpt": "This is the most important decision you'll make. We track how often public DC chargers across India are in use, and over the 30 days to 1 November 2026, the typical station's chargers were busy only about 9% of the time, roughly 2 hours a day.",
+    "source_id": "s_ca4a152c",
+    "date": "2026-02-27",
+    "excerpt_found": true,
+    "evidence_id": "s_ca4a152c_e6",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": 2026
+  },
+  {
+    "claim": "DISCOMs must provide up to 150 kW for separate LT connections for charging stations according to 2024 guidelines.",
+    "entity": "Ministry of Power",
+    "topic": "infrastructure",
+    "excerpt": "Under the Ministry of Power's 2024 guidelines, if you apply for a separate LT connection for the charging station, the DISCOM has to provide up to 150 kW.",
+    "source_id": "s_ca4a152c",
+    "date": "2026-02-27",
+    "excerpt_found": true,
+    "evidence_id": "s_ca4a152c_e7",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2024
+  },
+  {
+    "claim": "SBI EV Mitra offers loans for charging stations ranging from \u20b910 lakh to \u20b95 crore.",
+    "entity": "SBI EV Mitra",
+    "topic": "other",
+    "excerpt": "Bank loans: SBI EV Mitra lends from above \u20b910 lakh up to \u20b95 crore, and Indian Bank's new IND Green Charge goes up to \u20b910 crore.",
+    "source_id": "s_ca4a152c",
+    "date": "2026-02-27",
+    "excerpt_found": true,
+    "evidence_id": "s_ca4a152c_e8",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "Indian Bank's IND Green Charge offers loans for charging stations up to \u20b910 crore.",
+    "entity": "Indian Bank",
+    "topic": "other",
+    "excerpt": "Bank loans: SBI EV Mitra lends from above \u20b910 lakh up to \u20b95 crore, and Indian Bank's new IND Green Charge goes up to \u20b910 crore.",
+    "source_id": "s_ca4a152c",
+    "date": "2026-02-27",
+    "excerpt_found": true,
+    "evidence_id": "s_ca4a152c_e9",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "The Ministry of Power has designated the operation of EV charging stations as a de-licensed activity.",
+    "entity": "Ministry of Power",
+    "topic": "policy",
+    "excerpt": "Do I need a licence to start an EV charging station in India? No. The Ministry of Power's guidelines make setting up and running a charging station a de-licensed activity.",
+    "source_id": "s_ca4a152c",
+    "date": "2026-02-27",
+    "excerpt_found": true,
+    "evidence_id": "s_ca4a152c_e10",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "A 60 kW charger can generate between \u20b97,500 and \u20b967,500 in monthly earnings before expenses.",
+    "entity": "60 kW charger",
+    "topic": "other",
+    "excerpt": "How much does an EV charging station earn per month? It depends on how many hours a day cars are plugged in. In our worked example, one 60 kW charger earns from about \u20b97,500 to \u20b967,500 a month before rent, fixed charges, loan EMIs and tax, depending only on how busy the site is.",
+    "source_id": "s_ca4a152c",
+    "date": "2026-02-27",
+    "excerpt_found": true,
+    "evidence_id": "s_ca4a152c_e11",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "BluSmart uses DC001 chargers in their fleet operator business.",
+    "entity": "BluSmart",
+    "topic": "infrastructure",
+    "excerpt": "The DC001 chargers are used predominately in the fleet operator business like BluSmart and for 3Wheeler EVs.",
+    "source_id": "s_2239349e",
+    "date": "2023-02-17",
+    "excerpt_found": true,
+    "evidence_id": "s_2239349e_e1",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "A DC-001 charger has a charger efficiency loss of 7%.",
+    "entity": "DC-001",
+    "topic": "technology",
+    "excerpt": "For example \u2013 A DC-001 charger has a Charger Efficiency Loss of 7%. (i.e. It will cost you \u20b96.4 to deliver \u20b96 worth of energy to your customer).",
+    "source_id": "s_2239349e",
+    "date": "2023-02-17",
+    "excerpt_found": true,
+    "evidence_id": "s_2239349e_e2",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "Pulse Energy\u2019s platform is connected with 554 DC chargers.",
+    "entity": "Pulse Energy",
+    "topic": "market share",
+    "excerpt": "Currently, Pulse Energy\u2019s platform is connected with 554 DC chargers and 13,326 AC chargers.",
+    "source_id": "s_2239349e",
+    "date": "2023-02-17",
+    "excerpt_found": true,
+    "evidence_id": "s_2239349e_e3",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "Pulse Energy\u2019s platform is connected with 13,326 AC chargers.",
+    "entity": "Pulse Energy",
+    "topic": "market share",
+    "excerpt": "Currently, Pulse Energy\u2019s platform is connected with 554 DC chargers and 13,326 AC chargers.",
+    "source_id": "s_2239349e",
+    "date": "2023-02-17",
+    "excerpt_found": true,
+    "evidence_id": "s_2239349e_e4",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "Mera Gadi is a research platform for comparing models, analyzing specifications and understanding the long-term ownership implications of electric mobility.",
+    "entity": "Mera Gadi",
+    "topic": "other",
+    "excerpt": "For buyers attempting to navigate this rapidly evolving market, research platforms such as Mera Gadi have become valuable resources for comparing models, analyzing specifications and understanding the long-term ownership implications of electric mobility.",
+    "source_id": "s_a4047e0b",
+    "date": "2026-03-07",
+    "excerpt_found": true,
+    "evidence_id": "s_a4047e0b_e1",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "Mahindra BE 6 has a range of up to 619 km.",
+    "entity": "Mahindra",
+    "topic": "technology",
+    "excerpt": "Mahindra BE 6: A Bold Step in Electric Performance\n[Ed note: Vehicle specs are in local metric terms.]\nMahindra\u2019s BE 6 represents one of the company\u2019s most ambitious EV projects to date. Built on Mahindra\u2019s dedicated INGLO electric platform, the vehicle combines aggressive styling with strong performance capabilities.\nKey Specifications\n- Range: Up to 619 km",
+    "source_id": "s_a4047e0b",
+    "date": "2026-03-07",
+    "excerpt_found": true,
+    "evidence_id": "s_a4047e0b_e2",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "The Tata Nexon EV has a range of 395 km.",
+    "entity": "Tata",
+    "topic": "technology",
+    "excerpt": "Tata Nexon EV: India\u2019s Most Recognizable Electric SUV\nThe Tata Nexon EV has become one of the most important vehicles in India\u2019s electric mobility movement. By combining affordability with everyday practicality, the model has introduced thousands of drivers to electric transportation.\nKey Specifications\n- Range: 395 km",
+    "source_id": "s_a4047e0b",
+    "date": "2026-03-07",
+    "excerpt_found": true,
+    "evidence_id": "s_a4047e0b_e3",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "Volvo's EX30 is produced locally in Bengaluru.",
+    "entity": "Volvo",
+    "topic": "infrastructure",
+    "excerpt": "Produced locally in Bengaluru, the EX30 represents Volvo\u2019s strategy to expand its electric footprint in India.",
+    "source_id": "s_a4047e0b",
+    "date": "2026-03-07",
+    "excerpt_found": true,
+    "evidence_id": "s_a4047e0b_e4",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "Volvo EX30 has a range of 480 km.",
+    "entity": "Volvo",
+    "topic": "technology",
+    "excerpt": "Volvo EX30: Compact Electric Luxury\nVolvo\u2019s EX30 demonstrates how premium manufacturers are adapting to the growing demand for electric vehicles in emerging markets.\nAs the smallest electric SUV in Volvo\u2019s lineup, the EX30 focuses on safety, sustainability and modern Scandinavian design.\nKey Specifications\n- Range: 480 km",
+    "source_id": "s_a4047e0b",
+    "date": "2026-03-07",
+    "excerpt_found": true,
+    "evidence_id": "s_a4047e0b_e5",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "VinFast's VF7 has a range of 485 km.",
+    "entity": "VinFast",
+    "topic": "technology",
+    "excerpt": "VinFast VF7: A New Global Challenger\nVietnamese manufacturer VinFast is rapidly expanding internationally, and the VF7 represents its entry into India\u2019s competitive EV landscape.\nThe SUV offers impressive performance for its segment.\nKey Specifications\n- Range: 485 km",
+    "source_id": "s_a4047e0b",
+    "date": "2026-03-07",
+    "excerpt_found": true,
+    "evidence_id": "s_a4047e0b_e6",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "Tata Motors' Curvv EV has a range of 466 km.",
+    "entity": "Tata Motors",
+    "topic": "technology",
+    "excerpt": "Tata Curvv EV: Design Meets Practical Electric Range\nTata Motors continues expanding its electric lineup with the Curvv EV, a coupe-style SUV that blends distinctive styling with practical performance.\nKey Specifications\n- Range: 466 km",
+    "source_id": "s_a4047e0b",
+    "date": "2026-03-07",
+    "excerpt_found": true,
+    "evidence_id": "s_a4047e0b_e7",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "Charging infrastructure in India is unevenly distributed.",
+    "entity": "India",
+    "topic": "infrastructure",
+    "excerpt": "The Road Ahead for India\u2019s EV Industry While adoption is accelerating, the EV transition in India still faces several challenges. Charging infrastructure remains unevenly distributed, and upfront vehicle prices can still be higher than those of traditional vehicles in some segments.",
+    "source_id": "s_a4047e0b",
+    "date": "2026-03-07",
+    "excerpt_found": true,
+    "evidence_id": "s_a4047e0b_e8",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "Electric vehicles could account for a significant share of new car sales in India by the end of the decade.",
+    "entity": "India",
+    "topic": "market share",
+    "excerpt": "Industry analysts predict that by the end of the decade, electric vehicles could account for a significant share of new car sales in India.",
+    "source_id": "s_a4047e0b",
+    "date": "2026-03-07",
+    "excerpt_found": true,
+    "evidence_id": "s_a4047e0b_e9",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "Electric vehicles emerging in India in 2026 signal a fundamental transformation in mobility.",
+    "entity": "India",
+    "topic": "technology",
+    "excerpt": "The electric vehicles emerging in India in 2026 represent far more than incremental improvements\u2014they signal a fundamental transformation in how mobility will function in the future.",
+    "source_id": "s_a4047e0b",
+    "date": "2026-03-07",
+    "excerpt_found": true,
+    "evidence_id": "s_a4047e0b_e10",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026
+  }
+]

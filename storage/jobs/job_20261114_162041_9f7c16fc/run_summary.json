@@ -1,0 +1,22 @@
+{
+  "job_id": "job_20261114_162041_9f7c16fc",
+  "question": "Artificial Intelligence market opportunities and challenges in India",
+  "created_at": "2026-11-14T16:23:26.644253",
+  "status": "completed",
+  "statistics": {
+    "tasks": 4,
+    "sources": 59,
+    "extracted_evidence": 104,
+    "validated_evidence": 104,
+    "accepted": 33,
+    "needs_review": 54,
+    "rejected": 17
+  },
+  "outputs": {
+    "report_json": "storage\\jobs\\job_20261114_162041_9f7c16fc\\report.json",
+    "validated_evidence": "storage\\jobs\\job_20261114_162041_9f7c16fc\\validated_evidence.json",
+    "plan_json": "storage\\jobs\\job_20261114_162041_9f7c16fc\\plan.json",
+    "pdf": "storage/reports\\job_20261114_162041_9f7c16fc.pdf"
+  },
+  "warnings": []
+}

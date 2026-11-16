@@ -1,0 +1,435 @@
+{
+  "job_id": "job_20261114_180248_897b6648",
+  "sections": [
+    {
+      "title": "Executive Summary",
+      "content": "India is a leading global nation for Artificial Intelligence (AI) with the highest rank for AI skill penetration [E1][E2]. The sector is supported by significant investment, with AI startups raising $1.48 billion in the first quarter of 2026 [E3]. Despite this growth, the industry faces a substantial talent shortage, with projections indicating a deficit of over 1.4 million AI professionals by 2026 [E4]. Regulatory frameworks are evolving to manage development, including the India AI Governance Guidelines and the Reserve Bank of India's FREE-AI Framework (verify the current status) [E5][E6].",
+      "citations": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5",
+        "E6"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Market Insights",
+      "content": "The Indian AI market is characterized by high investment activity and infrastructure development. In the first quarter of 2026, AI startups accounted for nearly 38% of all startup capital deployed in the country [E7]. Furthermore, India is expected to attract $200 billion in data centre investment by 2030, while the semiconductor market is projected to reach between $100 billion and $110 billion by the same year [E8][E9]. Demand for AI-related skills is high, yet the workforce faces significant constraints. Approximately 82% of employers in India report difficulty filling roles, and 45% of organisations identify AI, digital, and data skills as their largest workforce constraint [E10][E11]. Only 25% of Indian organisations believe their workforce is adequately prepared to use AI effectively [E12].",
+      "citations": [
+        "E7",
+        "E8",
+        "E9",
+        "E10",
+        "E11",
+        "E12"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Competitor Analysis",
+      "content": "The competitive landscape includes companies developing foundation models and specialized AI diagnostic tools. Krutrim is identified as an Indian AI-native foundation-model startup with a unicorn or near-unicorn valuation as of mid-2026 [E13][E14]. Additionally, Qure.ai operates in the market, having trained its diagnostic models on tens of millions of patient scans [E15]. OpenAI is also noted as a provider of foundation models upon which various startups depend [E16].",
+      "citations": [
+        "E13",
+        "E14",
+        "E15",
+        "E16"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Opportunities and Risks",
+      "content": "Opportunities:\n• India is projected to attract $200 billion in data centre investment by 2030, supporting the infrastructure needed for AI growth [E8].\n• The semiconductor market in India is expected to reach between $100 billion and $110 billion by 2030, providing a foundation for hardware-intensive AI technologies [E9].\n• Initiatives like the Bharat EduAI Stack and the IndiaAI Innovation Challenge are actively fostering AI development and educational infrastructure within the country [E17][E18].\nRisks:\n• Indian employers face a severe talent shortage, with 82% reporting difficulty filling roles and a projected deficit of more than 1.4 million AI professionals by 2026 [E10][E4].\n• Only 25% of Indian organisations believe their workforce is adequately prepared to use AI effectively, highlighting a significant gap in practical readiness and training [E12][E19].\n• The regulatory environment for AI remains complex, with government advisories regarding under-tested models being issued and subsequently revised in 2026 (verify the current status) [E20][E21][E22].",
+      "citations": [
+        "E8",
+        "E9",
+        "E17",
+        "E18",
+        "E10",
+        "E4",
+        "E12",
+        "E19",
+        "E20",
+        "E21",
+        "E22"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Recommendations",
+      "content": "• Invest in internal training programs to address the 82.9% Generative AI skills gap, as current workforce readiness is low [E12][E23].\n• Monitor regulatory updates from the Ministry of Electronics and Information Technology and the AI Governance and Economic Group to ensure compliance with evolving safety and accountability standards (verify the current status) [E20][E24].\n• Leverage the IndiaAI Mission infrastructure and potential partnerships with established AI-native startups to accelerate product development and market entry (verify the current status) [E14][E25].",
+      "citations": [
+        "E12",
+        "E23",
+        "E20",
+        "E24",
+        "E14",
+        "E25"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Evidence Requiring Review",
+      "content": "These 8 statements could not be fully confirmed, so they are not used in the findings above. The reason for each is shown in brackets. Please check them before using them.\n• India's AI startups broke a funding record in the first quarter of 2026 [E26] (from a page written by a user).\n• India may reach $2 to 2.5 billion in total AI startup funding by the end of 2026 [E27] (from a page written by a user).\n• India's AI ecosystem raised $3.94 billion in venture capital in the first quarter of 2026 [E28] (from a page written by a user).\n• Sarvam AI reached a valuation of $1.5 billion in 2026 [E29] (from a page written by a user).\n• Krutrim trained large language models on 2 trillion tokens across 22 Indian languages [E30] (from a page written by a user).\n• In mid-2026, Krutrim refocused on its AI cloud business, paused its custom-silicon and foundational-model work, and cut headcount from roughly 550 to around 150 [E31] (from a page written by a user).\n• Lightspeed Venture Partners is one of the most active investors in Indian AI startups [E32] (publication date unknown).\n• Krutrim became India’s first AI unicorn in January 2024 [E33] (from a page written by a user).",
+      "citations": [
+        "E26",
+        "E27",
+        "E28",
+        "E29",
+        "E30",
+        "E31",
+        "E32",
+        "E33"
+      ],
+      "needs_review": true
+    },
+    {
+      "title": "Method and Limitations",
+      "content": "AI-generated draft for consultant review. Not final client advice.\nNumbers in square brackets, such as [E3], refer to the Evidence Appendix at the end of this report.\nFacts checked: 70 accepted, 52 need review (the 8 most relevant are listed in the review section) and 12 rejected (duplicates, quotes not found on the page, or claims the quote does not support).\nEstimates of the same market differ between sources. They are shown side by side, not averaged.\nDates come from page information and are approximate. Rules and schemes change, so check policy statements with the official source before relying on them.",
+      "citations": [],
+      "needs_review": false
+    },
+    {
+      "title": "Glossary",
+      "content": "Simple explanations of important terms used in this report. These definitions are explanatory notes, not research evidence.\n- Artificial Intelligence: This refers to computer systems designed to perform tasks that typically require human intelligence.\n- AI skill penetration: This metric measures the proportion of the workforce that possesses specialized skills related to artificial intelligence.\n- Foundation models: These are large scale machine learning models trained on vast datasets that can be adapted to a wide range of downstream tasks.\n- Semiconductor: This is a material used to create the electronic chips that power computing hardware and artificial intelligence systems.\n- Generative AI: This is a type of artificial intelligence capable of creating new content such as text, images, or code.\n- Unicorn: This term describes a privately held startup company with a valuation exceeding one billion dollars.\n- Data centre: This is a physical facility used to house computer systems and associated components for storing and processing large amounts of data.\n- AI-native: This describes a company or product built from the ground up with artificial intelligence as its primary technology.",
+      "citations": [],
+      "needs_review": false
+    }
+  ],
+  "charts": [],
+  "evidence_appendix": [
+    {
+      "id": "E1",
+      "evidence_id": "s_0254443b_e2",
+      "claim": "India holds Rank 1 in AI skill penetration.",
+      "source": "spmrf.org",
+      "source_url": "https://spmrf.org/indiaai-mission-a-major-leap-in-indias-ai-ecosystem",
+      "date": "2025-03-26",
+      "confidence": 0.755,
+      "status": "accepted"
+    },
+    {
+      "id": "E2",
+      "evidence_id": "s_0254443b_e3",
+      "claim": "India is recognized among the Top 10 AI nations globally.",
+      "source": "spmrf.org",
+      "source_url": "https://spmrf.org/indiaai-mission-a-major-leap-in-indias-ai-ecosystem",
+      "date": "2025-03-26",
+      "confidence": 0.755,
+      "status": "accepted"
+    },
+    {
+      "id": "E3",
+      "evidence_id": "s_07a870f0_e1",
+      "claim": "AI startups in India raised approximately $1.48 billion in the first quarter of 2026.",
+      "source": "seafund.in",
+      "source_url": "https://seafund.in/article/ai-venture-capital-india-what-top-ai-startups-in-india-need-to-prove-in-2026",
+      "date": "2026-09-16",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E4",
+      "evidence_id": "s_add103e9_e5",
+      "claim": "India could face a shortage of more than 1.4 million AI professionals by 2026 according to a NASSCOM-McKinsey study.",
+      "source": "onlineaju.ac.in",
+      "source_url": "https://onlineaju.ac.in/india-ai-talent-shortage-2026",
+      "date": "2026-08-26",
+      "confidence": 0.892,
+      "status": "accepted"
+    },
+    {
+      "id": "E5",
+      "evidence_id": "s_126e9489_e3",
+      "claim": "The Ministry of Electronics and Information Technology published India AI Governance Guidelines in November 2025.",
+      "source": "regulations.ai",
+      "source_url": "https://regulations.ai/regulations/RAI-IN-NA-SUMMARY-2026",
+      "date": "2026-09-13",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E6",
+      "evidence_id": "s_126e9489_e4",
+      "claim": "The Reserve Bank of India issued the FREE-AI Framework in 2025.",
+      "source": "regulations.ai",
+      "source_url": "https://regulations.ai/regulations/RAI-IN-NA-SUMMARY-2026",
+      "date": "2026-09-13",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E7",
+      "evidence_id": "s_07a870f0_e2",
+      "claim": "AI startups in India accounted for nearly 38% of all startup capital deployed in the country during the first quarter of 2026.",
+      "source": "seafund.in",
+      "source_url": "https://seafund.in/article/ai-venture-capital-india-what-top-ai-startups-in-india-need-to-prove-in-2026",
+      "date": "2026-09-16",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E8",
+      "evidence_id": "s_d8a0cc74_e4",
+      "claim": "India is expected to attract $200 billion in data centre investment by 2030.",
+      "source": "private.kotak.bank.in",
+      "source_url": "https://private.kotak.bank.in/insights/ai-investments-india-2026-trends-top-sectors.php",
+      "date": "2025-04-01",
+      "confidence": 0.755,
+      "status": "accepted"
+    },
+    {
+      "id": "E9",
+      "evidence_id": "s_d8a0cc74_e5",
+      "claim": "India's semiconductor market may reach $100 billion to $110 billion by 2030.",
+      "source": "private.kotak.bank.in",
+      "source_url": "https://private.kotak.bank.in/insights/ai-investments-india-2026-trends-top-sectors.php",
+      "date": "2025-04-01",
+      "confidence": 0.755,
+      "status": "accepted"
+    },
+    {
+      "id": "E10",
+      "evidence_id": "s_add103e9_e1",
+      "claim": "82% of employers in India report difficulty filling roles according to the 2026 Talent Shortage Survey.",
+      "source": "onlineaju.ac.in",
+      "source_url": "https://onlineaju.ac.in/india-ai-talent-shortage-2026",
+      "date": "2026-08-26",
+      "confidence": 0.892,
+      "status": "accepted"
+    },
+    {
+      "id": "E11",
+      "evidence_id": "s_add103e9_e2",
+      "claim": "Nearly 45% of Indian organisations identify AI, digital, and data skills as their single largest workforce constraint according to the SHRM India Skill Intelligence Report 2026.",
+      "source": "onlineaju.ac.in",
+      "source_url": "https://onlineaju.ac.in/india-ai-talent-shortage-2026",
+      "date": "2026-08-26",
+      "confidence": 0.892,
+      "status": "accepted"
+    },
+    {
+      "id": "E12",
+      "evidence_id": "s_add103e9_e8",
+      "claim": "Only 25% of Indian organisations believe their workforce is adequately prepared to use AI effectively according to the Kyndryl People Readiness Report 2026.",
+      "source": "onlineaju.ac.in",
+      "source_url": "https://onlineaju.ac.in/india-ai-talent-shortage-2026",
+      "date": "2026-08-26",
+      "confidence": 0.892,
+      "status": "accepted"
+    },
+    {
+      "id": "E13",
+      "evidence_id": "s_e65eeb24_e1",
+      "claim": "Krutrim is an Indian AI-native company with a unicorn or near-unicorn valuation as of mid-2026.",
+      "source": "startupcoaching.in",
+      "source_url": "https://www.startupcoaching.in/blogs/indian-ai-startups-in-2026-where-is-the-money-really-going",
+      "date": "",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E14",
+      "evidence_id": "s_07a870f0_e6",
+      "claim": "Krutrim is a foundation-model startup in India.",
+      "source": "seafund.in",
+      "source_url": "https://seafund.in/article/ai-venture-capital-india-what-top-ai-startups-in-india-need-to-prove-in-2026",
+      "date": "2026-09-16",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E15",
+      "evidence_id": "s_07a870f0_e7",
+      "claim": "Qure.ai has trained its diagnostic models on tens of millions of patient scans.",
+      "source": "seafund.in",
+      "source_url": "https://seafund.in/article/ai-venture-capital-india-what-top-ai-startups-in-india-need-to-prove-in-2026",
+      "date": "2026-09-16",
+      "confidence": 0.75,
+      "status": "accepted"
+    },
+    {
+      "id": "E16",
+      "evidence_id": "s_07a870f0_e13",
+      "claim": "OpenAI is a foundation model provider that startups are dependent on.",
+      "source": "seafund.in",
+      "source_url": "https://seafund.in/article/ai-venture-capital-india-what-top-ai-startups-in-india-need-to-prove-in-2026",
+      "date": "2026-09-16",
+      "confidence": 0.75,
+      "status": "accepted"
+    },
+    {
+      "id": "E17",
+      "evidence_id": "s_232eb6da_e3",
+      "claim": "The Ministry of Education launched the Bodhan AI Centre of Excellence and announced the development of the Bharat EduAI Stack.",
+      "source": "dailypioneer.com",
+      "source_url": "https://dailypioneer.com/news/india-from-digital-to-ai-public-infrastructure",
+      "date": "2026-10-06",
+      "confidence": 0.75,
+      "status": "accepted"
+    },
+    {
+      "id": "E18",
+      "evidence_id": "s_0254443b_e13",
+      "claim": "30 AI solutions have been shortlisted for further development in the IndiaAI Innovation Challenge.",
+      "source": "spmrf.org",
+      "source_url": "https://spmrf.org/indiaai-mission-a-major-leap-in-indias-ai-ecosystem",
+      "date": "2025-03-26",
+      "confidence": 0.755,
+      "status": "accepted"
+    },
+    {
+      "id": "E19",
+      "evidence_id": "s_add103e9_e9",
+      "claim": "SHRM reports that India has gaps in training, practical readiness and alignment between skills and AI requirements.",
+      "source": "onlineaju.ac.in",
+      "source_url": "https://onlineaju.ac.in/india-ai-talent-shortage-2026",
+      "date": "2026-08-26",
+      "confidence": 0.892,
+      "status": "accepted"
+    },
+    {
+      "id": "E20",
+      "evidence_id": "s_ce82c329_e5",
+      "claim": "On 1 March, the MeitY issued an advisory directing intermediaries and platforms to seek explicit government permission before making under-tested or unreliable AI models available to users in India.",
+      "source": "orfonline.org",
+      "source_url": "https://www.orfonline.org/expert-speak/to-regulate-or-not-to-regulate-india-s-ai-dilemma",
+      "date": "2026-10-22",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E21",
+      "evidence_id": "s_ce82c329_e6",
+      "claim": "On 15 March, MeitY issued a revised advisory removing the prior-permission requirement and the requirement to submit compliance reports.",
+      "source": "orfonline.org",
+      "source_url": "https://www.orfonline.org/expert-speak/to-regulate-or-not-to-regulate-india-s-ai-dilemma",
+      "date": "2026-10-22",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E22",
+      "evidence_id": "s_ce82c329_e12",
+      "claim": "In September 2026, the Union IT Minister acknowledged the role of regulation in ensuring user safety while highlighting the complexity of regulating AI.",
+      "source": "orfonline.org",
+      "source_url": "https://www.orfonline.org/expert-speak/to-regulate-or-not-to-regulate-india-s-ai-dilemma",
+      "date": "2026-10-22",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E23",
+      "evidence_id": "s_add103e9_e4",
+      "claim": "Quess Corp’s India AI Workforce Analysis 2026 found an 82.9% GenAI skills gap based on 350,000 AI-related job postings.",
+      "source": "onlineaju.ac.in",
+      "source_url": "https://onlineaju.ac.in/india-ai-talent-shortage-2026",
+      "date": "2026-08-26",
+      "confidence": 0.892,
+      "status": "accepted"
+    },
+    {
+      "id": "E24",
+      "evidence_id": "s_ce82c329_e10",
+      "claim": "In April 2026, MeitY constituted the AI Governance and Economic Group to coordinate AI policy across ministries and regulators.",
+      "source": "orfonline.org",
+      "source_url": "https://www.orfonline.org/expert-speak/to-regulate-or-not-to-regulate-india-s-ai-dilemma",
+      "date": "2026-10-22",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E25",
+      "evidence_id": "s_07a870f0_e8",
+      "claim": "The IndiaAI Mission committed approximately ₹10,300 crore over five years.",
+      "source": "seafund.in",
+      "source_url": "https://seafund.in/article/ai-venture-capital-india-what-top-ai-startups-in-india-need-to-prove-in-2026",
+      "date": "2026-09-16",
+      "confidence": 0.73,
+      "status": "accepted"
+    },
+    {
+      "id": "E26",
+      "evidence_id": "s_e1356fbf_e1",
+      "claim": "India's AI startups broke a funding record in the first quarter of 2026.",
+      "source": "youtube.com",
+      "source_url": "https://www.youtube.com/watch?v=7WczS_uRm1w&vl=en",
+      "date": "",
+      "confidence": 0.718,
+      "status": "needs_review"
+    },
+    {
+      "id": "E27",
+      "evidence_id": "s_e1356fbf_e5",
+      "claim": "India may reach $2 to 2.5 billion in total AI startup funding by the end of 2026.",
+      "source": "youtube.com",
+      "source_url": "https://www.youtube.com/watch?v=7WczS_uRm1w&vl=en",
+      "date": "",
+      "confidence": 0.718,
+      "status": "needs_review"
+    },
+    {
+      "id": "E28",
+      "evidence_id": "s_d6fa7ef9_e3",
+      "claim": "India's AI ecosystem raised $3.94 billion in venture capital in the first quarter of 2026.",
+      "source": "medium.com",
+      "source_url": "https://medium.com/@pratik-rupareliya/top-20-indian-ai-companies-building-real-infrastructure-in-2026-a97473ffa287",
+      "date": "2026-02-18",
+      "confidence": 0.718,
+      "status": "needs_review"
+    },
+    {
+      "id": "E29",
+      "evidence_id": "s_d6fa7ef9_e2",
+      "claim": "Sarvam AI reached a valuation of $1.5 billion in 2026.",
+      "source": "medium.com",
+      "source_url": "https://medium.com/@pratik-rupareliya/top-20-indian-ai-companies-building-real-infrastructure-in-2026-a97473ffa287",
+      "date": "2026-02-18",
+      "confidence": 0.688,
+      "status": "needs_review"
+    },
+    {
+      "id": "E30",
+      "evidence_id": "s_d6fa7ef9_e7",
+      "claim": "Krutrim trained large language models on 2 trillion tokens across 22 Indian languages.",
+      "source": "medium.com",
+      "source_url": "https://medium.com/@pratik-rupareliya/top-20-indian-ai-companies-building-real-infrastructure-in-2026-a97473ffa287",
+      "date": "2026-02-18",
+      "confidence": 0.688,
+      "status": "needs_review"
+    },
+    {
+      "id": "E31",
+      "evidence_id": "s_d6fa7ef9_e12",
+      "claim": "In mid-2026, Krutrim refocused on its AI cloud business, paused its custom-silicon and foundational-model work, and cut headcount from roughly 550 to around 150.",
+      "source": "medium.com",
+      "source_url": "https://medium.com/@pratik-rupareliya/top-20-indian-ai-companies-building-real-infrastructure-in-2026-a97473ffa287",
+      "date": "2026-02-18",
+      "confidence": 0.688,
+      "status": "needs_review"
+    },
+    {
+      "id": "E32",
+      "evidence_id": "s_e65eeb24_e4",
+      "claim": "Lightspeed Venture Partners is one of the most active investors in Indian AI startups.",
+      "source": "startupcoaching.in",
+      "source_url": "https://www.startupcoaching.in/blogs/indian-ai-startups-in-2026-where-is-the-money-really-going",
+      "date": "",
+      "confidence": 0.68,
+      "status": "needs_review"
+    },
+    {
+      "id": "E33",
+      "evidence_id": "s_d6fa7ef9_e6",
+      "claim": "Krutrim became India’s first AI unicorn in January 2024.",
+      "source": "medium.com",
+      "source_url": "https://medium.com/@pratik-rupareliya/top-20-indian-ai-companies-building-real-infrastructure-in-2026-a97473ffa287",
+      "date": "2026-02-18",
+      "confidence": 0.677,
+      "status": "needs_review"
+    }
+  ],
+  "pdf_path": "storage/reports\\job_20261114_180248_897b6648.pdf",
+  "warnings": []
+}

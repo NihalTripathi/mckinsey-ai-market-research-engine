@@ -1,0 +1,82 @@
+{
+  "research_objectives": [
+    "Assess the current market size and projected growth of the AI sector in India through 2030.",
+    "Identify key industrial sectors driving AI adoption and the competitive landscape of AI startups and enterprises.",
+    "Evaluate the regulatory environment and government policy frameworks influencing AI deployment in India.",
+    "Analyze critical infrastructure challenges and human capital requirements for sustained AI growth."
+  ],
+  "tasks": [
+    {
+      "task_id": "t1",
+      "task_name": "Market Sizing and Growth Projections",
+      "search_queries": [
+        "India AI market size forecast 2026-2030",
+        "AI industry growth trends India 2026",
+        "key drivers of AI adoption in Indian businesses 2026"
+      ],
+      "research_questions": [
+        "What is the estimated compound annual growth rate of the Indian AI market through 2030?",
+        "Which industries are leading in AI investment within India?",
+        "What are the primary macro-economic drivers for AI growth in the region?"
+      ],
+      "expected_evidence": "Industry market research reports and economic white papers",
+      "priority": "high"
+    },
+    {
+      "task_id": "t2",
+      "task_name": "Competitive Landscape and Business Models",
+      "search_queries": [
+        "leading AI companies and startups in India 2026",
+        "AI business model innovation India",
+        "enterprise AI adoption strategies in India"
+      ],
+      "research_questions": [
+        "What business models are proving successful for AI companies in India?",
+        "How is the startup ecosystem differentiating itself in the global AI market?",
+        "What is the competitive dynamic between domestic AI players and international tech giants in India?"
+      ],
+      "expected_evidence": "Venture capital reports and corporate industry analysis",
+      "priority": "high"
+    },
+    {
+      "task_id": "t3",
+      "task_name": "Regulatory and Policy Framework Analysis",
+      "search_queries": [
+        "India national AI strategy and policy updates 2026",
+        "data privacy and AI ethics regulation India",
+        "government initiatives for AI development in India"
+      ],
+      "research_questions": [
+        "How are current government policies shaping AI development and responsible usage?",
+        "What are the key regulatory hurdles for AI companies operating in India?",
+        "Are there specific incentives for local AI research and development?"
+      ],
+      "expected_evidence": "Government policy documents and legal analysis",
+      "priority": "high"
+    },
+    {
+      "task_id": "t4",
+      "task_name": "Infrastructure and Human Capital Assessment",
+      "search_queries": [
+        "AI talent availability and skill gap India 2026",
+        "AI computing infrastructure availability in India",
+        "challenges in scaling AI infrastructure India"
+      ],
+      "research_questions": [
+        "Is there a sufficient talent pool for high-level AI research and engineering in India?",
+        "What are the main infrastructure bottlenecks for deploying large-scale AI models?",
+        "How is the demand for localized AI hardware and cloud capacity being met?"
+      ],
+      "expected_evidence": "Academic studies and technical labor market reports",
+      "priority": "medium"
+    }
+  ],
+  "industry": "Artificial Intelligence",
+  "geography": "India",
+  "timeframe": "2025-2030",
+  "assumptions": [
+    "Assumed that the research should focus on both generative and predictive AI applications.",
+    "Assumed that 'opportunities' encompass both commercial enterprise growth and social impact applications.",
+    "Assumed that the current geopolitical climate remains stable enough for planned infrastructure investments."
+  ]
+}

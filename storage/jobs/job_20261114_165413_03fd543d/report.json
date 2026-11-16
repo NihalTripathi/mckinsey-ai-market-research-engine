@@ -1,0 +1,394 @@
+{
+  "job_id": "job_20261114_165413_03fd543d",
+  "sections": [
+    {
+      "title": "Executive Summary",
+      "content": "India's artificial intelligence market is valued at approximately Rs 1.2 to 1.5 lakh crore in 2026 [E1], with an annual growth rate of 28% to 35% [E2]. The country accounts for approximately 5% to 6% of the global artificial intelligence market [E3] and has recorded significant funding and startup activity [E4][E5]. However, the market faces major challenges, including a severe skills gap (verify the current status) [E6] and an evolving regulatory landscape [E7][E8].",
+      "citations": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5",
+        "E6",
+        "E7",
+        "E8"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Market Insights",
+      "content": "The artificial intelligence market in India is valued at approximately Rs 1.2 to 1.5 lakh crore in 2026 [E1] and grows at an annual rate of 28% to 35% [E2]. India accounts for approximately 5% to 6% of the global artificial intelligence market [E3]. Indian artificial intelligence startups raised over $3 billion (United States dollars) in 2023 to 2024 [E5], and the country recorded $1.22 billion in artificial intelligence specific funding in 2025 [E4]. Total data center capacity in India exceeded 700MW (megawatts) by 2024 [E9], and India is expected to attract $200 billion in data centre investment by 2030 [E10]. The semiconductor market in India may reach $100 billion to $110 billion by 2030 [E11]. Demand for artificial intelligence skills is driven heavily by the technology and BFSI (Banking, Financial Services, and Insurance) sectors [E12]. At the same time, workforce constraints are significant, as nearly 45% of Indian organisations identify artificial intelligence, digital, and data skills as their single largest workforce constraint [E13]. There is an 82.9% generative artificial intelligence skills gap in India [E6], and only 25% of Indian organisations believe their workforce is adequately prepared to use artificial intelligence effectively [E14]. Furthermore, India could face a shortage of more than 1.4 million artificial intelligence professionals by 2026 [E15], with 300,000 to 400,000 unfilled positions [E16].",
+      "citations": [
+        "E1",
+        "E2",
+        "E3",
+        "E5",
+        "E4",
+        "E9",
+        "E10",
+        "E11",
+        "E12",
+        "E13",
+        "E6",
+        "E14",
+        "E15",
+        "E16"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Competitor Analysis",
+      "content": "The accepted evidence does not identify enough verified companies providing products or services in the Artificial Intelligence market to support a company-level competitor comparison. Funding and investor activity may provide market context, but do not establish that an organisation is a competitor.",
+      "citations": [],
+      "needs_review": false
+    },
+    {
+      "title": "Opportunities and Risks",
+      "content": "Opportunities:\n• Significant capital is flowing into the sector, with investors committing over 250 billion dollars at the 2026 India AI Impact Summit to support infrastructure and research [E17].\n• India is positioned to become a major hub for data center infrastructure, with expectations to attract 200 billion dollars in investment by 2030 [E10].\n• The semiconductor market in India presents a substantial growth opportunity, projected to reach between 100 billion and 110 billion dollars by 2030 [E11].\nRisks:\n• There is a severe shortage of qualified professionals, with projections indicating a potential deficit of more than 1.4 million AI experts by 2026 [E15].\n• The medical sector faces specific ethical and legal risks regarding AI, particularly concerning patient consent, the secondary use of data, and data repurposing [E18].\n• Existing legal frameworks, such as the Information Technology (IT) Act, currently lack specific provisions to address the unique challenges posed by artificial intelligence (verify the current status) [E19].",
+      "citations": [
+        "E17",
+        "E10",
+        "E11",
+        "E15",
+        "E18",
+        "E19"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Recommendations",
+      "content": "• Invest in targeted training and upskilling programs to help mitigate the reported 82.9% generative artificial intelligence skills gap [E6] and the shortage of professionals [E15].\n• Monitor regulatory developments closely, including the India AI Governance Guidelines (verify the current status) [E7] and the Artificial Intelligence (Ethics & Accountability) Bill [E8], to ensure compliance with emerging rules.\n• Evaluate data management practices against the Digital Personal Data Protection Act (verify the current status) [E20] to address legal risks related to data consent and repurposing [E18].",
+      "citations": [
+        "E6",
+        "E15",
+        "E7",
+        "E8",
+        "E20",
+        "E18"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Evidence Requiring Review",
+      "content": "These 8 statements could not be fully confirmed, so they are not used in the findings above. The reason for each is shown in brackets. Please check them before using them.\n• The AI Data Labs Network consists of 570 labs across Tier-2 and Tier-3 cities [E21] (publication date unknown).\n• The IndiaAI Mission has onboarded over 38,000 GPUs [E22] (publication date unknown).\n• The IndiaAI Mission has a target of 100,000 GPUs [E23] (publication date unknown).\n• AIKosh hosts over 9,500 datasets [E24] (publication date unknown).\n• AIKosh hosts 273 sectoral models [E25] (publication date unknown).\n• The National Supercomputing Mission includes machines with over 40 petaflops capacity [E26] (publication date unknown).\n• India has approximately 416,000 AI and Data professionals [E27] (from a page written by a user).\n• The number of AI and Data professionals in India is projected to reach 4.2 lakh by mid-2025 [E28] (from a page written by a user).",
+      "citations": [
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26",
+        "E27",
+        "E28"
+      ],
+      "needs_review": true
+    },
+    {
+      "title": "Method and Limitations",
+      "content": "AI-generated draft for consultant review. Not final client advice.\nNumbers in square brackets, such as [E3], refer to the Evidence Appendix at the end of this report.\nFacts checked: 56 accepted, 55 need review (the 8 most relevant are listed in the review section) and 30 rejected (duplicates, quotes not found on the page, or claims the quote does not support).\nEstimates of the same market differ between sources. They are shown side by side, not averaged.\nDates come from page information and are approximate. Rules and schemes change, so check policy statements with the official source before relying on them.",
+      "citations": [],
+      "needs_review": false
+    },
+    {
+      "title": "Glossary",
+      "content": "Simple explanations of important terms used in this report. These definitions are explanatory notes, not research evidence.\n- BFSI: Banking, Financial Services, and Insurance is an industry grouping representing financial institutions.\n- Semiconductor: Semiconductors are essential materials used to manufacture computer chips and electronic hardware.\n- Generative Artificial Intelligence: Generative artificial intelligence refers to systems capable of creating new content such as text, images, or code.\n- Data Center: A data center is a specialized facility that houses computer systems and associated infrastructure for storing and processing data.\n- Upskilling: Upskilling is the process of teaching employees new skills to improve their job performance.",
+      "citations": [],
+      "needs_review": false
+    }
+  ],
+  "charts": [
+    {
+      "title": "Semiconductor market size: estimates by source (USD billion)",
+      "plotly_json": "{\"data\":[{\"marker\":{\"color\":\"#2F5597\"},\"name\":\"private.kotak.bank.in\",\"text\":[\"110.0\"],\"textposition\":\"outside\",\"x\":[\"2030\"],\"y\":[110.0],\"type\":\"bar\"}],\"layout\":{\"template\":{\"data\":{\"barpolar\":[{\"marker\":{\"line\":{\"color\":\"white\",\"width\":0.5},\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"barpolar\"}],\"bar\":[{\"error_x\":{\"color\":\"#2a3f5f\"},\"error_y\":{\"color\":\"#2a3f5f\"},\"marker\":{\"line\":{\"color\":\"white\",\"width\":0.5},\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"bar\"}],\"carpet\":[{\"aaxis\":{\"endlinecolor\":\"#2a3f5f\",\"gridcolor\":\"#C8D4E3\",\"linecolor\":\"#C8D4E3\",\"minorgridcolor\":\"#C8D4E3\",\"startlinecolor\":\"#2a3f5f\"},\"baxis\":{\"endlinecolor\":\"#2a3f5f\",\"gridcolor\":\"#C8D4E3\",\"linecolor\":\"#C8D4E3\",\"minorgridcolor\":\"#C8D4E3\",\"startlinecolor\":\"#2a3f5f\"},\"type\":\"carpet\"}],\"choropleth\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"type\":\"choropleth\"}],\"contourcarpet\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"type\":\"contourcarpet\"}],\"contour\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"contour\"}],\"heatmap\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"heatmap\"}],\"histogram2dcontour\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"histogram2dcontour\"}],\"histogram2d\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"histogram2d\"}],\"histogram\":[{\"marker\":{\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"histogram\"}],\"mesh3d\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"type\":\"mesh3d\"}],\"parcoords\":[{\"line\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"parcoords\"}],\"pie\":[{\"automargin\":true,\"type\":\"pie\"}],\"scatter3d\":[{\"line\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scatter3d\"}],\"scattercarpet\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scattercarpet\"}],\"scattergeo\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scattergeo\"}],\"scattergl\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scattergl\"}],\"scattermap\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scattermap\"}],\"scatterpolargl\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scatterpolargl\"}],\"scatterpolar\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scatterpolar\"}],\"scatter\":[{\"fillpattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2},\"type\":\"scatter\"}],\"scatterternary\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scatterternary\"}],\"surface\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"surface\"}],\"table\":[{\"cells\":{\"fill\":{\"color\":\"#EBF0F8\"},\"line\":{\"color\":\"white\"}},\"header\":{\"fill\":{\"color\":\"#C8D4E3\"},\"line\":{\"color\":\"white\"}},\"type\":\"table\"}]},\"layout\":{\"annotationdefaults\":{\"arrowcolor\":\"#2a3f5f\",\"arrowhead\":0,\"arrowwidth\":1},\"autotypenumbers\":\"strict\",\"coloraxis\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"colorscale\":{\"diverging\":[[0,\"#8e0152\"],[0.1,\"#c51b7d\"],[0.2,\"#de77ae\"],[0.3,\"#f1b6da\"],[0.4,\"#fde0ef\"],[0.5,\"#f7f7f7\"],[0.6,\"#e6f5d0\"],[0.7,\"#b8e186\"],[0.8,\"#7fbc41\"],[0.9,\"#4d9221\"],[1,\"#276419\"]],\"sequential\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"sequentialminus\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]},\"colorway\":[\"#636efa\",\"#EF553B\",\"#00cc96\",\"#ab63fa\",\"#FFA15A\",\"#19d3f3\",\"#FF6692\",\"#B6E880\",\"#FF97FF\",\"#FECB52\"],\"font\":{\"color\":\"#2a3f5f\"},\"geo\":{\"bgcolor\":\"white\",\"lakecolor\":\"white\",\"landcolor\":\"white\",\"showlakes\":true,\"showland\":true,\"subunitcolor\":\"#C8D4E3\"},\"hoverlabel\":{\"align\":\"left\"},\"hovermode\":\"closest\",\"paper_bgcolor\":\"white\",\"plot_bgcolor\":\"white\",\"polar\":{\"angularaxis\":{\"gridcolor\":\"#EBF0F8\",\"linecolor\":\"#EBF0F8\",\"ticks\":\"\"},\"bgcolor\":\"white\",\"radialaxis\":{\"gridcolor\":\"#EBF0F8\",\"linecolor\":\"#EBF0F8\",\"ticks\":\"\"}},\"scene\":{\"xaxis\":{\"backgroundcolor\":\"white\",\"gridcolor\":\"#DFE8F3\",\"gridwidth\":2,\"linecolor\":\"#EBF0F8\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"#EBF0F8\"},\"yaxis\":{\"backgroundcolor\":\"white\",\"gridcolor\":\"#DFE8F3\",\"gridwidth\":2,\"linecolor\":\"#EBF0F8\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"#EBF0F8\"},\"zaxis\":{\"backgroundcolor\":\"white\",\"gridcolor\":\"#DFE8F3\",\"gridwidth\":2,\"linecolor\":\"#EBF0F8\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"#EBF0F8\"}},\"shapedefaults\":{\"line\":{\"color\":\"#2a3f5f\"}},\"ternary\":{\"aaxis\":{\"gridcolor\":\"#DFE8F3\",\"linecolor\":\"#A2B1C6\",\"ticks\":\"\"},\"baxis\":{\"gridcolor\":\"#DFE8F3\",\"linecolor\":\"#A2B1C6\",\"ticks\":\"\"},\"bgcolor\":\"white\",\"caxis\":{\"gridcolor\":\"#DFE8F3\",\"linecolor\":\"#A2B1C6\",\"ticks\":\"\"}},\"title\":{\"x\":0.05},\"xaxis\":{\"automargin\":true,\"gridcolor\":\"#EBF0F8\",\"linecolor\":\"#EBF0F8\",\"ticks\":\"\",\"title\":{\"standoff\":15},\"zerolinecolor\":\"#EBF0F8\",\"zerolinewidth\":2},\"yaxis\":{\"automargin\":true,\"gridcolor\":\"#EBF0F8\",\"linecolor\":\"#EBF0F8\",\"ticks\":\"\",\"title\":{\"standoff\":15},\"zerolinecolor\":\"#EBF0F8\",\"zerolinewidth\":2}}},\"title\":{\"text\":\"Semiconductor market size: estimates by source (USD billion)\"},\"xaxis\":{\"title\":{\"text\":\"Year\"}},\"yaxis\":{\"title\":{\"text\":\"USD billion\"}},\"barmode\":\"overlay\",\"showlegend\":false}}",
+      "png_path": "storage/charts\\job_20261114_165413_03fd543d_market_size.png",
+      "name": "market_size",
+      "section": "Market Insights",
+      "description": "Estimates range from US$110.00 billion (2030) to US$110.00 billion (2030). Each year has a single estimate, so the sources cannot be compared directly. The 2030 figure is a forecast.\nSource: private.kotak.bank.in, as reported in the pages listed in the Evidence Appendix. Based on 1 estimates."
+    }
+  ],
+  "evidence_appendix": [
+    {
+      "id": "E1",
+      "evidence_id": "s_11d3bf6a_e1",
+      "claim": "India's AI market is valued at approximately Rs 1.2-1.5 lakh crore in 2026.",
+      "source": "yuverse.ai",
+      "source_url": "https://www.yuverse.ai/blog/ai-in-india-2026-market-size-adoption-opportunities",
+      "date": "2026-06-02",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E2",
+      "evidence_id": "s_11d3bf6a_e21",
+      "claim": "The annual growth rate of the Indian AI market is 28-35%.",
+      "source": "yuverse.ai",
+      "source_url": "https://www.yuverse.ai/blog/ai-in-india-2026-market-size-adoption-opportunities",
+      "date": "2026-06-02",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E3",
+      "evidence_id": "s_11d3bf6a_e2",
+      "claim": "India accounts for approximately 5-6% of the global AI market.",
+      "source": "yuverse.ai",
+      "source_url": "https://www.yuverse.ai/blog/ai-in-india-2026-market-size-adoption-opportunities",
+      "date": "2026-06-02",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E4",
+      "evidence_id": "s_d8a0cc74_e1",
+      "claim": "India recorded $1.22 billion in AI-specific funding in 2025.",
+      "source": "private.kotak.bank.in",
+      "source_url": "https://private.kotak.bank.in/insights/ai-investments-india-2026-trends-top-sectors.php",
+      "date": "2025-04-01",
+      "confidence": 0.755,
+      "status": "accepted"
+    },
+    {
+      "id": "E5",
+      "evidence_id": "s_ce44858e_e3",
+      "claim": "Indian AI startups raised over $3 billion in 2023-2024.",
+      "source": "e2enetworks.com",
+      "source_url": "https://www.e2enetworks.com/cloud-terms/gpu/ai-infrastructure-india",
+      "date": "",
+      "confidence": 0.74,
+      "status": "accepted"
+    },
+    {
+      "id": "E6",
+      "evidence_id": "s_add103e9_e4",
+      "claim": "There is an 82.9% GenAI skills gap in India.",
+      "source": "onlineaju.ac.in",
+      "source_url": "https://onlineaju.ac.in/india-ai-talent-shortage-2026",
+      "date": "2026-08-26",
+      "confidence": 0.892,
+      "status": "accepted"
+    },
+    {
+      "id": "E7",
+      "evidence_id": "s_126e9489_e4",
+      "claim": "The Ministry of Electronics and Information Technology published India AI Governance Guidelines in November 2025.",
+      "source": "regulations.ai",
+      "source_url": "https://regulations.ai/regulations/RAI-IN-NA-SUMMARY-2026",
+      "date": "2026-09-13",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E8",
+      "evidence_id": "s_126e9489_e13",
+      "claim": "The Artificial Intelligence (Ethics & Accountability) Bill was introduced in the Lok Sabha in December 2025.",
+      "source": "regulations.ai",
+      "source_url": "https://regulations.ai/regulations/RAI-IN-NA-SUMMARY-2026",
+      "date": "2026-09-13",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E9",
+      "evidence_id": "s_ce44858e_e2",
+      "claim": "Total data center capacity in India exceeded 700MW by 2024.",
+      "source": "e2enetworks.com",
+      "source_url": "https://www.e2enetworks.com/cloud-terms/gpu/ai-infrastructure-india",
+      "date": "",
+      "confidence": 0.71,
+      "status": "accepted"
+    },
+    {
+      "id": "E10",
+      "evidence_id": "s_d8a0cc74_e4",
+      "claim": "India is expected to attract $200 billion in data centre investment by 2030.",
+      "source": "private.kotak.bank.in",
+      "source_url": "https://private.kotak.bank.in/insights/ai-investments-india-2026-trends-top-sectors.php",
+      "date": "2025-04-01",
+      "confidence": 0.755,
+      "status": "accepted"
+    },
+    {
+      "id": "E11",
+      "evidence_id": "s_d8a0cc74_e5",
+      "claim": "The semiconductor market in India may reach $100 billion to $110 billion by 2030.",
+      "source": "private.kotak.bank.in",
+      "source_url": "https://private.kotak.bank.in/insights/ai-investments-india-2026-trends-top-sectors.php",
+      "date": "2025-04-01",
+      "confidence": 0.755,
+      "status": "accepted"
+    },
+    {
+      "id": "E12",
+      "evidence_id": "s_add103e9_e13",
+      "claim": "Technology and BFSI sectors in India have strong demand for AI-related skills.",
+      "source": "onlineaju.ac.in",
+      "source_url": "https://onlineaju.ac.in/india-ai-talent-shortage-2026",
+      "date": "2026-08-26",
+      "confidence": 0.892,
+      "status": "accepted"
+    },
+    {
+      "id": "E13",
+      "evidence_id": "s_add103e9_e2",
+      "claim": "Nearly 45% of Indian organisations identify AI, digital, and data skills as their single largest workforce constraint.",
+      "source": "onlineaju.ac.in",
+      "source_url": "https://onlineaju.ac.in/india-ai-talent-shortage-2026",
+      "date": "2026-08-26",
+      "confidence": 0.892,
+      "status": "accepted"
+    },
+    {
+      "id": "E14",
+      "evidence_id": "s_add103e9_e8",
+      "claim": "Only 25% of Indian organisations believe their workforce is adequately prepared to use AI effectively.",
+      "source": "onlineaju.ac.in",
+      "source_url": "https://onlineaju.ac.in/india-ai-talent-shortage-2026",
+      "date": "2026-08-26",
+      "confidence": 0.892,
+      "status": "accepted"
+    },
+    {
+      "id": "E15",
+      "evidence_id": "s_add103e9_e5",
+      "claim": "India could face a shortage of more than 1.4 million AI professionals by 2026.",
+      "source": "onlineaju.ac.in",
+      "source_url": "https://onlineaju.ac.in/india-ai-talent-shortage-2026",
+      "date": "2026-08-26",
+      "confidence": 0.892,
+      "status": "accepted"
+    },
+    {
+      "id": "E16",
+      "evidence_id": "s_11d3bf6a_e17",
+      "claim": "There are 3-4 lakh unfilled AI positions in India.",
+      "source": "yuverse.ai",
+      "source_url": "https://www.yuverse.ai/blog/ai-in-india-2026-market-size-adoption-opportunities",
+      "date": "2026-06-02",
+      "confidence": 0.735,
+      "status": "accepted"
+    },
+    {
+      "id": "E17",
+      "evidence_id": "s_d8a0cc74_e3",
+      "claim": "Investors announced commitments exceeding $250 billion at the India AI Impact Summit 2026.",
+      "source": "private.kotak.bank.in",
+      "source_url": "https://private.kotak.bank.in/insights/ai-investments-india-2026-trends-top-sectors.php",
+      "date": "2025-04-01",
+      "confidence": 0.755,
+      "status": "accepted"
+    },
+    {
+      "id": "E18",
+      "evidence_id": "s_f849198b_e4",
+      "claim": "Nature Digital Health highlights risks in the Indian medical sector related to AI consent, secondary data use, and data repurposing.",
+      "source": "defactolawjournal.org",
+      "source_url": "https://defactolawjournal.org/papers/why-we-need-data-protection-laws-for-ai-in-india",
+      "date": "2025-05-12",
+      "confidence": 0.76,
+      "status": "accepted"
+    },
+    {
+      "id": "E19",
+      "evidence_id": "s_da9e9937_e4",
+      "claim": "The Information Technology (IT) Act lacks specific provisions for AI.",
+      "source": "cyberlawconsulting.com",
+      "source_url": "https://www.cyberlawconsulting.com/ai_and_data_privacy_in_India.php",
+      "date": "2024-09-11",
+      "confidence": 0.733,
+      "status": "accepted"
+    },
+    {
+      "id": "E20",
+      "evidence_id": "s_f849198b_e1",
+      "claim": "India enacted the Digital Personal Data Protection (DPDP) Act in 2023.",
+      "source": "defactolawjournal.org",
+      "source_url": "https://defactolawjournal.org/papers/why-we-need-data-protection-laws-for-ai-in-india",
+      "date": "2025-05-12",
+      "confidence": 0.775,
+      "status": "accepted"
+    },
+    {
+      "id": "E21",
+      "evidence_id": "s_9113f683_e6",
+      "claim": "The AI Data Labs Network consists of 570 labs across Tier-2 and Tier-3 cities.",
+      "source": "static.pib.gov.in",
+      "source_url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/feb/doc2026215790801.pdf",
+      "date": "",
+      "confidence": 0.762,
+      "status": "needs_review"
+    },
+    {
+      "id": "E22",
+      "evidence_id": "s_9113f683_e1",
+      "claim": "The IndiaAI Mission has onboarded over 38,000 GPUs.",
+      "source": "static.pib.gov.in",
+      "source_url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/feb/doc2026215790801.pdf",
+      "date": "",
+      "confidence": 0.742,
+      "status": "needs_review"
+    },
+    {
+      "id": "E23",
+      "evidence_id": "s_9113f683_e2",
+      "claim": "The IndiaAI Mission has a target of 100,000 GPUs.",
+      "source": "static.pib.gov.in",
+      "source_url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/feb/doc2026215790801.pdf",
+      "date": "",
+      "confidence": 0.742,
+      "status": "needs_review"
+    },
+    {
+      "id": "E24",
+      "evidence_id": "s_9113f683_e3",
+      "claim": "AIKosh hosts over 9,500 datasets.",
+      "source": "static.pib.gov.in",
+      "source_url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/feb/doc2026215790801.pdf",
+      "date": "",
+      "confidence": 0.742,
+      "status": "needs_review"
+    },
+    {
+      "id": "E25",
+      "evidence_id": "s_9113f683_e4",
+      "claim": "AIKosh hosts 273 sectoral models.",
+      "source": "static.pib.gov.in",
+      "source_url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/feb/doc2026215790801.pdf",
+      "date": "",
+      "confidence": 0.742,
+      "status": "needs_review"
+    },
+    {
+      "id": "E26",
+      "evidence_id": "s_9113f683_e5",
+      "claim": "The National Supercomputing Mission includes machines with over 40 petaflops capacity.",
+      "source": "static.pib.gov.in",
+      "source_url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/feb/doc2026215790801.pdf",
+      "date": "",
+      "confidence": 0.742,
+      "status": "needs_review"
+    },
+    {
+      "id": "E27",
+      "evidence_id": "s_6adbd200_e1",
+      "claim": "India has approximately 416,000 AI and Data professionals.",
+      "source": "linkedin.com",
+      "source_url": "https://www.linkedin.com/posts/vijaysivaram_the-ai-gap-activity-7366715079876071424-xFPl",
+      "date": "2025-08-28",
+      "confidence": 0.709,
+      "status": "needs_review"
+    },
+    {
+      "id": "E28",
+      "evidence_id": "s_6adbd200_e2",
+      "claim": "The number of AI and Data professionals in India is projected to reach 4.2 lakh by mid-2025.",
+      "source": "linkedin.com",
+      "source_url": "https://www.linkedin.com/posts/vijaysivaram_the-ai-gap-activity-7366715079876071424-xFPl",
+      "date": "2025-08-28",
+      "confidence": 0.709,
+      "status": "needs_review"
+    }
+  ],
+  "pdf_path": "storage/reports\\job_20261114_165413_03fd543d.pdf",
+  "warnings": []
+}

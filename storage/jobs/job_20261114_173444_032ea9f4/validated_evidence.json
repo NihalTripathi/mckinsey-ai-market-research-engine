@@ -1,0 +1,4632 @@
+[
+  {
+    "claim": "India recorded $1.22 billion in AI-specific funding in 2025.",
+    "entity": "India",
+    "topic": "market size",
+    "excerpt": "In 2025, India recorded $1.22 billion in AI-specific funding, up 58% year-on-year, while deep-tech funding reached $2.1 billion across 289 deals.",
+    "source_id": "s_d8a0cc74",
+    "date": "2025-04-01",
+    "excerpt_found": true,
+    "evidence_id": "s_d8a0cc74_e1",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.755,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.876,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Deep-tech funding in India reached $2.1 billion across 289 deals in 2025.",
+    "entity": "India",
+    "topic": "market size",
+    "excerpt": "In 2025, India recorded $1.22 billion in AI-specific funding, up 58% year-on-year, while deep-tech funding reached $2.1 billion across 289 deals.",
+    "source_id": "s_d8a0cc74",
+    "date": "2025-04-01",
+    "excerpt_found": true,
+    "evidence_id": "s_d8a0cc74_e2",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.725,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 0.876,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Investors announced commitments exceeding $250 billion at the India AI Impact Summit 2026.",
+    "entity": "India AI Impact Summit 2026",
+    "topic": "market size",
+    "excerpt": "Momentum grew further at the India AI Impact Summit 2026, where domestic and global investors announced commitments exceeding $250 billion.",
+    "source_id": "s_d8a0cc74",
+    "date": "2025-04-01",
+    "excerpt_found": true,
+    "evidence_id": "s_d8a0cc74_e3",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.755,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.876,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India is expected to attract $200 billion in data centre investment by 2030.",
+    "entity": "India",
+    "topic": "market size",
+    "excerpt": "India is expected to attract $200 billion in data centre investment by 2030, as part of the wider $800 billion Asia Pacific investment pipeline.",
+    "source_id": "s_d8a0cc74",
+    "date": "2025-04-01",
+    "excerpt_found": true,
+    "evidence_id": "s_d8a0cc74_e4",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2030,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.755,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.876,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The semiconductor market in India may reach $100 billion to $110 billion by 2030.",
+    "entity": "India",
+    "topic": "market size",
+    "excerpt": "Industry estimates suggest that India’s semiconductor market may reach $100 billion to $110 billion by 2030.",
+    "source_id": "s_d8a0cc74",
+    "date": "2025-04-01",
+    "excerpt_found": true,
+    "evidence_id": "s_d8a0cc74_e5",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2030,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.755,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.876,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Kotak Mahindra Bank Limited houses Kotak Private Banking, which offers investment services.",
+    "entity": "Kotak Mahindra Bank Limited",
+    "topic": "other",
+    "excerpt": "Investment services (distribution and referral) are offered by Kotak Private Banking, housed in Kotak Mahindra Bank Limited.",
+    "source_id": "s_d8a0cc74",
+    "date": "2025-04-01",
+    "excerpt_found": true,
+    "evidence_id": "s_d8a0cc74_e6",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.725,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 0.876,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Kotak Alternate Asset Managers Ltd. offers investment advisory services.",
+    "entity": "Kotak Alternate Asset Managers Ltd.",
+    "topic": "other",
+    "excerpt": "Investment advisory services are offered by Kotak Alternate Asset Managers Ltd. (KAAML).",
+    "source_id": "s_d8a0cc74",
+    "date": "2025-04-01",
+    "excerpt_found": true,
+    "evidence_id": "s_d8a0cc74_e7",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.725,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 0.876,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Kotak Mahindra Trusteeship Services Limited provides estate planning services.",
+    "entity": "Kotak Mahindra Trusteeship Services Limited",
+    "topic": "other",
+    "excerpt": "Estate Planning services are provided by wholly owned subsidiary of Kotak Mahindra Bank, Kotak Mahindra Trusteeship Services Limited.",
+    "source_id": "s_d8a0cc74",
+    "date": "2025-04-01",
+    "excerpt_found": true,
+    "evidence_id": "s_d8a0cc74_e8",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.705,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 0.876,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "87% of surveyed Indian enterprises reported active AI use in 2025.",
+    "entity": "India",
+    "topic": "market size",
+    "excerpt": "In 2025, 87% of surveyed Indian enterprises reported active AI use, making procurement increasingly tied to workflow integration, data readiness, governance, and measurable productivity rather than isolated experimentation.",
+    "source_id": "s_50892ace",
+    "date": "2026-08-06",
+    "excerpt_found": true,
+    "evidence_id": "s_50892ace_e1",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; market-research seller page (marketing summary; may repeat other sellers); excerpt supports the claim (checked)",
+    "confidence": 0.768,
+    "scores": {
+      "credibility": 0.45,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India had about 1,500 MW of data-center capacity in 2025.",
+    "entity": "India",
+    "topic": "infrastructure",
+    "excerpt": "India had about 1,500 MW of data-center capacity by 2025, versus roughly 375 MW in 2020, improving access to cloud and inference infrastructure while reinforcing western and southern metropolitan hubs.",
+    "source_id": "s_50892ace",
+    "date": "2026-08-06",
+    "excerpt_found": true,
+    "evidence_id": "s_50892ace_e2",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "needs_review",
+    "reason": "Conflicts with s_50892ace_e18",
+    "confidence": 0.662,
+    "scores": {
+      "credibility": 0.45,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.0
+    },
+    "duplicate_of": null,
+    "conflict_with": [
+      "s_50892ace_e18"
+    ]
+  },
+  {
+    "claim": "India had about 375 MW of data-center capacity in 2020.",
+    "entity": "India",
+    "topic": "infrastructure",
+    "excerpt": "India had about 1,500 MW of data-center capacity by 2025, versus roughly 375 MW in 2020, improving access to cloud and inference infrastructure while reinforcing western and southern metropolitan hubs.",
+    "source_id": "s_50892ace",
+    "date": "2026-08-06",
+    "excerpt_found": true,
+    "evidence_id": "s_50892ace_e3",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2020,
+    "status": "needs_review",
+    "reason": "Figure is about 6 years old",
+    "confidence": 0.557,
+    "scores": {
+      "credibility": 0.45,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 0.1,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The India Artificial Intelligence market is projected to reach USD 38,910 million by 2031.",
+    "entity": "India",
+    "topic": "market size",
+    "excerpt": "The India Artificial Intelligence (AI) Market is projected to expand from USD 10,200 million in 2025 to USD 38,910 million by 2031, representing a 25.00% forecast CAGR.",
+    "source_id": "s_50892ace",
+    "date": "2026-08-06",
+    "excerpt_found": true,
+    "evidence_id": "s_50892ace_e4",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2031,
+    "status": "accepted",
+    "reason": "Passes all checks; market-research seller page (marketing summary; may repeat other sellers); excerpt supports the claim (checked)",
+    "confidence": 0.768,
+    "scores": {
+      "credibility": 0.45,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The India Artificial Intelligence market historical growth was 28.96% during 2020-2025.",
+    "entity": "India",
+    "topic": "growth",
+    "excerpt": "Historical growth of 28.96% during 2020-2025 reflected rapid digitalization, cloud migration, analytics modernization, and the emergence of generative AI.",
+    "source_id": "s_50892ace",
+    "date": "2026-08-06",
+    "excerpt_found": true,
+    "evidence_id": "s_50892ace_e5",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "needs_review",
+    "reason": "Excerpt only partly supports the claim: The excerpt does not explicitly specify that the historical growth refers to the India Artificial Intelligence market.",
+    "confidence": 0.59,
+    "scores": {
+      "credibility": 0.45,
+      "support": 0.85,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The India Artificial Intelligence market value expanded from USD 2,860 million in 2020 to USD 10,200 million in 2025.",
+    "entity": "India",
+    "topic": "market size",
+    "excerpt": "The India Artificial Intelligence (AI) Market expanded from USD 2,860 million in 2020 to USD 10,200 million in 2025.",
+    "source_id": "s_50892ace",
+    "date": "2026-08-06",
+    "excerpt_found": true,
+    "evidence_id": "s_50892ace_e6",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; market-research seller page (marketing summary; may repeat other sellers); excerpt supports the claim (checked)",
+    "confidence": 0.768,
+    "scores": {
+      "credibility": 0.45,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The growth rate of the India Artificial Intelligence market was 29.87% in 2025.",
+    "entity": "India",
+    "topic": "growth",
+    "excerpt": "The 2025 growth rate moderated to 29.87%, reflecting a larger base and more rigorous procurement around security, governance, integration, and return on investment.",
+    "source_id": "s_50892ace",
+    "date": "2026-08-06",
+    "excerpt_found": true,
+    "evidence_id": "s_50892ace_e7",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "needs_review",
+    "reason": "Excerpt only partly supports the claim: The excerpt does not explicitly state that the 29.87% growth rate refers to the India Artificial Intelligence market.",
+    "confidence": 0.59,
+    "scores": {
+      "credibility": 0.45,
+      "support": 0.85,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India has 420,000 AI professionals.",
+    "entity": "India",
+    "topic": "other",
+    "excerpt": "420,000 AI professionals (2024, India).",
+    "source_id": "s_50892ace",
+    "date": "2026-08-06",
+    "excerpt_found": true,
+    "evidence_id": "s_50892ace_e8",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2024,
+    "status": "accepted",
+    "reason": "Passes all checks; market-research seller page (marketing summary; may repeat other sellers); excerpt supports the claim (checked)",
+    "confidence": 0.728,
+    "scores": {
+      "credibility": 0.45,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.8,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Demand for AI professionals in India was expected to increase about 15% annually through 2027.",
+    "entity": "India",
+    "topic": "growth",
+    "excerpt": "India has a deep delivery base, yet demand was expected to increase about 15% annually through 2027, supporting pricing power for specialized engineering and model-risk skills.",
+    "source_id": "s_50892ace",
+    "date": "2026-08-06",
+    "excerpt_found": true,
+    "evidence_id": "s_50892ace_e9",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; market-research seller page (marketing summary; may repeat other sellers); excerpt supports the claim (checked)",
+    "confidence": 0.768,
+    "scores": {
+      "credibility": 0.45,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India has 38,000 GPUs available as of 2025.",
+    "entity": "India",
+    "topic": "infrastructure",
+    "excerpt": "38,000 GPUs (2025, India). Subsidized access at INR 65 per GPU-hour lowers early-stage infrastructure barriers and improves the economics of domestic model development, evaluation, and inference.",
+    "source_id": "s_50892ace",
+    "date": "2026-08-06",
+    "excerpt_found": true,
+    "evidence_id": "s_50892ace_e10",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; market-research seller page (marketing summary; may repeat other sellers); excerpt supports the claim (checked)",
+    "confidence": 0.738,
+    "scores": {
+      "credibility": 0.45,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India ranks third among selected Asian AI markets by 2025 market size.",
+    "entity": "India",
+    "topic": "market size",
+    "excerpt": "India ranks third among selected Asian AI markets by 2025 market size, behind China and Japan but ahead of South Korea, Singapore, and Indonesia.",
+    "source_id": "s_50892ace",
+    "date": "2026-08-06",
+    "excerpt_found": true,
+    "evidence_id": "s_50892ace_e11",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; market-research seller page (marketing summary; may repeat other sellers); excerpt supports the claim (checked)",
+    "confidence": 0.768,
+    "scores": {
+      "credibility": 0.45,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The Indian AI market size is USD 10,200 million.",
+    "entity": "India",
+    "topic": "market size",
+    "excerpt": "Focus Country Market Size\nUSD 10,200 Mn",
+    "source_id": "s_50892ace",
+    "date": "2026-08-06",
+    "excerpt_found": true,
+    "evidence_id": "s_50892ace_e12",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Excerpt only partly supports the claim: The excerpt refers to a 'Focus Country' without explicitly naming India.",
+    "confidence": 0.59,
+    "scores": {
+      "credibility": 0.45,
+      "support": 0.85,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The Indian AI market CAGR is projected to be 25.00% between 2026 and 2031.",
+    "entity": "India",
+    "topic": "growth",
+    "excerpt": "India CAGR (2026-2031)\n25.00%",
+    "source_id": "s_50892ace",
+    "date": "2026-08-06",
+    "excerpt_found": true,
+    "evidence_id": "s_50892ace_e13",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Excerpt only partly supports the claim: The excerpt mentions the CAGR, but does not explicitly name the Indian AI market.",
+    "confidence": 0.59,
+    "scores": {
+      "credibility": 0.45,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India has 1,029 million internet subscribers.",
+    "entity": "India",
+    "topic": "other",
+    "excerpt": "India's USD 10,200 million market ranks third in the peer set, while its 1,029 million internet subscribers provide a demand base far larger than Japan, South Korea, or Singapore.",
+    "source_id": "s_50892ace",
+    "date": "2026-08-06",
+    "excerpt_found": true,
+    "evidence_id": "s_50892ace_e14",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; market-research seller page (marketing summary; may repeat other sellers); excerpt supports the claim (checked)",
+    "confidence": 0.738,
+    "scores": {
+      "credibility": 0.45,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India has approximately 1,500 MW of data-center capacity.",
+    "entity": "India",
+    "topic": "infrastructure",
+    "excerpt": "India combines 38,000 public-access GPUs, approximately 1,500 MW of data-center capacity, and a 420,000-person AI talent base, strengthening cost-efficient development, services delivery, and localized model deployment.",
+    "source_id": "s_50892ace",
+    "date": "2026-08-06",
+    "excerpt_found": true,
+    "evidence_id": "s_50892ace_e15",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; market-research seller page (marketing summary; may repeat other sellers); excerpt supports the claim (checked)",
+    "confidence": 0.738,
+    "scores": {
+      "credibility": 0.45,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "26% of enterprises in India have reached AI maturity at scale in 2025.",
+    "entity": "India",
+    "topic": "market share",
+    "excerpt": "26% of enterprises (2025, India) have reached AI maturity at scale, leaving substantial whitespace for integration, governance, change management, and managed operations.",
+    "source_id": "s_50892ace",
+    "date": "2026-08-06",
+    "excerpt_found": true,
+    "evidence_id": "s_50892ace_e16",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; market-research seller page (marketing summary; may repeat other sellers); excerpt supports the claim (checked)",
+    "confidence": 0.768,
+    "scores": {
+      "credibility": 0.45,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Industrial, automotive, consumer, retail, BFSI, and healthcare sectors contribute about 60% of AI value in India in 2025.",
+    "entity": "India",
+    "topic": "market share",
+    "excerpt": "Industrial, automotive, consumer, retail, BFSI, and healthcare contribute about 60% of AI value (2025, India), concentrating near-term budgets in use cases with measurable revenue, risk, quality, and productivity outcomes.",
+    "source_id": "s_50892ace",
+    "date": "2026-08-06",
+    "excerpt_found": true,
+    "evidence_id": "s_50892ace_e17",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; market-research seller page (marketing summary; may repeat other sellers); excerpt supports the claim (checked)",
+    "confidence": 0.768,
+    "scores": {
+      "credibility": 0.45,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Data-center capacity in India increased from about 375 MW in 2020 to 1,500 MW in 2025.",
+    "entity": "India",
+    "topic": "infrastructure",
+    "excerpt": "Data-center capacity increased from about 375 MW in 2020 to 1,500 MW in 2025, strengthening cloud availability and supporting latency-sensitive enterprise deployments.",
+    "source_id": "s_50892ace",
+    "date": "2026-08-06",
+    "excerpt_found": true,
+    "evidence_id": "s_50892ace_e18",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "needs_review",
+    "reason": "Conflicts with s_50892ace_e2",
+    "confidence": 0.618,
+    "scores": {
+      "credibility": 0.45,
+      "support": 0.85,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.0
+    },
+    "duplicate_of": null,
+    "conflict_with": [
+      "s_50892ace_e2"
+    ]
+  },
+  {
+    "claim": "TCS reported USD 1.8 billion annualized AI services revenue in FY2026.",
+    "entity": "TCS",
+    "topic": "market size",
+    "excerpt": "India's services model creates leverage through reusable platforms, offshore engineering, and industry-domain expertise. TCS reported USD 1.8 billion annualized AI services revenue (FY2026, global), demonstrating growing monetization among major Indian providers.",
+    "source_id": "s_50892ace",
+    "date": "2026-08-06",
+    "excerpt_found": true,
+    "evidence_id": "s_50892ace_e19",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "rejected",
+    "reason": "Excerpt does not support the claim: The claim specifies India while the excerpt explicitly states the revenue is global.",
+    "confidence": 0.39,
+    "scores": {
+      "credibility": 0.45,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 0.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The installed AI worker base in India was 420,000 in 2024.",
+    "entity": "India",
+    "topic": "market size",
+    "excerpt": "420,000 workers (2024, India) formed the installed AI base.",
+    "source_id": "s_50892ace",
+    "date": "2026-08-06",
+    "excerpt_found": true,
+    "evidence_id": "s_50892ace_e20",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2024,
+    "status": "accepted",
+    "reason": "Passes all checks; market-research seller page (marketing summary; may repeat other sellers); excerpt supports the claim (checked)",
+    "confidence": 0.728,
+    "scores": {
+      "credibility": 0.45,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.8,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Only 1 in 4 AI initiatives achieved expected growth ROI in 2025.",
+    "entity": "ISG",
+    "topic": "market size",
+    "excerpt": "Only 1 in 4 initiatives (2025, global) achieved expected growth ROI in the ISG study.",
+    "source_id": "s_50892ace",
+    "date": "2026-08-06",
+    "excerpt_found": true,
+    "evidence_id": "s_50892ace_e21",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "needs_review",
+    "reason": "Excerpt only partly supports the claim: The claim omits the global geography mentioned in the excerpt.",
+    "confidence": 0.59,
+    "scores": {
+      "credibility": 0.45,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "HCLTech found that 43% of major AI initiatives could fail in 2026.",
+    "entity": "HCLTech",
+    "topic": "market size",
+    "excerpt": "HCLTech found 43% of major initiatives (2026, global) could fail.",
+    "source_id": "s_50892ace",
+    "date": "2026-08-06",
+    "excerpt_found": true,
+    "evidence_id": "s_50892ace_e22",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "needs_review",
+    "reason": "Excerpt only partly supports the claim: The claim omits the global geography mentioned in the excerpt.",
+    "confidence": 0.59,
+    "scores": {
+      "credibility": 0.45,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Average AI initiative spend reached USD 1.3 million in 2025.",
+    "entity": "AI",
+    "topic": "market size",
+    "excerpt": "Average AI initiative spend reached USD 1.3 million (2025, global).",
+    "source_id": "s_50892ace",
+    "date": "2026-08-06",
+    "excerpt_found": true,
+    "evidence_id": "s_50892ace_e23",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "needs_review",
+    "reason": "Excerpt only partly supports the claim: The claim omits the global geography mentioned in the excerpt.",
+    "confidence": 0.59,
+    "scores": {
+      "credibility": 0.45,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "There are 7 core data-protection principles guiding compliance in India in 2025.",
+    "entity": "India",
+    "topic": "policy",
+    "excerpt": "7 core data-protection principles (2025, India) guide compliance.",
+    "source_id": "s_50892ace",
+    "date": "2026-08-06",
+    "excerpt_found": true,
+    "evidence_id": "s_50892ace_e24",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; market-research seller page (marketing summary; may repeat other sellers); excerpt supports the claim (checked)",
+    "confidence": 0.738,
+    "scores": {
+      "credibility": 0.45,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Data-center capacity in India reached 1,500 MW in 2025.",
+    "entity": "India",
+    "topic": "infrastructure",
+    "excerpt": "Data-center expansion raises power, cooling, land, and grid requirements. Capacity reached about 1,500 MW in 2025, but AI workloads can create localized infrastructure pressure and longer commissioning timelines.",
+    "source_id": "s_50892ace",
+    "date": "2026-08-06",
+    "excerpt_found": true,
+    "evidence_id": "s_50892ace_e25",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "rejected",
+    "reason": "Duplicate of s_50892ace_e2",
+    "confidence": 0.693,
+    "scores": {
+      "credibility": 0.45,
+      "support": 0.85,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": "s_50892ace_e2",
+    "conflict_with": []
+  },
+  {
+    "claim": "The original IndiaAI target was 10,000 GPUs in 2024.",
+    "entity": "IndiaAI",
+    "topic": "infrastructure",
+    "excerpt": "The original IndiaAI target was 10,000 GPUs (2024, India).",
+    "source_id": "s_50892ace",
+    "date": "2026-08-06",
+    "excerpt_found": true,
+    "evidence_id": "s_50892ace_e26",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2024,
+    "status": "accepted",
+    "reason": "Passes all checks; market-research seller page (marketing summary; may repeat other sellers); excerpt supports the claim (checked)",
+    "confidence": 0.677,
+    "scores": {
+      "credibility": 0.45,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 0.8,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Subsidized compute in India is available at INR 65 per GPU-hour in 2026.",
+    "entity": "India",
+    "topic": "market size",
+    "excerpt": "Subsidized compute at INR 65 per GPU-hour (2026, India) improves development economics.",
+    "source_id": "s_50892ace",
+    "date": "2026-08-06",
+    "excerpt_found": true,
+    "evidence_id": "s_50892ace_e27",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "accepted",
+    "reason": "Passes all checks; market-research seller page (marketing summary; may repeat other sellers); excerpt supports the claim (checked)",
+    "confidence": 0.738,
+    "scores": {
+      "credibility": 0.45,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "National capacity for AI models in India crossed 34,000 GPUs in May 2025.",
+    "entity": "IndiaAI",
+    "topic": "infrastructure",
+    "excerpt": "AI startups, cloud providers, system integrators, language-technology firms, and public institutions gain from local data access and lower compute costs. IndiaAI selected multiple teams for indigenous models after national capacity crossed 34,000 GPUs in May 2025.",
+    "source_id": "s_50892ace",
+    "date": "2026-08-06",
+    "excerpt_found": true,
+    "evidence_id": "s_50892ace_e28",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; market-research seller page (marketing summary; may repeat other sellers); excerpt supports the claim (checked)",
+    "confidence": 0.768,
+    "scores": {
+      "credibility": 0.45,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Enterprise AI adoption in India was 87% in 2025.",
+    "entity": "India",
+    "topic": "market size",
+    "excerpt": "Industry copilots and agents can command recurring fees where they reduce fraud, downtime, service cost, coding effort, or inventory losses. Production-grade solutions can combine subscription, consumption, and outcome-based pricing. 87% enterprise adoption (2025, India) broadens the addressable base.",
+    "source_id": "s_50892ace",
+    "date": "2026-08-06",
+    "excerpt_found": true,
+    "evidence_id": "s_50892ace_e29",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; market-research seller page (marketing summary; may repeat other sellers); excerpt supports the claim (checked)",
+    "confidence": 0.768,
+    "scores": {
+      "credibility": 0.45,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "26% of firms in India were mature at scale with AI in 2025.",
+    "entity": "India",
+    "topic": "market size",
+    "excerpt": "BFSI, manufacturing, telecom, retail, and healthcare buyers benefit from domain-specific automation, while IT services firms and specialist startups capture implementation and managed-service revenue. 26% of firms (2025, India) were mature at scale.",
+    "source_id": "s_50892ace",
+    "date": "2026-08-06",
+    "excerpt_found": true,
+    "evidence_id": "s_50892ace_e30",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; market-research seller page (marketing summary; may repeat other sellers); excerpt supports the claim (checked)",
+    "confidence": 0.768,
+    "scores": {
+      "credibility": 0.45,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Public access to GPUs in India exceeded 38,000 in 2025.",
+    "entity": "India",
+    "topic": "infrastructure",
+    "excerpt": "GPU cloud, sovereign hosting, model serving, vector databases, observability, and energy-efficient colocation create recurring infrastructure revenue tied to tokens, compute hours, storage, and managed capacity. Public access already exceeds 38,000 GPUs (2025, India).",
+    "source_id": "s_50892ace",
+    "date": "2026-08-06",
+    "excerpt_found": true,
+    "evidence_id": "s_50892ace_e31",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; market-research seller page (marketing summary; may repeat other sellers); excerpt supports the claim (checked)",
+    "confidence": 0.738,
+    "scores": {
+      "credibility": 0.45,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Data-center capacity in India in 2025 was about 4 times the 2020 level.",
+    "entity": "India",
+    "topic": "infrastructure",
+    "excerpt": "Data-center operators, utilities, cloud platforms, chip distributors, network providers, and infrastructure funds gain from higher-density workloads and long-duration capacity contracts. India's 2025 capacity was about 4 times the 2020 level.",
+    "source_id": "s_50892ace",
+    "date": "2026-08-06",
+    "excerpt_found": true,
+    "evidence_id": "s_50892ace_e32",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; market-research seller page (marketing summary; may repeat other sellers); excerpt supports the claim (checked)",
+    "confidence": 0.738,
+    "scores": {
+      "credibility": 0.45,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "82% of employers in India report difficulty filling roles.",
+    "entity": "ManpowerGroup",
+    "topic": "growth",
+    "excerpt": "According to ManpowerGroup’s 2026 Talent Shortage Survey, 82% of employers in India report difficulty filling roles, compared with a 72% global average, with AI skills emerging as one of the most difficult capabilities to source.",
+    "source_id": "s_add103e9",
+    "date": "2026-08-26",
+    "excerpt_found": true,
+    "evidence_id": "s_add103e9_e1",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "accepted",
+    "reason": "Passes all checks; official or institutional source; excerpt supports the claim (checked)",
+    "confidence": 0.863,
+    "scores": {
+      "credibility": 0.95,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Nearly 45% of Indian organisations identify AI, digital, and data skills as their single largest workforce constraint.",
+    "entity": "SHRM",
+    "topic": "growth",
+    "excerpt": "The SHRM India Skill Intelligence Report 2026 found that nearly 45% of Indian organisations identify AI, digital, and data skills as their single largest workforce constraint.",
+    "source_id": "s_add103e9",
+    "date": "2026-08-26",
+    "excerpt_found": true,
+    "evidence_id": "s_add103e9_e2",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "accepted",
+    "reason": "Passes all checks; official or institutional source; excerpt supports the claim (checked)",
+    "confidence": 0.892,
+    "scores": {
+      "credibility": 0.95,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India formally trains just 2.3% of its workforce.",
+    "entity": "India",
+    "topic": "infrastructure",
+    "excerpt": "Dig into why, and the training pipeline explains a lot of it: India formally trains just 2.3% of its workforce, compared with 68% in the UK and 75% in Germany.",
+    "source_id": "s_add103e9",
+    "date": "2026-08-26",
+    "excerpt_found": true,
+    "evidence_id": "s_add103e9_e3",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; official or institutional source; excerpt supports the claim (checked)",
+    "confidence": 0.892,
+    "scores": {
+      "credibility": 0.95,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "There is an 82.9% GenAI skills gap in India.",
+    "entity": "Quess Corp",
+    "topic": "growth",
+    "excerpt": "Quess Corp’s India AI Workforce Analysis 2026, based on 350,000 AI-related job postings from the past 90 days, found an 82.9% GenAI skills gap despite India having a 920,000-strong national AI talent pool.",
+    "source_id": "s_add103e9",
+    "date": "2026-08-26",
+    "excerpt_found": true,
+    "evidence_id": "s_add103e9_e4",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "accepted",
+    "reason": "Passes all checks; official or institutional source; excerpt supports the claim (checked)",
+    "confidence": 0.863,
+    "scores": {
+      "credibility": 0.95,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India could face a shortage of more than 1.4 million AI professionals by 2026.",
+    "entity": "NASSCOM",
+    "topic": "growth",
+    "excerpt": "A NASSCOM-McKinsey study projects India could face a shortage of more than 1.4 million AI professionals by 2026 unless large-scale reskilling accelerates.",
+    "source_id": "s_add103e9",
+    "date": "2026-08-26",
+    "excerpt_found": true,
+    "evidence_id": "s_add103e9_e5",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "accepted",
+    "reason": "Passes all checks; official or institutional source; excerpt supports the claim (checked)",
+    "confidence": 0.892,
+    "scores": {
+      "credibility": 0.95,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India holds about 16% of the global AI talent pool.",
+    "entity": "India",
+    "topic": "market size",
+    "excerpt": "The talent pool is expanding — India currently holds about 16% of the global AI talent pool, expected to reach 1.25 million professionals by 2027 — but demand is expanding faster.",
+    "source_id": "s_add103e9",
+    "date": "2026-08-26",
+    "excerpt_found": true,
+    "evidence_id": "s_add103e9_e6",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; official or institutional source; excerpt supports the claim (checked)",
+    "confidence": 0.892,
+    "scores": {
+      "credibility": 0.95,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Employability for AI and machine learning roles is 46%.",
+    "entity": "Mercer-Mettl",
+    "topic": "growth",
+    "excerpt": "The Mercer-Mettl India Graduate Skill Index 2025 reported employability for AI and machine learning roles at 46%, highlighting the gap between graduate qualifications and the skills employers expect for these roles.",
+    "source_id": "s_add103e9",
+    "date": "2026-08-26",
+    "excerpt_found": true,
+    "evidence_id": "s_add103e9_e7",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; official or institutional source; excerpt supports the claim (checked)",
+    "confidence": 0.863,
+    "scores": {
+      "credibility": 0.95,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Only 25% of Indian organisations believe their workforce is adequately prepared to use AI effectively.",
+    "entity": "Kyndryl",
+    "topic": "infrastructure",
+    "excerpt": "The Kyndryl People Readiness Report 2026 found that only 25% of Indian organisations believe their workforce is adequately prepared to use AI effectively, down 12 percentage points from 2025.",
+    "source_id": "s_add103e9",
+    "date": "2026-08-26",
+    "excerpt_found": true,
+    "evidence_id": "s_add103e9_e8",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "accepted",
+    "reason": "Passes all checks; official or institutional source; excerpt supports the claim (checked)",
+    "confidence": 0.892,
+    "scores": {
+      "credibility": 0.95,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "SHRM identifies gaps in training, practical readiness, and skill alignment regarding AI requirements in India.",
+    "entity": "SHRM",
+    "topic": "other",
+    "excerpt": "Reports from organisations including SHRM, ManpowerGroup, Quess Corp and NASSCOM point to gaps in training, practical readiness and the alignment between skills and evolving AI requirements.",
+    "source_id": "s_add103e9",
+    "date": "2026-08-26",
+    "excerpt_found": true,
+    "evidence_id": "s_add103e9_e9",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; official or institutional source; excerpt supports the claim (checked)",
+    "confidence": 0.892,
+    "scores": {
+      "credibility": 0.95,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "ManpowerGroup identifies gaps in training, practical readiness, and skill alignment regarding AI requirements in India.",
+    "entity": "ManpowerGroup",
+    "topic": "other",
+    "excerpt": "Reports from organisations including SHRM, ManpowerGroup, Quess Corp and NASSCOM point to gaps in training, practical readiness and the alignment between skills and evolving AI requirements.",
+    "source_id": "s_add103e9",
+    "date": "2026-08-26",
+    "excerpt_found": true,
+    "evidence_id": "s_add103e9_e10",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "rejected",
+    "reason": "Duplicate of s_add103e9_e9",
+    "confidence": 0.892,
+    "scores": {
+      "credibility": 0.95,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": "s_add103e9_e9",
+    "conflict_with": []
+  },
+  {
+    "claim": "Quess Corp identifies gaps in training, practical readiness, and skill alignment regarding AI requirements in India.",
+    "entity": "Quess Corp",
+    "topic": "other",
+    "excerpt": "Reports from organisations including SHRM, ManpowerGroup, Quess Corp and NASSCOM point to gaps in training, practical readiness and the alignment between skills and evolving AI requirements.",
+    "source_id": "s_add103e9",
+    "date": "2026-08-26",
+    "excerpt_found": true,
+    "evidence_id": "s_add103e9_e11",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "rejected",
+    "reason": "Duplicate of s_add103e9_e9",
+    "confidence": 0.892,
+    "scores": {
+      "credibility": 0.95,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": "s_add103e9_e9",
+    "conflict_with": []
+  },
+  {
+    "claim": "NASSCOM identifies gaps in training, practical readiness, and skill alignment regarding AI requirements in India.",
+    "entity": "NASSCOM",
+    "topic": "other",
+    "excerpt": "Reports from organisations including SHRM, ManpowerGroup, Quess Corp and NASSCOM point to gaps in training, practical readiness and the alignment between skills and evolving AI requirements.",
+    "source_id": "s_add103e9",
+    "date": "2026-08-26",
+    "excerpt_found": true,
+    "evidence_id": "s_add103e9_e12",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "rejected",
+    "reason": "Duplicate of s_add103e9_e9",
+    "confidence": 0.892,
+    "scores": {
+      "credibility": 0.95,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": "s_add103e9_e9",
+    "conflict_with": []
+  },
+  {
+    "claim": "There are over 5.8 million professionals in tech/AI.",
+    "entity": "Workforce",
+    "topic": "other",
+    "excerpt": "Workforce & Education: Over 5.8 million professionals in tech/AI exist, with AI education integrated from school levels (e.g., CBSE and DIKSHA platform).",
+    "source_id": "s_b4602af7",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_b4602af7_e1",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "User-generated source; age unknown (no page date or figure year)",
+    "confidence": 0.588,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The Indian AI market is forecast to reach $126 billion by 2030.",
+    "entity": "India",
+    "topic": "market size",
+    "excerpt": "Market Size Projection: The Indian AI market is forecast to reach $126 billion by 2030.",
+    "source_id": "s_b4602af7",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_b4602af7_e2",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": 2030,
+    "status": "needs_review",
+    "reason": "User-generated source; age unknown (no page date or figure year)",
+    "confidence": 0.618,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Enterprise AI is projected to grow to $71 billion by 2030.",
+    "entity": "Enterprise AI",
+    "topic": "market size",
+    "excerpt": "Growth Drivers: The expansion is driven by a 42.2% CAGR, with Enterprise AI growing from $11 billion in 2025 to $71 billion by 2030.",
+    "source_id": "s_b4602af7",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_b4602af7_e3",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": 2030,
+    "status": "needs_review",
+    "reason": "User-generated source; age unknown (no page date or figure year)",
+    "confidence": 0.588,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Enterprise AI was valued at $11 billion in 2025.",
+    "entity": "Enterprise AI",
+    "topic": "market size",
+    "excerpt": "Growth Drivers: The expansion is driven by a 42.2% CAGR, with Enterprise AI growing from $11 billion in 2025 to $71 billion by 2030.",
+    "source_id": "s_b4602af7",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_b4602af7_e4",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": 2025,
+    "status": "needs_review",
+    "reason": "User-generated source",
+    "confidence": 0.688,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India possesses 28% of the global STEM talent pool.",
+    "entity": "India",
+    "topic": "other",
+    "excerpt": "Global Positioning: India is transforming into a global hub for AI innovation, utilizing its large STEM talent pool (28% of global pool) to create local and international AI impact.",
+    "source_id": "s_b4602af7",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_b4602af7_e5",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "User-generated source; age unknown (no page date or figure year)",
+    "confidence": 0.588,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The market value for AI in 2026 is approximately $7.30 billion.",
+    "entity": "India",
+    "topic": "market size",
+    "excerpt": "Market Value (2026): ~US$7.30bn, with rapid growth forecasted.",
+    "source_id": "s_b4602af7",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_b4602af7_e6",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": false,
+    "date_source": null,
+    "data_year": 2026,
+    "status": "needs_review",
+    "reason": "User-generated source",
+    "confidence": 0.672,
+    "scores": {
+      "credibility": 0.25,
+      "support": 0.85,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Over 1 million AI professionals will be required by 2026.",
+    "entity": "India",
+    "topic": "other",
+    "excerpt": "Job Creation: AI adoption is creating massive demand, with over 1 million AI professionals required by 2026.",
+    "source_id": "s_b4602af7",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_b4602af7_e7",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": false,
+    "date_source": null,
+    "data_year": 2026,
+    "status": "needs_review",
+    "reason": "User-generated source",
+    "confidence": 0.643,
+    "scores": {
+      "credibility": 0.25,
+      "support": 0.85,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The IndiaAI Mission is deploying over 38,000 GPUs.",
+    "entity": "IndiaAI Mission",
+    "topic": "infrastructure",
+    "excerpt": "Infrastructure & Investment: The IndiaAI Mission is deploying over 38,000 GPUs to boost compute infrastructure, with corporate AI investment rising to 1.7% of revenues.",
+    "source_id": "s_b4602af7",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_b4602af7_e8",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "User-generated source; age unknown (no page date or figure year)",
+    "confidence": 0.568,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Investments in Artificial Intelligence in India account for approximately 1.5% of total worldwide spend.",
+    "entity": "India",
+    "topic": "market size",
+    "excerpt": "Investments in Artificial Intelligence in India is still a small percentage (~1.5%) of the total worldwide spend.",
+    "source_id": "s_ff2f0f38",
+    "date": "2022-03-07",
+    "excerpt_found": true,
+    "evidence_id": "s_ff2f0f38_e1",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Figure is about 5 years old",
+    "confidence": 0.632,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.262,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "NASSCOM collaborated with Microsoft to create the NASSCOM AI Adoption Index.",
+    "entity": "NASSCOM",
+    "topic": "technology",
+    "excerpt": "NASSCOM have collaborated with Microsoft, Capgemini, Ernst & Young and EXL to bring the NASSCOM AI Adoption Index, the first-of-its-kind assessment in the Indian context.",
+    "source_id": "s_ff2f0f38",
+    "date": "2022-03-07",
+    "excerpt_found": true,
+    "evidence_id": "s_ff2f0f38_e2",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Figure is about 5 years old",
+    "confidence": 0.632,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.262,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "NASSCOM collaborated with Capgemini to create the NASSCOM AI Adoption Index.",
+    "entity": "Capgemini",
+    "topic": "technology",
+    "excerpt": "NASSCOM have collaborated with Microsoft, Capgemini, Ernst & Young and EXL to bring the NASSCOM AI Adoption Index, the first-of-its-kind assessment in the Indian context.",
+    "source_id": "s_ff2f0f38",
+    "date": "2022-03-07",
+    "excerpt_found": true,
+    "evidence_id": "s_ff2f0f38_e3",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Figure is about 5 years old",
+    "confidence": 0.632,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.262,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "NASSCOM collaborated with Ernst & Young to create the NASSCOM AI Adoption Index.",
+    "entity": "Ernst & Young",
+    "topic": "technology",
+    "excerpt": "NASSCOM have collaborated with Microsoft, Capgemini, Ernst & Young and EXL to bring the NASSCOM AI Adoption Index, the first-of-its-kind assessment in the Indian context.",
+    "source_id": "s_ff2f0f38",
+    "date": "2022-03-07",
+    "excerpt_found": true,
+    "evidence_id": "s_ff2f0f38_e4",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "rejected",
+    "reason": "Duplicate of s_ff2f0f38_e3",
+    "confidence": 0.632,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.262,
+      "corroboration": 0.5
+    },
+    "duplicate_of": "s_ff2f0f38_e3",
+    "conflict_with": []
+  },
+  {
+    "claim": "NASSCOM collaborated with EXL to create the NASSCOM AI Adoption Index.",
+    "entity": "EXL",
+    "topic": "technology",
+    "excerpt": "NASSCOM have collaborated with Microsoft, Capgemini, Ernst & Young and EXL to bring the NASSCOM AI Adoption Index, the first-of-its-kind assessment in the Indian context.",
+    "source_id": "s_ff2f0f38",
+    "date": "2022-03-07",
+    "excerpt_found": true,
+    "evidence_id": "s_ff2f0f38_e5",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "rejected",
+    "reason": "Duplicate of s_ff2f0f38_e3",
+    "confidence": 0.632,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.262,
+      "corroboration": 0.5
+    },
+    "duplicate_of": "s_ff2f0f38_e3",
+    "conflict_with": []
+  },
+  {
+    "claim": "India has an aggregate score of 2.45 on the AI maturity scale.",
+    "entity": "India",
+    "topic": "technology",
+    "excerpt": "India is positioned as an ‘Enthusiast’ on the 4-stage maturity scale with an aggregate score of 2.45; ‘making AI real’ is still some time away",
+    "source_id": "s_ff2f0f38",
+    "date": "2022-03-07",
+    "excerpt_found": true,
+    "evidence_id": "s_ff2f0f38_e6",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Figure is about 5 years old",
+    "confidence": 0.632,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.262,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Four key sectors are expected to contribute approximately 60% of the potential AI-driven value add to India’s GDP by FY 2026.",
+    "entity": "India",
+    "topic": "market size",
+    "excerpt": "Four key sectors – Industrials and Automotive, Healthcare, Retail & CPG and BFSI are expected to contribute ~60% of the potential AI-driven value add to India’s GDP by FY 2026",
+    "source_id": "s_ff2f0f38",
+    "date": "2022-03-07",
+    "excerpt_found": true,
+    "evidence_id": "s_ff2f0f38_e7",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "needs_review",
+    "reason": "Figure is about 5 years old",
+    "confidence": 0.632,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.262,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India's AI skills penetration was 3.09 times the global average between 2015 and 2021.",
+    "entity": "India",
+    "topic": "other",
+    "excerpt": "India starts from a low base in terms of investment volumes but scores significantly higher than mature economies in AI skills penetration; 3.09 times the global average between 2015-2021",
+    "source_id": "s_ff2f0f38",
+    "date": "2022-03-07",
+    "excerpt_found": true,
+    "evidence_id": "s_ff2f0f38_e8",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Figure is about 5 years old",
+    "confidence": 0.632,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.262,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Less than 15% of companies have aligned their AI strategy with their broader corporate strategy.",
+    "entity": "AI",
+    "topic": "other",
+    "excerpt": "AI strategy is not yet embedded with the broader corporate strategy for the majority; currently <15% have aligned their goals",
+    "source_id": "s_ff2f0f38",
+    "date": "2022-03-07",
+    "excerpt_found": true,
+    "evidence_id": "s_ff2f0f38_e9",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Figure is about 5 years old",
+    "confidence": 0.602,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 0.262,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "67% of enterprises allocate less than 10% of their IT budget to AI.",
+    "entity": "AI",
+    "topic": "market size",
+    "excerpt": "Enterprise spending on Artificial Intelligence is still low; 67% allocate less than 10% of their IT budget to AI",
+    "source_id": "s_ff2f0f38",
+    "date": "2022-03-07",
+    "excerpt_found": true,
+    "evidence_id": "s_ff2f0f38_e10",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Figure is about 5 years old",
+    "confidence": 0.602,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 0.262,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "NITI Aayog identifies healthcare, agriculture, education, smart cities, and smart mobility as priority sectors for AI-based applications.",
+    "entity": "NITI Aayog",
+    "topic": "policy",
+    "excerpt": "In the said report, NITI Aayog identifies healthcare, agriculture, education, smart cities, and smart mobility as the priority sectors.",
+    "source_id": "s_9bc9970d",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_9bc9970d_e1",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Age unknown (no page date or figure year)",
+    "confidence": 0.762,
+    "scores": {
+      "credibility": 0.95,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "NITI Aayog provides over 30 policy recommendations regarding scientific research, reskilling, AI adoption, ethics, privacy, and security.",
+    "entity": "NITI Aayog",
+    "topic": "policy",
+    "excerpt": "NITI Aayog provides over 30 policy recommendations to invest in scientific research, encourage reskilling and training, accelerate the adoption of AI across the value chain, and promote ethics, privacy, and security in AI.",
+    "source_id": "s_9bc9970d",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_9bc9970d_e2",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Age unknown (no page date or figure year)",
+    "confidence": 0.792,
+    "scores": {
+      "credibility": 0.95,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The Government of India launched a national call for proposals on Responsible AI in 2024 through MeitY.",
+    "entity": "MeitY",
+    "topic": "policy",
+    "excerpt": "In 2024, MeitY launched a national call for proposals on “Responsible AI” to build practical solutions that could be adopted by both govern-ment and industry.",
+    "source_id": "s_2cd41da9",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_2cd41da9_e1",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": 2024,
+    "status": "accepted",
+    "reason": "Passes all checks; official or institutional source; excerpt supports the claim (checked)",
+    "confidence": 0.853,
+    "scores": {
+      "credibility": 0.95,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.8,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Eight proposals on Responsible AI were selected from Indian universities and partners.",
+    "entity": "India",
+    "topic": "policy",
+    "excerpt": "Eight proposals were selected from Indian universi-ties and partners, covering areas such as Machine Unlearning, Synthetic Data, Bias Mitigation, [...] priv-acy, security, fairness, and transparency.",
+    "source_id": "s_2cd41da9",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_2cd41da9_e2",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Age unknown (no page date or figure year)",
+    "confidence": 0.792,
+    "scores": {
+      "credibility": 0.95,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India enacted the Digital Personal Data Protection (DPDP) Act in 2023.",
+    "entity": "India",
+    "topic": "policy",
+    "excerpt": "Successful examples of this approach can be seen in India's Digital Personal Data Protection (DPDP) Act 2023, which has matured over a period",
+    "source_id": "s_2cd41da9",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_2cd41da9_e3",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": 2023,
+    "status": "accepted",
+    "reason": "Passes all checks; official or institutional source; excerpt supports the claim (checked)",
+    "confidence": 0.782,
+    "scores": {
+      "credibility": 0.95,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 0.6,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The Reserve Bank of India issued FREE-AI recommendations in November 2025.",
+    "entity": "RBI",
+    "topic": "policy",
+    "excerpt": "Successful examples of this approach can be seen in India's Digital Personal Data Protection (DPDP) Act 2023, which has matured over a period and in RBI's FREE-AI recommendations, Nov 2025 .",
+    "source_id": "s_2cd41da9",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_2cd41da9_e4",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; official or institutional source; excerpt supports the claim (checked)",
+    "confidence": 0.892,
+    "scores": {
+      "credibility": 0.95,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India has 11 tracked AI instruments including 4 adopted, 2 draft, 2 in force, 2 proposed, and 1 in force (amended).",
+    "entity": "India",
+    "topic": "policy",
+    "excerpt": "11 instruments tracked — 4 Adopted, 2 Draft, 2 In Force, 2 Proposed, 1 In Force (Amended). Built directly from our records, so — unlike the article below — it cannot go stale.",
+    "source_id": "s_126e9489",
+    "date": "2026-09-13",
+    "excerpt_found": true,
+    "evidence_id": "s_126e9489_e1",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.735,
+    "scores": {
+      "credibility": 0.5,
+      "support": 0.85,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "NITI Aayog articulated the #AIforAll vision in its 2018 National Strategy for Artificial Intelligence.",
+    "entity": "NITI Aayog",
+    "topic": "policy",
+    "excerpt": "Anchored in the flagship vision of '#AIforAll', first articulated by NITI Aayog in its 2018 National Strategy for Artificial Intelligence, India frames AI technology primarily as a powerful tool for inclusive economic growth and large-scale social transformation across key public sectors.",
+    "source_id": "s_126e9489",
+    "date": "2026-09-13",
+    "excerpt_found": true,
+    "evidence_id": "s_126e9489_e2",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2018,
+    "status": "needs_review",
+    "reason": "Figure is about 8 years old",
+    "confidence": 0.6,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.1,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "MeitY published the India AI Governance Guidelines in November 2025.",
+    "entity": "MeitY",
+    "topic": "policy",
+    "excerpt": "Over recent years, governance has evolved through coordinated policy frameworks issued by the Ministry of Electronics and Information Technology (MeitY)—most notably the India AI Governance Guidelines published in November 2025 under the IndiaAI Mission—and data-centric initiatives like the Draft National Data Governance Framework Policy.",
+    "source_id": "s_126e9489",
+    "date": "2026-09-13",
+    "excerpt_found": true,
+    "evidence_id": "s_126e9489_e3",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The Reserve Bank of India issued the FREE-AI Framework in 2025.",
+    "entity": "Reserve Bank of India",
+    "topic": "policy",
+    "excerpt": "- FREE-AI Framework (RBI Committee Report, 2025): Advisory framework by the Reserve Bank of India providing 7 sutras and 26 recommendations across six strategic pillars for responsible AI adoption by financial regulated entities.",
+    "source_id": "s_126e9489",
+    "date": "2026-09-13",
+    "excerpt_found": true,
+    "evidence_id": "s_126e9489_e4",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "SEBI proposed AI responsibility amendments in 2024 for securities markets.",
+    "entity": "SEBI",
+    "topic": "policy",
+    "excerpt": "- SEBI Proposed AI Responsibility Amendments (2024): Proposed regulatory amendments assigning clear responsibility and accountability to Market Infrastructure Institutions and registered intermediaries for AI tools used in securities markets.",
+    "source_id": "s_126e9489",
+    "date": "2026-09-13",
+    "excerpt_found": true,
+    "evidence_id": "s_126e9489_e5",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2024,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.71,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 0.8,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The Draft National Data Governance Framework Policy was created by MeitY in 2022.",
+    "entity": "MeitY",
+    "topic": "policy",
+    "excerpt": "- Draft National Data Governance Framework Policy (2022): MeitY draft policy creating an India Data Management Office (IDMO) and the 'India Datasets' programme to enable access to non-personal and anonymized datasets for research and startups.",
+    "source_id": "s_126e9489",
+    "date": "2026-09-13",
+    "excerpt_found": true,
+    "evidence_id": "s_126e9489_e6",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2022,
+    "status": "needs_review",
+    "reason": "Figure is about 4 years old",
+    "confidence": 0.66,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.4,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "NITI Aayog released the AIRAWAT Approach Paper in 2020 regarding national AI-specific cloud computing infrastructure.",
+    "entity": "NITI Aayog",
+    "topic": "infrastructure",
+    "excerpt": "- AIRAWAT Approach Paper (2020): NITI Aayog strategy paper detailing the multi-tenant architecture and governance for a national AI-specific cloud computing infrastructure.",
+    "source_id": "s_126e9489",
+    "date": "2026-09-13",
+    "excerpt_found": true,
+    "evidence_id": "s_126e9489_e7",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2020,
+    "status": "needs_review",
+    "reason": "Figure is about 6 years old",
+    "confidence": 0.6,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.1,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "NITI Aayog acts as the central policy think tank for India's AI strategy.",
+    "entity": "NITI Aayog",
+    "topic": "policy",
+    "excerpt": "NITI Aayog serves as the central policy think tank driving overarching AI strategy and public compute initiatives.",
+    "source_id": "s_126e9489",
+    "date": "2026-09-13",
+    "excerpt_found": true,
+    "evidence_id": "s_126e9489_e8",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The Reserve Bank of India governs financial sector adoption and risk management for banks and fintechs.",
+    "entity": "Reserve Bank of India",
+    "topic": "policy",
+    "excerpt": "Financial sector adoption and risk management are governed by the Reserve Bank of India (RBI) for banking entities and fintechs, and by the Securities and Exchange Board of India (SEBI) for capital markets.",
+    "source_id": "s_126e9489",
+    "date": "2026-09-13",
+    "excerpt_found": true,
+    "evidence_id": "s_126e9489_e9",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The Securities and Exchange Board of India governs AI in capital markets.",
+    "entity": "Securities and Exchange Board of India",
+    "topic": "policy",
+    "excerpt": "Financial sector adoption and risk management are governed by the Reserve Bank of India (RBI) for banking entities and fintechs, and by the Securities and Exchange Board of India (SEBI) for capital markets.",
+    "source_id": "s_126e9489",
+    "date": "2026-09-13",
+    "excerpt_found": true,
+    "evidence_id": "s_126e9489_e10",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The RBI published the FREE-AI Committee Report in August 2025 containing 26 recommendations.",
+    "entity": "Reserve Bank of India",
+    "topic": "policy",
+    "excerpt": "In the financial domain, the RBI published its FREE-AI Committee Report in August 2025, detailing 26 actionable recommendations for banks, NBFCs, and fintechs.",
+    "source_id": "s_126e9489",
+    "date": "2026-09-13",
+    "excerpt_found": true,
+    "evidence_id": "s_126e9489_e11",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "needs_review",
+    "reason": "Claim is not fully backed by its excerpt (a number or the source name is missing)",
+    "confidence": 0.57,
+    "scores": {
+      "credibility": 0.5,
+      "support": 0.4,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "SEBI proposed amendments in November 2024 to make financial intermediaries accountable for AI tools.",
+    "entity": "Securities and Exchange Board of India",
+    "topic": "policy",
+    "excerpt": "Similarly, SEBI proposed amendments in November 2024 to assign direct accountability to Market Infrastructure Institutions (MIIs) and financial intermediaries for their operational AI tools.",
+    "source_id": "s_126e9489",
+    "date": "2026-09-13",
+    "excerpt_found": true,
+    "evidence_id": "s_126e9489_e12",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": 2024,
+    "status": "needs_review",
+    "reason": "Claim is not fully backed by its excerpt (a number or the source name is missing)",
+    "confidence": 0.53,
+    "scores": {
+      "credibility": 0.5,
+      "support": 0.4,
+      "relevance": 0.5,
+      "recency": 0.8,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The AI Safety Institute is responsible for technical testing, safety research, and standards validation.",
+    "entity": "AI Safety Institute",
+    "topic": "technology",
+    "excerpt": "Under the MeitY India AI Governance Guidelines (2025), strategic coordination is driven by the inter-agency AI Governance Group (AIGG), supported by the Technology & Policy Expert Committee (TPEC) for advisory input, and the AI Safety Institute (AISI) for technical testing, safety research, and standards validation.",
+    "source_id": "s_126e9489",
+    "date": "2026-09-13",
+    "excerpt_found": true,
+    "evidence_id": "s_126e9489_e13",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.75,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "NITI Aayog targeted five priority social sectors under its 2018 National Strategy and the AIRAWAT platform blueprint.",
+    "entity": "NITI Aayog",
+    "topic": "policy",
+    "excerpt": "Five priority social sectors were initially targeted under NITI Aayog’s 2018 National Strategy (#AIforAll) and the AIRAWAT platform blueprint: healthcare (radiology, diagnostics, early disease detection), agriculture (yield prediction, crop disease analysis), education (personalized learning platforms), smart cities (predictive maintenance, service delivery), and smart mobility (traffic optimization).",
+    "source_id": "s_126e9489",
+    "date": "2026-09-13",
+    "excerpt_found": true,
+    "evidence_id": "s_126e9489_e14",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2018,
+    "status": "needs_review",
+    "reason": "Figure is about 8 years old",
+    "confidence": 0.6,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.1,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The Artificial Intelligence (Ethics & Accountability) Bill, 2025 was introduced in the Lok Sabha in December 2025.",
+    "entity": "Lok Sabha",
+    "topic": "policy",
+    "excerpt": "The Artificial Intelligence (Ethics & Accountability) Bill, 2025, introduced in the Lok Sabha in December 2025, represents a potential move toward statutory oversight via a national Ethics Committee for AI.",
+    "source_id": "s_126e9489",
+    "date": "2026-09-13",
+    "excerpt_found": true,
+    "evidence_id": "s_126e9489_e15",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.75,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "SEBI is finalizing regulatory amendments to set accountability standards for market intermediaries using AI.",
+    "entity": "SEBI",
+    "topic": "policy",
+    "excerpt": "In financial markets, SEBI is finalizing proposed regulatory amendments to establish binding accountability standards for market intermediaries using AI tools.",
+    "source_id": "s_126e9489",
+    "date": "2026-09-13",
+    "excerpt_found": true,
+    "evidence_id": "s_126e9489_e16",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The Delhi High Court issued an injunction to protect Jr NTR's personality rights against AI-generated deepfake content in December 2025.",
+    "entity": "Delhi High Court",
+    "topic": "policy",
+    "excerpt": "Enforcement orderDec 22, 2025 High Court of Delhi vs Infringing sellers (Jr NTR personality rights) In CS(COMM) 1305/2025 the Delhi High Court took up actor Jr NTR's suit for misappropriation of his personality and publicity rights, addressing unauthorized AI/machine-learning-generated deepfake and GIF content using his persona.",
+    "source_id": "s_126e9489",
+    "date": "2026-09-13",
+    "excerpt_found": true,
+    "evidence_id": "s_126e9489_e17",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.75,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The Bombay High Court granted Arijit Singh an injunction against AI platforms synthesizing his voice in July 2024.",
+    "entity": "Bombay High Court",
+    "topic": "policy",
+    "excerpt": "LawsuitJul 26, 2024 High Court of Bombay vs Codible Ventures LLP (Arijit Singh voice cloning) In COM IPR Suit (L) No. 23443 of 2024 the Bombay High Court granted singer Arijit Singh an ad-interim injunction against AI platforms synthesizing his voice and exploiting his name, image and likeness without authorization — India's first AI voice-cloning personality-rights ruling.",
+    "source_id": "s_126e9489",
+    "date": "2026-09-13",
+    "excerpt_found": true,
+    "evidence_id": "s_126e9489_e18",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2024,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.71,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 0.8,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India has over 40 GCCs focused on AI/ML.",
+    "entity": "India",
+    "topic": "other",
+    "excerpt": "There are over 40+ GCC’s focused on AI/ ML in India.",
+    "source_id": "s_e0c26213",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_e0c26213_e1",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Age unknown (no page date or figure year)",
+    "confidence": 0.743,
+    "scores": {
+      "credibility": 0.75,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Bangalore is ranked fifth among the top global AI hotspots.",
+    "entity": "Bangalore",
+    "topic": "other",
+    "excerpt": "Bangalore ranks fifth amongst the top global AI hotspots",
+    "source_id": "s_e0c26213",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_e0c26213_e2",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Age unknown (no page date or figure year); global figure, but the research scope is India",
+    "confidence": 0.693,
+    "scores": {
+      "credibility": 0.75,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The demand and supply analysis for AI talent in India was conducted in 2018.",
+    "entity": "India",
+    "topic": "other",
+    "excerpt": "The demand and supply numbers are aggregate and include both tech and non-tech sectors. The analysis was conducted in 2018.",
+    "source_id": "s_e0c26213",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_e0c26213_e3",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": false,
+    "date_source": null,
+    "data_year": 2018,
+    "status": "needs_review",
+    "reason": "Figure is about 8 years old",
+    "confidence": 0.618,
+    "scores": {
+      "credibility": 0.75,
+      "support": 0.85,
+      "relevance": 0.8,
+      "recency": 0.1,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The projected value-add for India in the AI sector is $500 billion.",
+    "entity": "India",
+    "topic": "market size",
+    "excerpt": "The road to $500 bn. value-add will propel India to the Expert-Evangelist stages rather rapidly.",
+    "source_id": "s_e0c26213",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_e0c26213_e4",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Age unknown (no page date or figure year)",
+    "confidence": 0.743,
+    "scores": {
+      "credibility": 0.75,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Mumbai and Chennai account for 65% of India's data center capacity.",
+    "entity": "Mumbai",
+    "topic": "market share",
+    "excerpt": "Mumbai and Chennai currently account for 65% of India's data center capacity",
+    "source_id": "s_374a339a",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_374a339a_e1",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "User-generated source; age unknown (no page date or figure year)",
+    "confidence": 0.618,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Chennai and Mumbai account for 65% of India's data center capacity.",
+    "entity": "Chennai",
+    "topic": "market share",
+    "excerpt": "Mumbai and Chennai currently account for 65% of India's data center capacity",
+    "source_id": "s_374a339a",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_374a339a_e2",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "rejected",
+    "reason": "Duplicate of s_374a339a_e1",
+    "confidence": 0.618,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": "s_374a339a_e1",
+    "conflict_with": []
+  },
+  {
+    "claim": "Large scale data centers account for 56% of installed capacity.",
+    "entity": "Large scale data centers",
+    "topic": "market share",
+    "excerpt": "Large scale data centers now account for 56% of installed\ncapacity versus 42% 5 years ago.",
+    "source_id": "s_374a339a",
+    "date": null,
+    "excerpt_found": false,
+    "evidence_id": "s_374a339a_e3",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "rejected",
+    "reason": "Quoted excerpt not found in the page text",
+    "confidence": 0.318,
+    "scores": {
+      "credibility": 0.25,
+      "support": 0.0,
+      "relevance": 0.8,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India's AI data center capacity is projected to report 80% CAGR from 2024 to 2027.",
+    "entity": "India",
+    "topic": "growth",
+    "excerpt": "So, India's AI\ndata center capacity is projected to report 80% CAGGR from 2024 to 2027 and a\nfurther 40% CAGGR from 2027 to 2030.",
+    "source_id": "s_374a339a",
+    "date": null,
+    "excerpt_found": false,
+    "evidence_id": "s_374a339a_e4",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "rejected",
+    "reason": "Quoted excerpt not found in the page text",
+    "confidence": 0.318,
+    "scores": {
+      "credibility": 0.25,
+      "support": 0.0,
+      "relevance": 0.8,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India accounts for 21% of global mobile data consumption.",
+    "entity": "India",
+    "topic": "market share",
+    "excerpt": "Here is an interesting paradox. India accounts for 21% of global mobile data consumption.",
+    "source_id": "s_374a339a",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_374a339a_e5",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "User-generated source; age unknown (no page date or figure year)",
+    "confidence": 0.618,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India accounts for 3% of the global installed data center capacity.",
+    "entity": "India",
+    "topic": "market share",
+    "excerpt": "Here is an interesting paradox. India accounts for 21% of global mobile data consumption. However, it accounts for\njust 3% of the global installed data center capacity.",
+    "source_id": "s_374a339a",
+    "date": null,
+    "excerpt_found": false,
+    "evidence_id": "s_374a339a_e6",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "rejected",
+    "reason": "Quoted excerpt not found in the page text",
+    "confidence": 0.318,
+    "scores": {
+      "credibility": 0.25,
+      "support": 0.0,
+      "relevance": 0.8,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Amazon AWS is a cloud provider in India.",
+    "entity": "Amazon AWS",
+    "topic": "competitors",
+    "excerpt": "This is due to the fact that most of the Indian data is stored\noutside its geographic boundaries because of the reliance on hyperscalers or cloud providers like Amazon AWS,\nAzure and Google Cloud.",
+    "source_id": "s_374a339a",
+    "date": null,
+    "excerpt_found": false,
+    "evidence_id": "s_374a339a_e7",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "rejected",
+    "reason": "Quoted excerpt not found in the page text",
+    "confidence": 0.318,
+    "scores": {
+      "credibility": 0.25,
+      "support": 0.0,
+      "relevance": 0.8,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Azure is a cloud provider in India.",
+    "entity": "Azure",
+    "topic": "competitors",
+    "excerpt": "This is due to the fact that most of the Indian data is stored\noutside its geographic boundaries because of the reliance on hyperscalers or cloud providers like Amazon AWS,\nAzure and Google Cloud.",
+    "source_id": "s_374a339a",
+    "date": null,
+    "excerpt_found": false,
+    "evidence_id": "s_374a339a_e8",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "rejected",
+    "reason": "Duplicate of s_374a339a_e7",
+    "confidence": 0.318,
+    "scores": {
+      "credibility": 0.25,
+      "support": 0.0,
+      "relevance": 0.8,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": "s_374a339a_e7",
+    "conflict_with": []
+  },
+  {
+    "claim": "Google Cloud is a cloud provider in India.",
+    "entity": "Google Cloud",
+    "topic": "competitors",
+    "excerpt": "This is due to the fact that most of the Indian data is stored\noutside its geographic boundaries because of the reliance on hyperscalers or cloud providers like Amazon AWS,\nAzure and Google Cloud.",
+    "source_id": "s_374a339a",
+    "date": null,
+    "excerpt_found": false,
+    "evidence_id": "s_374a339a_e9",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "rejected",
+    "reason": "Quoted excerpt not found in the page text",
+    "confidence": 0.318,
+    "scores": {
+      "credibility": 0.25,
+      "support": 0.0,
+      "relevance": 0.8,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Hyperscalers or cloud providers account for 54% of India's data center demand.",
+    "entity": "Hyperscalers",
+    "topic": "market share",
+    "excerpt": "Hyperscalers or cloud providers now account for 54% of India's data center\ndemand followed by DFSI and technology industries accounting for 18% and 12% of\nthe installed capacity respectively.",
+    "source_id": "s_374a339a",
+    "date": null,
+    "excerpt_found": false,
+    "evidence_id": "s_374a339a_e10",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "rejected",
+    "reason": "Quoted excerpt not found in the page text",
+    "confidence": 0.318,
+    "scores": {
+      "credibility": 0.25,
+      "support": 0.0,
+      "relevance": 0.8,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "NT accounts for 50% of the data center capacity share together with ST.",
+    "entity": "NT",
+    "topic": "market share",
+    "excerpt": "The industry is consolidated with the top two players that is NT and ST\naccounting for 50% of capacity share and top five players accounting for 75%.",
+    "source_id": "s_374a339a",
+    "date": null,
+    "excerpt_found": false,
+    "evidence_id": "s_374a339a_e11",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "rejected",
+    "reason": "Quoted excerpt not found in the page text",
+    "confidence": 0.318,
+    "scores": {
+      "credibility": 0.25,
+      "support": 0.0,
+      "relevance": 0.8,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "ST accounts for 50% of the data center capacity share together with NT.",
+    "entity": "ST",
+    "topic": "market share",
+    "excerpt": "The industry is consolidated with the top two players that is NT and ST\naccounting for 50% of capacity share and top five players accounting for 75%.",
+    "source_id": "s_374a339a",
+    "date": null,
+    "excerpt_found": false,
+    "evidence_id": "s_374a339a_e12",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "rejected",
+    "reason": "Duplicate of s_374a339a_e11",
+    "confidence": 0.318,
+    "scores": {
+      "credibility": 0.25,
+      "support": 0.0,
+      "relevance": 0.8,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": "s_374a339a_e11",
+    "conflict_with": []
+  },
+  {
+    "claim": "Yotta Data Services announced a ~$12B, 80,000 NVIDIA Vera Rubin GPU expansion in September 2026 and is filing toward an October IPO.",
+    "entity": "Yotta Data Services",
+    "topic": "infrastructure",
+    "excerpt": "Yotta announced a ~$12B, 80,000 NVIDIA Vera Rubin GPU expansion in September 2026 and is filing toward an October IPO",
+    "source_id": "s_d6fa7ef9",
+    "date": "2026-02-18",
+    "excerpt_found": true,
+    "evidence_id": "s_d6fa7ef9_e1",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "needs_review",
+    "reason": "Claim is not fully backed by its excerpt (a number or the source name is missing); user-generated source",
+    "confidence": 0.487,
+    "scores": {
+      "credibility": 0.25,
+      "support": 0.4,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India’s AI ecosystem raised $3.94 billion in venture capital in Q1 2026.",
+    "entity": "India",
+    "topic": "market size",
+    "excerpt": "India’s AI ecosystem raised $3.94 billion in venture capital in Q1 2026 alone, roughly six times all of 2025, deployed over 38,000 GPUs nationwide, and minted two new AI unicorns (Neysa and Sarvam) within four months.",
+    "source_id": "s_d6fa7ef9",
+    "date": "2026-02-18",
+    "excerpt_found": true,
+    "evidence_id": "s_d6fa7ef9_e2",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "needs_review",
+    "reason": "User-generated source",
+    "confidence": 0.718,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Sarvam AI reached unicorn status at a $1.5B valuation in 2026.",
+    "entity": "Sarvam AI",
+    "topic": "market size",
+    "excerpt": "Sarvam AI reaching unicorn status at a $1.5B valuation",
+    "source_id": "s_d6fa7ef9",
+    "date": "2026-02-18",
+    "excerpt_found": true,
+    "evidence_id": "s_d6fa7ef9_e3",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Claim is not fully backed by its excerpt (a number or the source name is missing); user-generated source",
+    "confidence": 0.508,
+    "scores": {
+      "credibility": 0.25,
+      "support": 0.4,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Sarvam AI raised a $234M Series B in June 2026, reaching a $1.5B valuation and unicorn status.",
+    "entity": "Sarvam AI",
+    "topic": "market size",
+    "excerpt": "$234M Series B in June 2026 (first close of a $300M round) led by HCLTech, reaching a $1.5B valuation and unicorn status.",
+    "source_id": "s_d6fa7ef9",
+    "date": "2026-02-18",
+    "excerpt_found": true,
+    "evidence_id": "s_d6fa7ef9_e4",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "needs_review",
+    "reason": "Claim is not fully backed by its excerpt (a number or the source name is missing); user-generated source",
+    "confidence": 0.508,
+    "scores": {
+      "credibility": 0.25,
+      "support": 0.4,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Krutrim trained large language models on 2 trillion tokens across 22 Indian languages.",
+    "entity": "Krutrim",
+    "topic": "technology",
+    "excerpt": "What They Built. Krutrim’s ambition spans the full AI stack: large language models trained on 2 trillion tokens across 22 Indian languages, AI cloud infrastructure (Krutrim Cloud), and a custom AI silicon roadmap (Bodhi for AI acceleration, Sarv for general compute, Ojas for edge AI), plus a supercomputer collaboration with NVIDIA.",
+    "source_id": "s_d6fa7ef9",
+    "date": "2026-02-18",
+    "excerpt_found": true,
+    "evidence_id": "s_d6fa7ef9_e5",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "User-generated source",
+    "confidence": 0.718,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Krutrim-2 is a 12B parameter model reporting 0.95 sentiment-analysis accuracy and 80% on code-generation benchmarks.",
+    "entity": "Krutrim",
+    "topic": "technology",
+    "excerpt": "Krutrim-2, a 12B parameter model, reports 0.95 sentiment-analysis accuracy (vs ~0.70 for some competitors) and 80% on code-generation benchmarks.",
+    "source_id": "s_d6fa7ef9",
+    "date": "2026-02-18",
+    "excerpt_found": true,
+    "evidence_id": "s_d6fa7ef9_e6",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "User-generated source",
+    "confidence": 0.718,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Krutrim Cloud has 25,000+ active developers.",
+    "entity": "Krutrim",
+    "topic": "market size",
+    "excerpt": "The Numbers That Matter. 25,000+ active developers on Krutrim Cloud.",
+    "source_id": "s_d6fa7ef9",
+    "date": "2026-02-18",
+    "excerpt_found": true,
+    "evidence_id": "s_d6fa7ef9_e7",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "User-generated source",
+    "confidence": 0.667,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Krutrim processed 250B+ API calls.",
+    "entity": "Krutrim",
+    "topic": "market size",
+    "excerpt": "The Numbers That Matter. 25,000+ active developers on Krutrim Cloud. 250B+ API calls processed.",
+    "source_id": "s_d6fa7ef9",
+    "date": "2026-02-18",
+    "excerpt_found": true,
+    "evidence_id": "s_d6fa7ef9_e8",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "User-generated source",
+    "confidence": 0.667,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Krutrim reached 100K+ consumer app downloads.",
+    "entity": "Krutrim",
+    "topic": "market size",
+    "excerpt": "The Numbers That Matter. 25,000+ active developers on Krutrim Cloud. 250B+ API calls processed. 100K+ consumer app downloads.",
+    "source_id": "s_d6fa7ef9",
+    "date": "2026-02-18",
+    "excerpt_found": true,
+    "evidence_id": "s_d6fa7ef9_e9",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "User-generated source",
+    "confidence": 0.667,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "In mid-2026, Krutrim cut headcount from roughly 550 to around 150.",
+    "entity": "Krutrim",
+    "topic": "policy",
+    "excerpt": "Strategic Reality Check. In mid-2026, Krutrim made its pivot explicit: it refocused on its AI cloud business, paused its custom-silicon and foundational-model work, and cut headcount from roughly 550 to around 150.",
+    "source_id": "s_d6fa7ef9",
+    "date": "2026-02-18",
+    "excerpt_found": true,
+    "evidence_id": "s_d6fa7ef9_e10",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "needs_review",
+    "reason": "User-generated source",
+    "confidence": 0.667,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Krutrim reported revenue of about ₹300 crore in FY26 and its first annual net profit.",
+    "entity": "Krutrim",
+    "topic": "market size",
+    "excerpt": "Strategic Reality Check. In mid-2026, Krutrim made its pivot explicit: it refocused on its AI cloud business, paused its custom-silicon and foundational-model work, and cut headcount from roughly 550 to around 150. It reported revenue of about ₹300 crore in FY26 (roughly triple the prior year) and its first annual net profit.",
+    "source_id": "s_d6fa7ef9",
+    "date": "2026-02-18",
+    "excerpt_found": true,
+    "evidence_id": "s_d6fa7ef9_e11",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "needs_review",
+    "reason": "User-generated source",
+    "confidence": 0.667,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Neysa has a valuation of $1.4B as of February 2026.",
+    "entity": "Neysa",
+    "topic": "market size",
+    "excerpt": "3. Neysa: India’s AI Infrastructure Unicorn\nFounded: 2023 | Funding: $50M equity + $1.2B financing | Valuation: $1.4B (Unicorn, February 2026) | HQ: India",
+    "source_id": "s_d6fa7ef9",
+    "date": "2026-02-18",
+    "excerpt_found": true,
+    "evidence_id": "s_d6fa7ef9_e12",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "needs_review",
+    "reason": "User-generated source",
+    "confidence": 0.667,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Neysa became India’s second AI unicorn of 2026 following a $1.2 billion financing round led by Blackstone.",
+    "entity": "Neysa",
+    "topic": "market size",
+    "excerpt": "Backed by Blackstone, Nexus Venture Partners, Z47, and NTTVC, Neysa became India’s second AI unicorn of 2026 following a $1.2 billion financing round led by Blackstone.",
+    "source_id": "s_d6fa7ef9",
+    "date": "2026-02-18",
+    "excerpt_found": true,
+    "evidence_id": "s_d6fa7ef9_e13",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "needs_review",
+    "reason": "User-generated source",
+    "confidence": 0.718,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Neysa announced a ₹10,500 crore AI data center cluster MoU with NTT DATA and the Telangana government.",
+    "entity": "Neysa",
+    "topic": "infrastructure",
+    "excerpt": "The Numbers That Matter. $1.2B financing round (equity + debt). ₹10,500 crore AI data center cluster MoU with NTT DATA and the Telangana government.",
+    "source_id": "s_d6fa7ef9",
+    "date": "2026-02-18",
+    "excerpt_found": true,
+    "evidence_id": "s_d6fa7ef9_e14",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Claim is not fully backed by its excerpt (a number or the source name is missing); user-generated source",
+    "confidence": 0.508,
+    "scores": {
+      "credibility": 0.25,
+      "support": 0.4,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Neysa is targeting 20,000+ GPU deployments.",
+    "entity": "Neysa",
+    "topic": "infrastructure",
+    "excerpt": "The Numbers That Matter. $1.2B financing round (equity + debt). ₹10,500 crore AI data center cluster MoU with NTT DATA and the Telangana government. Targeting 20,000+ GPU deployments.",
+    "source_id": "s_d6fa7ef9",
+    "date": "2026-02-18",
+    "excerpt_found": true,
+    "evidence_id": "s_d6fa7ef9_e15",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Claim is not fully backed by its excerpt (a number or the source name is missing); user-generated source",
+    "confidence": 0.508,
+    "scores": {
+      "credibility": 0.25,
+      "support": 0.4,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Yotta operates Shakti Cloud, running 20,000+ NVIDIA Blackwell Ultra GPUs across campuses in Navi Mumbai and Greater Noida.",
+    "entity": "Yotta",
+    "topic": "infrastructure",
+    "excerpt": "What They Built. Shakti Cloud, a sovereign AI cloud running 20,000+ NVIDIA Blackwell Ultra GPUs across campuses in Navi Mumbai and Greater Noida, with hardware under Indian operational control and Indian legal jurisdiction.",
+    "source_id": "s_d6fa7ef9",
+    "date": "2026-02-18",
+    "excerpt_found": true,
+    "evidence_id": "s_d6fa7ef9_e16",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Claim is not fully backed by its excerpt (a number or the source name is missing); user-generated source",
+    "confidence": 0.487,
+    "scores": {
+      "credibility": 0.25,
+      "support": 0.4,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "In September 2026 Yotta announced a roughly $12 billion expansion to deploy 80,000 NVIDIA Vera Rubin GPUs across two new facilities.",
+    "entity": "Yotta",
+    "topic": "infrastructure",
+    "excerpt": "In September 2026 Yotta announced a roughly $12 billion expansion to deploy 80,000 NVIDIA Vera Rubin GPUs across two new facilities, one of the largest single GPU commitments in Asia.",
+    "source_id": "s_d6fa7ef9",
+    "date": "2026-02-18",
+    "excerpt_found": true,
+    "evidence_id": "s_d6fa7ef9_e17",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "needs_review",
+    "reason": "User-generated source",
+    "confidence": 0.667,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Yotta has 20,000+ NVIDIA Blackwell Ultra GPUs live on Shakti Cloud.",
+    "entity": "Yotta",
+    "topic": "infrastructure",
+    "excerpt": "The Numbers That Matter. $150M Series A at a roughly ₹37,000 crore valuation. 20,000+ NVIDIA Blackwell Ultra GPUs live on Shakti Cloud.",
+    "source_id": "s_d6fa7ef9",
+    "date": "2026-02-18",
+    "excerpt_found": true,
+    "evidence_id": "s_d6fa7ef9_e18",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Claim is not fully backed by its excerpt (a number or the source name is missing); user-generated source",
+    "confidence": 0.487,
+    "scores": {
+      "credibility": 0.25,
+      "support": 0.4,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Yotta's CEO Sunil Gupta stated that Yotta holds an estimated 60 to 70 percent of India’s installed GPU capacity.",
+    "entity": "Yotta",
+    "topic": "market share",
+    "excerpt": "CEO Sunil Gupta has stated Yotta holds an estimated 60 to 70 percent of India’s installed GPU capacity.",
+    "source_id": "s_d6fa7ef9",
+    "date": "2026-02-18",
+    "excerpt_found": true,
+    "evidence_id": "s_d6fa7ef9_e19",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "User-generated source",
+    "confidence": 0.688,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Yotta's draft IPO papers were targeted for October 2026, with a raise reported up to $1.5B.",
+    "entity": "Yotta",
+    "topic": "market size",
+    "excerpt": "Draft IPO papers targeted for October 2026, with a raise reported up to $1.5B.",
+    "source_id": "s_d6fa7ef9",
+    "date": "2026-02-18",
+    "excerpt_found": true,
+    "evidence_id": "s_d6fa7ef9_e20",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "needs_review",
+    "reason": "Claim is not fully backed by its excerpt (a number or the source name is missing); user-generated source",
+    "confidence": 0.487,
+    "scores": {
+      "credibility": 0.25,
+      "support": 0.4,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "E2E Networks has roughly 3,900 GPUs online and an active buildout of 2,048 to 4,096 NVIDIA Blackwell GPUs.",
+    "entity": "E2E",
+    "topic": "infrastructure",
+    "excerpt": "What They Built. A GPU-first public cloud with roughly 3,900 GPUs online and an active buildout of 2,048 to 4,096 NVIDIA Blackwell GPUs, plus a managed AI/ML platform for training and deploying models on India-resident infrastructure.",
+    "source_id": "s_d6fa7ef9",
+    "date": "2026-02-18",
+    "excerpt_found": true,
+    "evidence_id": "s_d6fa7ef9_e21",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Claim is not fully backed by its excerpt (a number or the source name is missing); user-generated source",
+    "confidence": 0.487,
+    "scores": {
+      "credibility": 0.25,
+      "support": 0.4,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "E2E Networks reported FY26 revenue of ₹245.58 crore.",
+    "entity": "E2E",
+    "topic": "market size",
+    "excerpt": "The Numbers That Matter. Public on the NSE; FY26 revenue ₹245.58 crore, up nearly 50 percent year over year (Q4 FY26 revenue ₹95.64 crore, up 186 percent YoY).",
+    "source_id": "s_d6fa7ef9",
+    "date": "2026-02-18",
+    "excerpt_found": true,
+    "evidence_id": "s_d6fa7ef9_e22",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Claim is not fully backed by its excerpt (a number or the source name is missing); user-generated source",
+    "confidence": 0.487,
+    "scores": {
+      "credibility": 0.25,
+      "support": 0.4,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "E2E Networks secured two IndiaAI Mission orders totaling ₹265 crore.",
+    "entity": "E2E",
+    "topic": "infrastructure",
+    "excerpt": "Two IndiaAI Mission orders totaling ₹265 crore (₹88 crore plus ₹177 crore), primarily for domestic LLM training.",
+    "source_id": "s_d6fa7ef9",
+    "date": "2026-02-18",
+    "excerpt_found": true,
+    "evidence_id": "s_d6fa7ef9_e23",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Claim is not fully backed by its excerpt (a number or the source name is missing); user-generated source",
+    "confidence": 0.487,
+    "scores": {
+      "credibility": 0.25,
+      "support": 0.4,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "E2E Networks raised $188M across 3 rounds, most recently in February 2026.",
+    "entity": "E2E",
+    "topic": "market size",
+    "excerpt": "$188M raised across 3 rounds, most recently February 2026.",
+    "source_id": "s_d6fa7ef9",
+    "date": "2026-02-18",
+    "excerpt_found": true,
+    "evidence_id": "s_d6fa7ef9_e24",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "needs_review",
+    "reason": "Claim is not fully backed by its excerpt (a number or the source name is missing); user-generated source",
+    "confidence": 0.487,
+    "scores": {
+      "credibility": 0.25,
+      "support": 0.4,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Intuz has 16 years of experience in custom enterprise software, artificial intelligence consulting, and automation.",
+    "entity": "Intuz",
+    "topic": "other",
+    "excerpt": "6. Intuz: 16 Years of Experience in Custom Enterprise Software, now in Artificial Intelligence consulting and automation.",
+    "source_id": "s_d6fa7ef9",
+    "date": "2026-02-18",
+    "excerpt_found": true,
+    "evidence_id": "s_d6fa7ef9_e25",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "User-generated source",
+    "confidence": 0.688,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Intuz has shipped over 700 production systems.",
+    "entity": "Intuz",
+    "topic": "other",
+    "excerpt": "Founded: 2009 | Projects Delivered: 700+ | Team: 100+ associates | Offices: California (USA) and Ahmedabad (India)\nIntuz is not a post-ChatGPT AI startup. It is a 16-year-old AI, IoT, and software engineering company that has shipped 700+ production systems across healthcare, e-commerce, manufacturing, and connected devices.",
+    "source_id": "s_d6fa7ef9",
+    "date": "2026-02-18",
+    "excerpt_found": true,
+    "evidence_id": "s_d6fa7ef9_e26",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "User-generated source",
+    "confidence": 0.667,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Intuz employs over 100 engineers and AI specialists.",
+    "entity": "Intuz",
+    "topic": "other",
+    "excerpt": "The Numbers That Matter. 1,500+ projects shipped to production. Recently onboarded new clients across its workflow-automation and healthcare divisions, including a fax-to-EMR automation that saves a US healthcare provider roughly $250,000 a year (document processing cut from 5 minutes to 30 seconds) and 10 custom n8n automations that reduced a logistics client’s manual work by 77% in four weeks. 100+ engineers and AI specialists across the US and India.",
+    "source_id": "s_d6fa7ef9",
+    "date": "2026-02-18",
+    "excerpt_found": true,
+    "evidence_id": "s_d6fa7ef9_e27",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Claim is not fully backed by its excerpt (a number or the source name is missing); user-generated source",
+    "confidence": 0.508,
+    "scores": {
+      "credibility": 0.25,
+      "support": 0.4,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Uniphore has raised $985 million in total funding.",
+    "entity": "Uniphore",
+    "topic": "other",
+    "excerpt": "7. Uniphore: India’s Most Funded Enterprise AI Platform\nFounded: 2008 | Funding: $985M | Valuation: $2.5 Billion | HQ: Palo Alto (founded at IIT Madras Research Park, Chennai)\nUniphore is the most-funded Indian-origin enterprise AI company to date, having raised nearly $1 billion across multiple rounds.",
+    "source_id": "s_d6fa7ef9",
+    "date": "2026-02-18",
+    "excerpt_found": true,
+    "evidence_id": "s_d6fa7ef9_e28",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "User-generated source",
+    "confidence": 0.667,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Uniphore has a valuation of $2.5 billion.",
+    "entity": "Uniphore",
+    "topic": "other",
+    "excerpt": "7. Uniphore: India’s Most Funded Enterprise AI Platform\nFounded: 2008 | Funding: $985M | Valuation: $2.5 Billion | HQ: Palo Alto (founded at IIT Madras Research Park, Chennai)",
+    "source_id": "s_d6fa7ef9",
+    "date": "2026-02-18",
+    "excerpt_found": true,
+    "evidence_id": "s_d6fa7ef9_e29",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "User-generated source",
+    "confidence": 0.667,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Fractal Analytics listed on the NSE and BSE on February 16, 2026.",
+    "entity": "Fractal Analytics",
+    "topic": "other",
+    "excerpt": "8. Fractal Analytics: Enterprise AI Veteran Building Large Reasoning Models\nFounded: 2000 | Funding: $685M raised pre-IPO | Status: Public, listed on NSE and BSE (February 16, 2026) | HQ: India",
+    "source_id": "s_d6fa7ef9",
+    "date": "2026-02-18",
+    "excerpt_found": true,
+    "evidence_id": "s_d6fa7ef9_e30",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "needs_review",
+    "reason": "User-generated source",
+    "confidence": 0.667,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Fractal Analytics launched the open-source LLM Fathom-R1–14B in May 2025.",
+    "entity": "Fractal Analytics",
+    "topic": "technology",
+    "excerpt": "What They Built. In May 2025, Fractal launched Fathom-R1–14B, an open-source LLM focused on mathematical and structured reasoning.",
+    "source_id": "s_d6fa7ef9",
+    "date": "2026-02-18",
+    "excerpt_found": true,
+    "evidence_id": "s_d6fa7ef9_e31",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "needs_review",
+    "reason": "Claim is not fully backed by its excerpt (a number or the source name is missing); user-generated source",
+    "confidence": 0.487,
+    "scores": {
+      "credibility": 0.25,
+      "support": 0.4,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India’s AI market size was USD 2.97 billion in 2020.",
+    "entity": "Competition Commission of India",
+    "topic": "market size",
+    "excerpt": "According to the Competition Commission of India (CCI), as cited by the Press Information Bureau (PIB), India’s AI market grew from USD 2.97 billion in 2020 to USD 7.63 billion in 2024.",
+    "source_id": "s_1d1bf5d4",
+    "date": "2026-08-24",
+    "excerpt_found": true,
+    "evidence_id": "s_1d1bf5d4_e1",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2020,
+    "status": "needs_review",
+    "reason": "Figure is about 6 years old",
+    "confidence": 0.6,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.1,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India’s AI market size was USD 7.63 billion in 2024.",
+    "entity": "Competition Commission of India",
+    "topic": "market size",
+    "excerpt": "According to the Competition Commission of India (CCI), as cited by the Press Information Bureau (PIB), India’s AI market grew from USD 2.97 billion in 2020 to USD 7.63 billion in 2024.",
+    "source_id": "s_1d1bf5d4",
+    "date": "2026-08-24",
+    "excerpt_found": true,
+    "evidence_id": "s_1d1bf5d4_e2",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2024,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.74,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.8,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India’s AI market is projected to reach USD 131.31 billion by 2032.",
+    "entity": "Competition Commission of India",
+    "topic": "market size",
+    "excerpt": "According to the Competition Commission of India (CCI), as cited by the Press Information Bureau (PIB), India’s AI market grew from USD 2.97 billion in 2020 to USD 7.63 billion in 2024. It is projected to reach USD 131.31 billion by 2032, expanding at a CAGR of 42.2%.",
+    "source_id": "s_1d1bf5d4",
+    "date": "2026-08-24",
+    "excerpt_found": true,
+    "evidence_id": "s_1d1bf5d4_e3",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2032,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India’s AI market is expected to grow at a CAGR of 42.2%.",
+    "entity": "Competition Commission of India",
+    "topic": "growth",
+    "excerpt": "According to the Competition Commission of India (CCI), as cited by the Press Information Bureau (PIB), India’s AI market grew from USD 2.97 billion in 2020 to USD 7.63 billion in 2024. It is projected to reach USD 131.31 billion by 2032, expanding at a CAGR of 42.2%.",
+    "source_id": "s_1d1bf5d4",
+    "date": "2026-08-24",
+    "excerpt_found": true,
+    "evidence_id": "s_1d1bf5d4_e4",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Yellow.ai is one of the fastest-growing AI startups in India.",
+    "entity": "Yellow.ai",
+    "topic": "growth",
+    "excerpt": "Yellow.ai is one of the fastest-growing AI startups in India.",
+    "source_id": "s_1d1bf5d4",
+    "date": "2026-08-24",
+    "excerpt_found": true,
+    "evidence_id": "s_1d1bf5d4_e5",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Infosys provides AI services for banking, healthcare, manufacturing, retail, and energy sectors.",
+    "entity": "Infosys",
+    "topic": "other",
+    "excerpt": "Infosys provides AI services for banking, healthcare, manufacturing, retail, and energy sectors.",
+    "source_id": "s_1d1bf5d4",
+    "date": "2026-08-24",
+    "excerpt_found": true,
+    "evidence_id": "s_1d1bf5d4_e6",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.75,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Wipro serves industries like healthcare, retail, manufacturing, banking, and telecommunications.",
+    "entity": "Wipro",
+    "topic": "other",
+    "excerpt": "Wipro serves industries like healthcare, retail, manufacturing, banking, and telecommunications.",
+    "source_id": "s_1d1bf5d4",
+    "date": "2026-08-24",
+    "excerpt_found": false,
+    "evidence_id": "s_1d1bf5d4_e7",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "rejected",
+    "reason": "Quoted excerpt not found in the page text",
+    "confidence": 0.43,
+    "scores": {
+      "credibility": 0.5,
+      "support": 0.0,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Persistent Systems works with industries like banking, healthcare, telecom, life sciences, and manufacturing.",
+    "entity": "Persistent Systems",
+    "topic": "other",
+    "excerpt": "Persistent works with industries like banking, healthcare, telecom, life sciences, and manufacturing.",
+    "source_id": "s_1d1bf5d4",
+    "date": "2026-08-24",
+    "excerpt_found": true,
+    "evidence_id": "s_1d1bf5d4_e8",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Claim is not fully backed by its excerpt (a number or the source name is missing)",
+    "confidence": 0.55,
+    "scores": {
+      "credibility": 0.5,
+      "support": 0.4,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "HCLTech works with industries such as healthcare, automotive, manufacturing, telecom, and financial services.",
+    "entity": "HCLTech",
+    "topic": "other",
+    "excerpt": "HCLTech works with industries such as healthcare, automotive, manufacturing, telecom, and financial services.",
+    "source_id": "s_1d1bf5d4",
+    "date": "2026-08-24",
+    "excerpt_found": true,
+    "evidence_id": "s_1d1bf5d4_e9",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.73,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Tata Consultancy Services (TCS) is one of India’s largest IT companies and a global leader in artificial intelligence and digital transformation.",
+    "entity": "Tata Consultancy Services (TCS)",
+    "topic": "market share",
+    "excerpt": "Tata Consultancy Services (TCS) is one of India’s largest IT companies and a global leader in artificial intelligence and digital transformation.",
+    "source_id": "s_1d1bf5d4",
+    "date": "2026-08-24",
+    "excerpt_found": true,
+    "evidence_id": "s_1d1bf5d4_e10",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Tata Elxsi combines artificial intelligence with product engineering and design.",
+    "entity": "Tata Elxsi",
+    "topic": "technology",
+    "excerpt": "Tata Elxsi is known for combining artificial intelligence with product engineering and design.",
+    "source_id": "s_1d1bf5d4",
+    "date": "2026-08-24",
+    "excerpt_found": true,
+    "evidence_id": "s_1d1bf5d4_e11",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.73,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Krutrim AI was founded by Ola to develop AI solutions for Indian users.",
+    "entity": "Krutrim AI",
+    "topic": "competitors",
+    "excerpt": "Krutrim AI is one of the best AI-based startup companies in India, founded by Ola to develop AI solutions for Indian users.",
+    "source_id": "s_1d1bf5d4",
+    "date": "2026-08-24",
+    "excerpt_found": true,
+    "evidence_id": "s_1d1bf5d4_e12",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Sarvam AI develops large language models (LLMs) and generative AI solutions designed for Indian users.",
+    "entity": "Sarvam AI",
+    "topic": "technology",
+    "excerpt": "Sarvam AI is another name among the best AI-based startup companies in India. The company develops large language models (LLMs) and generative AI solutions designed for Indian users.",
+    "source_id": "s_1d1bf5d4",
+    "date": "2026-08-24",
+    "excerpt_found": true,
+    "evidence_id": "s_1d1bf5d4_e13",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Neysa provides powerful AI infrastructure for businesses and offers cloud-based AI platforms.",
+    "entity": "Neysa",
+    "topic": "infrastructure",
+    "excerpt": "Neysa is recognized as one of the best AI-based startup companies in India because it provides powerful AI infrastructure for businesses. The company offers cloud-based AI platforms that make it easier to build, train, and deploy AI applications.",
+    "source_id": "s_1d1bf5d4",
+    "date": "2026-08-24",
+    "excerpt_found": true,
+    "evidence_id": "s_1d1bf5d4_e14",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.75,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Gnani.ai specializes in speech recognition and conversational AI.",
+    "entity": "Gnani.ai",
+    "topic": "technology",
+    "excerpt": "Gnani.ai is one of the best AI-based startup companies in India, specializing in speech recognition and conversational AI.",
+    "source_id": "s_1d1bf5d4",
+    "date": "2026-08-24",
+    "excerpt_found": true,
+    "evidence_id": "s_1d1bf5d4_e15",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.75,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "CoRover builds AI platforms that help government organizations, businesses, and public service providers deliver faster customer support.",
+    "entity": "CoRover",
+    "topic": "technology",
+    "excerpt": "CoRover is widely recognized as one of the best AI-based startup companies in India for its intelligent chatbot and virtual assistant solutions. The company builds AI platforms that help government organizations, businesses, and public service providers deliver faster customer support.",
+    "source_id": "s_1d1bf5d4",
+    "date": "2026-08-24",
+    "excerpt_found": true,
+    "evidence_id": "s_1d1bf5d4_e16",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  }
+]

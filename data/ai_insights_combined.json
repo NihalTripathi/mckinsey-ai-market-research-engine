@@ -1,0 +1,288 @@
+{
+  "themes": [
+    {
+      "theme": "Market Size",
+      "summary": "Private investment in AI in India reached $4.1 billion in 2025. India's AI market is valued at approximately Rs 1.2-1.5 lakh crore in 2026.",
+      "evidence_ids": [
+        "s_d9fffe87_e1",
+        "s_11d3bf6a_e1",
+        "s_11d3bf6a_e6",
+        "s_11d3bf6a_e15",
+        "s_8594cfcf_e18",
+        "s_11d3bf6a_e7",
+        "s_11d3bf6a_e8",
+        "s_d9fffe87_e2"
+      ]
+    },
+    {
+      "theme": "Other",
+      "summary": "23.4% of Indian firms reported using AI. 42.7% of US firms reported using AI.",
+      "evidence_ids": [
+        "s_d9fffe87_e3",
+        "s_d9fffe87_e4",
+        "s_d9fffe87_e5",
+        "s_d9fffe87_e7",
+        "s_d9fffe87_e9",
+        "s_d9fffe87_e10",
+        "s_d9fffe87_e11",
+        "s_11d3bf6a_e9",
+        "s_11d3bf6a_e13",
+        "s_5f8a073a_e15",
+        "s_5f8a073a_e20",
+        "s_5f8a073a_e35",
+        "s_5f8a073a_e38",
+        "s_782cf408_e2",
+        "s_782cf408_e3",
+        "s_b2632d56_e7",
+        "s_5f8a073a_e4",
+        "s_5f8a073a_e7",
+        "s_5f8a073a_e18",
+        "s_5f8a073a_e27",
+        "s_5f8a073a_e28",
+        "s_5f8a073a_e29",
+        "s_5f8a073a_e30",
+        "s_5f8a073a_e32",
+        "s_5f8a073a_e33",
+        "s_5f8a073a_e34",
+        "s_5f8a073a_e36",
+        "s_5f8a073a_e17",
+        "s_5f8a073a_e21",
+        "s_5f8a073a_e43"
+      ]
+    },
+    {
+      "theme": "Market Share",
+      "summary": "India represents approximately 5-6% of the global AI market. 87% of enterprises in India are actively using AI solutions.",
+      "evidence_ids": [
+        "s_11d3bf6a_e2",
+        "s_5f8a073a_e2",
+        "s_5f8a073a_e3",
+        "s_5f8a073a_e8",
+        "s_5f8a073a_e37",
+        "s_5f8a073a_e40",
+        "s_5f8a073a_e5",
+        "s_5f8a073a_e6",
+        "s_5f8a073a_e11",
+        "s_5f8a073a_e12",
+        "s_5f8a073a_e13",
+        "s_5f8a073a_e14",
+        "s_5f8a073a_e42",
+        "s_b2632d56_e2",
+        "s_5f8a073a_e1",
+        "s_5f8a073a_e41"
+      ]
+    },
+    {
+      "theme": "Policy",
+      "summary": "The Reserve Bank of India issued detailed AI guidelines in 2025. India has the DPDP Act 2023 and DPDP Rules 2025 as part of its regulatory base.",
+      "evidence_ids": [
+        "s_11d3bf6a_e4",
+        "s_782cf408_e1",
+        "s_42985b2e_e1",
+        "s_42985b2e_e5",
+        "s_42985b2e_e6",
+        "s_42985b2e_e7",
+        "s_42985b2e_e11",
+        "s_42985b2e_e13",
+        "s_42985b2e_e14",
+        "s_54c24fd1_e1",
+        "s_54c24fd1_e2",
+        "s_54c24fd1_e3",
+        "s_11d3bf6a_e5",
+        "s_42985b2e_e12",
+        "s_54c24fd1_e4",
+        "s_54c24fd1_e5",
+        "s_b2632d56_e4",
+        "s_42985b2e_e15",
+        "s_11d3bf6a_e3",
+        "s_42985b2e_e3",
+        "s_b2632d56_e6"
+      ]
+    },
+    {
+      "theme": "Growth",
+      "summary": "India recorded a 47% compound annual growth rate in AI services exports. India recorded a 35% annual increase in AI talent.",
+      "evidence_ids": [
+        "s_8594cfcf_e2",
+        "s_8594cfcf_e3",
+        "s_5f8a073a_e10",
+        "s_b2632d56_e11",
+        "s_5f8a073a_e22",
+        "s_5f8a073a_e24",
+        "s_5f8a073a_e25",
+        "s_8594cfcf_e13",
+        "s_5f8a073a_e23",
+        "s_5f8a073a_e26"
+      ]
+    },
+    {
+      "theme": "Technology",
+      "summary": "More than 80% of Indian organisations are exploring autonomous AI agents. 57% of leaders in India expect teams to build multi-agent systems.",
+      "evidence_ids": [
+        "s_8594cfcf_e20",
+        "s_5f8a073a_e16"
+      ]
+    },
+    {
+      "theme": "Infrastructure",
+      "summary": "More than 500 of India's global capability centres are focused on AI. India is investing INR 10,300 crore in its AI infrastructure under the IndiaAI Mission.",
+      "evidence_ids": [
+        "s_5f8a073a_e9",
+        "s_b2632d56_e8",
+        "s_b2632d56_e10",
+        "s_b2632d56_e9"
+      ]
+    }
+  ],
+  "key_findings": [
+    {
+      "text": "India's AI market is experiencing significant growth, with valuations reaching $9.8 billion in 2025 and a projected increase to $14.3 billion in 2026.",
+      "evidence_ids": [
+        "s_8594cfcf_e18"
+      ],
+      "needs_review": false,
+      "verify_status": false
+    },
+    {
+      "text": "While 87% of enterprises in India are actively using AI solutions, only 26% have successfully operationalized these technologies at scale.",
+      "evidence_ids": [
+        "s_d9fffe87_e10",
+        "s_5f8a073a_e2",
+        "s_5f8a073a_e3"
+      ],
+      "needs_review": false,
+      "verify_status": false
+    },
+    {
+      "text": "The Indian government is actively fostering the AI ecosystem through the IndiaAI Mission, which includes an allocation of Rs 10,372 crore for infrastructure development.",
+      "evidence_ids": [
+        "s_11d3bf6a_e3",
+        "s_b2632d56_e8"
+      ],
+      "needs_review": false,
+      "verify_status": true
+    }
+  ],
+  "competitor_table": [],
+  "market_size_series": [
+    {
+      "year": "2026",
+      "value": 0.0002,
+      "unit": "INR billion",
+      "measure": "AI market valuation",
+      "source": "yuverse.ai",
+      "kind": "other",
+      "evidence_ids": [
+        "s_11d3bf6a_e1"
+      ]
+    }
+  ],
+  "opportunities": [
+    {
+      "text": "There is a substantial market opportunity for AI solutions tailored to Micro, Small, and Medium Enterprises (MSMEs), currently valued at Rs 15,000-20,000 crore.",
+      "evidence_ids": [
+        "s_11d3bf6a_e15"
+      ],
+      "needs_review": false,
+      "verify_status": false
+    },
+    {
+      "text": "High interest in autonomous AI agents, with over 80% of Indian organizations exploring their potential, presents a significant growth area for providers.",
+      "evidence_ids": [
+        "s_8594cfcf_e20"
+      ],
+      "needs_review": false,
+      "verify_status": false
+    }
+  ],
+  "risks": [
+    {
+      "text": "Integration complexity remains a primary barrier to adoption, with 41% of enterprises citing it as a significant challenge for implementation.",
+      "evidence_ids": [
+        "s_d9fffe87_e9"
+      ],
+      "needs_review": false,
+      "verify_status": false
+    },
+    {
+      "text": "A critical talent shortage persists in the Indian market, characterized by a gap of 3-4 lakh unfilled AI positions.",
+      "evidence_ids": [
+        "s_11d3bf6a_e13"
+      ],
+      "needs_review": false,
+      "verify_status": false
+    },
+    {
+      "text": "Businesses face an evolving regulatory landscape, including new binding AI-specific obligations effective from February 2026 and ongoing discussions regarding future standalone AI legislation.",
+      "evidence_ids": [
+        "s_42985b2e_e1",
+        "s_42985b2e_e13",
+        "s_42985b2e_e14"
+      ],
+      "needs_review": false,
+      "verify_status": true
+    }
+  ],
+  "charts": [
+    {
+      "title": "AI market valuation: estimates by source (INR billion)",
+      "plotly_json": "{\"data\":[{\"marker\":{\"color\":\"#2F5597\"},\"name\":\"yuverse.ai\",\"text\":[\"0.0002\"],\"textposition\":\"outside\",\"x\":[\"2026\"],\"y\":[0.0002],\"type\":\"bar\"}],\"layout\":{\"template\":{\"data\":{\"barpolar\":[{\"marker\":{\"line\":{\"color\":\"white\",\"width\":0.5},\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"barpolar\"}],\"bar\":[{\"error_x\":{\"color\":\"#2a3f5f\"},\"error_y\":{\"color\":\"#2a3f5f\"},\"marker\":{\"line\":{\"color\":\"white\",\"width\":0.5},\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"bar\"}],\"carpet\":[{\"aaxis\":{\"endlinecolor\":\"#2a3f5f\",\"gridcolor\":\"#C8D4E3\",\"linecolor\":\"#C8D4E3\",\"minorgridcolor\":\"#C8D4E3\",\"startlinecolor\":\"#2a3f5f\"},\"baxis\":{\"endlinecolor\":\"#2a3f5f\",\"gridcolor\":\"#C8D4E3\",\"linecolor\":\"#C8D4E3\",\"minorgridcolor\":\"#C8D4E3\",\"startlinecolor\":\"#2a3f5f\"},\"type\":\"carpet\"}],\"choropleth\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"type\":\"choropleth\"}],\"contourcarpet\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"type\":\"contourcarpet\"}],\"contour\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"contour\"}],\"heatmap\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"heatmap\"}],\"histogram2dcontour\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"histogram2dcontour\"}],\"histogram2d\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"histogram2d\"}],\"histogram\":[{\"marker\":{\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"histogram\"}],\"mesh3d\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"type\":\"mesh3d\"}],\"parcoords\":[{\"line\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"parcoords\"}],\"pie\":[{\"automargin\":true,\"type\":\"pie\"}],\"scatter3d\":[{\"line\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scatter3d\"}],\"scattercarpet\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scattercarpet\"}],\"scattergeo\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scattergeo\"}],\"scattergl\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scattergl\"}],\"scattermap\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scattermap\"}],\"scatterpolargl\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scatterpolargl\"}],\"scatterpolar\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scatterpolar\"}],\"scatter\":[{\"fillpattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2},\"type\":\"scatter\"}],\"scatterternary\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scatterternary\"}],\"surface\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"surface\"}],\"table\":[{\"cells\":{\"fill\":{\"color\":\"#EBF0F8\"},\"line\":{\"color\":\"white\"}},\"header\":{\"fill\":{\"color\":\"#C8D4E3\"},\"line\":{\"color\":\"white\"}},\"type\":\"table\"}]},\"layout\":{\"annotationdefaults\":{\"arrowcolor\":\"#2a3f5f\",\"arrowhead\":0,\"arrowwidth\":1},\"autotypenumbers\":\"strict\",\"coloraxis\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"colorscale\":{\"diverging\":[[0,\"#8e0152\"],[0.1,\"#c51b7d\"],[0.2,\"#de77ae\"],[0.3,\"#f1b6da\"],[0.4,\"#fde0ef\"],[0.5,\"#f7f7f7\"],[0.6,\"#e6f5d0\"],[0.7,\"#b8e186\"],[0.8,\"#7fbc41\"],[0.9,\"#4d9221\"],[1,\"#276419\"]],\"sequential\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"sequentialminus\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]},\"colorway\":[\"#636efa\",\"#EF553B\",\"#00cc96\",\"#ab63fa\",\"#FFA15A\",\"#19d3f3\",\"#FF6692\",\"#B6E880\",\"#FF97FF\",\"#FECB52\"],\"font\":{\"color\":\"#2a3f5f\"},\"geo\":{\"bgcolor\":\"white\",\"lakecolor\":\"white\",\"landcolor\":\"white\",\"showlakes\":true,\"showland\":true,\"subunitcolor\":\"#C8D4E3\"},\"hoverlabel\":{\"align\":\"left\"},\"hovermode\":\"closest\",\"paper_bgcolor\":\"white\",\"plot_bgcolor\":\"white\",\"polar\":{\"angularaxis\":{\"gridcolor\":\"#EBF0F8\",\"linecolor\":\"#EBF0F8\",\"ticks\":\"\"},\"bgcolor\":\"white\",\"radialaxis\":{\"gridcolor\":\"#EBF0F8\",\"linecolor\":\"#EBF0F8\",\"ticks\":\"\"}},\"scene\":{\"xaxis\":{\"backgroundcolor\":\"white\",\"gridcolor\":\"#DFE8F3\",\"gridwidth\":2,\"linecolor\":\"#EBF0F8\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"#EBF0F8\"},\"yaxis\":{\"backgroundcolor\":\"white\",\"gridcolor\":\"#DFE8F3\",\"gridwidth\":2,\"linecolor\":\"#EBF0F8\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"#EBF0F8\"},\"zaxis\":{\"backgroundcolor\":\"white\",\"gridcolor\":\"#DFE8F3\",\"gridwidth\":2,\"linecolor\":\"#EBF0F8\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"#EBF0F8\"}},\"shapedefaults\":{\"line\":{\"color\":\"#2a3f5f\"}},\"ternary\":{\"aaxis\":{\"gridcolor\":\"#DFE8F3\",\"linecolor\":\"#A2B1C6\",\"ticks\":\"\"},\"baxis\":{\"gridcolor\":\"#DFE8F3\",\"linecolor\":\"#A2B1C6\",\"ticks\":\"\"},\"bgcolor\":\"white\",\"caxis\":{\"gridcolor\":\"#DFE8F3\",\"linecolor\":\"#A2B1C6\",\"ticks\":\"\"}},\"title\":{\"x\":0.05},\"xaxis\":{\"automargin\":true,\"gridcolor\":\"#EBF0F8\",\"linecolor\":\"#EBF0F8\",\"ticks\":\"\",\"title\":{\"standoff\":15},\"zerolinecolor\":\"#EBF0F8\",\"zerolinewidth\":2},\"yaxis\":{\"automargin\":true,\"gridcolor\":\"#EBF0F8\",\"linecolor\":\"#EBF0F8\",\"ticks\":\"\",\"title\":{\"standoff\":15},\"zerolinecolor\":\"#EBF0F8\",\"zerolinewidth\":2}}},\"title\":{\"text\":\"AI market valuation: estimates by source (INR billion)\"},\"xaxis\":{\"title\":{\"text\":\"Year\"}},\"yaxis\":{\"title\":{\"text\":\"INR billion\"}},\"barmode\":\"overlay\",\"showlegend\":false}}",
+      "png_path": "storage/charts\\job_ai_combined_market_size.png",
+      "name": "market_size",
+      "section": "Market Insights",
+      "description": "Estimates range from INR 0.000 billion (2026) to INR 0.000 billion (2026). Each year has a single estimate, so the sources cannot be compared directly.\nSource: yuverse.ai, as reported in the pages listed in the Evidence Appendix. Based on 1 estimates."
+    }
+  ],
+  "quality": {
+    "counts": {
+      "accepted": 91,
+      "needs_review": 63,
+      "rejected": 10
+    },
+    "coverage": {
+      "by_task": {
+        "t1": {
+          "accepted": 56,
+          "needs_review": 25
+        },
+        "t2": {
+          "accepted": 11,
+          "needs_review": 18
+        },
+        "t3": {
+          "accepted": 18,
+          "needs_review": 7
+        },
+        "t4": {
+          "accepted": 17,
+          "needs_review": 17
+        }
+      },
+      "weak_tasks": [],
+      "unverified_tasks": []
+    },
+    "accepted_by_source_tier": {
+      "unknown": 91
+    }
+  },
+  "warnings": [],
+  "market_size_comparable": true,
+  "other_estimates": [
+    {
+      "measure": "AI market valuation",
+      "unit": "USD billion",
+      "by_year": [
+        {
+          "year": "2025",
+          "min": 9.8,
+          "max": 9.8,
+          "n": 1
+        }
+      ],
+      "evidence_ids": [
+        "s_8594cfcf_e18"
+      ]
+    }
+  ],
+  "findings_unavailable": false
+}

@@ -1,0 +1,414 @@
+{
+  "job_id": "job_20261114_173444_032ea9f4",
+  "sections": [
+    {
+      "title": "Executive Summary",
+      "content": "The Indian artificial intelligence market has experienced significant growth, expanding from USD 2,860 million in 2020 to USD 10,200 million in 2025 [E1]. Future projections for the market size vary, with estimates reaching USD 38,910 million by 2031 [E2] and USD 131.31 billion by 2032 [E3]. While 87% of surveyed Indian enterprises reported active artificial intelligence use in 2025 [E4], the sector faces challenges, including a potential shortage of over 1.4 million professionals by 2026 [E5].",
+      "citations": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Market Insights",
+      "content": "The Indian artificial intelligence market value grew to USD 10,200 million in 2025 [E1]. By 2025, India ranked third among selected Asian artificial intelligence markets [E6]. Looking ahead, the market is expected to grow at a compound annual growth rate of 42.2% [E7]. Projections for the market size in 2031 are USD 38,910 million [E2], while 2032 estimates reach USD 131.31 billion [E3]. Demand for artificial intelligence professionals is expected to increase by about 15% annually through 2027 [E8]. Despite this, 82% of employers in India report difficulty filling roles [E9], and 45% of organizations identify digital and data skills as their largest workforce constraint [E10]. Only 25% of organizations believe their workforce is adequately prepared to use artificial intelligence effectively [E11].",
+      "citations": [
+        "E1",
+        "E6",
+        "E7",
+        "E2",
+        "E3",
+        "E8",
+        "E9",
+        "E10",
+        "E11"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Competitor Analysis",
+      "content": "Several companies provide artificial intelligence products and services within the Indian market. Tata Consultancy Services (TCS) is a global leader in artificial intelligence and digital transformation [E12]. Other active participants include Krutrim AI, which develops solutions for Indian users [E13]; Sarvam AI, which focuses on large language models and generative artificial intelligence [E14]; Yellow.ai, which is noted as a fast-growing startup [E15]; and CoRover, which builds platforms for customer support [E16].",
+      "citations": [
+        "E12",
+        "E13",
+        "E14",
+        "E15",
+        "E16"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Opportunities and Risks",
+      "content": "Opportunities:\n• The market for artificial intelligence in India is projected to reach USD 131.31 billion by 2032, with an expected annual growth rate of 42.2% [E3][E7].\n• Significant infrastructure investment is anticipated, with India expected to attract USD 200 billion in data centre investment by 2030 [E17].\n• Domestic innovation is supported by companies like Sarvam AI and Krutrim AI, which are developing large language models and solutions specifically for Indian users [E13][E14].\nRisks:\n• India could face a shortage of more than 1.4 million artificial intelligence professionals by 2026, as only 25% of organizations believe their workforce is adequately prepared [E5][E11].\n• Legal and ethical risks are emerging, evidenced by a 2025 Delhi High Court injunction issued to protect personality rights against artificial intelligence-generated deepfake content (verify the current status) [E18].",
+      "citations": [
+        "E3",
+        "E7",
+        "E17",
+        "E13",
+        "E14",
+        "E5",
+        "E11",
+        "E18"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Recommendations",
+      "content": "• Invest in internal training programs to address the 82.9% generative artificial intelligence skills gap, as only 25% of organizations feel their workforce is prepared [E11][E19].\n• Establish compliance protocols aligned with the Digital Personal Data Protection Act and the 2025 India AI Governance Guidelines to navigate the evolving regulatory landscape (verify the current status) [E20][E21].\n• Prioritize recruitment strategies to mitigate the impact of the projected 1.4 million professional shortage by 2026, given that 82% of employers currently struggle to fill roles [E5][E9].",
+      "citations": [
+        "E11",
+        "E19",
+        "E20",
+        "E21",
+        "E5",
+        "E9"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Evidence Requiring Review",
+      "content": "These 8 statements could not be fully confirmed, so they are not used in the findings above. The reason for each is shown in brackets. Please check them before using them.\n• NITI Aayog provides over 30 policy recommendations regarding scientific research, reskilling, AI adoption, ethics, privacy, and security [E22] (publication date unknown).\n• Eight proposals on Responsible AI were selected from Indian universities and partners [E23] (publication date unknown).\n• NITI Aayog identifies healthcare, agriculture, education, smart cities, and smart mobility as priority sectors for AI-based applications [E24] (publication date unknown).\n• India has over 40 GCCs focused on AI/ML [E25] (publication date unknown).\n• The projected value-add for India in the AI sector is $500 billion [E26] (publication date unknown).\n• India’s AI ecosystem raised $3.94 billion in venture capital in Q1 2026 [E27] (from a page written by a user).\n• Krutrim trained large language models on 2 trillion tokens across 22 Indian languages [E28] (from a page written by a user).\n• Krutrim-2 is a 12B parameter model reporting 0.95 sentiment-analysis accuracy and 80% on code-generation benchmarks [E29] (from a page written by a user).",
+      "citations": [
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26",
+        "E27",
+        "E28",
+        "E29"
+      ],
+      "needs_review": true
+    },
+    {
+      "title": "Method and Limitations",
+      "content": "AI-generated draft for consultant review. Not final client advice.\nNumbers in square brackets, such as [E3], refer to the Evidence Appendix at the end of this report.\nFacts checked: 65 accepted, 74 need review (the 8 most relevant are listed in the review section) and 18 rejected (duplicates, quotes not found on the page, or claims the quote does not support).\nAbout 31% of the accepted facts come from market-research seller pages. These often repeat one another's figures, so two of them agreeing is weaker proof than it looks.\nEstimates of the same market differ between sources. They are shown side by side, not averaged.\nDates come from page information and are approximate. Rules and schemes change, so check policy statements with the official source before relying on them.",
+      "citations": [],
+      "needs_review": false
+    },
+    {
+      "title": "Glossary",
+      "content": "Simple explanations of important terms used in this report. These definitions are explanatory notes, not research evidence.\n- Artificial intelligence: This refers to computer systems designed to perform tasks that typically require human intelligence.\n- Compound annual growth rate: This is a measure used to calculate the mean annual growth rate of an investment over a specified period of time.\n- Generative artificial intelligence: This type of technology can create new content such as text, images, or audio based on patterns learned from existing data.\n- Large language models: These are advanced artificial intelligence systems trained on vast amounts of text to understand and generate human language.\n- Deepfake: This is synthetic media in which a person in an existing image or video is replaced with someone else's likeness using artificial intelligence.\n- Digital Personal Data Protection Act: This is a legislative framework established to govern the processing and protection of personal data in India.\n- Data centre: This is a physical facility used to house computer systems and associated components for storing and processing large amounts of data.\n- Personality rights: These are legal rights that protect an individual's image and identity from unauthorized commercial use.",
+      "citations": [],
+      "needs_review": false
+    }
+  ],
+  "charts": [
+    {
+      "title": "AI market size: estimates by source (USD billion)",
+      "plotly_json": "{\"data\":[{\"marker\":{\"color\":\"#2F5597\"},\"name\":\"Competition Commission of India\",\"text\":[\"7.63\",null,null,\"131.31\"],\"textposition\":\"outside\",\"x\":[\"2024\",\"2025\",\"2031\",\"2032\"],\"y\":[7.63,null,null,131.31],\"type\":\"bar\"},{\"marker\":{\"color\":\"#ED7D31\"},\"name\":\"kenresearch.com\",\"text\":[null,\"10.2\",\"38.91\",null],\"textposition\":\"outside\",\"x\":[\"2024\",\"2025\",\"2031\",\"2032\"],\"y\":[null,10.2,38.91,null],\"type\":\"bar\"}],\"layout\":{\"template\":{\"data\":{\"barpolar\":[{\"marker\":{\"line\":{\"color\":\"white\",\"width\":0.5},\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"barpolar\"}],\"bar\":[{\"error_x\":{\"color\":\"#2a3f5f\"},\"error_y\":{\"color\":\"#2a3f5f\"},\"marker\":{\"line\":{\"color\":\"white\",\"width\":0.5},\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"bar\"}],\"carpet\":[{\"aaxis\":{\"endlinecolor\":\"#2a3f5f\",\"gridcolor\":\"#C8D4E3\",\"linecolor\":\"#C8D4E3\",\"minorgridcolor\":\"#C8D4E3\",\"startlinecolor\":\"#2a3f5f\"},\"baxis\":{\"endlinecolor\":\"#2a3f5f\",\"gridcolor\":\"#C8D4E3\",\"linecolor\":\"#C8D4E3\",\"minorgridcolor\":\"#C8D4E3\",\"startlinecolor\":\"#2a3f5f\"},\"type\":\"carpet\"}],\"choropleth\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"type\":\"choropleth\"}],\"contourcarpet\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"type\":\"contourcarpet\"}],\"contour\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"contour\"}],\"heatmap\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"heatmap\"}],\"histogram2dcontour\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"histogram2dcontour\"}],\"histogram2d\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"histogram2d\"}],\"histogram\":[{\"marker\":{\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"histogram\"}],\"mesh3d\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"type\":\"mesh3d\"}],\"parcoords\":[{\"line\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"parcoords\"}],\"pie\":[{\"automargin\":true,\"type\":\"pie\"}],\"scatter3d\":[{\"line\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scatter3d\"}],\"scattercarpet\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scattercarpet\"}],\"scattergeo\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scattergeo\"}],\"scattergl\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scattergl\"}],\"scattermap\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scattermap\"}],\"scatterpolargl\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scatterpolargl\"}],\"scatterpolar\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scatterpolar\"}],\"scatter\":[{\"fillpattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2},\"type\":\"scatter\"}],\"scatterternary\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scatterternary\"}],\"surface\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"surface\"}],\"table\":[{\"cells\":{\"fill\":{\"color\":\"#EBF0F8\"},\"line\":{\"color\":\"white\"}},\"header\":{\"fill\":{\"color\":\"#C8D4E3\"},\"line\":{\"color\":\"white\"}},\"type\":\"table\"}]},\"layout\":{\"annotationdefaults\":{\"arrowcolor\":\"#2a3f5f\",\"arrowhead\":0,\"arrowwidth\":1},\"autotypenumbers\":\"strict\",\"coloraxis\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"colorscale\":{\"diverging\":[[0,\"#8e0152\"],[0.1,\"#c51b7d\"],[0.2,\"#de77ae\"],[0.3,\"#f1b6da\"],[0.4,\"#fde0ef\"],[0.5,\"#f7f7f7\"],[0.6,\"#e6f5d0\"],[0.7,\"#b8e186\"],[0.8,\"#7fbc41\"],[0.9,\"#4d9221\"],[1,\"#276419\"]],\"sequential\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"sequentialminus\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]},\"colorway\":[\"#636efa\",\"#EF553B\",\"#00cc96\",\"#ab63fa\",\"#FFA15A\",\"#19d3f3\",\"#FF6692\",\"#B6E880\",\"#FF97FF\",\"#FECB52\"],\"font\":{\"color\":\"#2a3f5f\"},\"geo\":{\"bgcolor\":\"white\",\"lakecolor\":\"white\",\"landcolor\":\"white\",\"showlakes\":true,\"showland\":true,\"subunitcolor\":\"#C8D4E3\"},\"hoverlabel\":{\"align\":\"left\"},\"hovermode\":\"closest\",\"paper_bgcolor\":\"white\",\"plot_bgcolor\":\"white\",\"polar\":{\"angularaxis\":{\"gridcolor\":\"#EBF0F8\",\"linecolor\":\"#EBF0F8\",\"ticks\":\"\"},\"bgcolor\":\"white\",\"radialaxis\":{\"gridcolor\":\"#EBF0F8\",\"linecolor\":\"#EBF0F8\",\"ticks\":\"\"}},\"scene\":{\"xaxis\":{\"backgroundcolor\":\"white\",\"gridcolor\":\"#DFE8F3\",\"gridwidth\":2,\"linecolor\":\"#EBF0F8\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"#EBF0F8\"},\"yaxis\":{\"backgroundcolor\":\"white\",\"gridcolor\":\"#DFE8F3\",\"gridwidth\":2,\"linecolor\":\"#EBF0F8\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"#EBF0F8\"},\"zaxis\":{\"backgroundcolor\":\"white\",\"gridcolor\":\"#DFE8F3\",\"gridwidth\":2,\"linecolor\":\"#EBF0F8\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"#EBF0F8\"}},\"shapedefaults\":{\"line\":{\"color\":\"#2a3f5f\"}},\"ternary\":{\"aaxis\":{\"gridcolor\":\"#DFE8F3\",\"linecolor\":\"#A2B1C6\",\"ticks\":\"\"},\"baxis\":{\"gridcolor\":\"#DFE8F3\",\"linecolor\":\"#A2B1C6\",\"ticks\":\"\"},\"bgcolor\":\"white\",\"caxis\":{\"gridcolor\":\"#DFE8F3\",\"linecolor\":\"#A2B1C6\",\"ticks\":\"\"}},\"title\":{\"x\":0.05},\"xaxis\":{\"automargin\":true,\"gridcolor\":\"#EBF0F8\",\"linecolor\":\"#EBF0F8\",\"ticks\":\"\",\"title\":{\"standoff\":15},\"zerolinecolor\":\"#EBF0F8\",\"zerolinewidth\":2},\"yaxis\":{\"automargin\":true,\"gridcolor\":\"#EBF0F8\",\"linecolor\":\"#EBF0F8\",\"ticks\":\"\",\"title\":{\"standoff\":15},\"zerolinecolor\":\"#EBF0F8\",\"zerolinewidth\":2}}},\"title\":{\"text\":\"AI market size: estimates by source (USD billion)\"},\"xaxis\":{\"title\":{\"text\":\"Year\"}},\"yaxis\":{\"title\":{\"text\":\"USD billion\"}},\"barmode\":\"overlay\",\"showlegend\":true}}",
+      "png_path": "storage/charts\\job_20261114_173444_032ea9f4_market_size.png",
+      "name": "market_size",
+      "section": "Market Insights",
+      "description": "Estimates range from US$7.63 billion (2024) to US$131.31 billion (2032). Each year has a single estimate, so the sources cannot be compared directly. The 2031 and 2032 figures are forecasts.\nSource: Competition Commission of India, kenresearch.com, as reported in the pages listed in the Evidence Appendix. Based on 4 estimates."
+    }
+  ],
+  "evidence_appendix": [
+    {
+      "id": "E1",
+      "evidence_id": "s_50892ace_e6",
+      "claim": "The India Artificial Intelligence market value expanded from USD 2,860 million in 2020 to USD 10,200 million in 2025.",
+      "source": "kenresearch.com",
+      "source_url": "https://www.kenresearch.com/industry-reports/india-ai-market",
+      "date": "2026-08-06",
+      "confidence": 0.768,
+      "status": "accepted"
+    },
+    {
+      "id": "E2",
+      "evidence_id": "s_50892ace_e4",
+      "claim": "The India Artificial Intelligence market is projected to reach USD 38,910 million by 2031.",
+      "source": "kenresearch.com",
+      "source_url": "https://www.kenresearch.com/industry-reports/india-ai-market",
+      "date": "2026-08-06",
+      "confidence": 0.768,
+      "status": "accepted"
+    },
+    {
+      "id": "E3",
+      "evidence_id": "s_1d1bf5d4_e3",
+      "claim": "India’s AI market is projected to reach USD 131.31 billion by 2032.",
+      "source": "internshala.com",
+      "source_url": "https://internshala.com/blog/best-ai-companies-in-india",
+      "date": "2026-08-24",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E4",
+      "evidence_id": "s_50892ace_e1",
+      "claim": "87% of surveyed Indian enterprises reported active AI use in 2025.",
+      "source": "kenresearch.com",
+      "source_url": "https://www.kenresearch.com/industry-reports/india-ai-market",
+      "date": "2026-08-06",
+      "confidence": 0.768,
+      "status": "accepted"
+    },
+    {
+      "id": "E5",
+      "evidence_id": "s_add103e9_e5",
+      "claim": "India could face a shortage of more than 1.4 million AI professionals by 2026.",
+      "source": "onlineaju.ac.in",
+      "source_url": "https://onlineaju.ac.in/india-ai-talent-shortage-2026",
+      "date": "2026-08-26",
+      "confidence": 0.892,
+      "status": "accepted"
+    },
+    {
+      "id": "E6",
+      "evidence_id": "s_50892ace_e11",
+      "claim": "India ranks third among selected Asian AI markets by 2025 market size.",
+      "source": "kenresearch.com",
+      "source_url": "https://www.kenresearch.com/industry-reports/india-ai-market",
+      "date": "2026-08-06",
+      "confidence": 0.768,
+      "status": "accepted"
+    },
+    {
+      "id": "E7",
+      "evidence_id": "s_1d1bf5d4_e4",
+      "claim": "India’s AI market is expected to grow at a CAGR of 42.2%.",
+      "source": "internshala.com",
+      "source_url": "https://internshala.com/blog/best-ai-companies-in-india",
+      "date": "2026-08-24",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E8",
+      "evidence_id": "s_50892ace_e9",
+      "claim": "Demand for AI professionals in India was expected to increase about 15% annually through 2027.",
+      "source": "kenresearch.com",
+      "source_url": "https://www.kenresearch.com/industry-reports/india-ai-market",
+      "date": "2026-08-06",
+      "confidence": 0.768,
+      "status": "accepted"
+    },
+    {
+      "id": "E9",
+      "evidence_id": "s_add103e9_e1",
+      "claim": "82% of employers in India report difficulty filling roles.",
+      "source": "onlineaju.ac.in",
+      "source_url": "https://onlineaju.ac.in/india-ai-talent-shortage-2026",
+      "date": "2026-08-26",
+      "confidence": 0.863,
+      "status": "accepted"
+    },
+    {
+      "id": "E10",
+      "evidence_id": "s_add103e9_e2",
+      "claim": "Nearly 45% of Indian organisations identify AI, digital, and data skills as their single largest workforce constraint.",
+      "source": "onlineaju.ac.in",
+      "source_url": "https://onlineaju.ac.in/india-ai-talent-shortage-2026",
+      "date": "2026-08-26",
+      "confidence": 0.892,
+      "status": "accepted"
+    },
+    {
+      "id": "E11",
+      "evidence_id": "s_add103e9_e8",
+      "claim": "Only 25% of Indian organisations believe their workforce is adequately prepared to use AI effectively.",
+      "source": "onlineaju.ac.in",
+      "source_url": "https://onlineaju.ac.in/india-ai-talent-shortage-2026",
+      "date": "2026-08-26",
+      "confidence": 0.892,
+      "status": "accepted"
+    },
+    {
+      "id": "E12",
+      "evidence_id": "s_1d1bf5d4_e10",
+      "claim": "Tata Consultancy Services (TCS) is one of India’s largest IT companies and a global leader in artificial intelligence and digital transformation.",
+      "source": "internshala.com",
+      "source_url": "https://internshala.com/blog/best-ai-companies-in-india",
+      "date": "2026-08-24",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E13",
+      "evidence_id": "s_1d1bf5d4_e12",
+      "claim": "Krutrim AI was founded by Ola to develop AI solutions for Indian users.",
+      "source": "internshala.com",
+      "source_url": "https://internshala.com/blog/best-ai-companies-in-india",
+      "date": "2026-08-24",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E14",
+      "evidence_id": "s_1d1bf5d4_e13",
+      "claim": "Sarvam AI develops large language models (LLMs) and generative AI solutions designed for Indian users.",
+      "source": "internshala.com",
+      "source_url": "https://internshala.com/blog/best-ai-companies-in-india",
+      "date": "2026-08-24",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E15",
+      "evidence_id": "s_1d1bf5d4_e5",
+      "claim": "Yellow.ai is one of the fastest-growing AI startups in India.",
+      "source": "internshala.com",
+      "source_url": "https://internshala.com/blog/best-ai-companies-in-india",
+      "date": "2026-08-24",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E16",
+      "evidence_id": "s_1d1bf5d4_e16",
+      "claim": "CoRover builds AI platforms that help government organizations, businesses, and public service providers deliver faster customer support.",
+      "source": "internshala.com",
+      "source_url": "https://internshala.com/blog/best-ai-companies-in-india",
+      "date": "2026-08-24",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E17",
+      "evidence_id": "s_d8a0cc74_e4",
+      "claim": "India is expected to attract $200 billion in data centre investment by 2030.",
+      "source": "private.kotak.bank.in",
+      "source_url": "https://private.kotak.bank.in/insights/ai-investments-india-2026-trends-top-sectors.php",
+      "date": "2025-04-01",
+      "confidence": 0.755,
+      "status": "accepted"
+    },
+    {
+      "id": "E18",
+      "evidence_id": "s_126e9489_e17",
+      "claim": "The Delhi High Court issued an injunction to protect Jr NTR's personality rights against AI-generated deepfake content in December 2025.",
+      "source": "regulations.ai",
+      "source_url": "https://regulations.ai/regulations/RAI-IN-NA-SUMMARY-2026",
+      "date": "2026-09-13",
+      "confidence": 0.75,
+      "status": "accepted"
+    },
+    {
+      "id": "E19",
+      "evidence_id": "s_add103e9_e4",
+      "claim": "There is an 82.9% GenAI skills gap in India.",
+      "source": "onlineaju.ac.in",
+      "source_url": "https://onlineaju.ac.in/india-ai-talent-shortage-2026",
+      "date": "2026-08-26",
+      "confidence": 0.863,
+      "status": "accepted"
+    },
+    {
+      "id": "E20",
+      "evidence_id": "s_126e9489_e3",
+      "claim": "MeitY published the India AI Governance Guidelines in November 2025.",
+      "source": "regulations.ai",
+      "source_url": "https://regulations.ai/regulations/RAI-IN-NA-SUMMARY-2026",
+      "date": "2026-09-13",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E21",
+      "evidence_id": "s_2cd41da9_e3",
+      "claim": "India enacted the Digital Personal Data Protection (DPDP) Act in 2023.",
+      "source": "psa.gov.in",
+      "source_url": "https://psa.gov.in/CMS/web/sites/default/files/publication/AI-WP_TechnoLegal.pdf",
+      "date": "",
+      "confidence": 0.782,
+      "status": "accepted"
+    },
+    {
+      "id": "E22",
+      "evidence_id": "s_9bc9970d_e2",
+      "claim": "NITI Aayog provides over 30 policy recommendations regarding scientific research, reskilling, AI adoption, ethics, privacy, and security.",
+      "source": "tec.gov.in",
+      "source_url": "https://www.tec.gov.in/pdf/Studypaper/AI%20Policies%20in%20India%20A%20status%20Paper%20final.pdf",
+      "date": "",
+      "confidence": 0.792,
+      "status": "needs_review"
+    },
+    {
+      "id": "E23",
+      "evidence_id": "s_2cd41da9_e2",
+      "claim": "Eight proposals on Responsible AI were selected from Indian universities and partners.",
+      "source": "psa.gov.in",
+      "source_url": "https://psa.gov.in/CMS/web/sites/default/files/publication/AI-WP_TechnoLegal.pdf",
+      "date": "",
+      "confidence": 0.792,
+      "status": "needs_review"
+    },
+    {
+      "id": "E24",
+      "evidence_id": "s_9bc9970d_e1",
+      "claim": "NITI Aayog identifies healthcare, agriculture, education, smart cities, and smart mobility as priority sectors for AI-based applications.",
+      "source": "tec.gov.in",
+      "source_url": "https://www.tec.gov.in/pdf/Studypaper/AI%20Policies%20in%20India%20A%20status%20Paper%20final.pdf",
+      "date": "",
+      "confidence": 0.762,
+      "status": "needs_review"
+    },
+    {
+      "id": "E25",
+      "evidence_id": "s_e0c26213_e1",
+      "claim": "India has over 40 GCCs focused on AI/ML.",
+      "source": "ey.com",
+      "source_url": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/ai/documents/ey-nasscom-ai-adoption-index.pdf",
+      "date": "",
+      "confidence": 0.743,
+      "status": "needs_review"
+    },
+    {
+      "id": "E26",
+      "evidence_id": "s_e0c26213_e4",
+      "claim": "The projected value-add for India in the AI sector is $500 billion.",
+      "source": "ey.com",
+      "source_url": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/insights/ai/documents/ey-nasscom-ai-adoption-index.pdf",
+      "date": "",
+      "confidence": 0.743,
+      "status": "needs_review"
+    },
+    {
+      "id": "E27",
+      "evidence_id": "s_d6fa7ef9_e2",
+      "claim": "India’s AI ecosystem raised $3.94 billion in venture capital in Q1 2026.",
+      "source": "medium.com",
+      "source_url": "https://medium.com/@pratik-rupareliya/top-20-indian-ai-companies-building-real-infrastructure-in-2026-a97473ffa287",
+      "date": "2026-02-18",
+      "confidence": 0.718,
+      "status": "needs_review"
+    },
+    {
+      "id": "E28",
+      "evidence_id": "s_d6fa7ef9_e5",
+      "claim": "Krutrim trained large language models on 2 trillion tokens across 22 Indian languages.",
+      "source": "medium.com",
+      "source_url": "https://medium.com/@pratik-rupareliya/top-20-indian-ai-companies-building-real-infrastructure-in-2026-a97473ffa287",
+      "date": "2026-02-18",
+      "confidence": 0.718,
+      "status": "needs_review"
+    },
+    {
+      "id": "E29",
+      "evidence_id": "s_d6fa7ef9_e6",
+      "claim": "Krutrim-2 is a 12B parameter model reporting 0.95 sentiment-analysis accuracy and 80% on code-generation benchmarks.",
+      "source": "medium.com",
+      "source_url": "https://medium.com/@pratik-rupareliya/top-20-indian-ai-companies-building-real-infrastructure-in-2026-a97473ffa287",
+      "date": "2026-02-18",
+      "confidence": 0.718,
+      "status": "needs_review"
+    },
+    {
+      "id": "E30",
+      "evidence_id": "s_1d1bf5d4_e2",
+      "claim": "India’s AI market size was USD 7.63 billion in 2024.",
+      "source": "internshala.com",
+      "source_url": "https://internshala.com/blog/best-ai-companies-in-india",
+      "date": "2026-08-24",
+      "confidence": 0.74,
+      "status": "accepted"
+    }
+  ],
+  "pdf_path": "storage/reports\\job_20261114_173444_032ea9f4.pdf",
+  "warnings": []
+}

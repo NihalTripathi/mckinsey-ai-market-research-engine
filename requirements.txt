@@ -1,0 +1,11 @@
+﻿fastapi
+uvicorn
+google-genai
+pydantic
+python-dotenv
+tavily-python
+trafilatura
+requests
+matplotlib
+plotly
+reportlab

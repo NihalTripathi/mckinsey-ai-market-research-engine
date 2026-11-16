@@ -1,0 +1,82 @@
+{
+  "research_objectives": [
+    "Analyze the net impact of AI on the Indian labor market between 2025 and 2030.",
+    "Identify key sectors in India experiencing significant job displacement versus job creation due to AI.",
+    "Evaluate the evolution of required skills for the Indian workforce to remain competitive in the AI era.",
+    "Assess the role of government policies and educational frameworks in mitigating AI-driven employment disruption."
+  ],
+  "tasks": [
+    {
+      "task_id": "t1",
+      "task_name": "Job Displacement and Creation Analysis",
+      "search_queries": [
+        "AI impact on employment sectors in India 2026",
+        "job roles at risk of automation in India 2026-2030",
+        "new job categories emerging from AI adoption in India"
+      ],
+      "research_questions": [
+        "Which industries in India are most vulnerable to AI-induced job displacement?",
+        "What specific roles are being created as a result of AI implementation?",
+        "What is the projected net balance of jobs in the Indian IT and BPO sectors by 2030?"
+      ],
+      "expected_evidence": "Industry labor market reports and think tank projections",
+      "priority": "high"
+    },
+    {
+      "task_id": "t2",
+      "task_name": "Future Skills and Upskilling Requirements",
+      "search_queries": [
+        "in-demand AI and digital skills India 2026",
+        "workforce reskilling initiatives for AI in India",
+        "changing hiring requirements for Indian employers 2026"
+      ],
+      "research_questions": [
+        "What are the critical AI-related competencies Indian employers are looking for?",
+        "How are skill requirements shifting for entry-level professionals in India?",
+        "What are the primary gaps in the current Indian workforce's AI preparedness?"
+      ],
+      "expected_evidence": "Skills gap surveys and recruitment trend reports",
+      "priority": "high"
+    },
+    {
+      "task_id": "t3",
+      "task_name": "Policy and Education Frameworks",
+      "search_queries": [
+        "India government policy on AI and employment 2026",
+        "educational curriculum reforms for AI readiness India",
+        "public sector initiatives for AI workforce development India"
+      ],
+      "research_questions": [
+        "How is the Indian government addressing AI-driven unemployment risks?",
+        "What changes are being implemented in higher education curricula to support AI literacy?",
+        "Are there specific government incentives for companies to invest in AI-employee training?"
+      ],
+      "expected_evidence": "Government policy documents and ministry white papers",
+      "priority": "medium"
+    },
+    {
+      "task_id": "t4",
+      "task_name": "Economic and Social Implications",
+      "search_queries": [
+        "socio-economic impact of AI automation on Indian labor force",
+        "wage polarization and AI in India",
+        "AI impact on gig economy in India 2026"
+      ],
+      "research_questions": [
+        "How does AI adoption influence income inequality in the Indian labor market?",
+        "What is the impact of AI on the growth of the gig economy in India?",
+        "What are the potential socio-economic consequences for marginalized labor sectors?"
+      ],
+      "expected_evidence": "Economic analysis papers and labor statistics",
+      "priority": "medium"
+    }
+  ],
+  "industry": "Artificial Intelligence and Employment",
+  "geography": "India",
+  "timeframe": "2025-2030",
+  "assumptions": [
+    "The research focus covers both formal and informal employment sectors in India.",
+    "The scope includes the impact of both Generative AI and predictive AI systems.",
+    "The data retrieved will reflect the current economic climate as of November 2026."
+  ]
+}

@@ -1,0 +1,366 @@
+{
+  "job_id": "job_20261114_162041_9f7c16fc",
+  "sections": [
+    {
+      "title": "Executive Summary",
+      "content": "The Indian Artificial Intelligence (AI) market is experiencing significant growth, with valuations projected to exceed $17 billion by 2027 [E1]. Adoption is widespread, as 59% of business leaders were using AI agents to automate tasks as of August 2025 [E2]. While the sector offers substantial economic potential, including a possible 1.4% boost to annual real GDP growth, it faces challenges such as AI-enabled fraud and the need for robust governance (verify the current status) [E3][E4][E5].",
+      "citations": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Market Insights",
+      "content": "The Indian AI market was valued at $1,597.28 million in 2025 [E6]. Projections indicate that the market will exceed $17 billion by 2027 [E1]. Narrow or weak AI currently dominates the landscape, holding an 88% market share in 2025 [E7]. Demand is supported by a growing workforce of 416,000 AI professionals as of 2025 [E8]. Furthermore, 47% of Indian firms had multiple generative AI use cases live in 2025, and 10% of Technology, Media, and Telecom (TMT) organizations are implementing AI solutions at scale [E9][E10].",
+      "citations": [
+        "E6",
+        "E1",
+        "E7",
+        "E8",
+        "E9",
+        "E10"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Competitor Analysis",
+      "content": "The available evidence is insufficient to identify specific competitors in the Indian AI market. While companies such as Gnani.ai have launched indigenous models like Vachana STT and Shakti Cloud provides sovereign AI infrastructure, the evidence does not provide a comprehensive competitive landscape [E11][E12]. Other entities mentioned, such as Kotak Alternate Asset Managers Ltd. and Kotak Mahindra Trusteeship Services Limited, provide financial and advisory services rather than AI products [E13][E14]. Similarly, while Fractal Analytics is noted for an upcoming Initial Public Offering (IPO), the evidence focuses on its valuation rather than its specific market share or competitive positioning [E15].",
+      "citations": [
+        "E11",
+        "E12",
+        "E13",
+        "E14",
+        "E15"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Opportunities and Risks",
+      "content": "Opportunities:\n• The integration of AI into the economy could potentially increase India's annual real Gross Domestic Product (GDP) growth by up to 1.4% [E3].\n• Significant infrastructure investment is expected, with projections suggesting India will attract $200 billion in data center investment by 2030 [E16].\n• The government is actively fostering local innovation, such as the BharatGen project, a multilingual AI model supported by 12.93 billion rupees in funding [E17].\nRisks:\n• Security is a major concern, as reports indicate that 50% of bank scams and fraud are currently conducted through AI [E4].\n• Legal challenges regarding the use of data are emerging, including lawsuits faced by major technology companies for unauthorized data usage in AI training models [E18].",
+      "citations": [
+        "E3",
+        "E16",
+        "E17",
+        "E4",
+        "E18"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Recommendations",
+      "content": "• Prioritize the development of security and fraud-detection tools, as 50% of bank scams and fraud are currently executed through AI [E4].\n• Align organizational AI strategies with the India Artificial Intelligence Governance Guidelines released in November 2025 to ensure compliance with emerging regulatory frameworks (verify the current status) [E5].\n• Leverage the existing AI talent pool of 416,000 professionals to scale internal generative AI use cases, given that nearly half of Indian firms have already deployed multiple applications [E8][E10].",
+      "citations": [
+        "E4",
+        "E5",
+        "E8",
+        "E10"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Evidence Requiring Review",
+      "content": "These 8 statements could not be fully confirmed, so they are not used in the findings above. The reason for each is shown in brackets. Please check them before using them.\n• Nearly 80% of Indian enterprises are actively exploring or deploying AI solutions [E19] (from a page written by a user).\n• India's AI market is expected to contribute over $500 billion to the country's economy by 2030 [E20] (from a page written by a user).\n• AI has the potential to boost India's national growth rate by 1.3% by 2035 [E21] (the figure may be out of date).\n• AI has the potential to add $957 billion to India's economy by 2035 [E22] (the figure may be out of date).\n• The Data Security Council of India released a whitepaper highlighting challenges to the adoption of AI solutions [E23] (the figure may be out of date).\n• McKinsey identifies talent as one of the biggest challenges to AI adoption [E24] (the figure may be out of date).\n• AIRAWAT is a cloud platform for Big Data analytics with advanced AI processing capabilities [E25] (the figure may be out of date).\n• Cyfuture Cloud operates MeitY-empanelled data centers in Noida certified under PCI DSS and ISO 27001 [E26] (from a page written by a user).",
+      "citations": [
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "needs_review": true
+    },
+    {
+      "title": "Method and Limitations",
+      "content": "AI-generated draft for consultant review. Not final client advice.\nNumbers in square brackets, such as [E3], refer to the Evidence Appendix at the end of this report.\nFacts checked: 33 accepted, 54 need review and 17 rejected (duplicates, quotes not found on the page, or claims the quote does not support).\nAbout 30% of the accepted facts come from market-research seller pages. These often repeat one another's figures, so two of them agreeing is weaker proof than it looks.\nEstimates of the same market differ between sources. They are shown side by side, not averaged.\nDates come from page information and are approximate. Rules and schemes change, so check policy statements with the official source before relying on them.",
+      "citations": [],
+      "needs_review": false
+    },
+    {
+      "title": "Glossary",
+      "content": "Simple explanations of important terms used in this report. These definitions are explanatory notes, not research evidence.\n- AI agents: These are software programs designed to perform specific tasks autonomously or with minimal human intervention.\n- Real GDP: This is an inflation adjusted measure that reflects the value of all goods and services produced by an economy in a given year.\n- Generative AI: This is a type of artificial intelligence capable of creating new content such as text, images, or audio.\n- TMT: This acronym stands for the Technology, Media, and Telecom sectors.\n- STT: This stands for speech to text technology which converts spoken language into written text.\n- Sovereign AI: This refers to a nation's capability to produce and control its own artificial intelligence infrastructure and data.\n- IPO: An initial public offering is the process by which a private company offers shares to the public for the first time.\n- BharatGen: This is a government supported project focused on developing multilingual artificial intelligence models for India.",
+      "citations": [],
+      "needs_review": false
+    }
+  ],
+  "charts": [
+    {
+      "title": "Artificial Intelligence market valuation: estimates by source (USD billion)",
+      "plotly_json": "{\"data\":[{\"marker\":{\"color\":\"#2F5597\"},\"name\":\"imarcgroup.com\",\"text\":[\"1.5973\",null],\"textposition\":\"outside\",\"x\":[\"2025\",\"2027\"],\"y\":[1.5973,null],\"type\":\"bar\"},{\"marker\":{\"color\":\"#ED7D31\"},\"name\":\"trade.gov\",\"text\":[null,\"17.0\"],\"textposition\":\"outside\",\"x\":[\"2025\",\"2027\"],\"y\":[null,17.0],\"type\":\"bar\"}],\"layout\":{\"template\":{\"data\":{\"barpolar\":[{\"marker\":{\"line\":{\"color\":\"white\",\"width\":0.5},\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"barpolar\"}],\"bar\":[{\"error_x\":{\"color\":\"#2a3f5f\"},\"error_y\":{\"color\":\"#2a3f5f\"},\"marker\":{\"line\":{\"color\":\"white\",\"width\":0.5},\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"bar\"}],\"carpet\":[{\"aaxis\":{\"endlinecolor\":\"#2a3f5f\",\"gridcolor\":\"#C8D4E3\",\"linecolor\":\"#C8D4E3\",\"minorgridcolor\":\"#C8D4E3\",\"startlinecolor\":\"#2a3f5f\"},\"baxis\":{\"endlinecolor\":\"#2a3f5f\",\"gridcolor\":\"#C8D4E3\",\"linecolor\":\"#C8D4E3\",\"minorgridcolor\":\"#C8D4E3\",\"startlinecolor\":\"#2a3f5f\"},\"type\":\"carpet\"}],\"choropleth\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"type\":\"choropleth\"}],\"contourcarpet\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"type\":\"contourcarpet\"}],\"contour\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"contour\"}],\"heatmap\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"heatmap\"}],\"histogram2dcontour\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"histogram2dcontour\"}],\"histogram2d\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"histogram2d\"}],\"histogram\":[{\"marker\":{\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"histogram\"}],\"mesh3d\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"type\":\"mesh3d\"}],\"parcoords\":[{\"line\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"parcoords\"}],\"pie\":[{\"automargin\":true,\"type\":\"pie\"}],\"scatter3d\":[{\"line\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scatter3d\"}],\"scattercarpet\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scattercarpet\"}],\"scattergeo\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scattergeo\"}],\"scattergl\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scattergl\"}],\"scattermap\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scattermap\"}],\"scatterpolargl\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scatterpolargl\"}],\"scatterpolar\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scatterpolar\"}],\"scatter\":[{\"fillpattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2},\"type\":\"scatter\"}],\"scatterternary\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scatterternary\"}],\"surface\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"surface\"}],\"table\":[{\"cells\":{\"fill\":{\"color\":\"#EBF0F8\"},\"line\":{\"color\":\"white\"}},\"header\":{\"fill\":{\"color\":\"#C8D4E3\"},\"line\":{\"color\":\"white\"}},\"type\":\"table\"}]},\"layout\":{\"annotationdefaults\":{\"arrowcolor\":\"#2a3f5f\",\"arrowhead\":0,\"arrowwidth\":1},\"autotypenumbers\":\"strict\",\"coloraxis\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"colorscale\":{\"diverging\":[[0,\"#8e0152\"],[0.1,\"#c51b7d\"],[0.2,\"#de77ae\"],[0.3,\"#f1b6da\"],[0.4,\"#fde0ef\"],[0.5,\"#f7f7f7\"],[0.6,\"#e6f5d0\"],[0.7,\"#b8e186\"],[0.8,\"#7fbc41\"],[0.9,\"#4d9221\"],[1,\"#276419\"]],\"sequential\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"sequentialminus\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]},\"colorway\":[\"#636efa\",\"#EF553B\",\"#00cc96\",\"#ab63fa\",\"#FFA15A\",\"#19d3f3\",\"#FF6692\",\"#B6E880\",\"#FF97FF\",\"#FECB52\"],\"font\":{\"color\":\"#2a3f5f\"},\"geo\":{\"bgcolor\":\"white\",\"lakecolor\":\"white\",\"landcolor\":\"white\",\"showlakes\":true,\"showland\":true,\"subunitcolor\":\"#C8D4E3\"},\"hoverlabel\":{\"align\":\"left\"},\"hovermode\":\"closest\",\"paper_bgcolor\":\"white\",\"plot_bgcolor\":\"white\",\"polar\":{\"angularaxis\":{\"gridcolor\":\"#EBF0F8\",\"linecolor\":\"#EBF0F8\",\"ticks\":\"\"},\"bgcolor\":\"white\",\"radialaxis\":{\"gridcolor\":\"#EBF0F8\",\"linecolor\":\"#EBF0F8\",\"ticks\":\"\"}},\"scene\":{\"xaxis\":{\"backgroundcolor\":\"white\",\"gridcolor\":\"#DFE8F3\",\"gridwidth\":2,\"linecolor\":\"#EBF0F8\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"#EBF0F8\"},\"yaxis\":{\"backgroundcolor\":\"white\",\"gridcolor\":\"#DFE8F3\",\"gridwidth\":2,\"linecolor\":\"#EBF0F8\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"#EBF0F8\"},\"zaxis\":{\"backgroundcolor\":\"white\",\"gridcolor\":\"#DFE8F3\",\"gridwidth\":2,\"linecolor\":\"#EBF0F8\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"#EBF0F8\"}},\"shapedefaults\":{\"line\":{\"color\":\"#2a3f5f\"}},\"ternary\":{\"aaxis\":{\"gridcolor\":\"#DFE8F3\",\"linecolor\":\"#A2B1C6\",\"ticks\":\"\"},\"baxis\":{\"gridcolor\":\"#DFE8F3\",\"linecolor\":\"#A2B1C6\",\"ticks\":\"\"},\"bgcolor\":\"white\",\"caxis\":{\"gridcolor\":\"#DFE8F3\",\"linecolor\":\"#A2B1C6\",\"ticks\":\"\"}},\"title\":{\"x\":0.05},\"xaxis\":{\"automargin\":true,\"gridcolor\":\"#EBF0F8\",\"linecolor\":\"#EBF0F8\",\"ticks\":\"\",\"title\":{\"standoff\":15},\"zerolinecolor\":\"#EBF0F8\",\"zerolinewidth\":2},\"yaxis\":{\"automargin\":true,\"gridcolor\":\"#EBF0F8\",\"linecolor\":\"#EBF0F8\",\"ticks\":\"\",\"title\":{\"standoff\":15},\"zerolinecolor\":\"#EBF0F8\",\"zerolinewidth\":2}}},\"title\":{\"text\":\"Artificial Intelligence market valuation: estimates by source (USD billion)\"},\"xaxis\":{\"title\":{\"text\":\"Year\"}},\"yaxis\":{\"title\":{\"text\":\"USD billion\"}},\"barmode\":\"overlay\",\"showlegend\":true}}",
+      "png_path": "storage/charts\\job_20261114_162041_9f7c16fc_market_size.png",
+      "name": "market_size",
+      "section": "Market Insights",
+      "description": "Estimates range from US$1.60 billion (2025) to US$17.00 billion (2027). Each year has a single estimate, so the sources cannot be compared directly. The 2027 figure is a forecast.\nSource: imarcgroup.com, trade.gov, as reported in the pages listed in the Evidence Appendix. Based on 2 estimates."
+    }
+  ],
+  "evidence_appendix": [
+    {
+      "id": "E1",
+      "evidence_id": "s_da9ae64b_e1",
+      "claim": "The Indian Artificial Intelligence market is projected to exceed $17 billion by 2027.",
+      "source": "trade.gov",
+      "source_url": "https://www.trade.gov/market-intelligence/india-artificial-intelligence-0",
+      "date": "2025-09-29",
+      "confidence": 0.887,
+      "status": "accepted"
+    },
+    {
+      "id": "E2",
+      "evidence_id": "s_e853c9e0_e18",
+      "claim": "59% of Indian business leaders were using AI agents to automate tasks in August 2025.",
+      "source": "imarcgroup.com",
+      "source_url": "https://www.imarcgroup.com/india-artificial-intelligence-market",
+      "date": "",
+      "confidence": 0.768,
+      "status": "accepted"
+    },
+    {
+      "id": "E3",
+      "evidence_id": "s_ff10cb7f_e9",
+      "claim": "Incorporating and adopting Artificial Intelligence could potentially add up to 1.4% to the annual real GDP growth of India.",
+      "source": "iisppr.org.in",
+      "source_url": "https://iisppr.org.in/ai-and-data-protection-challenges-in-automated-decision-making",
+      "date": "2025-02-28",
+      "confidence": 0.722,
+      "status": "accepted"
+    },
+    {
+      "id": "E4",
+      "evidence_id": "s_ff10cb7f_e8",
+      "claim": "50% of bank scams and fraud are done through the AI.",
+      "source": "iisppr.org.in",
+      "source_url": "https://iisppr.org.in/ai-and-data-protection-challenges-in-automated-decision-making",
+      "date": "2025-02-28",
+      "confidence": 0.722,
+      "status": "accepted"
+    },
+    {
+      "id": "E5",
+      "evidence_id": "s_97b3d157_e1",
+      "claim": "The Ministry of Electronics and Information Technology released the India Artificial Intelligence Governance Guidelines on November 5, 2025.",
+      "source": "legal500.com",
+      "source_url": "https://www.legal500.com/intelligence/india/technology/india's-ai-governance-guidelines",
+      "date": "2026-02-18",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E6",
+      "evidence_id": "s_e853c9e0_e1",
+      "claim": "The India artificial intelligence market was valued at USD 1,597.28 Million in 2025.",
+      "source": "imarcgroup.com",
+      "source_url": "https://www.imarcgroup.com/india-artificial-intelligence-market",
+      "date": "",
+      "confidence": 0.768,
+      "status": "accepted"
+    },
+    {
+      "id": "E7",
+      "evidence_id": "s_e853c9e0_e8",
+      "claim": "Narrow/weak artificial intelligence holds a market share of 88% of the total India artificial intelligence market in 2025.",
+      "source": "imarcgroup.com",
+      "source_url": "https://www.imarcgroup.com/india-artificial-intelligence-market",
+      "date": "",
+      "confidence": 0.768,
+      "status": "accepted"
+    },
+    {
+      "id": "E8",
+      "evidence_id": "s_e853c9e0_e24",
+      "claim": "India's AI talent pool reached 416,000 professionals in 2025",
+      "source": "imarcgroup.com",
+      "source_url": "https://www.imarcgroup.com/india-artificial-intelligence-market",
+      "date": "",
+      "confidence": 0.768,
+      "status": "accepted"
+    },
+    {
+      "id": "E9",
+      "evidence_id": "s_da9ae64b_e6",
+      "claim": "Approximately 10% of TMT organizations in India are implementing AI solutions at scale.",
+      "source": "trade.gov",
+      "source_url": "https://www.trade.gov/market-intelligence/india-artificial-intelligence-0",
+      "date": "2025-09-29",
+      "confidence": 0.843,
+      "status": "accepted"
+    },
+    {
+      "id": "E10",
+      "evidence_id": "s_e853c9e0_e5",
+      "claim": "In 2025, 47% of Indian firms had multiple generative AI use cases live.",
+      "source": "imarcgroup.com",
+      "source_url": "https://www.imarcgroup.com/india-artificial-intelligence-market",
+      "date": "",
+      "confidence": 0.768,
+      "status": "accepted"
+    },
+    {
+      "id": "E11",
+      "evidence_id": "s_fe662c17_e1",
+      "claim": "Shakti Cloud is India’s sovereign AI Cloud platform with the largest NVIDIA GPU infrastructure in the nation.",
+      "source": "shakticloud.ai",
+      "source_url": "https://shakticloud.ai",
+      "date": "2026-06-18",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E12",
+      "evidence_id": "s_e853c9e0_e9",
+      "claim": "Gnani.ai launched Vachana STT, an indigenous Indic speech-to-text model, in December 2025.",
+      "source": "imarcgroup.com",
+      "source_url": "https://www.imarcgroup.com/india-artificial-intelligence-market",
+      "date": "",
+      "confidence": 0.738,
+      "status": "accepted"
+    },
+    {
+      "id": "E13",
+      "evidence_id": "s_d8a0cc74_e5",
+      "claim": "Kotak Alternate Asset Managers Ltd. offers investment advisory services.",
+      "source": "private.kotak.bank.in",
+      "source_url": "https://private.kotak.bank.in/insights/ai-investments-india-2026-trends-top-sectors.php",
+      "date": "2025-04-01",
+      "confidence": 0.725,
+      "status": "accepted"
+    },
+    {
+      "id": "E14",
+      "evidence_id": "s_d8a0cc74_e6",
+      "claim": "Kotak Mahindra Trusteeship Services Limited provides Estate Planning services.",
+      "source": "private.kotak.bank.in",
+      "source_url": "https://private.kotak.bank.in/insights/ai-investments-india-2026-trends-top-sectors.php",
+      "date": "2025-04-01",
+      "confidence": 0.725,
+      "status": "accepted"
+    },
+    {
+      "id": "E15",
+      "evidence_id": "s_e853c9e0_e4",
+      "claim": "In February 2026, Fractal Analytics announced an IPO price band targeting an approximate 144.5 billion rupees valuation.",
+      "source": "imarcgroup.com",
+      "source_url": "https://www.imarcgroup.com/india-artificial-intelligence-market",
+      "date": "",
+      "confidence": 0.718,
+      "status": "accepted"
+    },
+    {
+      "id": "E16",
+      "evidence_id": "s_d8a0cc74_e3",
+      "claim": "India is expected to attract $200 billion in data centre investment by 2030.",
+      "source": "private.kotak.bank.in",
+      "source_url": "https://private.kotak.bank.in/insights/ai-investments-india-2026-trends-top-sectors.php",
+      "date": "2025-04-01",
+      "confidence": 0.725,
+      "status": "accepted"
+    },
+    {
+      "id": "E17",
+      "evidence_id": "s_e853c9e0_e6",
+      "claim": "In November 2025, Dr. Jitendra Singh unveiled BharatGen, a multilingual and multimodal AI Large Language Model, supported by ₹1,293 Crore government funding.",
+      "source": "imarcgroup.com",
+      "source_url": "https://www.imarcgroup.com/india-artificial-intelligence-market",
+      "date": "",
+      "confidence": 0.738,
+      "status": "accepted"
+    },
+    {
+      "id": "E18",
+      "evidence_id": "s_ff10cb7f_e5",
+      "claim": "Microsoft faced a lawsuit for unauthorized data usage in AI training models.",
+      "source": "iisppr.org.in",
+      "source_url": "https://iisppr.org.in/ai-and-data-protection-challenges-in-automated-decision-making",
+      "date": "2025-02-28",
+      "confidence": 0.752,
+      "status": "accepted"
+    },
+    {
+      "id": "E19",
+      "evidence_id": "s_a85f84b5_e1",
+      "claim": "Nearly 80% of Indian enterprises are actively exploring or deploying AI solutions.",
+      "source": "linkedin.com",
+      "source_url": "https://www.linkedin.com/pulse/ai-adoption-india-growing-fast-most-businesses-still-starting-line-uuk0c",
+      "date": "2026-06-08",
+      "confidence": 0.718,
+      "status": "needs_review"
+    },
+    {
+      "id": "E20",
+      "evidence_id": "s_a85f84b5_e3",
+      "claim": "India's AI market is expected to contribute over $500 billion to the country's economy by 2030.",
+      "source": "linkedin.com",
+      "source_url": "https://www.linkedin.com/pulse/ai-adoption-india-growing-fast-most-businesses-still-starting-line-uuk0c",
+      "date": "2026-06-08",
+      "confidence": 0.718,
+      "status": "needs_review"
+    },
+    {
+      "id": "E21",
+      "evidence_id": "s_0ff04edd_e1",
+      "claim": "AI has the potential to boost India's national growth rate by 1.3% by 2035.",
+      "source": "indiaai.gov.in",
+      "source_url": "https://indiaai.gov.in/article/five-challenges-for-ai-adoption-in-india-and-what-are-we-doing-about-them",
+      "date": "2021-02-24",
+      "confidence": 0.713,
+      "status": "needs_review"
+    },
+    {
+      "id": "E22",
+      "evidence_id": "s_0ff04edd_e2",
+      "claim": "AI has the potential to add $957 billion to India's economy by 2035.",
+      "source": "indiaai.gov.in",
+      "source_url": "https://indiaai.gov.in/article/five-challenges-for-ai-adoption-in-india-and-what-are-we-doing-about-them",
+      "date": "2021-02-24",
+      "confidence": 0.713,
+      "status": "needs_review"
+    },
+    {
+      "id": "E23",
+      "evidence_id": "s_0ff04edd_e3",
+      "claim": "The Data Security Council of India released a whitepaper highlighting challenges to the adoption of AI solutions.",
+      "source": "indiaai.gov.in",
+      "source_url": "https://indiaai.gov.in/article/five-challenges-for-ai-adoption-in-india-and-what-are-we-doing-about-them",
+      "date": "2021-02-24",
+      "confidence": 0.713,
+      "status": "needs_review"
+    },
+    {
+      "id": "E24",
+      "evidence_id": "s_0ff04edd_e6",
+      "claim": "McKinsey identifies talent as one of the biggest challenges to AI adoption.",
+      "source": "indiaai.gov.in",
+      "source_url": "https://indiaai.gov.in/article/five-challenges-for-ai-adoption-in-india-and-what-are-we-doing-about-them",
+      "date": "2021-02-24",
+      "confidence": 0.713,
+      "status": "needs_review"
+    },
+    {
+      "id": "E25",
+      "evidence_id": "s_0ff04edd_e8",
+      "claim": "AIRAWAT is a cloud platform for Big Data analytics with advanced AI processing capabilities.",
+      "source": "indiaai.gov.in",
+      "source_url": "https://indiaai.gov.in/article/five-challenges-for-ai-adoption-in-india-and-what-are-we-doing-about-them",
+      "date": "2021-02-24",
+      "confidence": 0.713,
+      "status": "needs_review"
+    },
+    {
+      "id": "E26",
+      "evidence_id": "s_6458fb12_e1",
+      "claim": "Cyfuture Cloud operates MeitY-empanelled data centers in Noida certified under PCI DSS and ISO 27001.",
+      "source": "linkedin.com",
+      "source_url": "https://www.linkedin.com/pulse/top-10-ai-cloud-providers-india-2025-cyfuture-cloud-ookuc",
+      "date": "2025-09-04",
+      "confidence": 0.71,
+      "status": "needs_review"
+    }
+  ],
+  "pdf_path": "storage/reports\\job_20261114_162041_9f7c16fc.pdf",
+  "warnings": []
+}

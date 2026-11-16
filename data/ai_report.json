@@ -1,0 +1,342 @@
+{
+  "job_id": "job_ai_combined_report",
+  "sections": [
+    {
+      "title": "Executive Summary",
+      "content": "India's Artificial Intelligence (AI) market is experiencing significant growth, with valuations reaching $9.8 billion in 2025 and a projected increase to $14.3 billion in 2026 [E1]. While 87% of enterprises in India are actively using AI solutions, only 26% have successfully operationalized these technologies at scale [E2][E3]. The government is actively fostering this ecosystem through the IndiaAI Mission, which includes an allocation of Rs 10,372 crore for infrastructure development (verify the current status) [E4][E5].",
+      "citations": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Market Insights",
+      "content": "The Indian AI market is valued at approximately Rs 1.2-1.5 lakh crore in 2026 [E6]. India represents approximately 5-6% of the global AI market [E7], and the country recorded a 47% compound annual growth rate in AI services exports [E8]. Demand is driven by widespread experimentation, with 87% of enterprises using AI solutions [E3] and over 80% of organizations exploring autonomous AI agents [E9]. Additionally, the market for AI for Micro, Small and Medium Enterprises (MSMEs) is worth Rs 15,000-20,000 crore [E10].",
+      "citations": [
+        "E6",
+        "E7",
+        "E8",
+        "E3",
+        "E9",
+        "E10"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Competitor Analysis",
+      "content": "The accepted evidence does not identify enough verified companies providing products or services in the Artificial Intelligence / Enterprise Software market to support a company-level competitor comparison. Funding and investor activity may provide market context, but do not establish that an organisation is a competitor.",
+      "citations": [],
+      "needs_review": false
+    },
+    {
+      "title": "Opportunities and Risks",
+      "content": "Opportunities:\n• There is a substantial market opportunity for AI solutions tailored to Micro, Small, and Medium Enterprises (MSMEs), currently valued at Rs 15,000-20,000 crore [E10].\n• High interest in autonomous AI agents, with over 80% of Indian organizations exploring their potential, presents a significant growth area for providers [E9].\nRisks:\n• Integration complexity remains a primary barrier to adoption, with 41% of enterprises citing it as a significant challenge for implementation [E11].\n• A critical talent shortage persists in the Indian market, characterized by a gap of 3-4 lakh unfilled AI positions [E12].\n• Businesses face an evolving regulatory landscape, including new binding AI-specific obligations effective from February 2026 and ongoing discussions regarding future standalone AI legislation (verify the current status) [E13][E14][E15].",
+      "citations": [
+        "E10",
+        "E9",
+        "E11",
+        "E12",
+        "E13",
+        "E14",
+        "E15"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Recommendations",
+      "content": "• Focus on integration services to address the 41% of enterprises that cite integration complexity as a primary barrier to AI implementation [E11].\n• Develop training and upskilling programs to help bridge the gap of 3-4 lakh unfilled AI positions in India [E12].\n• Prioritize compliance-focused AI solutions to assist firms in meeting new binding, AI-specific obligations and governance guidelines (verify the current status) [E13][E16].",
+      "citations": [
+        "E11",
+        "E12",
+        "E13",
+        "E16"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Evidence Requiring Review",
+      "content": "These 8 statements could not be fully confirmed, so they are not used in the findings above. The reason for each is shown in brackets. Please check them before using them.\n• Financial services reached $38.2 billion in global AI spending [E17] (a worldwide figure, not specific to the research region).\n• Retail and CPG recorded 47% adoption of agentic AI globally [E18] (a worldwide figure, not specific to the research region).\n• Global employers expect 170 million jobs to be created and 92 million displaced between 2025 and 2030 [E19] (a worldwide figure, not specific to the research region).\n• AI is projected to add US$15.7 trillion to the global Gross Domestic Product by 2030 [E20] (a worldwide figure, not specific to the research region).\n• The United States leads the field in AI chip production, raw compute capacity, global cloud infrastructure, and foundation model development [E21] (a worldwide figure, not specific to the research region).\n• Enterprise software implementation is a $50B+ annual market [E22] (from a page written by a user).\n• Indian families spend $10-11B annually on private tutoring and coaching [E23] (from a page written by a user).\n• The online astrology market is growing to $1.8B by 2030 [E24] (from a page written by a user).",
+      "citations": [
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24"
+      ],
+      "needs_review": true
+    },
+    {
+      "title": "Method and Limitations",
+      "content": "AI-generated draft for consultant review. Not final client advice.\nNumbers in square brackets, such as [E3], refer to the Evidence Appendix at the end of this report.\nFacts checked: 91 accepted, 63 need review and 10 rejected (duplicates, quotes not found on the page, or claims the quote does not support).\nEstimates of the same market differ between sources. They are shown side by side, not averaged.\nDates come from page information and are approximate. Rules and schemes change, so check policy statements with the official source before relying on them.",
+      "citations": [],
+      "needs_review": false
+    },
+    {
+      "title": "Glossary",
+      "content": "Simple explanations of important terms used in this report. These definitions are explanatory notes, not research evidence.\n- Artificial Intelligence: This refers to computer systems designed to perform tasks that typically require human intelligence.\n- Operationalized: This describes the process of putting a technology or strategy into active and effective use within an organization.\n- IndiaAI Mission: This is a government initiative aimed at developing infrastructure and fostering the growth of the artificial intelligence ecosystem in India.\n- Compound annual growth rate: This is a measure used to calculate the mean annual growth of an investment or market over a specified period of time.\n- Autonomous AI agents: These are software programs capable of performing complex tasks and making decisions without constant human intervention.\n- MSMEs: This acronym stands for Micro, Small and Medium Enterprises which are businesses that fall below certain size and revenue thresholds.\n- Integration complexity: This refers to the technical challenges involved in connecting new artificial intelligence solutions with existing business software and workflows.\n- Governance: This involves the systems and rules used to manage and oversee the ethical and compliant use of artificial intelligence technologies.",
+      "citations": [],
+      "needs_review": false
+    }
+  ],
+  "charts": [
+    {
+      "title": "AI market valuation: estimates by source (INR billion)",
+      "plotly_json": "{\"data\":[{\"marker\":{\"color\":\"#2F5597\"},\"name\":\"yuverse.ai\",\"text\":[\"0.0002\"],\"textposition\":\"outside\",\"x\":[\"2026\"],\"y\":[0.0002],\"type\":\"bar\"}],\"layout\":{\"template\":{\"data\":{\"barpolar\":[{\"marker\":{\"line\":{\"color\":\"white\",\"width\":0.5},\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"barpolar\"}],\"bar\":[{\"error_x\":{\"color\":\"#2a3f5f\"},\"error_y\":{\"color\":\"#2a3f5f\"},\"marker\":{\"line\":{\"color\":\"white\",\"width\":0.5},\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"bar\"}],\"carpet\":[{\"aaxis\":{\"endlinecolor\":\"#2a3f5f\",\"gridcolor\":\"#C8D4E3\",\"linecolor\":\"#C8D4E3\",\"minorgridcolor\":\"#C8D4E3\",\"startlinecolor\":\"#2a3f5f\"},\"baxis\":{\"endlinecolor\":\"#2a3f5f\",\"gridcolor\":\"#C8D4E3\",\"linecolor\":\"#C8D4E3\",\"minorgridcolor\":\"#C8D4E3\",\"startlinecolor\":\"#2a3f5f\"},\"type\":\"carpet\"}],\"choropleth\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"type\":\"choropleth\"}],\"contourcarpet\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"type\":\"contourcarpet\"}],\"contour\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"contour\"}],\"heatmap\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"heatmap\"}],\"histogram2dcontour\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"histogram2dcontour\"}],\"histogram2d\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"histogram2d\"}],\"histogram\":[{\"marker\":{\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"histogram\"}],\"mesh3d\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"type\":\"mesh3d\"}],\"parcoords\":[{\"line\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"parcoords\"}],\"pie\":[{\"automargin\":true,\"type\":\"pie\"}],\"scatter3d\":[{\"line\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scatter3d\"}],\"scattercarpet\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scattercarpet\"}],\"scattergeo\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scattergeo\"}],\"scattergl\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scattergl\"}],\"scattermap\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scattermap\"}],\"scatterpolargl\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scatterpolargl\"}],\"scatterpolar\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scatterpolar\"}],\"scatter\":[{\"fillpattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2},\"type\":\"scatter\"}],\"scatterternary\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scatterternary\"}],\"surface\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"surface\"}],\"table\":[{\"cells\":{\"fill\":{\"color\":\"#EBF0F8\"},\"line\":{\"color\":\"white\"}},\"header\":{\"fill\":{\"color\":\"#C8D4E3\"},\"line\":{\"color\":\"white\"}},\"type\":\"table\"}]},\"layout\":{\"annotationdefaults\":{\"arrowcolor\":\"#2a3f5f\",\"arrowhead\":0,\"arrowwidth\":1},\"autotypenumbers\":\"strict\",\"coloraxis\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"colorscale\":{\"diverging\":[[0,\"#8e0152\"],[0.1,\"#c51b7d\"],[0.2,\"#de77ae\"],[0.3,\"#f1b6da\"],[0.4,\"#fde0ef\"],[0.5,\"#f7f7f7\"],[0.6,\"#e6f5d0\"],[0.7,\"#b8e186\"],[0.8,\"#7fbc41\"],[0.9,\"#4d9221\"],[1,\"#276419\"]],\"sequential\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"sequentialminus\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]},\"colorway\":[\"#636efa\",\"#EF553B\",\"#00cc96\",\"#ab63fa\",\"#FFA15A\",\"#19d3f3\",\"#FF6692\",\"#B6E880\",\"#FF97FF\",\"#FECB52\"],\"font\":{\"color\":\"#2a3f5f\"},\"geo\":{\"bgcolor\":\"white\",\"lakecolor\":\"white\",\"landcolor\":\"white\",\"showlakes\":true,\"showland\":true,\"subunitcolor\":\"#C8D4E3\"},\"hoverlabel\":{\"align\":\"left\"},\"hovermode\":\"closest\",\"paper_bgcolor\":\"white\",\"plot_bgcolor\":\"white\",\"polar\":{\"angularaxis\":{\"gridcolor\":\"#EBF0F8\",\"linecolor\":\"#EBF0F8\",\"ticks\":\"\"},\"bgcolor\":\"white\",\"radialaxis\":{\"gridcolor\":\"#EBF0F8\",\"linecolor\":\"#EBF0F8\",\"ticks\":\"\"}},\"scene\":{\"xaxis\":{\"backgroundcolor\":\"white\",\"gridcolor\":\"#DFE8F3\",\"gridwidth\":2,\"linecolor\":\"#EBF0F8\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"#EBF0F8\"},\"yaxis\":{\"backgroundcolor\":\"white\",\"gridcolor\":\"#DFE8F3\",\"gridwidth\":2,\"linecolor\":\"#EBF0F8\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"#EBF0F8\"},\"zaxis\":{\"backgroundcolor\":\"white\",\"gridcolor\":\"#DFE8F3\",\"gridwidth\":2,\"linecolor\":\"#EBF0F8\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"#EBF0F8\"}},\"shapedefaults\":{\"line\":{\"color\":\"#2a3f5f\"}},\"ternary\":{\"aaxis\":{\"gridcolor\":\"#DFE8F3\",\"linecolor\":\"#A2B1C6\",\"ticks\":\"\"},\"baxis\":{\"gridcolor\":\"#DFE8F3\",\"linecolor\":\"#A2B1C6\",\"ticks\":\"\"},\"bgcolor\":\"white\",\"caxis\":{\"gridcolor\":\"#DFE8F3\",\"linecolor\":\"#A2B1C6\",\"ticks\":\"\"}},\"title\":{\"x\":0.05},\"xaxis\":{\"automargin\":true,\"gridcolor\":\"#EBF0F8\",\"linecolor\":\"#EBF0F8\",\"ticks\":\"\",\"title\":{\"standoff\":15},\"zerolinecolor\":\"#EBF0F8\",\"zerolinewidth\":2},\"yaxis\":{\"automargin\":true,\"gridcolor\":\"#EBF0F8\",\"linecolor\":\"#EBF0F8\",\"ticks\":\"\",\"title\":{\"standoff\":15},\"zerolinecolor\":\"#EBF0F8\",\"zerolinewidth\":2}}},\"title\":{\"text\":\"AI market valuation: estimates by source (INR billion)\"},\"xaxis\":{\"title\":{\"text\":\"Year\"}},\"yaxis\":{\"title\":{\"text\":\"INR billion\"}},\"barmode\":\"overlay\",\"showlegend\":false}}",
+      "png_path": "storage/charts\\job_ai_combined_market_size.png",
+      "name": "market_size",
+      "section": "Market Insights",
+      "description": "Estimates range from INR 0.000 billion (2026) to INR 0.000 billion (2026). Each year has a single estimate, so the sources cannot be compared directly.\nSource: yuverse.ai, as reported in the pages listed in the Evidence Appendix. Based on 1 estimates."
+    }
+  ],
+  "evidence_appendix": [
+    {
+      "id": "E1",
+      "evidence_id": "s_8594cfcf_e18",
+      "claim": "India's AI market was valued at $9.8 billion in 2025 and is projected to reach $14.3 billion in 2026.",
+      "source": "bigfatailabs.com",
+      "source_url": "https://www.bigfatailabs.com/insights/blogs/ai-adoption-in-india-2026-which-industries-are-moving-fastest-and-why",
+      "date": "",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E2",
+      "evidence_id": "s_d9fffe87_e10",
+      "claim": "26% of enterprises have operationalized AI at scale.",
+      "source": "idyllicservices.in",
+      "source_url": "https://www.idyllicservices.in/blog/india-ai-adoption-smbs-strategies",
+      "date": "2026-10-13",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E3",
+      "evidence_id": "s_5f8a073a_e2",
+      "claim": "87% of enterprises in India are actively using AI solutions.",
+      "source": "masaischool.com",
+      "source_url": "https://www.masaischool.com/blog/enterprise-ai-adoption-india-managers",
+      "date": "2026-10-30",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E4",
+      "evidence_id": "s_11d3bf6a_e3",
+      "claim": "The IndiaAI Mission has a government allocation of Rs 10,372 crore.",
+      "source": "yuverse.ai",
+      "source_url": "https://www.yuverse.ai/blog/ai-in-india-2026-market-size-adoption-opportunities",
+      "date": "2026-06-02",
+      "confidence": 0.73,
+      "status": "accepted"
+    },
+    {
+      "id": "E5",
+      "evidence_id": "s_b2632d56_e8",
+      "claim": "India is investing INR 10,300 crore in its AI infrastructure under the IndiaAI Mission.",
+      "source": "orfonline.org",
+      "source_url": "https://www.orfonline.org/expert-speak/advancing-ai-for-all-india-s-strategic-opportunity-in-2026",
+      "date": "2026-01-05",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E6",
+      "evidence_id": "s_11d3bf6a_e1",
+      "claim": "India's AI market is valued at approximately Rs 1.2-1.5 lakh crore in 2026.",
+      "source": "yuverse.ai",
+      "source_url": "https://www.yuverse.ai/blog/ai-in-india-2026-market-size-adoption-opportunities",
+      "date": "2026-06-02",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E7",
+      "evidence_id": "s_11d3bf6a_e2",
+      "claim": "India represents approximately 5-6% of the global AI market.",
+      "source": "yuverse.ai",
+      "source_url": "https://www.yuverse.ai/blog/ai-in-india-2026-market-size-adoption-opportunities",
+      "date": "2026-06-02",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E8",
+      "evidence_id": "s_8594cfcf_e2",
+      "claim": "India recorded a 47% compound annual growth rate in AI services exports.",
+      "source": "bigfatailabs.com",
+      "source_url": "https://www.bigfatailabs.com/insights/blogs/ai-adoption-in-india-2026-which-industries-are-moving-fastest-and-why",
+      "date": "",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E9",
+      "evidence_id": "s_8594cfcf_e20",
+      "claim": "More than 80% of Indian organisations are exploring autonomous AI agents.",
+      "source": "bigfatailabs.com",
+      "source_url": "https://www.bigfatailabs.com/insights/blogs/ai-adoption-in-india-2026-which-industries-are-moving-fastest-and-why",
+      "date": "",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E10",
+      "evidence_id": "s_11d3bf6a_e15",
+      "claim": "The market for AI for MSMEs is worth Rs 15,000-20,000 crore.",
+      "source": "yuverse.ai",
+      "source_url": "https://www.yuverse.ai/blog/ai-in-india-2026-market-size-adoption-opportunities",
+      "date": "2026-06-02",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E11",
+      "evidence_id": "s_d9fffe87_e9",
+      "claim": "41% of enterprises cite integration complexity as a barrier to AI implementation.",
+      "source": "idyllicservices.in",
+      "source_url": "https://www.idyllicservices.in/blog/india-ai-adoption-smbs-strategies",
+      "date": "2026-10-13",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E12",
+      "evidence_id": "s_11d3bf6a_e13",
+      "claim": "There is a gap of 3-4 lakh unfilled AI positions in India.",
+      "source": "yuverse.ai",
+      "source_url": "https://www.yuverse.ai/blog/ai-in-india-2026-market-size-adoption-opportunities",
+      "date": "2026-06-02",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E13",
+      "evidence_id": "s_42985b2e_e1",
+      "claim": "India has its first set of binding, AI-specific obligations effective from 20 February 2026.",
+      "source": "cms.law",
+      "source_url": "https://cms.law/en/int/expert-guides/ai-regulation-scanner/india",
+      "date": "2026-07-21",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E14",
+      "evidence_id": "s_42985b2e_e13",
+      "claim": "A top bureaucrat from MeitY stated that discussions are ongoing regarding standalone AI regulations and drafting will commence soon on 9 July 2026.",
+      "source": "cms.law",
+      "source_url": "https://cms.law/en/int/expert-guides/ai-regulation-scanner/india",
+      "date": "2026-07-21",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E15",
+      "evidence_id": "s_42985b2e_e14",
+      "claim": "The Indian Minister for Electronics and Information Technology stated on 10 June 2026 that there is a requirement for a new law on AI.",
+      "source": "cms.law",
+      "source_url": "https://cms.law/en/int/expert-guides/ai-regulation-scanner/india",
+      "date": "2026-07-21",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E16",
+      "evidence_id": "s_42985b2e_e11",
+      "claim": "The Ministry of Electronics and Information Technology published India AI Governance Guidelines in November 2025.",
+      "source": "cms.law",
+      "source_url": "https://cms.law/en/int/expert-guides/ai-regulation-scanner/india",
+      "date": "2026-07-21",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E17",
+      "evidence_id": "s_8594cfcf_e5",
+      "claim": "Financial services reached $38.2 billion in global AI spending.",
+      "source": "bigfatailabs.com",
+      "source_url": "https://www.bigfatailabs.com/insights/blogs/ai-adoption-in-india-2026-which-industries-are-moving-fastest-and-why",
+      "date": "",
+      "confidence": 0.73,
+      "status": "needs_review"
+    },
+    {
+      "id": "E18",
+      "evidence_id": "s_8594cfcf_e6",
+      "claim": "Retail and CPG recorded 47% adoption of agentic AI globally.",
+      "source": "bigfatailabs.com",
+      "source_url": "https://www.bigfatailabs.com/insights/blogs/ai-adoption-in-india-2026-which-industries-are-moving-fastest-and-why",
+      "date": "",
+      "confidence": 0.73,
+      "status": "needs_review"
+    },
+    {
+      "id": "E19",
+      "evidence_id": "s_5f8a073a_e19",
+      "claim": "Global employers expect 170 million jobs to be created and 92 million displaced between 2025 and 2030.",
+      "source": "masaischool.com",
+      "source_url": "https://www.masaischool.com/blog/enterprise-ai-adoption-india-managers",
+      "date": "2026-10-30",
+      "confidence": 0.73,
+      "status": "needs_review"
+    },
+    {
+      "id": "E20",
+      "evidence_id": "s_b2632d56_e1",
+      "claim": "AI is projected to add US$15.7 trillion to the global Gross Domestic Product by 2030.",
+      "source": "orfonline.org",
+      "source_url": "https://www.orfonline.org/expert-speak/advancing-ai-for-all-india-s-strategic-opportunity-in-2026",
+      "date": "2026-01-05",
+      "confidence": 0.73,
+      "status": "needs_review"
+    },
+    {
+      "id": "E21",
+      "evidence_id": "s_b2632d56_e3",
+      "claim": "The United States leads the field in AI chip production, raw compute capacity, global cloud infrastructure, and foundation model development.",
+      "source": "orfonline.org",
+      "source_url": "https://www.orfonline.org/expert-speak/advancing-ai-for-all-india-s-strategic-opportunity-in-2026",
+      "date": "2026-01-05",
+      "confidence": 0.73,
+      "status": "needs_review"
+    },
+    {
+      "id": "E22",
+      "evidence_id": "s_0f24897c_e6",
+      "claim": "Enterprise software implementation is a $50B+ annual market.",
+      "source": "activatesignal.substack.com",
+      "source_url": "https://activatesignal.substack.com/p/ai-startup-ideas-for-india",
+      "date": "2025-11-27",
+      "confidence": 0.688,
+      "status": "needs_review"
+    },
+    {
+      "id": "E23",
+      "evidence_id": "s_0f24897c_e11",
+      "claim": "Indian families spend $10-11B annually on private tutoring and coaching.",
+      "source": "activatesignal.substack.com",
+      "source_url": "https://activatesignal.substack.com/p/ai-startup-ideas-for-india",
+      "date": "2025-11-27",
+      "confidence": 0.688,
+      "status": "needs_review"
+    },
+    {
+      "id": "E24",
+      "evidence_id": "s_0f24897c_e13",
+      "claim": "The online astrology market is growing to $1.8B by 2030.",
+      "source": "activatesignal.substack.com",
+      "source_url": "https://activatesignal.substack.com/p/ai-startup-ideas-for-india",
+      "date": "2025-11-27",
+      "confidence": 0.688,
+      "status": "needs_review"
+    }
+  ],
+  "pdf_path": "storage/reports\\job_ai_combined_report.pdf",
+  "warnings": []
+}

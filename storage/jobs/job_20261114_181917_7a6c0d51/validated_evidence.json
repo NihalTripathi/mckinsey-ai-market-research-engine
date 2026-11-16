@@ -1,0 +1,3081 @@
+[
+  {
+    "claim": "The ILO estimates that up to 70% of current jobs in India face high risk from automation and AI.",
+    "entity": "ILO",
+    "topic": "other",
+    "excerpt": "The ILO says that up to 70% of existing jobs in India are at high risk due to automation and AI.",
+    "source_id": "s_30085e94",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_30085e94_e1",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Age unknown (no page date or figure year)",
+    "confidence": 0.68,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The Bank of Baroda projects that AI could eliminate 20 to 25 million jobs in India by 2030.",
+    "entity": "Bank of Baroda",
+    "topic": "other",
+    "excerpt": "According to the Bank of Baroda AI could destroy 20–25 million jobs in India by 2030, predominantly in sectors like IT services, customer support, retail, and finance87.",
+    "source_id": "s_30085e94",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_30085e94_e2",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": 2030,
+    "status": "needs_review",
+    "reason": "Age unknown (no page date or figure year)",
+    "confidence": 0.68,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "In Bangalore, 50,000 IT employees lost their jobs in 2024 due to the influence of AI and automation.",
+    "entity": "Bangalore",
+    "topic": "other",
+    "excerpt": "In Bangalore, 50,000 IT employees were laid off in 2024, primarily due to the impact of AI and automation88.",
+    "source_id": "s_30085e94",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_30085e94_e3",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": 2024,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.74,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.8,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India's investment as a percentage of GDP has been in decline since 2008, with marginal increases noted in 2022 and 2023.",
+    "entity": "India",
+    "topic": "market size",
+    "excerpt": "Investment as a proportion of GDP has started declining since 2008 with slight pickup in 2022 and 2023.",
+    "source_id": "s_30085e94",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_30085e94_e4",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": false,
+    "date_source": null,
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Age unknown (no page date or figure year)",
+    "confidence": 0.605,
+    "scores": {
+      "credibility": 0.5,
+      "support": 0.85,
+      "relevance": 0.5,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Between 2000 and 2019, the labour force participation rate in India decreased from 58 percent to 49 percent.",
+    "entity": "India",
+    "topic": "other",
+    "excerpt": "Over 2000-19 the labour force participation rate fell from 58 to 49 percent, a result of employment growing much slower than population in the working age group.",
+    "source_id": "s_30085e94",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_30085e94_e5",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": false,
+    "date_source": null,
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Claim is not fully backed by its excerpt (a number or the source name is missing); age unknown (no page date or figure year)",
+    "confidence": 0.5,
+    "scores": {
+      "credibility": 0.5,
+      "support": 0.4,
+      "relevance": 0.8,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Approximately 25% of India's workforce is employed in occupations exposed to AI.",
+    "entity": "India",
+    "topic": "market size",
+    "excerpt": "According to the study, approximately 25% of India's workforce is employed in occupations exposed to AI, compared with around 20% in 2012.",
+    "source_id": "s_53bb914d",
+    "date": "2026-10-16",
+    "excerpt_found": true,
+    "evidence_id": "s_53bb914d_e1",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "In 2012, around 20% of India's workforce was employed in occupations exposed to AI.",
+    "entity": "India",
+    "topic": "market size",
+    "excerpt": "According to the study, approximately 25% of India's workforce is employed in occupations exposed to AI, compared with around 20% in 2012.",
+    "source_id": "s_53bb914d",
+    "date": "2026-10-16",
+    "excerpt_found": true,
+    "evidence_id": "s_53bb914d_e2",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2012,
+    "status": "needs_review",
+    "reason": "Figure is about 14 years old",
+    "confidence": 0.6,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.1,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Nearly half of jobs in urban India are exposed to AI-related changes.",
+    "entity": "India",
+    "topic": "market size",
+    "excerpt": "In urban India, nearly half of jobs are exposed to AI-related changes.",
+    "source_id": "s_53bb914d",
+    "date": "2026-10-16",
+    "excerpt_found": true,
+    "evidence_id": "s_53bb914d_e3",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Around 46 million workers in India are in occupations where AI could complement human skills and improve productivity.",
+    "entity": "India",
+    "topic": "market size",
+    "excerpt": "- 46 million workers: Around 46 million workers are in occupations where AI could complement human skills and improve productivity.",
+    "source_id": "s_53bb914d",
+    "date": "2026-10-16",
+    "excerpt_found": true,
+    "evidence_id": "s_53bb914d_e4",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Excerpt only partly supports the claim: The excerpt does not explicitly state these 46 million workers are in India.",
+    "confidence": 0.59,
+    "scores": {
+      "credibility": 0.5,
+      "support": 0.85,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Approximately 197 million workers in India are employed in highly routine occupations that could face automation risks.",
+    "entity": "India",
+    "topic": "market size",
+    "excerpt": "- 197 million workers: Approximately 197 million workers are employed in highly routine occupations that could face automation risks.",
+    "source_id": "s_53bb914d",
+    "date": "2026-10-16",
+    "excerpt_found": true,
+    "evidence_id": "s_53bb914d_e5",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Excerpt only partly supports the claim: The excerpt does not explicitly state these 197 million workers are in India.",
+    "confidence": 0.59,
+    "scores": {
+      "credibility": 0.5,
+      "support": 0.85,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Around 39.4% of workers aged 15–24 in India are employed in highly routine occupations.",
+    "entity": "India",
+    "topic": "market size",
+    "excerpt": "- Young workers: Around 39.4% of workers aged 15–24 are employed in highly routine occupations.",
+    "source_id": "s_53bb914d",
+    "date": "2026-10-16",
+    "excerpt_found": true,
+    "evidence_id": "s_53bb914d_e6",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Excerpt only partly supports the claim: The excerpt does not explicitly state these workers are in India.",
+    "confidence": 0.59,
+    "scores": {
+      "credibility": 0.5,
+      "support": 0.85,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The digital economy will contribute 20% to India's GDP by 2026.",
+    "entity": "India",
+    "topic": "market size",
+    "excerpt": "AI takes center stage for this revolution because the digital economy will likely contribute 20% to India's GDP by 2026.",
+    "source_id": "s_8d3773e3",
+    "date": "2025-05-01",
+    "excerpt_found": true,
+    "evidence_id": "s_8d3773e3_e1",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "needs_review",
+    "reason": "User-generated source",
+    "confidence": 0.696,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.892,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "More than 87% of Indian businesses surveyed belong to the Enthusiast and Expert maturity levels of AI adoption.",
+    "entity": "India",
+    "topic": "market share",
+    "excerpt": "According to the NASSCOM-EY AI Adoption Index 2.0 (2024), more than 87% of Indian businesses surveyed belong to the \"Enthusiast\" and \"Expert\" maturity levels of AI adoption, and major industries like BFSI, healthcare, retail, and manufacturing have incorporated AI in their day-to-day operations.",
+    "source_id": "s_8d3773e3",
+    "date": "2025-05-01",
+    "excerpt_found": true,
+    "evidence_id": "s_8d3773e3_e2",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2024,
+    "status": "needs_review",
+    "reason": "User-generated source",
+    "confidence": 0.677,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.8,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The BFSI industry has an 83% AI adoption rate.",
+    "entity": "BFSI",
+    "topic": "market share",
+    "excerpt": "The BFSI industry takes the lead with 83% adoption, applying AI for fraud detection, customer service chatbots, and risk assessment.",
+    "source_id": "s_8d3773e3",
+    "date": "2025-05-01",
+    "excerpt_found": true,
+    "evidence_id": "s_8d3773e3_e3",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "User-generated source",
+    "confidence": 0.666,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 0.892,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Apollo Hospitals invests in AI to free clinicians from administrative tasks and improve patient outcomes.",
+    "entity": "Apollo Hospitals",
+    "topic": "technology",
+    "excerpt": "In the healthcare sector, Apollo Hospitals, for instance, heavily invests in AI to free clinicians from administrative tasks and improve patient outcomes.",
+    "source_id": "s_8d3773e3",
+    "date": "2025-05-01",
+    "excerpt_found": true,
+    "evidence_id": "s_8d3773e3_e4",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "User-generated source",
+    "confidence": 0.666,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 0.892,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The manufacturing industry has a 61% AI adoption rate.",
+    "entity": "manufacturing",
+    "topic": "market share",
+    "excerpt": "The manufacturing industry applies AI to predictive maintenance and quality assurance with 61% adoption, due to the existing infrastructure.",
+    "source_id": "s_8d3773e3",
+    "date": "2025-05-01",
+    "excerpt_found": true,
+    "evidence_id": "s_8d3773e3_e5",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "User-generated source",
+    "confidence": 0.666,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 0.892,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Retail and FMCG industries have an AI adoption rate of more than 59%.",
+    "entity": "Retail",
+    "topic": "market share",
+    "excerpt": "Retail and FMCG industries have observed more than 59% adoption for demand planning and personalized marketing campaigns.",
+    "source_id": "s_8d3773e3",
+    "date": "2025-05-01",
+    "excerpt_found": true,
+    "evidence_id": "s_8d3773e3_e6",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "User-generated source",
+    "confidence": 0.666,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 0.892,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "AI will replace 85 million jobs worldwide by 2025.",
+    "entity": "World Economic Forum",
+    "topic": "growth",
+    "excerpt": "At the same time, the World Economic Forum (WEF) puts forward that by 2025 AI will replace 85 million jobs worldwide but generate 97 million new jobs—jobs that marry technology and human skills.",
+    "source_id": "s_8d3773e3",
+    "date": "2025-05-01",
+    "excerpt_found": true,
+    "evidence_id": "s_8d3773e3_e7",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "needs_review",
+    "reason": "User-generated source; global figure, but the research scope is India",
+    "confidence": 0.646,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 0.892,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Generative AI enhances research and design productivity according to Tata Consultancy Services.",
+    "entity": "Tata Consultancy Services",
+    "topic": "technology",
+    "excerpt": "According to Tata Consultancy Services (TCS), generative AI enhances research and design productivity without diminishing human capital.",
+    "source_id": "s_8d3773e3",
+    "date": "2025-05-01",
+    "excerpt_found": true,
+    "evidence_id": "s_8d3773e3_e8",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "User-generated source",
+    "confidence": 0.666,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 0.892,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India will need more than 3 million AI and data science professionals by 2027.",
+    "entity": "India",
+    "topic": "market size",
+    "excerpt": "NITI Aayog says India will need more than 3 million AI and data science professionals by 2027 to meet increasing demand.",
+    "source_id": "s_8d3773e3",
+    "date": "2025-05-01",
+    "excerpt_found": true,
+    "evidence_id": "s_8d3773e3_e9",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2027,
+    "status": "needs_review",
+    "reason": "User-generated source",
+    "confidence": 0.696,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.892,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Future Skills Prime aims to skill more than 1.4 million professionals in emerging technologies.",
+    "entity": "Future Skills Prime",
+    "topic": "other",
+    "excerpt": "To close the gap, programs such as Future Skills Prime, a MeitY-NASSCOM partnership, will skill more than 1.4 million professionals in emerging technologies.",
+    "source_id": "s_8d3773e3",
+    "date": "2025-05-01",
+    "excerpt_found": true,
+    "evidence_id": "s_8d3773e3_e10",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "User-generated source",
+    "confidence": 0.696,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.892,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The IndiaAI Mission has an investment of 10,300 crore over five years.",
+    "entity": "IndiaAI Mission",
+    "topic": "infrastructure",
+    "excerpt": "The government's IndiaAI Mission, with an investment of ₹10,300 crore over five years, further reflects this commitment.",
+    "source_id": "s_8d3773e3",
+    "date": "2025-05-01",
+    "excerpt_found": true,
+    "evidence_id": "s_8d3773e3_e11",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "User-generated source",
+    "confidence": 0.646,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 0.892,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India's overall employability rate is 54.8 percent in 2026.",
+    "entity": "Wheebox",
+    "topic": "market size",
+    "excerpt": "According to the India Skills Report 2026 published by Wheebox in partnership with CII and UNDP, India's overall employability rate has improved to 54.8 percent, the highest in five years, driven by improvements in digital literacy and the proliferation of skill-based certification programs.",
+    "source_id": "s_f0cc648a",
+    "date": "2026-04-20",
+    "excerpt_found": true,
+    "evidence_id": "s_f0cc648a_e1",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.75,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "63 percent of Indian employers report difficulty filling critical roles in 2026.",
+    "entity": "Wheebox",
+    "topic": "market size",
+    "excerpt": "According to the India Skills Report 2026 published by Wheebox in partnership with CII and UNDP, India's overall employability rate has improved to 54.8 percent, the highest in five years, driven by improvements in digital literacy and the proliferation of skill-based certification programs. Yet paradoxically, 63 percent of Indian employers report difficulty filling critical roles, particularly in emerging technology domains.",
+    "source_id": "s_f0cc648a",
+    "date": "2026-04-20",
+    "excerpt_found": true,
+    "evidence_id": "s_f0cc648a_e2",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Job postings in India not requiring a specific degree increased by 36 percent between 2024 and 2026.",
+    "entity": "LinkedIn India",
+    "topic": "growth",
+    "excerpt": "According to LinkedIn India's hiring data, the number of job postings in India that do not require a specific degree increased by 36 percent between 2024 and 2026.",
+    "source_id": "s_f0cc648a",
+    "date": "2026-04-20",
+    "excerpt_found": true,
+    "evidence_id": "s_f0cc648a_e3",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.75,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Infosys has committed to reskilling over 100,000 employees in AI-related competencies by 2027.",
+    "entity": "Infosys",
+    "topic": "technology",
+    "excerpt": "Infosys, TCS, and Wipro have each committed to reskilling over 100,000 employees in AI- related competencies by 2027.",
+    "source_id": "s_f0cc648a",
+    "date": "2026-04-20",
+    "excerpt_found": true,
+    "evidence_id": "s_f0cc648a_e4",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2027,
+    "status": "needs_review",
+    "reason": "Excerpt only partly supports the claim: The excerpt states that Infosys, TCS, and Wipro have each made this commitment, but the claim singles out only Infosys.",
+    "confidence": 0.59,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "TCS has committed to reskilling over 100,000 employees in AI-related competencies by 2027.",
+    "entity": "TCS",
+    "topic": "technology",
+    "excerpt": "Infosys, TCS, and Wipro have each committed to reskilling over 100,000 employees in AI- related competencies by 2027.",
+    "source_id": "s_f0cc648a",
+    "date": "2026-04-20",
+    "excerpt_found": true,
+    "evidence_id": "s_f0cc648a_e5",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2027,
+    "status": "rejected",
+    "reason": "Duplicate of s_f0cc648a_e4",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": "s_f0cc648a_e4",
+    "conflict_with": []
+  },
+  {
+    "claim": "Wipro has committed to reskilling over 100,000 employees in AI-related competencies by 2027.",
+    "entity": "Wipro",
+    "topic": "technology",
+    "excerpt": "Infosys, TCS, and Wipro have each committed to reskilling over 100,000 employees in AI- related competencies by 2027.",
+    "source_id": "s_f0cc648a",
+    "date": "2026-04-20",
+    "excerpt_found": true,
+    "evidence_id": "s_f0cc648a_e6",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2027,
+    "status": "rejected",
+    "reason": "Duplicate of s_f0cc648a_e4",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": "s_f0cc648a_e4",
+    "conflict_with": []
+  },
+  {
+    "claim": "There are over 1,580 GCCs operating in India.",
+    "entity": "GCC",
+    "topic": "market size",
+    "excerpt": "Global Capability Centers continue their dramatic expansion in India, with over 1,580 GCCs now operating across the country and new centers being established at a rate of approximately 50 per year.",
+    "source_id": "s_f0cc648a",
+    "date": "2026-04-20",
+    "excerpt_found": true,
+    "evidence_id": "s_f0cc648a_e7",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.75,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The combined GCC workforce in India exceeds 1.9 million professionals.",
+    "entity": "GCC",
+    "topic": "market size",
+    "excerpt": "The combined GCC workforce exceeds 1.9 million professionals, and these centers have shifted from cost arbitrage operations to high-value innovation hubs that compete directly with India's best startups and product companies for top talent.",
+    "source_id": "s_f0cc648a",
+    "date": "2026-04-20",
+    "excerpt_found": true,
+    "evidence_id": "s_f0cc648a_e8",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Excerpt only partly supports the claim: The excerpt does not explicitly state the location of this workforce is in India.",
+    "confidence": 0.59,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Tier-2 cities accounted for 18 percent of new tech job creation in India in 2025.",
+    "entity": "Nasscom",
+    "topic": "market share",
+    "excerpt": "According to Nasscom, tier-2 cities accounted for 18 percent of new tech job creation in 2025, up from 8 percent in 2020, and the trajectory is accelerating.",
+    "source_id": "s_f0cc648a",
+    "date": "2026-04-20",
+    "excerpt_found": true,
+    "evidence_id": "s_f0cc648a_e9",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "needs_review",
+    "reason": "Excerpt only partly supports the claim: The claim omits that the source is Nasscom.",
+    "confidence": 0.59,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Over 2 million skilled women professionals left the Indian tech workforce between 2020 and 2024.",
+    "entity": "Nasscom",
+    "topic": "other",
+    "excerpt": "Nasscom estimates that over 2 million skilled women professionals left the Indian tech workforce between 2020 and 2024 for reasons including caregiving, relocation, and health, and a significant majority are interested in returning to professional roles.",
+    "source_id": "s_f0cc648a",
+    "date": "2026-04-20",
+    "excerpt_found": true,
+    "evidence_id": "s_f0cc648a_e10",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Tata Group has launched returnship programs for professionals.",
+    "entity": "Tata Group",
+    "topic": "other",
+    "excerpt": "Companies like Tata Group, HCL, and Thoughtworks have launched dedicated returnship programs that provide structured re-entry pathways, and the results have been consistently positive: returnees typically reach full productivity within three to six months and demonstrate above-average retention rates.",
+    "source_id": "s_f0cc648a",
+    "date": "2026-04-20",
+    "excerpt_found": true,
+    "evidence_id": "s_f0cc648a_e11",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.75,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "HCL has launched returnship programs for professionals.",
+    "entity": "HCL",
+    "topic": "other",
+    "excerpt": "Companies like Tata Group, HCL, and Thoughtworks have launched dedicated returnship programs that provide structured re-entry pathways, and the results have been consistently positive: returnees typically reach full productivity within three to six months and demonstrate above-average retention rates.",
+    "source_id": "s_f0cc648a",
+    "date": "2026-04-20",
+    "excerpt_found": true,
+    "evidence_id": "s_f0cc648a_e12",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "rejected",
+    "reason": "Duplicate of s_f0cc648a_e11",
+    "confidence": 0.75,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": "s_f0cc648a_e11",
+    "conflict_with": []
+  },
+  {
+    "claim": "Thoughtworks has launched returnship programs for professionals.",
+    "entity": "Thoughtworks",
+    "topic": "other",
+    "excerpt": "Companies like Tata Group, HCL, and Thoughtworks have launched dedicated returnship programs that provide structured re-entry pathways, and the results have been consistently positive: returnees typically reach full productivity within three to six months and demonstrate above-average retention rates.",
+    "source_id": "s_f0cc648a",
+    "date": "2026-04-20",
+    "excerpt_found": true,
+    "evidence_id": "s_f0cc648a_e13",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "rejected",
+    "reason": "Duplicate of s_f0cc648a_e11",
+    "confidence": 0.75,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": "s_f0cc648a_e11",
+    "conflict_with": []
+  },
+  {
+    "claim": "Companies in the top quartile of employee experience metrics report 25 percent higher productivity.",
+    "entity": "Gallup",
+    "topic": "other",
+    "excerpt": "The concept of employee experience, the sum total of every interaction an employee has with their employer, has moved from an HR buzzword to a genuine strategic priority for Indian companies in 2026. This shift is driven by the tight correlation between employee experience and business outcomes: companies in the top quartile of employee experience metrics report 25 percent higher productivity, 40 percent lower absenteeism, and 50 percent lower attrition than those in the bottom quartile, according to research from Gallup adapted for the Indian market.",
+    "source_id": "s_f0cc648a",
+    "date": "2026-04-20",
+    "excerpt_found": true,
+    "evidence_id": "s_f0cc648a_e14",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "needs_review",
+    "reason": "Excerpt only partly supports the claim: The claim omits the specific market and that the research was adapted by Gallup for the Indian market.",
+    "confidence": 0.59,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Companies in the top quartile of employee experience metrics report 40 percent lower absenteeism.",
+    "entity": "Gallup",
+    "topic": "other",
+    "excerpt": "The concept of employee experience, the sum total of every interaction an employee has with their employer, has moved from an HR buzzword to a genuine strategic priority for Indian companies in 2026. This shift is driven by the tight correlation between employee experience and business outcomes: companies in the top quartile of employee experience metrics report 25 percent higher productivity, 40 percent lower absenteeism, and 50 percent lower attrition than those in the bottom quartile, according to research from Gallup adapted for the Indian market.",
+    "source_id": "s_f0cc648a",
+    "date": "2026-04-20",
+    "excerpt_found": true,
+    "evidence_id": "s_f0cc648a_e15",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "needs_review",
+    "reason": "Conflicts with s_f0cc648a_e16",
+    "confidence": 0.655,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.0
+    },
+    "duplicate_of": null,
+    "conflict_with": [
+      "s_f0cc648a_e16"
+    ]
+  },
+  {
+    "claim": "Companies in the top quartile of employee experience metrics report 50 percent lower attrition.",
+    "entity": "Gallup",
+    "topic": "other",
+    "excerpt": "The concept of employee experience, the sum total of every interaction an employee has with their employer, has moved from an HR buzzword to a genuine strategic priority for Indian companies in 2026. This shift is driven by the tight correlation between employee experience and business outcomes: companies in the top quartile of employee experience metrics report 25 percent higher productivity, 40 percent lower absenteeism, and 50 percent lower attrition than those in the bottom quartile, according to research from Gallup adapted for the Indian market.",
+    "source_id": "s_f0cc648a",
+    "date": "2026-04-20",
+    "excerpt_found": true,
+    "evidence_id": "s_f0cc648a_e16",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "needs_review",
+    "reason": "Conflicts with s_f0cc648a_e15",
+    "confidence": 0.655,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.0
+    },
+    "duplicate_of": null,
+    "conflict_with": [
+      "s_f0cc648a_e15"
+    ]
+  },
+  {
+    "claim": "Job postings with salary information receive 30 percent more applications.",
+    "entity": "Glassdoor India",
+    "topic": "other",
+    "excerpt": "Glassdoor India reports that job postings with salary information receive 30 percent more applications, and the candidates who apply are more likely to be within the company's target experience range, reducing the time spent on mismatched candidates.",
+    "source_id": "s_f0cc648a",
+    "date": "2026-04-20",
+    "excerpt_found": true,
+    "evidence_id": "s_f0cc648a_e17",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Excerpt only partly supports the claim: The claim omits that the source is Glassdoor India.",
+    "confidence": 0.59,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India's employability rate reached 54.8% in 2026.",
+    "entity": "India",
+    "topic": "market size",
+    "excerpt": "India's employability rate has risen to 54.8%, the highest in five years, yet 63% of employers report difficulty filling critical roles, especially in emerging technology.",
+    "source_id": "s_f0cc648a",
+    "date": "2026-04-20",
+    "excerpt_found": true,
+    "evidence_id": "s_f0cc648a_e18",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Claim is not fully backed by its excerpt (a number or the source name is missing)",
+    "confidence": 0.57,
+    "scores": {
+      "credibility": 0.5,
+      "support": 0.4,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "63% of employers in India reported difficulty filling critical roles in 2026.",
+    "entity": "India",
+    "topic": "market size",
+    "excerpt": "India's employability rate has risen to 54.8%, the highest in five years, yet 63% of employers report difficulty filling critical roles, especially in emerging technology.",
+    "source_id": "s_f0cc648a",
+    "date": "2026-04-20",
+    "excerpt_found": true,
+    "evidence_id": "s_f0cc648a_e19",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Claim is not fully backed by its excerpt (a number or the source name is missing)",
+    "confidence": 0.6,
+    "scores": {
+      "credibility": 0.5,
+      "support": 0.4,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Savanna HR is based in Gurugram.",
+    "entity": "Savanna HR",
+    "topic": "other",
+    "excerpt": "Savanna HR is a Gurugram-based recruitment agency with 12 years in recruitment and more than 3,500 roles closed.",
+    "source_id": "s_f0cc648a",
+    "date": "2026-04-20",
+    "excerpt_found": true,
+    "evidence_id": "s_f0cc648a_e20",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.73,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Savanna HR has closed more than 3,500 roles.",
+    "entity": "Savanna HR",
+    "topic": "other",
+    "excerpt": "Savanna HR is a Gurugram-based recruitment agency with 12 years in recruitment and more than 3,500 roles closed.",
+    "source_id": "s_f0cc648a",
+    "date": "2026-04-20",
+    "excerpt_found": true,
+    "evidence_id": "s_f0cc648a_e21",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.73,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Savanna HR has an average time to fill of 15 to 20 days.",
+    "entity": "Savanna HR",
+    "topic": "other",
+    "excerpt": "It hires leadership, technology, GCC, fintech, manufacturing and academic talent across India, with an average time to fill of 15 to 20 days and a 92% offer-to-join rate.",
+    "source_id": "s_f0cc648a",
+    "date": "2026-04-20",
+    "excerpt_found": true,
+    "evidence_id": "s_f0cc648a_e22",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Excerpt only partly supports the claim: The claim omits the subject firm name, Savanna HR.",
+    "confidence": 0.59,
+    "scores": {
+      "credibility": 0.5,
+      "support": 0.85,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Savanna HR has a 92% offer-to-join rate.",
+    "entity": "Savanna HR",
+    "topic": "other",
+    "excerpt": "It hires leadership, technology, GCC, fintech, manufacturing and academic talent across India, with an average time to fill of 15 to 20 days and a 92% offer-to-join rate.",
+    "source_id": "s_f0cc648a",
+    "date": "2026-04-20",
+    "excerpt_found": true,
+    "evidence_id": "s_f0cc648a_e23",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Excerpt only partly supports the claim: The claim omits the subject firm name, Savanna HR.",
+    "confidence": 0.59,
+    "scores": {
+      "credibility": 0.5,
+      "support": 0.85,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Nearly 40% of global employment is exposed to AI.",
+    "entity": "IMF",
+    "topic": "market share",
+    "excerpt": "An IMF analysis reveals that nearly 40% of global employment is exposed to AI.",
+    "source_id": "s_c4740291",
+    "date": "2024-10-23",
+    "excerpt_found": true,
+    "evidence_id": "s_c4740291_e1",
+    "task_id": "t1",
+    "task_ids": [
+      "t1",
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Global figure, but the research scope is India",
+    "confidence": 0.688,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 0.788,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Emerging markets have an AI exposure rate of 40%.",
+    "entity": "IMF",
+    "topic": "market share",
+    "excerpt": "An IMF analysis reveals that nearly 40% of global employment is exposed to AI. In advanced economies, around 60% of jobs could be affected, with half benefiting from AI integration and the other half facing reduced labor demand, potentially leading to job losses and lower wages. Conversely, emerging markets and low-income countries have lower AI exposure rates of 40% and 26%, respectively, suggesting fewer immediate disruptions.",
+    "source_id": "s_c4740291",
+    "date": "2024-10-23",
+    "excerpt_found": true,
+    "evidence_id": "s_c4740291_e2",
+    "task_id": "t1",
+    "task_ids": [
+      "t1",
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.738,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.788,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "AI could threaten up to 300 million jobs globally.",
+    "entity": "Goldman Sachs",
+    "topic": "other",
+    "excerpt": "Recent reports from Goldman Sachs indicate that AI could threaten up to 300 million jobs globally, with two-thirds of roles in the US and Europe at risk.",
+    "source_id": "s_c4740291",
+    "date": "2024-10-23",
+    "excerpt_found": true,
+    "evidence_id": "s_c4740291_e3",
+    "task_id": "t1",
+    "task_ids": [
+      "t1",
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Global figure, but the research scope is India",
+    "confidence": 0.688,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 0.788,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "AI could impact around eight million jobs in the UK.",
+    "entity": "Goldman Sachs",
+    "topic": "other",
+    "excerpt": "Recent reports from Goldman Sachs indicate that AI could threaten up to 300 million jobs globally, with two-thirds of roles in the US and Europe at risk. In the UK, a survey of 22,000 job types suggests AI could impact around eight million jobs, with 11% of tasks already exposed to automation.",
+    "source_id": "s_c4740291",
+    "date": "2024-10-23",
+    "excerpt_found": true,
+    "evidence_id": "s_c4740291_e4",
+    "task_id": "t1",
+    "task_ids": [
+      "t1",
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.738,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.788,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "14% of employees may need to change careers due to AI advancements by 2023.",
+    "entity": "McKinsey Global Institute",
+    "topic": "other",
+    "excerpt": "The McKinsey Global Institute predicts that by 2023, 14% of employees may need to change careers due to AI advancements.",
+    "source_id": "s_c4740291",
+    "date": "2024-10-23",
+    "excerpt_found": true,
+    "evidence_id": "s_c4740291_e5",
+    "task_id": "t1",
+    "task_ids": [
+      "t1",
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2023,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.67,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 0.6,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The IT industry in India provides over 5.4 million jobs.",
+    "entity": "India",
+    "topic": "market size",
+    "excerpt": "The IT industry in India has been a major employer, providing over 5.4 million jobs and creating numerous opportunities for fresh engineering graduates.",
+    "source_id": "s_c4740291",
+    "date": "2024-10-23",
+    "excerpt_found": true,
+    "evidence_id": "s_c4740291_e6",
+    "task_id": "t1",
+    "task_ids": [
+      "t1",
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.738,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.788,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "There is a potential white-collar recession in India by 2027.",
+    "entity": "India",
+    "topic": "other",
+    "excerpt": "As companies work to become “AI-ready” through employee reskilling, technologists warn of a potential white-collar recession in India by 2027.",
+    "source_id": "s_c4740291",
+    "date": "2024-10-23",
+    "excerpt_found": true,
+    "evidence_id": "s_c4740291_e7",
+    "task_id": "t1",
+    "task_ids": [
+      "t1",
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2027,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.738,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.788,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "AI will impact about 300 million blue-collar workers in India.",
+    "entity": "India",
+    "topic": "other",
+    "excerpt": "AI will also affect blue-collar jobs in India, impacting about 300 million workers in sectors like manufacturing and healthcare.",
+    "source_id": "s_c4740291",
+    "date": "2024-10-23",
+    "excerpt_found": true,
+    "evidence_id": "s_c4740291_e8",
+    "task_id": "t1",
+    "task_ids": [
+      "t1",
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.738,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.788,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Amazon India uses an Alexa-powered voice assistant for customer support.",
+    "entity": "Amazon India",
+    "topic": "technology",
+    "excerpt": "AI-powered chatbots such as Amazon India's Alexa-powered voice assistant are revolutionizing customer support by providing instant responses and personalized interactions enabling customers to shop, track orders, and get product recommendations through voice commands.",
+    "source_id": "s_c4740291",
+    "date": "2024-10-23",
+    "excerpt_found": true,
+    "evidence_id": "s_c4740291_e9",
+    "task_id": "t1",
+    "task_ids": [
+      "t1",
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.708,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 0.788,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "HDFC Bank uses an AI-powered chatbot named Eva for applications including fraud detection, risk assessment, and credit underwriting.",
+    "entity": "HDFC Bank",
+    "topic": "technology",
+    "excerpt": "The financial sector is rapidly embracing AI technologies such as HDFC Bank’s Eva AI powered-chatbot, for various applications, including fraud detection, risk assessment, credit underwriting, and personalized financial services.",
+    "source_id": "s_c4740291",
+    "date": "2024-10-23",
+    "excerpt_found": true,
+    "evidence_id": "s_c4740291_e10",
+    "task_id": "t1",
+    "task_ids": [
+      "t1",
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.738,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.788,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The World Economic Forum anticipates that AI will generate 12 million more jobs than it displaces by 2025.",
+    "entity": "World Economic Forum",
+    "topic": "growth",
+    "excerpt": "The World Economic Forum (WEF) anticipates that AI will generate 12 million more jobs than it displaces by 2025.",
+    "source_id": "s_c4740291",
+    "date": "2024-10-23",
+    "excerpt_found": true,
+    "evidence_id": "s_c4740291_e11",
+    "task_id": "t1",
+    "task_ids": [
+      "t1",
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.738,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.788,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The Ministry of Electronics and Information Technology projects that digital interventions will redeploy approximately 40-45 million workers in India by 2025.",
+    "entity": "Ministry of Electronics and Information Technology",
+    "topic": "growth",
+    "excerpt": "According to the 2019 report by the Ministry of Electronics and Information Technology (MeitY), by 2025, digital interventions, including AI, are projected to redeploy approximately 40-45 million workers in India through retraining and reskilling.",
+    "source_id": "s_c4740291",
+    "date": "2024-10-23",
+    "excerpt_found": true,
+    "evidence_id": "s_c4740291_e12",
+    "task_id": "t1",
+    "task_ids": [
+      "t1",
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.708,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 0.788,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The Ministry of Electronics and Information Technology expects around 20 million new jobs to be created in India by 2025.",
+    "entity": "Ministry of Electronics and Information Technology",
+    "topic": "growth",
+    "excerpt": "According to the 2019 report by the Ministry of Electronics and Information Technology (MeitY), by 2025, digital interventions, including AI, are projected to redeploy approximately 40-45 million workers in India through retraining and reskilling. Furthermore, around 20 million new jobs are expected to be created, particularly in sectors such as IT-BPM, manufacturing, agriculture, and transport and logistics.",
+    "source_id": "s_c4740291",
+    "date": "2024-10-23",
+    "excerpt_found": true,
+    "evidence_id": "s_c4740291_e13",
+    "task_id": "t1",
+    "task_ids": [
+      "t1",
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.738,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.788,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "NASSCOM estimates that AI and data could contribute between USD 540 billion to 500 billion to India's GDP by 2025.",
+    "entity": "NASSCOM",
+    "topic": "market size",
+    "excerpt": "According to a 2020 report by NASSCOM, AI and data could contribute between USD 540 billion to 500 billion to India's GDP by 2025.",
+    "source_id": "s_c4740291",
+    "date": "2024-10-23",
+    "excerpt_found": true,
+    "evidence_id": "s_c4740291_e14",
+    "task_id": "t1",
+    "task_ids": [
+      "t1",
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.738,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.788,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "McKinsey Global Institute estimates that automation could displace up to 60 million workers in India's manufacturing sector by 2030.",
+    "entity": "McKinsey Global Institute",
+    "topic": "growth",
+    "excerpt": "A report by the McKinsey Global Institute estimates that automation could displace up to 60 million workers in India’s manufacturing sector by 2030, particularly impacting jobs in textiles and electronics.",
+    "source_id": "s_c4740291",
+    "date": "2024-10-23",
+    "excerpt_found": true,
+    "evidence_id": "s_c4740291_e15",
+    "task_id": "t1",
+    "task_ids": [
+      "t1",
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2030,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.738,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.788,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Approximately 90% of India’s workforce is employed in the informal sector.",
+    "entity": "India",
+    "topic": "other",
+    "excerpt": "Approximately 90% of India’s workforce is employed in the informal sector, which is especially susceptible to automation, as these workers often lack access to retraining programs and support systems.",
+    "source_id": "s_c4740291",
+    "date": "2024-10-23",
+    "excerpt_found": true,
+    "evidence_id": "s_c4740291_e16",
+    "task_id": "t1",
+    "task_ids": [
+      "t1",
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.738,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.788,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "67.5% of engineers feel their jobs are being negatively impacted by AI.",
+    "entity": "Great Learning",
+    "topic": "other",
+    "excerpt": "Recently, Upskilling Trends Report 2024-25 released by a global ed-tech company Great Learning found that 67.5% of engineers feel their jobs are being negatively impacted by AI, while 87.5% believe that upskilling is critical to safeguarding their careers in the face of technological disruption.",
+    "source_id": "s_c4740291",
+    "date": "2024-10-23",
+    "excerpt_found": true,
+    "evidence_id": "s_c4740291_e17",
+    "task_id": "t1",
+    "task_ids": [
+      "t1",
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2024,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.738,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.788,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "87.5% of engineers believe that upskilling is critical to safeguarding their careers in the face of technological disruption.",
+    "entity": "Great Learning",
+    "topic": "other",
+    "excerpt": "Recently, Upskilling Trends Report 2024-25 released by a global ed-tech company Great Learning found that 67.5% of engineers feel their jobs are being negatively impacted by AI, while 87.5% believe that upskilling is critical to safeguarding their careers in the face of technological disruption.",
+    "source_id": "s_c4740291",
+    "date": "2024-10-23",
+    "excerpt_found": true,
+    "evidence_id": "s_c4740291_e18",
+    "task_id": "t1",
+    "task_ids": [
+      "t1",
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2024,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.688,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 0.788,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The Skill India Mission was launched in 2015 to equip workers with skills for the job market.",
+    "entity": "Skill India Mission",
+    "topic": "policy",
+    "excerpt": "Skill India Mission, launched in 2015 aims to equip workers with the skills necessary for the evolving job market.",
+    "source_id": "s_c4740291",
+    "date": "2024-10-23",
+    "excerpt_found": true,
+    "evidence_id": "s_c4740291_e19",
+    "task_id": "t1",
+    "task_ids": [
+      "t1",
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2015,
+    "status": "needs_review",
+    "reason": "Figure is about 11 years old",
+    "confidence": 0.6,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.1,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The National Strategy for Artificial Intelligence was launched by NITI Aayog in 2018.",
+    "entity": "NITI Aayog",
+    "topic": "policy",
+    "excerpt": "In 2018, NITI Aayog launched the National Strategy for Artificial Intelligence, focusing on using AI for inclusive growth.",
+    "source_id": "s_c4740291",
+    "date": "2024-10-23",
+    "excerpt_found": true,
+    "evidence_id": "s_c4740291_e20",
+    "task_id": "t1",
+    "task_ids": [
+      "t1",
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2018,
+    "status": "needs_review",
+    "reason": "Figure is about 8 years old",
+    "confidence": 0.55,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 0.1,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "National Education Policy 2020 suggests greater use of technologies such as AI.",
+    "entity": "National Education Policy 2020",
+    "topic": "policy",
+    "excerpt": "While National Education Policy 2020 suggests greater use of technologies such as AI, it must be aligned with the demand of the job market.",
+    "source_id": "s_c4740291",
+    "date": "2024-10-23",
+    "excerpt_found": true,
+    "evidence_id": "s_c4740291_e21",
+    "task_id": "t1",
+    "task_ids": [
+      "t1",
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2020,
+    "status": "needs_review",
+    "reason": "Figure is about 6 years old",
+    "confidence": 0.57,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 0.1,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "A study by ICRIER found a positive and significant relation between AI-using firms and Total Factor Productivity growth.",
+    "entity": "ICRIER",
+    "topic": "growth",
+    "excerpt": "A study conducted by ICRIER (2020), based on econometric estimation, found that there is a positive and significant relation between AI using firms and Total Factor Productivity (TFP) growth.",
+    "source_id": "s_e5c1224d",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_e5c1224d_e1",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": 2020,
+    "status": "needs_review",
+    "reason": "Figure is about 6 years old",
+    "confidence": 0.6,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.1,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "A unit increase in AI intensity is estimated to increase TFP growth by 0.05 per cent.",
+    "entity": "ICRIER",
+    "topic": "growth",
+    "excerpt": "A study conducted by ICRIER (2020), based on econometric estimation, found that there is a positive and significant relation between AI using firms and Total Factor Productivity (TFP) growth. The estimate suggested that a unit increase in AI intensity will increase TFP growth by 0.05 per cent.",
+    "source_id": "s_e5c1224d",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_e5c1224d_e2",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Age unknown (no page date or figure year)",
+    "confidence": 0.68,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "A unit increase in AI intensity by AI-using firms can return USD 67.25 billion or 2.5 per cent of GDP to the Indian economy.",
+    "entity": "ICRIER",
+    "topic": "growth",
+    "excerpt": "It found that a unit increase in AI intensity by AI-using firms can return USD 67.25 billion or 2.5 per cent of GDP to the Indian economy in the near-term.",
+    "source_id": "s_e5c1224d",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_e5c1224d_e3",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": false,
+    "date_source": null,
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Claim is not fully backed by its excerpt (a number or the source name is missing); age unknown (no page date or figure year)",
+    "confidence": 0.5,
+    "scores": {
+      "credibility": 0.5,
+      "support": 0.4,
+      "relevance": 0.8,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "NITI Aayog has acknowledged the need for more India-specific studies on the impact of AI on jobs.",
+    "entity": "NITI Aayog",
+    "topic": "policy",
+    "excerpt": "Both NITI Aayog (2018, 2021) and MoCI (2018) AI Task Force Report have acknowledged this fact and advocated for more India-specific studies.",
+    "source_id": "s_e5c1224d",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_e5c1224d_e4",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Age unknown (no page date or figure year)",
+    "confidence": 0.68,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The MoCI AI Task Force Report acknowledged the need for more India-specific studies on the impact of AI on jobs.",
+    "entity": "MoCI",
+    "topic": "policy",
+    "excerpt": "Both NITI Aayog (2018, 2021) and MoCI (2018) AI Task Force Report have acknowledged this fact and advocated for more India-specific studies.",
+    "source_id": "s_e5c1224d",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_e5c1224d_e5",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Age unknown (no page date or figure year)",
+    "confidence": 0.68,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India has a GDP growth rate projection of 7.4 percent for FY 2025-26.",
+    "entity": "India",
+    "topic": "growth",
+    "excerpt": "| Economic Driver | 2026 Projection/Status | Primary Impact Area | \n| GDP Growth Rate | 7.4 percent projected for FY 2025-26 | Overall market expansion |",
+    "source_id": "s_80d4068a",
+    "date": "2026-01-19",
+    "excerpt_found": true,
+    "evidence_id": "s_80d4068a_e1",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "needs_review",
+    "reason": "Excerpt only partly supports the claim: The excerpt does not explicitly state that the data refers to India.",
+    "confidence": 0.59,
+    "scores": {
+      "credibility": 0.5,
+      "support": 0.85,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India's renewable energy capacity reached 227 GW as of July 2026.",
+    "entity": "India",
+    "topic": "infrastructure",
+    "excerpt": "| Renewable Energy Capacity | 227 GW as of July 2026 | Green infrastructure |",
+    "source_id": "s_80d4068a",
+    "date": "2026-01-19",
+    "excerpt_found": true,
+    "evidence_id": "s_80d4068a_e2",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "needs_review",
+    "reason": "Excerpt only partly supports the claim: The excerpt does not explicitly state that the data refers to India.",
+    "confidence": 0.59,
+    "scores": {
+      "credibility": 0.5,
+      "support": 0.85,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India's smartphone exports were valued at $48.2 billion in 2025.",
+    "entity": "India",
+    "topic": "market size",
+    "excerpt": "| Smartphone Exports | $48.2 billion in 2025 | Electronics manufacturing |",
+    "source_id": "s_80d4068a",
+    "date": "2026-01-19",
+    "excerpt_found": true,
+    "evidence_id": "s_80d4068a_e3",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "needs_review",
+    "reason": "Excerpt only partly supports the claim: The excerpt does not explicitly state that the data refers to India.",
+    "confidence": 0.59,
+    "scores": {
+      "credibility": 0.5,
+      "support": 0.85,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Gratuity Consulting provides ethical workforce transition services and staffing solutions.",
+    "entity": "Gratuity Consulting",
+    "topic": "other",
+    "excerpt": "Gratuity Consulting plays a pivotal role in this ecosystem by providing ethical workforce transition services and staffing solutions that bridge the widening gap between institutional education and industry demands.",
+    "source_id": "s_80d4068a",
+    "date": "2026-01-19",
+    "excerpt_found": true,
+    "evidence_id": "s_80d4068a_e4",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.75,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The average salary for an AI/ML Architect in 2026 ranges from 21.0 to 44.0 INR LPA.",
+    "entity": "AI/ML Architect",
+    "topic": "other",
+    "excerpt": "| AI Specialization | Core Responsibilities | Average Salary (INR LPA) | \n| AI/ML Architect | Designing autonomous systems and enterprise workflows | 21.0 to 44.0 |",
+    "source_id": "s_80d4068a",
+    "date": "2026-01-19",
+    "excerpt_found": true,
+    "evidence_id": "s_80d4068a_e5",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Claim is not fully backed by its excerpt (a number or the source name is missing)",
+    "confidence": 0.57,
+    "scores": {
+      "credibility": 0.5,
+      "support": 0.4,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India reports the highest cybercrime rate in the world, which is thirty percent above the global average.",
+    "entity": "India",
+    "topic": "other",
+    "excerpt": "India reports the highest cybercrime rate in the world, which is thirty percent above the global average.",
+    "source_id": "s_80d4068a",
+    "date": "2026-01-19",
+    "excerpt_found": true,
+    "evidence_id": "s_80d4068a_e6",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.75,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The cybersecurity market in India is projected to reach 280 billion rupees.",
+    "entity": "India",
+    "topic": "market size",
+    "excerpt": "The cybersecurity market in India is projected to reach 280 billion rupees, driven by rapid digital adoption across all industries.",
+    "source_id": "s_80d4068a",
+    "date": "2026-01-19",
+    "excerpt_found": true,
+    "evidence_id": "s_80d4068a_e7",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.75,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The semiconductor market in India is projected to reach 110 billion dollars by 2030.",
+    "entity": "India",
+    "topic": "market size",
+    "excerpt": "India is currently witnessing a historic shift toward becoming a global powerhouse in semiconductor manufacturing, with the market projected to reach 110 billion dollars by 2030.",
+    "source_id": "s_80d4068a",
+    "date": "2026-01-19",
+    "excerpt_found": true,
+    "evidence_id": "s_80d4068a_e8",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2030,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.75,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The expansion of the semiconductor market in India is expected to create one million jobs by 2026.",
+    "entity": "India",
+    "topic": "growth",
+    "excerpt": "India is currently witnessing a historic shift toward becoming a global powerhouse in semiconductor manufacturing, with the market projected to reach 110 billion dollars by 2030. This expansion is expected to create one million jobs by 2026, spanning chip fabrication, assembly, testing, marking, and packaging.",
+    "source_id": "s_80d4068a",
+    "date": "2026-01-19",
+    "excerpt_found": true,
+    "evidence_id": "s_80d4068a_e9",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.75,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India aims to achieve five hundred gigawatts of non-fossil fuel capacity by 2030.",
+    "entity": "India",
+    "topic": "growth",
+    "excerpt": "India’s commitment to a clean energy future is reshaping the job market, with a focus on achieving five hundred gigawatts of non-fossil fuel capacity by 2030.",
+    "source_id": "s_80d4068a",
+    "date": "2026-01-19",
+    "excerpt_found": true,
+    "evidence_id": "s_80d4068a_e10",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2030,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.75,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Kerala has an ESG policy.",
+    "entity": "Kerala",
+    "topic": "policy",
+    "excerpt": "Experts in ESG analytics and sustainability reporting are now crucial for helping companies track emissions, manage environmental data, and comply with new regulatory mandates like Kerala’s first-ever state ESG policy.",
+    "source_id": "s_80d4068a",
+    "date": "2026-01-19",
+    "excerpt_found": true,
+    "evidence_id": "s_80d4068a_e11",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.73,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The green talent hiring rate is nearly sixty percent higher than the overall workforce hiring rate.",
+    "entity": "Gratuity Consulting",
+    "topic": "growth",
+    "excerpt": "The green talent hiring rate is nearly sixty percent higher than the overall workforce hiring rate, reflecting a seismic shift toward a purpose-driven economy. Gratuity Consulting assists organizations in building sustainable workforces by finding professionals who can integrate green practices into their core operations.",
+    "source_id": "s_80d4068a",
+    "date": "2026-01-19",
+    "excerpt_found": true,
+    "evidence_id": "s_80d4068a_e12",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The logistics and supply chain sector is emerging as a massive job multiplier in 2026.",
+    "entity": "India",
+    "topic": "market size",
+    "excerpt": "Operating as the critical backbone of India’s consumption growth, the logistics and supply chain sector is emerging as a massive job multiplier in 2026.",
+    "source_id": "s_80d4068a",
+    "date": "2026-01-19",
+    "excerpt_found": true,
+    "evidence_id": "s_80d4068a_e13",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.73,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Inventory planner roles are seeing over 10 percent employment growth.",
+    "entity": "Inventory Planner",
+    "topic": "growth",
+    "excerpt": "| Inventory Planner | Data-driven stock management | 10 percent plus employment growth |",
+    "source_id": "s_80d4068a",
+    "date": "2026-01-19",
+    "excerpt_found": true,
+    "evidence_id": "s_80d4068a_e14",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.73,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Full-Stack Developers are one of the most in-demand roles in India’s tech landscape in 2026.",
+    "entity": "Full-Stack Developer",
+    "topic": "other",
+    "excerpt": "Adaptability remains the hallmark of the successful software professional in 2026, making Full-Stack Developers one of the most in-demand roles in India’s tech landscape.",
+    "source_id": "s_80d4068a",
+    "date": "2026-01-19",
+    "excerpt_found": true,
+    "evidence_id": "s_80d4068a_e15",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.78,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Compliance expert roles in the fintech sector are experiencing 17 to 22 percent growth.",
+    "entity": "Compliance Expert",
+    "topic": "growth",
+    "excerpt": "| Compliance Expert | RBI/SEBI regulatory alignment | 17 to 22 percent growth |",
+    "source_id": "s_80d4068a",
+    "date": "2026-01-19",
+    "excerpt_found": true,
+    "evidence_id": "s_80d4068a_e16",
+    "task_id": "t2",
+    "task_ids": [
+      "t2"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Excerpt only partly supports the claim: The excerpt does not explicitly state that this growth pertains specifically to the fintech sector.",
+    "confidence": 0.59,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.3,
+      "recency": 1.0,
+      "corroboration": 0.5,
+      "semantic_support": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India’s overall employability has risen to 56.35% as of 2026.",
+    "entity": "India",
+    "topic": "growth",
+    "excerpt": "According to the India Skills Report 2026, India’s overall employability has risen to 56.35%, reflecting progress in digital skills and job readiness, especially in roles influenced by technology and AI.",
+    "source_id": "s_bd20259e",
+    "date": "2026-01-02",
+    "excerpt_found": true,
+    "evidence_id": "s_bd20259e_e1",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2026,
+    "status": "needs_review",
+    "reason": "User-generated source",
+    "confidence": 0.688,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India accounts for approximately 16% of the world’s AI talent in 2026.",
+    "entity": "India",
+    "topic": "market share",
+    "excerpt": "The same report notes that India accounts for around 16% of the world’s AI talent, with projections estimating this will continue growing toward 2027.",
+    "source_id": "s_bd20259e",
+    "date": "2026-01-02",
+    "excerpt_found": true,
+    "evidence_id": "s_bd20259e_e2",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "Claim is not fully backed by its excerpt (a number or the source name is missing); user-generated source",
+    "confidence": 0.537,
+    "scores": {
+      "credibility": 0.25,
+      "support": 0.4,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Over 40% of India’s IT and gig workforce use AI tools for work.",
+    "entity": "India",
+    "topic": "technology",
+    "excerpt": "Over 40% of India’s IT and gig workforce now use AI tools for automation, analytics, and productivity — underlining the growing integration of AI in day-to-day work.",
+    "source_id": "s_bd20259e",
+    "date": "2026-01-02",
+    "excerpt_found": true,
+    "evidence_id": "s_bd20259e_e3",
+    "task_id": "t1",
+    "task_ids": [
+      "t1"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "needs_review",
+    "reason": "User-generated source",
+    "confidence": 0.718,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Amazon plans to invest over $35 billion in India by 2030.",
+    "entity": "Amazon",
+    "topic": "market size",
+    "excerpt": "In recent weeks Amazon announced plans to invest over $35 billion in India by 2030, aiming to expand its AI capabilities, boost exports, build logistics infrastructure, and create employment opportunities at scale.",
+    "source_id": "s_cdacd90b",
+    "date": "2025-12-17",
+    "excerpt_found": true,
+    "evidence_id": "s_cdacd90b_e1",
+    "task_id": "t2",
+    "task_ids": [
+      "t2",
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2030,
+    "status": "needs_review",
+    "reason": "User-generated source",
+    "confidence": 0.718,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "India's AI sector could generate more than 2.3 million job openings by 2027.",
+    "entity": "India",
+    "topic": "growth",
+    "excerpt": "Research by global consultancies reveals that India’s AI sector could generate more than 2.3 million job openings by 2027, but the available skilled talent is expected to grow only to around 1.2 million.",
+    "source_id": "s_cdacd90b",
+    "date": "2025-12-17",
+    "excerpt_found": true,
+    "evidence_id": "s_cdacd90b_e2",
+    "task_id": "t2",
+    "task_ids": [
+      "t2",
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2027,
+    "status": "needs_review",
+    "reason": "User-generated source",
+    "confidence": 0.718,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The available skilled AI talent in India is expected to grow to around 1.2 million by 2027.",
+    "entity": "India",
+    "topic": "growth",
+    "excerpt": "Research by global consultancies reveals that India’s AI sector could generate more than 2.3 million job openings by 2027, but the available skilled talent is expected to grow only to around 1.2 million.",
+    "source_id": "s_cdacd90b",
+    "date": "2025-12-17",
+    "excerpt_found": true,
+    "evidence_id": "s_cdacd90b_e3",
+    "task_id": "t2",
+    "task_ids": [
+      "t2",
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2027,
+    "status": "needs_review",
+    "reason": "User-generated source",
+    "confidence": 0.718,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Over 40 percent of India’s IT and gig workforce uses AI tools regularly.",
+    "entity": "India",
+    "topic": "technology",
+    "excerpt": "Reports suggest that over 40 percent of India’s IT and gig workforce now uses AI tools regularly, and demand for digital competencies like automation, analytics, and AI-assisted design is expanding beyond traditional tech hubs.",
+    "source_id": "s_cdacd90b",
+    "date": "2025-12-17",
+    "excerpt_found": true,
+    "evidence_id": "s_cdacd90b_e4",
+    "task_id": "t2",
+    "task_ids": [
+      "t2",
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "rejected",
+    "reason": "Duplicate of s_bd20259e_e3",
+    "confidence": 0.718,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": "s_bd20259e_e3",
+    "conflict_with": []
+  },
+  {
+    "claim": "The projected AI talent gap is estimated to occur by 2027.",
+    "entity": "AI",
+    "topic": "growth",
+    "excerpt": "While the projected AI talent gap by 2027 demands focus on specialized skills, the broader landscape includes cloud computing, cybersecurity, and digital infrastructure roles where similar gaps are appearing.",
+    "source_id": "s_cdacd90b",
+    "date": "2025-12-17",
+    "excerpt_found": true,
+    "evidence_id": "s_cdacd90b_e5",
+    "task_id": "t2",
+    "task_ids": [
+      "t2",
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2027,
+    "status": "needs_review",
+    "reason": "User-generated source",
+    "confidence": 0.718,
+    "scores": {
+      "credibility": 0.25,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 1.0,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The Digital Personal Data Protection Act of 2023 neglects the challenges posed by algorithmic labour management practices, gig economy insecurity, and monitoring at the workplace.",
+    "entity": "Digital Personal Data Protection Act",
+    "topic": "policy",
+    "excerpt": "Through a qualitative study of international and national documented cases in a desk research manner, the thesis reveals a pressing need for a \"Skill Mismatch Crisis\" coupled with a \"regulatory vacuum\" since current legislation such as the Factories Act and the Digital Personal Data Protection Act of 2023 neglect the challenges posed by algorithmic labour management practices, gig economy insecurity, and monitoring at the workplace.",
+    "source_id": "s_b964ad49",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_b964ad49_e1",
+    "task_id": "t3",
+    "task_ids": [
+      "t3",
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": 2023,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.7,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.6,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The World Economic Forum reports that 120 million jobs are set to be displaced by 2030.",
+    "entity": "World Economic Forum",
+    "topic": "market size",
+    "excerpt": "For India, this challenge is existential in terms of policy, with the World Economic Forum reporting that 120 million jobs are set to be displaced by 2030 (World Economic Forum, 2025; 2026).",
+    "source_id": "s_b964ad49",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_b964ad49_e2",
+    "task_id": "t3",
+    "task_ids": [
+      "t3",
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": 2030,
+    "status": "needs_review",
+    "reason": "Age unknown (no page date or figure year)",
+    "confidence": 0.65,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 0.5,
+      "corroboration": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The Indian economy needs approximately 78.5 lakhs of new non-agricultural jobs every year.",
+    "entity": "Ministry of Finance",
+    "topic": "market size",
+    "excerpt": "This challenge is exacerbated by the \"Employment Imperative\" needing approximately 78.5 lakhs of new non-agricultural jobs every year, with its vast IT workforce fully engaged in routine and marginal work (Ministry of Finance, 2024; Economic Survey, 2025).",
+    "source_id": "s_b964ad49",
+    "date": null,
+    "excerpt_found": true,
+    "evidence_id": "s_b964ad49_e3",
+    "task_id": "t3",
+    "task_ids": [
+      "t3",
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": null,
+    "data_year": 2024,
+    "status": "needs_review",
+    "reason": "Excerpt only partly supports the claim: The excerpt mentions the requirement for jobs but does not explicitly state that this is for the Indian economy.",
+    "confidence": 0.59,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.8,
+      "corroboration": 0.5,
+      "semantic_support": 0.5
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Artificial Intelligence is expected to contribute over $500 billion to the Indian economy by 2025.",
+    "entity": "India",
+    "topic": "market size",
+    "excerpt": "Artificial Intelligence (AI) is poised to become a transformative force in India, contributing over $500 billion and creating nearly 20 million jobs by 2025.",
+    "source_id": "s_30e6ea12",
+    "date": "2024-01-10",
+    "excerpt_found": true,
+    "evidence_id": "s_30e6ea12_e1",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.676,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 0.631,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Artificial Intelligence is expected to create nearly 20 million jobs in India by 2025.",
+    "entity": "India",
+    "topic": "growth",
+    "excerpt": "Artificial Intelligence (AI) is poised to become a transformative force in India, contributing over $500 billion and creating nearly 20 million jobs by 2025.",
+    "source_id": "s_30e6ea12",
+    "date": "2024-01-10",
+    "excerpt_found": true,
+    "evidence_id": "s_30e6ea12_e2",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.676,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 0.631,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The Ministry of Electronics & Information Technology launched the India AI umbrella program to catalyze the AI innovation ecosystem.",
+    "entity": "Ministry of Electronics & Information Technology",
+    "topic": "policy",
+    "excerpt": "The Ministry of Electronics & Information Technology (MEITY) launched the umbrella program “India AI” to converge national-level initiatives and catalyze the AI innovation ecosystem.",
+    "source_id": "s_30e6ea12",
+    "date": "2024-01-10",
+    "excerpt_found": true,
+    "evidence_id": "s_30e6ea12_e3",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.706,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.631,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "The National e-Governance Division launched YUVAI in collaboration with Intel India to empower school students with AI skills.",
+    "entity": "National e-Governance Division",
+    "topic": "infrastructure",
+    "excerpt": "The National e-Governance Division, in collaboration with Intel India, launched ‘Youth for Unnati & Vikas with AI’ (YUVAI). This national program targets school students, aiming to empower them with AI skills, democratizing access to relevant toolsets for meaningful social impact solutions.",
+    "source_id": "s_30e6ea12",
+    "date": "2024-01-10",
+    "excerpt_found": true,
+    "evidence_id": "s_30e6ea12_e4",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.706,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.8,
+      "recency": 0.631,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  },
+  {
+    "claim": "Intel India collaborated with the National e-Governance Division to launch the YUVAI program.",
+    "entity": "Intel India",
+    "topic": "infrastructure",
+    "excerpt": "The National e-Governance Division, in collaboration with Intel India, launched ‘Youth for Unnati & Vikas with AI’ (YUVAI). This national program targets school students, aiming to empower them with AI skills, democratizing access to relevant toolsets for meaningful social impact solutions.",
+    "source_id": "s_30e6ea12",
+    "date": "2024-01-10",
+    "excerpt_found": true,
+    "evidence_id": "s_30e6ea12_e5",
+    "task_id": "t3",
+    "task_ids": [
+      "t3"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null,
+    "status": "accepted",
+    "reason": "Passes all checks; unrecognised source; excerpt supports the claim (checked)",
+    "confidence": 0.676,
+    "scores": {
+      "credibility": 0.5,
+      "support": 1.0,
+      "relevance": 0.5,
+      "recency": 0.631,
+      "corroboration": 0.5,
+      "semantic_support": 1.0
+    },
+    "duplicate_of": null,
+    "conflict_with": []
+  }
+]

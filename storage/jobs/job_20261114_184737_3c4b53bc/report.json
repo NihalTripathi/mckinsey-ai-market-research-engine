@@ -1,0 +1,372 @@
+{
+  "job_id": "job_20261114_184737_3c4b53bc",
+  "sections": [
+    {
+      "title": "Executive Summary",
+      "content": "As of 2025, the market was valued at $1,597.28 million, with narrow or weak artificial intelligence—systems designed for specific tasks—accounting for 88% of the total market share [E1][E2]. The government is actively supporting this ecosystem through the IndiaAI Mission, which has an approved budget of ₹10,372 crore [E3].",
+      "citations": [
+        "E1",
+        "E2",
+        "E3"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Market Insights",
+      "content": "In 2025, the market value was $1,597.28 million [E2]. Growth is supported by significant infrastructure investments, including the expansion of shared compute capacity to over 45,000 GPUs by June 2026 and the establishment of 570 Data and AI Labs in Tier-2 and Tier-3 cities [E4][E5]. Demand for specialized talent is high, with a projected requirement for 1.4 million artificial intelligence professionals by 2026, compared to a current pool of 600,000 [E6][E7]. This demand-supply gap is expected to be 3.5 times by 2026 [E8]. Furthermore, salaries for specialized roles in artificial intelligence and machine learning have increased by 30 to 35 per cent [E9].",
+      "citations": [
+        "E2",
+        "E4",
+        "E5",
+        "E6",
+        "E7",
+        "E8",
+        "E9"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Competitor Analysis",
+      "content": "The accepted evidence does not identify enough verified companies providing products or services in the Artificial Intelligence market to support a company-level competitor comparison. Funding and investor activity may provide market context, but do not establish that an organisation is a competitor.",
+      "citations": [],
+      "needs_review": false
+    },
+    {
+      "title": "Opportunities and Risks",
+      "content": "Opportunities:\n• The government is fostering infrastructure development, including the establishment of 570 data and artificial intelligence labs in smaller cities and a high-performance compute system at the National Informatics Centre [E4][E10].\n• India has extended tax holidays for artificial intelligence and data center investments until 2047 to encourage long-term growth (verify the current status) [E11].\nRisks:\n• There is a significant talent shortage, with a projected demand-supply gap for artificial intelligence professionals of 3.5 times by 2026 [E8].\n• The rapid evolution of technology is expected to render 39% of current skill sets outdated by 2030 [E12].\n• The regulatory landscape is becoming more complex, with new binding, artificial intelligence-specific obligations effective as of February 2026 and ongoing legislative efforts regarding ethics and accountability (verify the current status) [E13][E14].",
+      "citations": [
+        "E4",
+        "E10",
+        "E11",
+        "E8",
+        "E12",
+        "E13",
+        "E14"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Recommendations",
+      "content": "• Prioritize investment in workforce training programs to address the projected 3.5 times demand-supply gap for artificial intelligence professionals by 2026 [E8].\n• Leverage the existing AI Kosh repository, which contained over 14,000 datasets and 331 artificial intelligence models by July 2026, to accelerate the development of new prototypes [E15].\n• Align product development with the India AI Governance Guidelines and the Reserve Bank of India's FREE-AI Framework to ensure compliance with emerging accountability standards (verify the current status) [E16][E17][E18].",
+      "citations": [
+        "E8",
+        "E15",
+        "E16",
+        "E17",
+        "E18"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Evidence Requiring Review",
+      "content": "These 8 statements could not be fully confirmed, so they are not used in the findings above. The reason for each is shown in brackets. Please check them before using them.\n• Software leads with a 50% share of the India artificial intelligence market in 2025 [E19] (disagrees with another source).\n• Machine learning holds a 39% share of the total India artificial intelligence market in 2025 [E20] (disagrees with another source).\n• Intelligence systems lead with a 35% market share of the India artificial intelligence market in 2025 [E21] (disagrees with another source).\n• Healthcare holds an 18% share of the India artificial intelligence market in 2025 [E22] (disagrees with another source).\n• North India holds a 30% market share of the total India artificial intelligence market [E23] (disagrees with another source).\n• The Ministry of Commerce and Industry has issued guidelines and policy papers aimed at establishing an AI regulatory authority [E24] (publication date unknown).\n• The proposed Digital India Act is expected to regulate high-risk AI systems [E25] (publication date unknown).\n• The Government of India earmarked ₹10,300 crore to invest over a five-year period in projects accelerating the IndiaAI Mission [E26] (the wording goes beyond the quoted text).",
+      "citations": [
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "needs_review": true
+    },
+    {
+      "title": "Method and Limitations",
+      "content": "AI-generated draft for consultant review. Not final client advice.\nNumbers in square brackets, such as [E3], refer to the Evidence Appendix at the end of this report.\nFacts checked: 63 accepted, 44 need review (the 8 most relevant are listed in the review section) and 13 rejected (duplicates, quotes not found on the page, or claims the quote does not support).\nAbout 16% of the accepted facts come from market-research seller pages. These often repeat one another's figures, so two of them agreeing is weaker proof than it looks.\nEstimates of the same market differ between sources. They are shown side by side, not averaged.\nDates come from page information and are approximate. Rules and schemes change, so check policy statements with the official source before relying on them.",
+      "citations": [],
+      "needs_review": false
+    },
+    {
+      "title": "Glossary",
+      "content": "Simple explanations of important terms used in this report. These definitions are explanatory notes, not research evidence.\n- Artificial Intelligence: This refers to computer systems designed to perform tasks that typically require human intelligence.\n- IndiaAI Mission: This is a government initiative aimed at developing and supporting the artificial intelligence ecosystem in India.\n- Machine Learning: This is a branch of artificial intelligence focused on building systems that learn from data to improve performance over time.\n- AI Kosh: This is a centralized repository containing datasets and artificial intelligence models for research and development.\n- FREE-AI Framework: This is a set of guidelines established by the Reserve Bank of India to ensure accountability and ethical standards in artificial intelligence.",
+      "citations": [],
+      "needs_review": false
+    }
+  ],
+  "charts": [
+    {
+      "title": "Artificial intelligence market size: estimates by source (USD billion)",
+      "plotly_json": "{\"data\":[{\"marker\":{\"color\":\"#2F5597\"},\"name\":\"imarcgroup.com\",\"text\":[\"1.5973\",null],\"textposition\":\"outside\",\"x\":[\"2025\",\"2027\"],\"y\":[1.5973,null],\"type\":\"bar\"},{\"marker\":{\"color\":\"#ED7D31\"},\"name\":\"Boston Consulting Group\",\"text\":[null,\"17.0\"],\"textposition\":\"outside\",\"x\":[\"2025\",\"2027\"],\"y\":[null,17.0],\"type\":\"bar\"}],\"layout\":{\"template\":{\"data\":{\"barpolar\":[{\"marker\":{\"line\":{\"color\":\"white\",\"width\":0.5},\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"barpolar\"}],\"bar\":[{\"error_x\":{\"color\":\"#2a3f5f\"},\"error_y\":{\"color\":\"#2a3f5f\"},\"marker\":{\"line\":{\"color\":\"white\",\"width\":0.5},\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"bar\"}],\"carpet\":[{\"aaxis\":{\"endlinecolor\":\"#2a3f5f\",\"gridcolor\":\"#C8D4E3\",\"linecolor\":\"#C8D4E3\",\"minorgridcolor\":\"#C8D4E3\",\"startlinecolor\":\"#2a3f5f\"},\"baxis\":{\"endlinecolor\":\"#2a3f5f\",\"gridcolor\":\"#C8D4E3\",\"linecolor\":\"#C8D4E3\",\"minorgridcolor\":\"#C8D4E3\",\"startlinecolor\":\"#2a3f5f\"},\"type\":\"carpet\"}],\"choropleth\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"type\":\"choropleth\"}],\"contourcarpet\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"type\":\"contourcarpet\"}],\"contour\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"contour\"}],\"heatmap\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"heatmap\"}],\"histogram2dcontour\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"histogram2dcontour\"}],\"histogram2d\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"histogram2d\"}],\"histogram\":[{\"marker\":{\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"histogram\"}],\"mesh3d\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"type\":\"mesh3d\"}],\"parcoords\":[{\"line\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"parcoords\"}],\"pie\":[{\"automargin\":true,\"type\":\"pie\"}],\"scatter3d\":[{\"line\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scatter3d\"}],\"scattercarpet\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scattercarpet\"}],\"scattergeo\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scattergeo\"}],\"scattergl\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scattergl\"}],\"scattermap\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scattermap\"}],\"scatterpolargl\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scatterpolargl\"}],\"scatterpolar\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scatterpolar\"}],\"scatter\":[{\"fillpattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2},\"type\":\"scatter\"}],\"scatterternary\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scatterternary\"}],\"surface\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"surface\"}],\"table\":[{\"cells\":{\"fill\":{\"color\":\"#EBF0F8\"},\"line\":{\"color\":\"white\"}},\"header\":{\"fill\":{\"color\":\"#C8D4E3\"},\"line\":{\"color\":\"white\"}},\"type\":\"table\"}]},\"layout\":{\"annotationdefaults\":{\"arrowcolor\":\"#2a3f5f\",\"arrowhead\":0,\"arrowwidth\":1},\"autotypenumbers\":\"strict\",\"coloraxis\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"colorscale\":{\"diverging\":[[0,\"#8e0152\"],[0.1,\"#c51b7d\"],[0.2,\"#de77ae\"],[0.3,\"#f1b6da\"],[0.4,\"#fde0ef\"],[0.5,\"#f7f7f7\"],[0.6,\"#e6f5d0\"],[0.7,\"#b8e186\"],[0.8,\"#7fbc41\"],[0.9,\"#4d9221\"],[1,\"#276419\"]],\"sequential\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"sequentialminus\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]},\"colorway\":[\"#636efa\",\"#EF553B\",\"#00cc96\",\"#ab63fa\",\"#FFA15A\",\"#19d3f3\",\"#FF6692\",\"#B6E880\",\"#FF97FF\",\"#FECB52\"],\"font\":{\"color\":\"#2a3f5f\"},\"geo\":{\"bgcolor\":\"white\",\"lakecolor\":\"white\",\"landcolor\":\"white\",\"showlakes\":true,\"showland\":true,\"subunitcolor\":\"#C8D4E3\"},\"hoverlabel\":{\"align\":\"left\"},\"hovermode\":\"closest\",\"paper_bgcolor\":\"white\",\"plot_bgcolor\":\"white\",\"polar\":{\"angularaxis\":{\"gridcolor\":\"#EBF0F8\",\"linecolor\":\"#EBF0F8\",\"ticks\":\"\"},\"bgcolor\":\"white\",\"radialaxis\":{\"gridcolor\":\"#EBF0F8\",\"linecolor\":\"#EBF0F8\",\"ticks\":\"\"}},\"scene\":{\"xaxis\":{\"backgroundcolor\":\"white\",\"gridcolor\":\"#DFE8F3\",\"gridwidth\":2,\"linecolor\":\"#EBF0F8\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"#EBF0F8\"},\"yaxis\":{\"backgroundcolor\":\"white\",\"gridcolor\":\"#DFE8F3\",\"gridwidth\":2,\"linecolor\":\"#EBF0F8\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"#EBF0F8\"},\"zaxis\":{\"backgroundcolor\":\"white\",\"gridcolor\":\"#DFE8F3\",\"gridwidth\":2,\"linecolor\":\"#EBF0F8\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"#EBF0F8\"}},\"shapedefaults\":{\"line\":{\"color\":\"#2a3f5f\"}},\"ternary\":{\"aaxis\":{\"gridcolor\":\"#DFE8F3\",\"linecolor\":\"#A2B1C6\",\"ticks\":\"\"},\"baxis\":{\"gridcolor\":\"#DFE8F3\",\"linecolor\":\"#A2B1C6\",\"ticks\":\"\"},\"bgcolor\":\"white\",\"caxis\":{\"gridcolor\":\"#DFE8F3\",\"linecolor\":\"#A2B1C6\",\"ticks\":\"\"}},\"title\":{\"x\":0.05},\"xaxis\":{\"automargin\":true,\"gridcolor\":\"#EBF0F8\",\"linecolor\":\"#EBF0F8\",\"ticks\":\"\",\"title\":{\"standoff\":15},\"zerolinecolor\":\"#EBF0F8\",\"zerolinewidth\":2},\"yaxis\":{\"automargin\":true,\"gridcolor\":\"#EBF0F8\",\"linecolor\":\"#EBF0F8\",\"ticks\":\"\",\"title\":{\"standoff\":15},\"zerolinecolor\":\"#EBF0F8\",\"zerolinewidth\":2}}},\"title\":{\"text\":\"Artificial intelligence market size: estimates by source (USD billion)\"},\"xaxis\":{\"title\":{\"text\":\"Year\"}},\"yaxis\":{\"title\":{\"text\":\"USD billion\"}},\"barmode\":\"overlay\",\"showlegend\":true}}",
+      "png_path": "storage/charts\\job_20261114_184737_3c4b53bc_market_size.png",
+      "name": "market_size",
+      "section": "Market Insights",
+      "description": "Estimates range from US$1.60 billion (2025) to US$17.00 billion (2027). The estimates come from different sources, and the 2027 figure (US$17.00 billion) is 10.6 times the 2025 figure (US$1.60 billion). That is too large a jump to be growth, so they should not be read as one trend. The 2027 figure is a forecast.\nSource: imarcgroup.com, Boston Consulting Group, as reported in the pages listed in the Evidence Appendix. Based on 2 estimates."
+    }
+  ],
+  "evidence_appendix": [
+    {
+      "id": "E1",
+      "evidence_id": "s_e853c9e0_e8",
+      "claim": "Narrow/weak artificial intelligence accounts for 88% of the total India artificial intelligence market share in 2025.",
+      "source": "imarcgroup.com",
+      "source_url": "https://www.imarcgroup.com/india-artificial-intelligence-market",
+      "date": "",
+      "confidence": 0.768,
+      "status": "accepted"
+    },
+    {
+      "id": "E2",
+      "evidence_id": "s_e853c9e0_e1",
+      "claim": "The India artificial intelligence market was valued at USD 1,597.28 Million in 2025.",
+      "source": "imarcgroup.com",
+      "source_url": "https://www.imarcgroup.com/india-artificial-intelligence-market",
+      "date": "",
+      "confidence": 0.768,
+      "status": "accepted"
+    },
+    {
+      "id": "E3",
+      "evidence_id": "s_88779c26_e1",
+      "claim": "The IndiaAI Mission has an approved budget of ₹10,372 crore.",
+      "source": "webverbal.com",
+      "source_url": "https://www.webverbal.com/india-ai-startup-landscape-2026",
+      "date": "2026-09-17",
+      "confidence": 0.73,
+      "status": "accepted"
+    },
+    {
+      "id": "E4",
+      "evidence_id": "s_88779c26_e16",
+      "claim": "MeitY’s 2025–26 annual report describes 570 Data and AI Labs being set up in Tier-2 and Tier-3 cities.",
+      "source": "webverbal.com",
+      "source_url": "https://www.webverbal.com/india-ai-startup-landscape-2026",
+      "date": "2026-09-17",
+      "confidence": 0.75,
+      "status": "accepted"
+    },
+    {
+      "id": "E5",
+      "evidence_id": "s_88779c26_e8",
+      "claim": "IndiaAI expanded shared compute capacity to 45,000+ GPUs by June 2026.",
+      "source": "webverbal.com",
+      "source_url": "https://www.webverbal.com/india-ai-startup-landscape-2026",
+      "date": "2026-09-17",
+      "confidence": 0.73,
+      "status": "accepted"
+    },
+    {
+      "id": "E6",
+      "evidence_id": "s_da9ae64b_e8",
+      "claim": "India has a vast pool of 600,000 AI professionals.",
+      "source": "trade.gov",
+      "source_url": "https://www.trade.gov/market-intelligence/india-artificial-intelligence-0",
+      "date": "2025-09-29",
+      "confidence": 0.887,
+      "status": "accepted"
+    },
+    {
+      "id": "E7",
+      "evidence_id": "s_52c568a1_e1",
+      "claim": "India is projected to require 1.4 million artificial intelligence professionals by 2026.",
+      "source": "rediff.com",
+      "source_url": "https://www.rediff.com/business/report/indias-ai-talent-demand-outstrips-supply-by-35-times/20261009.htm",
+      "date": "2026-10-09",
+      "confidence": 0.75,
+      "status": "accepted"
+    },
+    {
+      "id": "E8",
+      "evidence_id": "s_52c568a1_e2",
+      "claim": "The demand-supply gap for AI professionals in India is projected to be 3.5 times by 2026.",
+      "source": "rediff.com",
+      "source_url": "https://www.rediff.com/business/report/indias-ai-talent-demand-outstrips-supply-by-35-times/20261009.htm",
+      "date": "2026-10-09",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E9",
+      "evidence_id": "s_52c568a1_e3",
+      "claim": "Salaries for specialised technology roles, including AI and machine learning, have increased by 30 to 35 per cent.",
+      "source": "rediff.com",
+      "source_url": "https://www.rediff.com/business/report/indias-ai-talent-demand-outstrips-supply-by-35-times/20261009.htm",
+      "date": "2026-10-09",
+      "confidence": 0.705,
+      "status": "accepted"
+    },
+    {
+      "id": "E10",
+      "evidence_id": "s_88779c26_e11",
+      "claim": "A high-performance AI compute system of approximately 1.1 EFLOPS is being established at the NIC Data Centre in Delhi.",
+      "source": "webverbal.com",
+      "source_url": "https://www.webverbal.com/india-ai-startup-landscape-2026",
+      "date": "2026-09-17",
+      "confidence": 0.75,
+      "status": "accepted"
+    },
+    {
+      "id": "E11",
+      "evidence_id": "s_c56eeb63_e1",
+      "claim": "India has extended the tax holiday for AI and data center investments until 2047.",
+      "source": "cio.economictimes.indiatimes.com",
+      "source_url": "https://cio.economictimes.indiatimes.com/news/data-center/the-urgent-infrastructure-challenges-facing-indias-data-centers-in-the-ai-era/130232845",
+      "date": "2026-04-14",
+      "confidence": 0.797,
+      "status": "accepted"
+    },
+    {
+      "id": "E12",
+      "evidence_id": "s_52c568a1_e4",
+      "claim": "39 per cent of current skill sets are expected to become outdated by 2030.",
+      "source": "rediff.com",
+      "source_url": "https://www.rediff.com/business/report/indias-ai-talent-demand-outstrips-supply-by-35-times/20261009.htm",
+      "date": "2026-10-09",
+      "confidence": 0.735,
+      "status": "accepted"
+    },
+    {
+      "id": "E13",
+      "evidence_id": "s_42985b2e_e1",
+      "claim": "India has its first set of binding, AI-specific obligations effective from 20 February 2026.",
+      "source": "cms.law",
+      "source_url": "https://cms.law/en/int/expert-guides/ai-regulation-scanner/india",
+      "date": "2026-07-21",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E14",
+      "evidence_id": "s_126e9489_e15",
+      "claim": "The Artificial Intelligence (Ethics & Accountability) Bill was introduced in the Lok Sabha in December 2025.",
+      "source": "regulations.ai",
+      "source_url": "https://regulations.ai/regulations/RAI-IN-NA-SUMMARY-2026",
+      "date": "2026-09-13",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E15",
+      "evidence_id": "s_88779c26_e13",
+      "claim": "AI Kosh had more than 14,000 datasets and 331 AI models by July 2026.",
+      "source": "webverbal.com",
+      "source_url": "https://www.webverbal.com/india-ai-startup-landscape-2026",
+      "date": "2026-09-17",
+      "confidence": 0.75,
+      "status": "accepted"
+    },
+    {
+      "id": "E16",
+      "evidence_id": "s_126e9489_e4",
+      "claim": "MeitY published the India AI Governance Guidelines in November 2025.",
+      "source": "regulations.ai",
+      "source_url": "https://regulations.ai/regulations/RAI-IN-NA-SUMMARY-2026",
+      "date": "2026-09-13",
+      "confidence": 0.855,
+      "status": "accepted"
+    },
+    {
+      "id": "E17",
+      "evidence_id": "s_126e9489_e2",
+      "claim": "The Reserve Bank of India issued the FREE-AI Framework in 2025.",
+      "source": "regulations.ai",
+      "source_url": "https://regulations.ai/regulations/RAI-IN-NA-SUMMARY-2026",
+      "date": "2026-09-13",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E18",
+      "evidence_id": "s_126e9489_e6",
+      "claim": "The MeitY India AI Governance Guidelines were established in 2025.",
+      "source": "regulations.ai",
+      "source_url": "https://regulations.ai/regulations/RAI-IN-NA-SUMMARY-2026",
+      "date": "2026-09-13",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E19",
+      "evidence_id": "s_e853c9e0_e10",
+      "claim": "Software leads with a 50% share of the India artificial intelligence market in 2025.",
+      "source": "imarcgroup.com",
+      "source_url": "https://www.imarcgroup.com/india-artificial-intelligence-market",
+      "date": "",
+      "confidence": 0.693,
+      "status": "needs_review"
+    },
+    {
+      "id": "E20",
+      "evidence_id": "s_e853c9e0_e15",
+      "claim": "Machine learning holds a 39% share of the total India artificial intelligence market in 2025.",
+      "source": "imarcgroup.com",
+      "source_url": "https://www.imarcgroup.com/india-artificial-intelligence-market",
+      "date": "",
+      "confidence": 0.693,
+      "status": "needs_review"
+    },
+    {
+      "id": "E21",
+      "evidence_id": "s_e853c9e0_e17",
+      "claim": "Intelligence systems lead with a 35% market share of the India artificial intelligence market in 2025.",
+      "source": "imarcgroup.com",
+      "source_url": "https://www.imarcgroup.com/india-artificial-intelligence-market",
+      "date": "",
+      "confidence": 0.693,
+      "status": "needs_review"
+    },
+    {
+      "id": "E22",
+      "evidence_id": "s_e853c9e0_e19",
+      "claim": "Healthcare holds an 18% share of the India artificial intelligence market in 2025.",
+      "source": "imarcgroup.com",
+      "source_url": "https://www.imarcgroup.com/india-artificial-intelligence-market",
+      "date": "",
+      "confidence": 0.693,
+      "status": "needs_review"
+    },
+    {
+      "id": "E23",
+      "evidence_id": "s_e853c9e0_e21",
+      "claim": "North India holds a 30% market share of the total India artificial intelligence market",
+      "source": "imarcgroup.com",
+      "source_url": "https://www.imarcgroup.com/india-artificial-intelligence-market",
+      "date": "",
+      "confidence": 0.693,
+      "status": "needs_review"
+    },
+    {
+      "id": "E24",
+      "evidence_id": "s_6dda64aa_e1",
+      "claim": "The Ministry of Commerce and Industry has issued guidelines and policy papers aimed at establishing an AI regulatory authority.",
+      "source": "whitecase.com",
+      "source_url": "https://www.whitecase.com/insight-our-thinking/ai-watch-global-regulatory-tracker-india",
+      "date": "",
+      "confidence": 0.68,
+      "status": "needs_review"
+    },
+    {
+      "id": "E25",
+      "evidence_id": "s_6dda64aa_e6",
+      "claim": "The proposed Digital India Act is expected to regulate high-risk AI systems.",
+      "source": "whitecase.com",
+      "source_url": "https://www.whitecase.com/insight-our-thinking/ai-watch-global-regulatory-tracker-india",
+      "date": "",
+      "confidence": 0.68,
+      "status": "needs_review"
+    },
+    {
+      "id": "E26",
+      "evidence_id": "s_da9ae64b_e3",
+      "claim": "The Government of India earmarked ₹10,300 crore to invest over a five-year period in projects accelerating the IndiaAI Mission.",
+      "source": "trade.gov",
+      "source_url": "https://www.trade.gov/market-intelligence/india-artificial-intelligence-0",
+      "date": "2025-09-29",
+      "confidence": 0.677,
+      "status": "needs_review"
+    },
+    {
+      "id": "E27",
+      "evidence_id": "s_da9ae64b_e1",
+      "claim": "India is projected to exceed $17 billion in its Artificial Intelligence market by 2027.",
+      "source": "trade.gov",
+      "source_url": "https://www.trade.gov/market-intelligence/india-artificial-intelligence-0",
+      "date": "2025-09-29",
+      "confidence": 0.887,
+      "status": "accepted"
+    }
+  ],
+  "pdf_path": "storage/reports\\job_20261114_184737_3c4b53bc.pdf",
+  "warnings": []
+}

@@ -1,0 +1,398 @@
+{
+  "job_id": "job_20261114_142716_ff0ec952",
+  "sections": [
+    {
+      "title": "Executive Summary",
+      "content": "The Indian artificial intelligence market experienced significant expansion, reaching a value of 10,200 million USD in 2025 [E1]. Enterprise adoption is widespread, with 87% of firms reporting active use of the technology [E2][E3]. While the sector benefits from a large talent pool and government investment, companies must navigate an evolving regulatory landscape that includes new governance guidelines and data protection rules (verify the current status) [E4][E5][E6].",
+      "citations": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5",
+        "E6"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Market Insights",
+      "content": "The Indian artificial intelligence market grew from 2,860 million USD in 2020 to 10,200 million USD in 2025 [E1]. Another source provides a different valuation of 1,597.28 million USD for 2025, indicating that these estimates are not directly comparable due to different market definitions [E7]. Looking ahead, the market is projected to reach 38,910 million USD by 2031 [E8]. Demand is driven by high enterprise engagement, with 87% of Indian enterprises reporting active AI use in 2025 [E2]. Key sectors including industrial, automotive, consumer, retail, banking, and healthcare contribute approximately 60% of the total AI value [E9]. Additionally, 47% of firms had multiple generative AI use cases live in 2025, supported by a workforce of 416,000 AI professionals [E4][E10].",
+      "citations": [
+        "E1",
+        "E7",
+        "E8",
+        "E2",
+        "E9",
+        "E4",
+        "E10"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Competitor Analysis",
+      "content": "The accepted evidence does not identify enough verified companies providing products or services in the Artificial Intelligence market to support a company-level competitor comparison. Funding and investor activity may provide market context, but do not establish that an organisation is a competitor.",
+      "citations": [],
+      "needs_review": false
+    },
+    {
+      "title": "Opportunities and Risks",
+      "content": "Opportunities:\n• The government is actively supporting the ecosystem through the IndiaAI Mission, which has invested 1.25 billion USD, and the BharatGen initiative funded with 1,293 Crore rupees [E11][E12].\n• Significant infrastructure growth is underway to support AI development, with India currently possessing approximately 1,500 MW of data-center capacity [E13].\n• Business efficiency is a primary focus, as 59% of Indian business leaders were using AI agents to automate tasks as of August 2025 [E14].\nRisks:\n• Indian law does not recognize AI as an author or inventor, meaning AI systems cannot be named as inventors on patent applications under the Patents Act 1970 (verify the current status) [E15][E16][E17].\n• Companies face a complex regulatory environment, including the Digital Personal Data Protection Act (DPDPA) rules which are being rolled out in phases until 2027 (verify the current status) [E5][E18].\n• New legislation like the proposed Artificial Intelligence (Ethics and Accountability) Bill, 2025, may introduce strict penalties of up to 5 crore for non-compliance (verify the current status) [E19].",
+      "citations": [
+        "E11",
+        "E12",
+        "E13",
+        "E14",
+        "E15",
+        "E16",
+        "E17",
+        "E5",
+        "E18",
+        "E19"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Recommendations",
+      "content": "• Prioritize compliance with the Digital Personal Data Protection Act and upcoming 2027 enforcement rules to ensure legal operations (verify the current status) [E5][E18].\n• Invest in internal training and recruitment to address the 15% annual growth in demand for AI professionals through 2027 [E20].\n• Monitor the evolving techno-legal framework and AI Governance Guidelines to align product development with national standards (verify the current status) [E6][E21].",
+      "citations": [
+        "E5",
+        "E18",
+        "E20",
+        "E6",
+        "E21"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Evidence Requiring Review",
+      "content": "These 8 statements could not be fully confirmed, so they are not used in the findings above. The reason for each is shown in brackets. Please check them before using them.\n• The India artificial intelligence market is projected to reach USD 13,245.65 Million by 2034 [E22] (publication date unknown).\n• The Government of India launched a national AI Competency Framework to enhance AI skills among over 3.1 million civil servants [E23] (publication date unknown).\n• AI adoption in the Indian healthcare sector reached over 40% [E24] (publication date unknown).\n• The India Artificial Intelligence Market was valued at USD 10.19 billion in 2025 [E25] (from a page written by a user).\n• IT & Telecom dominated the India AI Market by industry in 2025 [E26] (from a page written by a user).\n• AMD is a major market participant in the India Artificial Intelligence Market [E27] (from a page written by a user).\n• IT & Telecom was the dominant sector in the India Artificial Intelligence Market in 2025 [E28] (from a page written by a user).\n• The India Artificial Intelligence Market has a projected CAGR of 30.41% [E29] (from a page written by a user).",
+      "citations": [
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26",
+        "E27",
+        "E28",
+        "E29"
+      ],
+      "needs_review": true
+    },
+    {
+      "title": "Method and Limitations",
+      "content": "AI-generated draft for consultant review. Not final client advice.\nNumbers in square brackets, such as [E3], refer to the Evidence Appendix at the end of this report.\nFacts checked: 57 accepted, 74 need review and 30 rejected (duplicates, quotes not found on the page, or claims the quote does not support).\nAbout 56% of the accepted facts come from market-research seller pages. These often repeat one another's figures, so two of them agreeing is weaker proof than it looks.\nEstimates of the same market differ between sources. They are shown side by side, not averaged.\nDates come from page information and are approximate. Rules and schemes change, so check policy statements with the official source before relying on them.",
+      "citations": [],
+      "needs_review": false
+    },
+    {
+      "title": "Glossary",
+      "content": "Simple explanations of important terms used in this report. These definitions are explanatory notes, not research evidence.\n- Generative AI: This refers to a type of artificial intelligence technology that can create new content such as text, images, or code.\n- AI agents: These are software programs designed to perform specific tasks or make decisions autonomously on behalf of a user.\n- DPDPA: The Digital Personal Data Protection Act is a legislative framework in India designed to regulate the processing of digital personal data.\n- Data-center capacity: This represents the total power or space available in facilities used to house computer systems and associated components for data storage and processing.\n- Techno-legal framework: This refers to the combination of technological standards and legal regulations that govern the development and use of digital systems.\n- IndiaAI Mission: This is a government initiative aimed at fostering the growth of the artificial intelligence ecosystem in India through strategic investment.\n- BharatGen: This is a government-funded initiative focused on advancing generative artificial intelligence research and development within India.\n- AI Governance Guidelines: These are sets of rules and best practices established to ensure that artificial intelligence systems are developed and deployed ethically and responsibly.",
+      "citations": [],
+      "needs_review": false
+    }
+  ],
+  "charts": [
+    {
+      "title": "Artificial intelligence market size: estimates by source (USD billion)",
+      "plotly_json": "{\"data\":[{\"marker\":{\"color\":\"#2F5597\"},\"name\":\"imarcgroup.com\",\"text\":[\"1.5973\",null],\"textposition\":\"outside\",\"x\":[\"2025\",\"2031\"],\"y\":[1.5973,null],\"type\":\"bar\"},{\"marker\":{\"color\":\"#ED7D31\"},\"name\":\"kenresearch.com\",\"text\":[\"10.2\",\"38.91\"],\"textposition\":\"outside\",\"x\":[\"2025\",\"2031\"],\"y\":[10.2,38.91],\"type\":\"bar\"}],\"layout\":{\"template\":{\"data\":{\"barpolar\":[{\"marker\":{\"line\":{\"color\":\"white\",\"width\":0.5},\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"barpolar\"}],\"bar\":[{\"error_x\":{\"color\":\"#2a3f5f\"},\"error_y\":{\"color\":\"#2a3f5f\"},\"marker\":{\"line\":{\"color\":\"white\",\"width\":0.5},\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"bar\"}],\"carpet\":[{\"aaxis\":{\"endlinecolor\":\"#2a3f5f\",\"gridcolor\":\"#C8D4E3\",\"linecolor\":\"#C8D4E3\",\"minorgridcolor\":\"#C8D4E3\",\"startlinecolor\":\"#2a3f5f\"},\"baxis\":{\"endlinecolor\":\"#2a3f5f\",\"gridcolor\":\"#C8D4E3\",\"linecolor\":\"#C8D4E3\",\"minorgridcolor\":\"#C8D4E3\",\"startlinecolor\":\"#2a3f5f\"},\"type\":\"carpet\"}],\"choropleth\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"type\":\"choropleth\"}],\"contourcarpet\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"type\":\"contourcarpet\"}],\"contour\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"contour\"}],\"heatmap\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"heatmap\"}],\"histogram2dcontour\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"histogram2dcontour\"}],\"histogram2d\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"histogram2d\"}],\"histogram\":[{\"marker\":{\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"histogram\"}],\"mesh3d\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"type\":\"mesh3d\"}],\"parcoords\":[{\"line\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"parcoords\"}],\"pie\":[{\"automargin\":true,\"type\":\"pie\"}],\"scatter3d\":[{\"line\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scatter3d\"}],\"scattercarpet\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scattercarpet\"}],\"scattergeo\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scattergeo\"}],\"scattergl\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scattergl\"}],\"scattermap\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scattermap\"}],\"scatterpolargl\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scatterpolargl\"}],\"scatterpolar\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scatterpolar\"}],\"scatter\":[{\"fillpattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2},\"type\":\"scatter\"}],\"scatterternary\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scatterternary\"}],\"surface\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"surface\"}],\"table\":[{\"cells\":{\"fill\":{\"color\":\"#EBF0F8\"},\"line\":{\"color\":\"white\"}},\"header\":{\"fill\":{\"color\":\"#C8D4E3\"},\"line\":{\"color\":\"white\"}},\"type\":\"table\"}]},\"layout\":{\"annotationdefaults\":{\"arrowcolor\":\"#2a3f5f\",\"arrowhead\":0,\"arrowwidth\":1},\"autotypenumbers\":\"strict\",\"coloraxis\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"colorscale\":{\"diverging\":[[0,\"#8e0152\"],[0.1,\"#c51b7d\"],[0.2,\"#de77ae\"],[0.3,\"#f1b6da\"],[0.4,\"#fde0ef\"],[0.5,\"#f7f7f7\"],[0.6,\"#e6f5d0\"],[0.7,\"#b8e186\"],[0.8,\"#7fbc41\"],[0.9,\"#4d9221\"],[1,\"#276419\"]],\"sequential\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"sequentialminus\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]},\"colorway\":[\"#636efa\",\"#EF553B\",\"#00cc96\",\"#ab63fa\",\"#FFA15A\",\"#19d3f3\",\"#FF6692\",\"#B6E880\",\"#FF97FF\",\"#FECB52\"],\"font\":{\"color\":\"#2a3f5f\"},\"geo\":{\"bgcolor\":\"white\",\"lakecolor\":\"white\",\"landcolor\":\"white\",\"showlakes\":true,\"showland\":true,\"subunitcolor\":\"#C8D4E3\"},\"hoverlabel\":{\"align\":\"left\"},\"hovermode\":\"closest\",\"paper_bgcolor\":\"white\",\"plot_bgcolor\":\"white\",\"polar\":{\"angularaxis\":{\"gridcolor\":\"#EBF0F8\",\"linecolor\":\"#EBF0F8\",\"ticks\":\"\"},\"bgcolor\":\"white\",\"radialaxis\":{\"gridcolor\":\"#EBF0F8\",\"linecolor\":\"#EBF0F8\",\"ticks\":\"\"}},\"scene\":{\"xaxis\":{\"backgroundcolor\":\"white\",\"gridcolor\":\"#DFE8F3\",\"gridwidth\":2,\"linecolor\":\"#EBF0F8\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"#EBF0F8\"},\"yaxis\":{\"backgroundcolor\":\"white\",\"gridcolor\":\"#DFE8F3\",\"gridwidth\":2,\"linecolor\":\"#EBF0F8\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"#EBF0F8\"},\"zaxis\":{\"backgroundcolor\":\"white\",\"gridcolor\":\"#DFE8F3\",\"gridwidth\":2,\"linecolor\":\"#EBF0F8\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"#EBF0F8\"}},\"shapedefaults\":{\"line\":{\"color\":\"#2a3f5f\"}},\"ternary\":{\"aaxis\":{\"gridcolor\":\"#DFE8F3\",\"linecolor\":\"#A2B1C6\",\"ticks\":\"\"},\"baxis\":{\"gridcolor\":\"#DFE8F3\",\"linecolor\":\"#A2B1C6\",\"ticks\":\"\"},\"bgcolor\":\"white\",\"caxis\":{\"gridcolor\":\"#DFE8F3\",\"linecolor\":\"#A2B1C6\",\"ticks\":\"\"}},\"title\":{\"x\":0.05},\"xaxis\":{\"automargin\":true,\"gridcolor\":\"#EBF0F8\",\"linecolor\":\"#EBF0F8\",\"ticks\":\"\",\"title\":{\"standoff\":15},\"zerolinecolor\":\"#EBF0F8\",\"zerolinewidth\":2},\"yaxis\":{\"automargin\":true,\"gridcolor\":\"#EBF0F8\",\"linecolor\":\"#EBF0F8\",\"ticks\":\"\",\"title\":{\"standoff\":15},\"zerolinecolor\":\"#EBF0F8\",\"zerolinewidth\":2}}},\"title\":{\"text\":\"Artificial intelligence market size: estimates by source (USD billion)\"},\"xaxis\":{\"title\":{\"text\":\"Year\"}},\"yaxis\":{\"title\":{\"text\":\"USD billion\"}},\"barmode\":\"group\",\"showlegend\":true}}",
+      "png_path": "storage/charts\\job_20261114_142716_ff0ec952_market_size.png",
+      "name": "market_size",
+      "section": "Market Insights",
+      "description": "Estimates range from US$1.60 billion (2025) to US$38.91 billion (2031); sources disagree even for the same year, for example 2025, where the figures run from US$1.60 billion to US$10.20 billion. The 2031 figure is a forecast.\nSource: imarcgroup.com, kenresearch.com, as reported in the pages listed in the Evidence Appendix. Based on 3 estimates."
+    }
+  ],
+  "evidence_appendix": [
+    {
+      "id": "E1",
+      "evidence_id": "s_50892ace_e5",
+      "claim": "The India Artificial Intelligence (AI) Market expanded from USD 2,860 million in 2020 to USD 10,200 million in 2025.",
+      "source": "kenresearch.com",
+      "source_url": "https://www.kenresearch.com/industry-reports/india-ai-market",
+      "date": "2026-08-06",
+      "confidence": 0.768,
+      "status": "accepted"
+    },
+    {
+      "id": "E2",
+      "evidence_id": "s_50892ace_e1",
+      "claim": "87% of surveyed Indian enterprises reported active AI use in 2025.",
+      "source": "kenresearch.com",
+      "source_url": "https://www.kenresearch.com/industry-reports/india-ai-market",
+      "date": "2026-08-06",
+      "confidence": 0.768,
+      "status": "accepted"
+    },
+    {
+      "id": "E3",
+      "evidence_id": "s_50892ace_e30",
+      "claim": "Enterprise adoption of AI in India reached 87% in 2025.",
+      "source": "kenresearch.com",
+      "source_url": "https://www.kenresearch.com/industry-reports/india-ai-market",
+      "date": "2026-08-06",
+      "confidence": 0.768,
+      "status": "accepted"
+    },
+    {
+      "id": "E4",
+      "evidence_id": "s_e853c9e0_e24",
+      "claim": "The Indian AI talent pool consisted of 416,000 professionals in 2025.",
+      "source": "imarcgroup.com",
+      "source_url": "https://www.imarcgroup.com/india-artificial-intelligence-market",
+      "date": "",
+      "confidence": 0.843,
+      "status": "accepted"
+    },
+    {
+      "id": "E5",
+      "evidence_id": "s_54c24fd1_e4",
+      "claim": "The Digital Personal Data Protection Act (DPDPA) rules were notified in 2025 with a phased rollout until 2027.",
+      "source": "prashantmali.com",
+      "source_url": "https://www.prashantmali.com/cyber-law-blog-india/ai-laws-and-regulations-in-india-as-of-2026",
+      "date": "2026-02-20",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E6",
+      "evidence_id": "s_54c24fd1_e1",
+      "claim": "MeitY released the India AI Governance Guidelines in November 2025.",
+      "source": "prashantmali.com",
+      "source_url": "https://www.prashantmali.com/cyber-law-blog-india/ai-laws-and-regulations-in-india-as-of-2026",
+      "date": "2026-02-20",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E7",
+      "evidence_id": "s_e853c9e0_e1",
+      "claim": "The India artificial intelligence market was valued at USD 1,597.28 Million in 2025.",
+      "source": "imarcgroup.com",
+      "source_url": "https://www.imarcgroup.com/india-artificial-intelligence-market",
+      "date": "",
+      "confidence": 0.843,
+      "status": "accepted"
+    },
+    {
+      "id": "E8",
+      "evidence_id": "s_50892ace_e3",
+      "claim": "The India Artificial Intelligence (AI) Market is projected to grow to USD 38,910 million by 2031.",
+      "source": "kenresearch.com",
+      "source_url": "https://www.kenresearch.com/industry-reports/india-ai-market",
+      "date": "2026-08-06",
+      "confidence": 0.768,
+      "status": "accepted"
+    },
+    {
+      "id": "E9",
+      "evidence_id": "s_50892ace_e16",
+      "claim": "Industrial, automotive, consumer, retail, BFSI, and healthcare sectors contribute about 60% of AI value in India in 2025.",
+      "source": "kenresearch.com",
+      "source_url": "https://www.kenresearch.com/industry-reports/india-ai-market",
+      "date": "2026-08-06",
+      "confidence": 0.768,
+      "status": "accepted"
+    },
+    {
+      "id": "E10",
+      "evidence_id": "s_e853c9e0_e5",
+      "claim": "In 2025, 47% of Indian firms had multiple generative AI use cases live.",
+      "source": "imarcgroup.com",
+      "source_url": "https://www.imarcgroup.com/india-artificial-intelligence-market",
+      "date": "",
+      "confidence": 0.843,
+      "status": "accepted"
+    },
+    {
+      "id": "E11",
+      "evidence_id": "s_e853c9e0_e6",
+      "claim": "BharatGen was unveiled by Dr. Jitendra Singh in November 2025, supported by 1,293 Crore rupees in government funding.",
+      "source": "imarcgroup.com",
+      "source_url": "https://www.imarcgroup.com/india-artificial-intelligence-market",
+      "date": "",
+      "confidence": 0.718,
+      "status": "accepted"
+    },
+    {
+      "id": "E12",
+      "evidence_id": "s_8ae47244_e1",
+      "claim": "The government has invested USD 1.25 billion through the IndiaAI Mission.",
+      "source": "altacit.com",
+      "source_url": "https://www.altacit.com/ai-regulation-in-india-legal-compliance-guide-for-ai-companies-2026",
+      "date": "2026-08-14",
+      "confidence": 0.75,
+      "status": "accepted"
+    },
+    {
+      "id": "E13",
+      "evidence_id": "s_50892ace_e14",
+      "claim": "India has approximately 1,500 MW of data-center capacity.",
+      "source": "kenresearch.com",
+      "source_url": "https://www.kenresearch.com/industry-reports/india-ai-market",
+      "date": "2026-08-06",
+      "confidence": 0.768,
+      "status": "accepted"
+    },
+    {
+      "id": "E14",
+      "evidence_id": "s_e853c9e0_e18",
+      "claim": "59% of Indian business leaders were using AI agents to automate tasks in August 2025.",
+      "source": "imarcgroup.com",
+      "source_url": "https://www.imarcgroup.com/india-artificial-intelligence-market",
+      "date": "",
+      "confidence": 0.843,
+      "status": "accepted"
+    },
+    {
+      "id": "E15",
+      "evidence_id": "s_8ae47244_e8",
+      "claim": "Indian copyright law does not recognize AI as an author.",
+      "source": "altacit.com",
+      "source_url": "https://www.altacit.com/ai-regulation-in-india-legal-compliance-guide-for-ai-companies-2026",
+      "date": "2026-08-14",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E16",
+      "evidence_id": "s_8ae47244_e9",
+      "claim": "The Patents Act 1970 requires that an inventor be a natural person.",
+      "source": "altacit.com",
+      "source_url": "https://www.altacit.com/ai-regulation-in-india-legal-compliance-guide-for-ai-companies-2026",
+      "date": "2026-08-14",
+      "confidence": 0.73,
+      "status": "accepted"
+    },
+    {
+      "id": "E17",
+      "evidence_id": "s_8ae47244_e10",
+      "claim": "AI systems cannot be named as inventors on Indian patent applications.",
+      "source": "altacit.com",
+      "source_url": "https://www.altacit.com/ai-regulation-in-india-legal-compliance-guide-for-ai-companies-2026",
+      "date": "2026-08-14",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E18",
+      "evidence_id": "s_8ae47244_e4",
+      "claim": "Full enforcement of the DPDP Rules 2025 begins in May 2027.",
+      "source": "altacit.com",
+      "source_url": "https://www.altacit.com/ai-regulation-in-india-legal-compliance-guide-for-ai-companies-2026",
+      "date": "2026-08-14",
+      "confidence": 0.73,
+      "status": "accepted"
+    },
+    {
+      "id": "E19",
+      "evidence_id": "s_54c24fd1_e7",
+      "claim": "The Artificial Intelligence (Ethics and Accountability) Bill, 2025 proposes a statutory Ethics Committee for AI and penalties up to 5 crore.",
+      "source": "prashantmali.com",
+      "source_url": "https://www.prashantmali.com/cyber-law-blog-india/ai-laws-and-regulations-in-india-as-of-2026",
+      "date": "2026-02-20",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E20",
+      "evidence_id": "s_50892ace_e8",
+      "claim": "The demand for AI professionals in India is expected to increase by 15% annually through 2027.",
+      "source": "kenresearch.com",
+      "source_url": "https://www.kenresearch.com/industry-reports/india-ai-market",
+      "date": "2026-08-06",
+      "confidence": 0.768,
+      "status": "accepted"
+    },
+    {
+      "id": "E21",
+      "evidence_id": "s_54c24fd1_e2",
+      "claim": "The Office of the Principal Scientific Adviser issued a white paper in January 2026 advocating for a techno-legal framework.",
+      "source": "prashantmali.com",
+      "source_url": "https://www.prashantmali.com/cyber-law-blog-india/ai-laws-and-regulations-in-india-as-of-2026",
+      "date": "2026-02-20",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E22",
+      "evidence_id": "s_e853c9e0_e2",
+      "claim": "The India artificial intelligence market is projected to reach USD 13,245.65 Million by 2034.",
+      "source": "imarcgroup.com",
+      "source_url": "https://www.imarcgroup.com/india-artificial-intelligence-market",
+      "date": "",
+      "confidence": 0.743,
+      "status": "needs_review"
+    },
+    {
+      "id": "E23",
+      "evidence_id": "s_e853c9e0_e7",
+      "claim": "The Government of India launched a national AI Competency Framework to enhance AI skills among over 3.1 million civil servants.",
+      "source": "imarcgroup.com",
+      "source_url": "https://www.imarcgroup.com/india-artificial-intelligence-market",
+      "date": "",
+      "confidence": 0.743,
+      "status": "needs_review"
+    },
+    {
+      "id": "E24",
+      "evidence_id": "s_e853c9e0_e20",
+      "claim": "AI adoption in the Indian healthcare sector reached over 40%.",
+      "source": "imarcgroup.com",
+      "source_url": "https://www.imarcgroup.com/india-artificial-intelligence-market",
+      "date": "",
+      "confidence": 0.743,
+      "status": "needs_review"
+    },
+    {
+      "id": "E25",
+      "evidence_id": "s_a59dbf0c_e1",
+      "claim": "The India Artificial Intelligence Market was valued at USD 10.19 billion in 2025.",
+      "source": "linkedin.com",
+      "source_url": "https://www.linkedin.com/pulse/india-artificial-intelligence-market-reach-usd-5057-billion-dhama-2q4ic",
+      "date": "2026-11-02",
+      "confidence": 0.718,
+      "status": "needs_review"
+    },
+    {
+      "id": "E26",
+      "evidence_id": "s_a59dbf0c_e4",
+      "claim": "IT & Telecom dominated the India AI Market by industry in 2025.",
+      "source": "linkedin.com",
+      "source_url": "https://www.linkedin.com/pulse/india-artificial-intelligence-market-reach-usd-5057-billion-dhama-2q4ic",
+      "date": "2026-11-02",
+      "confidence": 0.718,
+      "status": "needs_review"
+    },
+    {
+      "id": "E27",
+      "evidence_id": "s_a59dbf0c_e5",
+      "claim": "AMD is a major market participant in the India Artificial Intelligence Market.",
+      "source": "linkedin.com",
+      "source_url": "https://www.linkedin.com/pulse/india-artificial-intelligence-market-reach-usd-5057-billion-dhama-2q4ic",
+      "date": "2026-11-02",
+      "confidence": 0.718,
+      "status": "needs_review"
+    },
+    {
+      "id": "E28",
+      "evidence_id": "s_a59dbf0c_e12",
+      "claim": "IT & Telecom was the dominant sector in the India Artificial Intelligence Market in 2025.",
+      "source": "linkedin.com",
+      "source_url": "https://www.linkedin.com/pulse/india-artificial-intelligence-market-reach-usd-5057-billion-dhama-2q4ic",
+      "date": "2026-11-02",
+      "confidence": 0.718,
+      "status": "needs_review"
+    },
+    {
+      "id": "E29",
+      "evidence_id": "s_a59dbf0c_e14",
+      "claim": "The India Artificial Intelligence Market has a projected CAGR of 30.41%.",
+      "source": "linkedin.com",
+      "source_url": "https://www.linkedin.com/pulse/india-artificial-intelligence-market-reach-usd-5057-billion-dhama-2q4ic",
+      "date": "2026-11-02",
+      "confidence": 0.718,
+      "status": "needs_review"
+    }
+  ],
+  "pdf_path": "storage/reports\\job_20261114_142716_ff0ec952.pdf",
+  "warnings": []
+}

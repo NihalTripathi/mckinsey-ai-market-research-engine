@@ -1,0 +1,501 @@
+{
+  "job_id": "job_20261114_155405_c5641015",
+  "sections": [
+    {
+      "title": "Executive Summary",
+      "content": "India is a globally competitive hub for artificial intelligence, ranking third in ecosystem vibrancy [E1]. The market is experiencing annual growth of 28-35% and was valued at 1.2-1.5 trillion rupees in 2026 [E2][E3]. Despite this momentum, the sector faces a significant workforce constraint, with a projected shortage of over 1.4 million AI professionals by 2026 [E4][E5].",
+      "citations": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Market Insights",
+      "content": "The Indian artificial intelligence market is valued at approximately 1.2-1.5 trillion rupees as of 2026, representing 5-6% of the global market [E2][E6]. The sector is projected to exceed 2 trillion rupees by 2027 [E7]. Growth is supported by government initiatives like the IndiaAI Mission, which has an allocation of over 103 billion rupees to develop sovereign infrastructure (verify the current status) [E8][E9]. Demand for AI capabilities is high, yet adoption is hindered by a substantial skills gap, with 82.9% of the market lacking necessary generative AI skills [E10]. Approximately 45% of organizations identify AI, digital, and data skills as their primary workforce constraint [E11]. While India holds 16% of the global AI talent pool, the current demand for professionals is over 3.5 times the available supply [E12][E13].",
+      "citations": [
+        "E2",
+        "E6",
+        "E7",
+        "E8",
+        "E9",
+        "E10",
+        "E11",
+        "E12",
+        "E13"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Competitor Analysis",
+      "content": "The competitive landscape in India includes established IT services firms and specialized AI startups. Tata Consultancy Services (TCS) operates as a global leader in artificial intelligence and digital transformation [E14]. Infosys utilizes its AI-first strategy and the Infosys Topaz platform to provide automation and personalized customer experiences [E15]. Persistent Systems offers services in AI, cloud computing, and software engineering [E16]. Specialized startups also contribute to the market. Yellow.ai focuses on conversational AI, including intelligent chatbots and voice assistants [E17][E18]. Gnani.ai specializes in speech recognition and conversational AI [E19]. Additionally, Krutrim AI was founded by Ola to develop AI solutions specifically for Indian users [E20]. Neysa provides AI infrastructure for businesses [E21].",
+      "citations": [
+        "E14",
+        "E15",
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Opportunities and Risks",
+      "content": "Opportunities:\n• Indian AI startups have attracted significant capital, raising 1.56 billion dollars across more than 200 deals by August 2026 [E22].\n• Major Indian IT companies and specialized startups are actively developing AI solutions for automation, conversational interfaces, and infrastructure [E17][E15][E14][E21].\n• Regulatory bodies have begun establishing frameworks for responsible AI, including guidelines from the Ministry of Electronics and Information Technology and the Reserve Bank of India (verify the current status) [E23][E24][E25].\nRisks:\n• India faces a severe shortage of skilled professionals, with 82% of employers reporting difficulty filling roles and a potential deficit of over 1.4 million AI professionals by 2026 [E26][E4].\n• There is a significant gap in Generative AI (GenAI) skills, with reports indicating an 82.9% deficiency in this area [E10].\n• Only 25% of Indian organizations believe their current workforce is adequately prepared to use AI effectively [E27].",
+      "citations": [
+        "E22",
+        "E17",
+        "E15",
+        "E14",
+        "E21",
+        "E23",
+        "E24",
+        "E25",
+        "E26",
+        "E4",
+        "E10",
+        "E27"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Recommendations",
+      "content": "• Invest in internal training programs to address the 82.9% generative AI skills gap, as only 25% of organizations currently believe their workforce is prepared [E10][E27].\n• Establish operations or partnerships in Bangalore, which leads India with 35-40% of AI activity, to better access the 30-35% of the national AI talent pool located there [E28][E29].\n• Align product development with the IndiaAI Mission and national Centers of Excellence to leverage government-backed infrastructure and focus areas like agriculture and healthcare (verify the current status) [E8][E30].",
+      "citations": [
+        "E10",
+        "E27",
+        "E28",
+        "E29",
+        "E8",
+        "E30"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Evidence Requiring Review",
+      "content": "These 8 statements could not be fully confirmed, so they are not used in the findings above. The reason for each is shown in brackets. Please check them before using them.\n• 38% of organizations in India have AI deployed at scale and delivering ROI [E31] (publication date unknown).\n• The Stanford AI Index Report 2026 states that frontier AI depends on massive compute infrastructure concentrated among a few global technology companies [E32] (a worldwide figure, not specific to the research region).\n• AI is expected to contribute up to $1.7 trillion to India’s GDP by 2035 [E33] (from a page written by a user).\n• Google is strengthening its AI footprint in India [E34] (from a page written by a user).\n• AI accounts for over 23 percent of total venture capital deal value in India [E35] (publication date unknown).\n• AI-native companies saw funding rise 1.5 times year-over-year [E36] (publication date unknown).\n• VC and early-stage funds in India have taken 30% to 40% longer to return capital compared to funds in the US/Europe [E37] (publication date unknown).\n• VC firms such as Accel shifted focus from small-ticket checks to medium-ticket deals [E38] (publication date unknown).",
+      "citations": [
+        "E31",
+        "E32",
+        "E33",
+        "E34",
+        "E35",
+        "E36",
+        "E37",
+        "E38"
+      ],
+      "needs_review": true
+    },
+    {
+      "title": "Method and Limitations",
+      "content": "AI-generated draft for consultant review. Not final client advice.\nNumbers in square brackets, such as [E3], refer to the Evidence Appendix at the end of this report.\nFacts checked: 77 accepted, 31 need review and 20 rejected (duplicates, quotes not found on the page, or claims the quote does not support).\nEstimates of the same market differ between sources. They are shown side by side, not averaged.\nDates come from page information and are approximate. Rules and schemes change, so check policy statements with the official source before relying on them.",
+      "citations": [],
+      "needs_review": false
+    },
+    {
+      "title": "Glossary",
+      "content": "Simple explanations of important terms used in this report. These definitions are explanatory notes, not research evidence.\n- Artificial Intelligence: This refers to computer systems designed to perform tasks that typically require human intelligence.\n- Generative AI: This is a type of artificial intelligence capable of creating new content such as text, images, or audio.\n- Conversational AI: This technology enables computers to simulate human conversation through text or voice interactions.\n- Sovereign infrastructure: This refers to computing resources and data systems that are controlled and managed within a specific nation to ensure security and independence.\n- Skills gap: This describes the difference between the skills employers need and the actual capabilities possessed by the available workforce.\n- Centers of Excellence: These are specialized facilities or teams that provide leadership, best practices, and research in a specific area of expertise.\n- Ecosystem vibrancy: This measures the health, diversity, and level of activity within a specific industry or market environment.\n- AI-first strategy: This is a business approach that prioritizes the integration of artificial intelligence into all core operations and product development.",
+      "citations": [],
+      "needs_review": false
+    }
+  ],
+  "charts": [
+    {
+      "title": "AI market valuation: estimates by source (INR billion)",
+      "plotly_json": "{\"data\":[{\"marker\":{\"color\":\"#2F5597\"},\"name\":\"yuverse.ai\",\"text\":[\"0.0002\",\"0.0002\"],\"textposition\":\"outside\",\"x\":[\"2026\",\"2027\"],\"y\":[0.0002,0.0002],\"type\":\"bar\"}],\"layout\":{\"template\":{\"data\":{\"barpolar\":[{\"marker\":{\"line\":{\"color\":\"white\",\"width\":0.5},\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"barpolar\"}],\"bar\":[{\"error_x\":{\"color\":\"#2a3f5f\"},\"error_y\":{\"color\":\"#2a3f5f\"},\"marker\":{\"line\":{\"color\":\"white\",\"width\":0.5},\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"bar\"}],\"carpet\":[{\"aaxis\":{\"endlinecolor\":\"#2a3f5f\",\"gridcolor\":\"#C8D4E3\",\"linecolor\":\"#C8D4E3\",\"minorgridcolor\":\"#C8D4E3\",\"startlinecolor\":\"#2a3f5f\"},\"baxis\":{\"endlinecolor\":\"#2a3f5f\",\"gridcolor\":\"#C8D4E3\",\"linecolor\":\"#C8D4E3\",\"minorgridcolor\":\"#C8D4E3\",\"startlinecolor\":\"#2a3f5f\"},\"type\":\"carpet\"}],\"choropleth\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"type\":\"choropleth\"}],\"contourcarpet\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"type\":\"contourcarpet\"}],\"contour\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"contour\"}],\"heatmap\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"heatmap\"}],\"histogram2dcontour\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"histogram2dcontour\"}],\"histogram2d\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"histogram2d\"}],\"histogram\":[{\"marker\":{\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"histogram\"}],\"mesh3d\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"type\":\"mesh3d\"}],\"parcoords\":[{\"line\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"parcoords\"}],\"pie\":[{\"automargin\":true,\"type\":\"pie\"}],\"scatter3d\":[{\"line\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scatter3d\"}],\"scattercarpet\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scattercarpet\"}],\"scattergeo\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scattergeo\"}],\"scattergl\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scattergl\"}],\"scattermap\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scattermap\"}],\"scatterpolargl\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scatterpolargl\"}],\"scatterpolar\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scatterpolar\"}],\"scatter\":[{\"fillpattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2},\"type\":\"scatter\"}],\"scatterternary\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scatterternary\"}],\"surface\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"surface\"}],\"table\":[{\"cells\":{\"fill\":{\"color\":\"#EBF0F8\"},\"line\":{\"color\":\"white\"}},\"header\":{\"fill\":{\"color\":\"#C8D4E3\"},\"line\":{\"color\":\"white\"}},\"type\":\"table\"}]},\"layout\":{\"annotationdefaults\":{\"arrowcolor\":\"#2a3f5f\",\"arrowhead\":0,\"arrowwidth\":1},\"autotypenumbers\":\"strict\",\"coloraxis\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"colorscale\":{\"diverging\":[[0,\"#8e0152\"],[0.1,\"#c51b7d\"],[0.2,\"#de77ae\"],[0.3,\"#f1b6da\"],[0.4,\"#fde0ef\"],[0.5,\"#f7f7f7\"],[0.6,\"#e6f5d0\"],[0.7,\"#b8e186\"],[0.8,\"#7fbc41\"],[0.9,\"#4d9221\"],[1,\"#276419\"]],\"sequential\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"sequentialminus\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]},\"colorway\":[\"#636efa\",\"#EF553B\",\"#00cc96\",\"#ab63fa\",\"#FFA15A\",\"#19d3f3\",\"#FF6692\",\"#B6E880\",\"#FF97FF\",\"#FECB52\"],\"font\":{\"color\":\"#2a3f5f\"},\"geo\":{\"bgcolor\":\"white\",\"lakecolor\":\"white\",\"landcolor\":\"white\",\"showlakes\":true,\"showland\":true,\"subunitcolor\":\"#C8D4E3\"},\"hoverlabel\":{\"align\":\"left\"},\"hovermode\":\"closest\",\"paper_bgcolor\":\"white\",\"plot_bgcolor\":\"white\",\"polar\":{\"angularaxis\":{\"gridcolor\":\"#EBF0F8\",\"linecolor\":\"#EBF0F8\",\"ticks\":\"\"},\"bgcolor\":\"white\",\"radialaxis\":{\"gridcolor\":\"#EBF0F8\",\"linecolor\":\"#EBF0F8\",\"ticks\":\"\"}},\"scene\":{\"xaxis\":{\"backgroundcolor\":\"white\",\"gridcolor\":\"#DFE8F3\",\"gridwidth\":2,\"linecolor\":\"#EBF0F8\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"#EBF0F8\"},\"yaxis\":{\"backgroundcolor\":\"white\",\"gridcolor\":\"#DFE8F3\",\"gridwidth\":2,\"linecolor\":\"#EBF0F8\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"#EBF0F8\"},\"zaxis\":{\"backgroundcolor\":\"white\",\"gridcolor\":\"#DFE8F3\",\"gridwidth\":2,\"linecolor\":\"#EBF0F8\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"#EBF0F8\"}},\"shapedefaults\":{\"line\":{\"color\":\"#2a3f5f\"}},\"ternary\":{\"aaxis\":{\"gridcolor\":\"#DFE8F3\",\"linecolor\":\"#A2B1C6\",\"ticks\":\"\"},\"baxis\":{\"gridcolor\":\"#DFE8F3\",\"linecolor\":\"#A2B1C6\",\"ticks\":\"\"},\"bgcolor\":\"white\",\"caxis\":{\"gridcolor\":\"#DFE8F3\",\"linecolor\":\"#A2B1C6\",\"ticks\":\"\"}},\"title\":{\"x\":0.05},\"xaxis\":{\"automargin\":true,\"gridcolor\":\"#EBF0F8\",\"linecolor\":\"#EBF0F8\",\"ticks\":\"\",\"title\":{\"standoff\":15},\"zerolinecolor\":\"#EBF0F8\",\"zerolinewidth\":2},\"yaxis\":{\"automargin\":true,\"gridcolor\":\"#EBF0F8\",\"linecolor\":\"#EBF0F8\",\"ticks\":\"\",\"title\":{\"standoff\":15},\"zerolinecolor\":\"#EBF0F8\",\"zerolinewidth\":2}}},\"title\":{\"text\":\"AI market valuation: estimates by source (INR billion)\"},\"xaxis\":{\"title\":{\"text\":\"Year\"}},\"yaxis\":{\"title\":{\"text\":\"INR billion\"}},\"barmode\":\"overlay\",\"showlegend\":false}}",
+      "png_path": "storage/charts\\job_20261114_155405_c5641015_market_size.png",
+      "name": "market_size",
+      "section": "Market Insights",
+      "description": "Estimates range from INR 0.000 billion (2026) to INR 0.000 billion (2027). Each year has a single estimate, so the sources cannot be compared directly. The 2027 figure is a forecast.\nSource: yuverse.ai, as reported in the pages listed in the Evidence Appendix. Based on 2 estimates."
+    }
+  ],
+  "evidence_appendix": [
+    {
+      "id": "E1",
+      "evidence_id": "s_debd1e04_e8",
+      "claim": "India was ranked third globally in AI competitiveness and ecosystem vibrancy by the Stanford Global AI Vibrancy Report 2025.",
+      "source": "datacenters.economictimes.indiatimes.com",
+      "source_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/india-boosts-semiconductor-ai-for-digital-infrastructure-growth/133310717",
+      "date": "2026-08-18",
+      "confidence": 0.843,
+      "status": "accepted"
+    },
+    {
+      "id": "E2",
+      "evidence_id": "s_11d3bf6a_e1",
+      "claim": "India's AI market is valued at approximately Rs 1.2-1.5 lakh crore in 2026.",
+      "source": "yuverse.ai",
+      "source_url": "https://www.yuverse.ai/blog/ai-in-india-2026-market-size-adoption-opportunities",
+      "date": "2026-06-02",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E3",
+      "evidence_id": "s_11d3bf6a_e19",
+      "claim": "The Indian AI market growth rate is 28-35% annually.",
+      "source": "yuverse.ai",
+      "source_url": "https://www.yuverse.ai/blog/ai-in-india-2026-market-size-adoption-opportunities",
+      "date": "2026-06-02",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E4",
+      "evidence_id": "s_add103e9_e5",
+      "claim": "India could face a shortage of more than 1.4 million AI professionals by 2026.",
+      "source": "onlineaju.ac.in",
+      "source_url": "https://onlineaju.ac.in/india-ai-talent-shortage-2026",
+      "date": "2026-08-26",
+      "confidence": 0.892,
+      "status": "accepted"
+    },
+    {
+      "id": "E5",
+      "evidence_id": "s_2da7fc93_e3",
+      "claim": "India is projected to require 1.4 million AI professionals in 2026.",
+      "source": "enterpriseai.economictimes.indiatimes.com",
+      "source_url": "https://enterpriseai.economictimes.indiatimes.com/news/industry/indias-ai-talent-demand-outstrips-supply-by-over-3-5-times-report/134848264",
+      "date": "2026-10-10",
+      "confidence": 0.843,
+      "status": "accepted"
+    },
+    {
+      "id": "E6",
+      "evidence_id": "s_11d3bf6a_e2",
+      "claim": "India's AI market accounts for 5-6% of the global AI market.",
+      "source": "yuverse.ai",
+      "source_url": "https://www.yuverse.ai/blog/ai-in-india-2026-market-size-adoption-opportunities",
+      "date": "2026-06-02",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E7",
+      "evidence_id": "s_11d3bf6a_e17",
+      "claim": "The Indian AI market is projected to cross Rs 2 lakh crore by 2027.",
+      "source": "yuverse.ai",
+      "source_url": "https://www.yuverse.ai/blog/ai-in-india-2026-market-size-adoption-opportunities",
+      "date": "2026-06-02",
+      "confidence": 0.735,
+      "status": "accepted"
+    },
+    {
+      "id": "E8",
+      "evidence_id": "s_debd1e04_e5",
+      "claim": "The IndiaAI Mission was approved with an outlay of approximately ₹10,372 crore.",
+      "source": "datacenters.economictimes.indiatimes.com",
+      "source_url": "http://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/india-boosts-semiconductor-ai-for-digital-infrastructure-growth/133310717",
+      "date": "2026-08-18",
+      "confidence": 0.792,
+      "status": "accepted"
+    },
+    {
+      "id": "E9",
+      "evidence_id": "s_a8ddbed3_e5",
+      "claim": "The IndiaAI Mission has an allocation of ₹10,371.92 crore to establish sovereign AI infrastructure.",
+      "source": "instituteforhumanities.com",
+      "source_url": "https://instituteforhumanities.com/reader-column/112",
+      "date": "2026-07-31",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E10",
+      "evidence_id": "s_add103e9_e4",
+      "claim": "There is an 82.9% GenAI skills gap in India.",
+      "source": "onlineaju.ac.in",
+      "source_url": "https://onlineaju.ac.in/india-ai-talent-shortage-2026",
+      "date": "2026-08-26",
+      "confidence": 0.863,
+      "status": "accepted"
+    },
+    {
+      "id": "E11",
+      "evidence_id": "s_add103e9_e2",
+      "claim": "Nearly 45% of Indian organisations identify AI, digital, and data skills as their single largest workforce constraint.",
+      "source": "onlineaju.ac.in",
+      "source_url": "https://onlineaju.ac.in/india-ai-talent-shortage-2026",
+      "date": "2026-08-26",
+      "confidence": 0.892,
+      "status": "accepted"
+    },
+    {
+      "id": "E12",
+      "evidence_id": "s_add103e9_e6",
+      "claim": "India currently holds about 16% of the global AI talent pool.",
+      "source": "onlineaju.ac.in",
+      "source_url": "https://onlineaju.ac.in/india-ai-talent-shortage-2026",
+      "date": "2026-08-26",
+      "confidence": 0.892,
+      "status": "accepted"
+    },
+    {
+      "id": "E13",
+      "evidence_id": "s_2da7fc93_e1",
+      "claim": "India faces a shortage of AI talent that is over 3.5 times the supply.",
+      "source": "enterpriseai.economictimes.indiatimes.com",
+      "source_url": "https://enterpriseai.economictimes.indiatimes.com/news/industry/indias-ai-talent-demand-outstrips-supply-by-over-3-5-times-report/134848264",
+      "date": "2026-10-10",
+      "confidence": 0.843,
+      "status": "accepted"
+    },
+    {
+      "id": "E14",
+      "evidence_id": "s_1d1bf5d4_e10",
+      "claim": "Tata Consultancy Services (TCS) is one of India's largest IT companies and a global leader in artificial intelligence and digital transformation.",
+      "source": "internshala.com",
+      "source_url": "https://internshala.com/blog/best-ai-companies-in-india",
+      "date": "2026-08-24",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E15",
+      "evidence_id": "s_1d1bf5d4_e6",
+      "claim": "Infosys uses its AI-first strategy and the Infosys Topaz platform to help businesses automate processes, improve productivity, and deliver personalized customer experiences.",
+      "source": "internshala.com",
+      "source_url": "https://internshala.com/blog/best-ai-companies-in-india",
+      "date": "2026-08-24",
+      "confidence": 0.75,
+      "status": "accepted"
+    },
+    {
+      "id": "E16",
+      "evidence_id": "s_1d1bf5d4_e8",
+      "claim": "Persistent Systems provides AI, cloud computing, software engineering, and digital transformation services.",
+      "source": "internshala.com",
+      "source_url": "https://internshala.com/blog/best-ai-companies-in-india",
+      "date": "2026-08-24",
+      "confidence": 0.75,
+      "status": "accepted"
+    },
+    {
+      "id": "E17",
+      "evidence_id": "s_1d1bf5d4_e5",
+      "claim": "Yellow.ai specializes in conversational AI and develops intelligent chatbots and voice assistants for businesses.",
+      "source": "internshala.com",
+      "source_url": "https://internshala.com/blog/best-ai-companies-in-india",
+      "date": "2026-08-24",
+      "confidence": 0.75,
+      "status": "accepted"
+    },
+    {
+      "id": "E18",
+      "evidence_id": "s_1d1bf5d4_e4",
+      "claim": "Yellow.ai is one of the fastest-growing AI startups in India.",
+      "source": "internshala.com",
+      "source_url": "https://internshala.com/blog/best-ai-companies-in-india",
+      "date": "2026-08-24",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E19",
+      "evidence_id": "s_1d1bf5d4_e16",
+      "claim": "Gnani.ai specializes in speech recognition and conversational AI.",
+      "source": "internshala.com",
+      "source_url": "https://internshala.com/blog/best-ai-companies-in-india",
+      "date": "2026-08-24",
+      "confidence": 0.75,
+      "status": "accepted"
+    },
+    {
+      "id": "E20",
+      "evidence_id": "s_1d1bf5d4_e13",
+      "claim": "Krutrim AI was founded by Ola to develop AI solutions for Indian users.",
+      "source": "internshala.com",
+      "source_url": "https://internshala.com/blog/best-ai-companies-in-india",
+      "date": "2026-08-24",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E21",
+      "evidence_id": "s_1d1bf5d4_e15",
+      "claim": "Neysa provides powerful AI infrastructure for businesses.",
+      "source": "internshala.com",
+      "source_url": "https://internshala.com/blog/best-ai-companies-in-india",
+      "date": "2026-08-24",
+      "confidence": 0.75,
+      "status": "accepted"
+    },
+    {
+      "id": "E22",
+      "evidence_id": "s_e65eeb24_e1",
+      "claim": "Indian AI startups raised 1.56 billion dollars across more than 200 deals by August 2026.",
+      "source": "startupcoaching.in",
+      "source_url": "https://www.startupcoaching.in/blogs/indian-ai-startups-in-2026-where-is-the-money-really-going",
+      "date": "",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E23",
+      "evidence_id": "s_51f750b0_e1",
+      "claim": "The Ministry of Electronics and Information Technology unveiled India AI Governance Guidelines on 5 November 2025.",
+      "source": "ijlmh.com",
+      "source_url": "https://ijlmh.com/paper/from-boardroom-to-bureaucracy-mapping-the-regulatory-gap-in-indias-artificial-intelligence-governance-across-the-public-and-private-sectors",
+      "date": "2026-04-07",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E24",
+      "evidence_id": "s_51f750b0_e2",
+      "claim": "The Reserve Bank of India published a Framework for Responsible and Ethical Enablement of Artificial Intelligence on 13 August 2025.",
+      "source": "ijlmh.com",
+      "source_url": "https://ijlmh.com/paper/from-boardroom-to-bureaucracy-mapping-the-regulatory-gap-in-indias-artificial-intelligence-governance-across-the-public-and-private-sectors",
+      "date": "2026-04-07",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E25",
+      "evidence_id": "s_51f750b0_e4",
+      "claim": "The MeitY India AI Governance Guidelines were constituted in July 2025.",
+      "source": "ijlmh.com",
+      "source_url": "https://ijlmh.com/paper/from-boardroom-to-bureaucracy-mapping-the-regulatory-gap-in-indias-artificial-intelligence-governance-across-the-public-and-private-sectors",
+      "date": "2026-04-07",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E26",
+      "evidence_id": "s_add103e9_e1",
+      "claim": "82% of employers in India report difficulty filling roles.",
+      "source": "onlineaju.ac.in",
+      "source_url": "https://onlineaju.ac.in/india-ai-talent-shortage-2026",
+      "date": "2026-08-26",
+      "confidence": 0.863,
+      "status": "accepted"
+    },
+    {
+      "id": "E27",
+      "evidence_id": "s_add103e9_e8",
+      "claim": "Only 25% of Indian organisations believe their workforce is adequately prepared to use AI effectively.",
+      "source": "onlineaju.ac.in",
+      "source_url": "https://onlineaju.ac.in/india-ai-talent-shortage-2026",
+      "date": "2026-08-26",
+      "confidence": 0.892,
+      "status": "accepted"
+    },
+    {
+      "id": "E28",
+      "evidence_id": "s_11d3bf6a_e11",
+      "claim": "Bangalore holds 30-35% of India's AI talent",
+      "source": "yuverse.ai",
+      "source_url": "https://www.yuverse.ai/blog/ai-in-india-2026-market-size-adoption-opportunities",
+      "date": "2026-06-02",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E29",
+      "evidence_id": "s_11d3bf6a_e20",
+      "claim": "Bangalore leads Indian AI adoption with 35-40% of AI activity.",
+      "source": "yuverse.ai",
+      "source_url": "https://www.yuverse.ai/blog/ai-in-india-2026-market-size-adoption-opportunities",
+      "date": "2026-06-02",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E30",
+      "evidence_id": "s_b990c81c_e2",
+      "claim": "In the Union Budget 2026-27, over USD27 million was allocated for three AI CoEs in agriculture, healthcare and sustainable cities.",
+      "source": "assets.kpmg.com",
+      "source_url": "https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2026/02/artificial-intelligence-for-bharat-innovation-and-inclusion-at-scale.pdf",
+      "date": "",
+      "confidence": 0.812,
+      "status": "accepted"
+    },
+    {
+      "id": "E31",
+      "evidence_id": "s_b990c81c_e1",
+      "claim": "38% of organizations in India have AI deployed at scale and delivering ROI.",
+      "source": "assets.kpmg.com",
+      "source_url": "https://assets.kpmg.com/content/dam/kpmgsites/in/pdf/2026/02/artificial-intelligence-for-bharat-innovation-and-inclusion-at-scale.pdf",
+      "date": "",
+      "confidence": 0.743,
+      "status": "needs_review"
+    },
+    {
+      "id": "E32",
+      "evidence_id": "s_a8ddbed3_e4",
+      "claim": "The Stanford AI Index Report 2026 states that frontier AI depends on massive compute infrastructure concentrated among a few global technology companies.",
+      "source": "instituteforhumanities.com",
+      "source_url": "https://instituteforhumanities.com/reader-column/112",
+      "date": "2026-07-31",
+      "confidence": 0.73,
+      "status": "needs_review"
+    },
+    {
+      "id": "E33",
+      "evidence_id": "s_157402e7_e2",
+      "claim": "AI is expected to contribute up to $1.7 trillion to India’s GDP by 2035.",
+      "source": "linkedin.com",
+      "source_url": "https://www.linkedin.com/posts/inc42_inc42-ai-tech-activity-7429532607106727936-GIOA",
+      "date": "2026-02-17",
+      "confidence": 0.718,
+      "status": "needs_review"
+    },
+    {
+      "id": "E34",
+      "evidence_id": "s_157402e7_e4",
+      "claim": "Google is strengthening its AI footprint in India.",
+      "source": "linkedin.com",
+      "source_url": "https://www.linkedin.com/posts/inc42_inc42-ai-tech-activity-7429532607106727936-GIOA",
+      "date": "2026-02-17",
+      "confidence": 0.718,
+      "status": "needs_review"
+    },
+    {
+      "id": "E35",
+      "evidence_id": "s_e65eeb24_e2",
+      "claim": "AI accounts for over 23 percent of total venture capital deal value in India.",
+      "source": "startupcoaching.in",
+      "source_url": "https://www.startupcoaching.in/blogs/indian-ai-startups-in-2026-where-is-the-money-really-going",
+      "date": "",
+      "confidence": 0.68,
+      "status": "needs_review"
+    },
+    {
+      "id": "E36",
+      "evidence_id": "s_d424ad9a_e1",
+      "claim": "AI-native companies saw funding rise 1.5 times year-over-year.",
+      "source": "static.levocdn.com",
+      "source_url": "https://static.levocdn.com/WGLBUT82/bainreportindiaventurecapitalreport20261-7457340414102605824.pdf",
+      "date": "",
+      "confidence": 0.68,
+      "status": "needs_review"
+    },
+    {
+      "id": "E37",
+      "evidence_id": "s_d424ad9a_e9",
+      "claim": "VC and early-stage funds in India have taken 30% to 40% longer to return capital compared to funds in the US/Europe.",
+      "source": "static.levocdn.com",
+      "source_url": "https://static.levocdn.com/WGLBUT82/bainreportindiaventurecapitalreport20261-7457340414102605824.pdf",
+      "date": "",
+      "confidence": 0.68,
+      "status": "needs_review"
+    },
+    {
+      "id": "E38",
+      "evidence_id": "s_d424ad9a_e2",
+      "claim": "VC firms such as Accel shifted focus from small-ticket checks to medium-ticket deals.",
+      "source": "static.levocdn.com",
+      "source_url": "https://static.levocdn.com/WGLBUT82/bainreportindiaventurecapitalreport20261-7457340414102605824.pdf",
+      "date": "",
+      "confidence": 0.65,
+      "status": "needs_review"
+    }
+  ],
+  "pdf_path": "storage/reports\\job_20261114_155405_c5641015.pdf",
+  "warnings": []
+}

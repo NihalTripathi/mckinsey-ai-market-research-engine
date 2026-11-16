@@ -1,0 +1,345 @@
+{
+  "job_id": "job_20261114_191220_66723deb",
+  "sections": [
+    {
+      "title": "Executive Summary",
+      "content": "India's artificial intelligence industry is forecast to reach more than $7 billion by the end of 2026 [E1]. While 62 percent of Indian enterprises report using artificial intelligence at scale for product development [E2], the sector faces challenges, including a potential shortage of more than 1.4 million artificial intelligence professionals by 2026 [E3]. Organizations must navigate an evolving regulatory landscape that includes the Digital Personal Data Protection Act and proposed artificial intelligence governance guidelines (verify the current status) [E4][E5].",
+      "citations": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Market Insights",
+      "content": "The Indian artificial intelligence industry is expected to grow to more than $7 billion by the end of 2026 [E1]. Supporting this growth, operational data center capacity in India expanded from approximately 375 megawatts in 2020 to roughly 1.5 gigawatts in 2025 [E6]. Enterprise artificial intelligence infrastructure spending reached approximately $18 billion in 2025 [E7]. Demand is driven by business leaders, with 76% believing that Generative Artificial Intelligence will have a significant business impact [E8]. Despite this, over 95% of organizations allocate less than 20% of their information technology budgets to artificial intelligence [E9]. Workforce constraints remain a primary concern, as 45% of Indian organizations identify artificial intelligence, digital, and data skills as their single largest constraint [E10].",
+      "citations": [
+        "E1",
+        "E6",
+        "E7",
+        "E8",
+        "E9",
+        "E10"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Competitor Analysis",
+      "content": "The accepted evidence does not identify enough verified companies providing products or services in the Artificial Intelligence market to support a company-level competitor comparison. Funding and investor activity may provide market context, but do not establish that an organisation is a competitor.",
+      "citations": [],
+      "needs_review": false
+    },
+    {
+      "title": "Opportunities and Risks",
+      "content": "Opportunities:\n• Nearly 60% of organizations are now co-innovating with startups to advance their AI capabilities [E11].\n• Seventy-six percent of business leaders believe that Generative AI (a type of AI that can create new content) will have a significant impact on their business [E8].\n• With 0.97 billion internet connections in India as of June 2024, there is a vast digital foundation for AI adoption [E12].\nRisks:\n• India could face a shortage of more than 1.4 million AI professionals by 2026, with 82% of employers reporting difficulty filling roles [E3][E13].\n• Only 25% of Indian organizations believe their current workforce is adequately prepared to use AI effectively [E14].\n• New regulations, such as the proposed Artificial Intelligence (Ethics and Accountability) Bill, 2025, introduce potential penalties of up to 50 million rupees for non-compliance (verify the current status) [E15].",
+      "citations": [
+        "E11",
+        "E8",
+        "E12",
+        "E3",
+        "E13",
+        "E14",
+        "E15"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Recommendations",
+      "content": "• Invest in internal training programs to address the 82.9% Generative Artificial Intelligence skills gap, as only 25% of Indian organizations believe their workforce is currently prepared to use artificial intelligence effectively [E14][E16].\n• Prioritize rapid deployment strategies for new artificial intelligence projects, given that 91% of business leaders identify speed as the most critical factor in their decision to buy or build solutions [E17].\n• Establish a robust compliance framework to align with the Digital Personal Data Protection Act and the India Artificial Intelligence Governance Guidelines to mitigate risks associated with the proposed penalties for artificial intelligence misuse (verify the current status) [E15][E4][E5].",
+      "citations": [
+        "E14",
+        "E16",
+        "E17",
+        "E15",
+        "E4",
+        "E5"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Evidence Requiring Review",
+      "content": "These 8 statements could not be fully confirmed, so they are not used in the findings above. The reason for each is shown in brackets. Please check them before using them.\n• ISO/IEC 42001 is an AI management system standard adopted by BIS [E18] (publication date unknown).\n• PE/VC investments in India reached US$11.7 billion across 369 deals in 3Q 2025 [E19] (disagrees with another source).\n• PE/VC investments in India reached US$26.4 billion across 593 deals in 1H 2025 [E20] (disagrees with another source).\n• Global hyperscalers are projected to invest $660–750 billion+ in 2026, with roughly 75% directed toward AI infrastructure [E21] (a worldwide figure, not specific to the research region).\n• The global data center cooling market is projected to reach $66.3 billion by 2030 [E22] (a worldwide figure, not specific to the research region).\n• Demand for Agentic AI engineers grew 260 per cent in 2026 [E23] (from a page written by a user).\n• The AI Readiness Index places India at 10th globally with a score of 23.8 [E24] (from a page written by a user).\n• Only 43% of organizations in India are deploying artificial intelligence [E25] (from a page written by a user).",
+      "citations": [
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25"
+      ],
+      "needs_review": true
+    },
+    {
+      "title": "Method and Limitations",
+      "content": "AI-generated draft for consultant review. Not final client advice.\nNumbers in square brackets, such as [E3], refer to the Evidence Appendix at the end of this report.\nFacts checked: 70 accepted, 62 need review (the 8 most relevant are listed in the review section) and 12 rejected (duplicates, quotes not found on the page, or claims the quote does not support).\nEstimates of the same market differ between sources. They are shown side by side, not averaged.\nDates come from page information and are approximate. Rules and schemes change, so check policy statements with the official source before relying on them.",
+      "citations": [],
+      "needs_review": false
+    },
+    {
+      "title": "Glossary",
+      "content": "Simple explanations of important terms used in this report. These definitions are explanatory notes, not research evidence.\n- Artificial Intelligence: This refers to computer systems designed to perform tasks that typically require human intelligence.\n- Generative Artificial Intelligence: This is a type of artificial intelligence technology capable of creating new content such as text, images, or code.\n- Digital Personal Data Protection Act: This is a legislative framework in India designed to regulate the processing and protection of personal digital data.\n- Data Center: This is a specialized facility used to house computer systems and associated components for data storage and processing.\n- Co-innovating: This describes the process where two or more organizations collaborate to develop new products or services.\n- Compliance Framework: This is a structured set of guidelines and processes that an organization follows to ensure it meets legal and regulatory requirements.",
+      "citations": [],
+      "needs_review": false
+    }
+  ],
+  "charts": [],
+  "evidence_appendix": [
+    {
+      "id": "E1",
+      "evidence_id": "s_735a7f11_e1",
+      "claim": "The Indian AI industry is forecast to reach more than $7 billion by the end of 2026.",
+      "source": "groww.in",
+      "source_url": "https://groww.in/blog/best-artificial-intelligence-stocks-in-india",
+      "date": "",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E2",
+      "evidence_id": "s_7a196ec1_e1",
+      "claim": "62 percent of Indian enterprises report at-scale AI deployment in Product development.",
+      "source": "deloitte.com",
+      "source_url": "https://www.deloitte.com/in/en/about/press-room/indian-enterprises-lead-global-peers-in-at-scale-ai-adoption-across-most-functions.html",
+      "date": "2026-03-25",
+      "confidence": 0.843,
+      "status": "accepted"
+    },
+    {
+      "id": "E3",
+      "evidence_id": "s_add103e9_e5",
+      "claim": "India could face a shortage of more than 1.4 million AI professionals by 2026.",
+      "source": "onlineaju.ac.in",
+      "source_url": "https://onlineaju.ac.in/india-ai-talent-shortage-2026",
+      "date": "2026-08-26",
+      "confidence": 0.892,
+      "status": "accepted"
+    },
+    {
+      "id": "E4",
+      "evidence_id": "s_54c24fd1_e1",
+      "claim": "MeitY released the India AI Governance Guidelines under the IndiaAI Mission in November 2025.",
+      "source": "prashantmali.com",
+      "source_url": "https://www.prashantmali.com/cyber-law-blog-india/ai-laws-and-regulations-in-india-as-of-2026",
+      "date": "2026-02-20",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E5",
+      "evidence_id": "s_54c24fd1_e4",
+      "claim": "The Digital Personal Data Protection Act (DPDPA) rules were notified in 2025 with a phased rollout until 2027.",
+      "source": "prashantmali.com",
+      "source_url": "https://www.prashantmali.com/cyber-law-blog-india/ai-laws-and-regulations-in-india-as-of-2026",
+      "date": "2026-02-20",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E6",
+      "evidence_id": "s_5f523e65_e7",
+      "claim": "India's operational data center capacity expanded from approximately 375 MW in 2020 to roughly 1.5 GW in 2025.",
+      "source": "ellenox.com",
+      "source_url": "https://www.ellenox.com/post/india-ai-infrastructure-statistics",
+      "date": "2026-06-16",
+      "confidence": 0.75,
+      "status": "accepted"
+    },
+    {
+      "id": "E7",
+      "evidence_id": "s_5f523e65_e2",
+      "claim": "Enterprise AI infrastructure spending reached approximately $18 billion in 2025.",
+      "source": "ellenox.com",
+      "source_url": "https://www.ellenox.com/post/india-ai-infrastructure-statistics",
+      "date": "2026-06-16",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E8",
+      "evidence_id": "s_20b25a52_e3",
+      "claim": "76% of business leaders believe that GenAI will have a significant business impact.",
+      "source": "ey.com",
+      "source_url": "https://www.ey.com/en_in/newsroom/2025/11/india-s-ai-shift-from-pilots-to-performance-47-percent-of-enterprises-have-multiple-ai-use-cases-live-in-production-ey-cii-report",
+      "date": "2025-11-16",
+      "confidence": 0.812,
+      "status": "accepted"
+    },
+    {
+      "id": "E9",
+      "evidence_id": "s_20b25a52_e4",
+      "claim": "Over 95% of organizations allocate less than 20% of their IT budgets to AI.",
+      "source": "ey.com",
+      "source_url": "https://www.ey.com/en_in/newsroom/2025/11/india-s-ai-shift-from-pilots-to-performance-47-percent-of-enterprises-have-multiple-ai-use-cases-live-in-production-ey-cii-report",
+      "date": "2025-11-16",
+      "confidence": 0.812,
+      "status": "accepted"
+    },
+    {
+      "id": "E10",
+      "evidence_id": "s_add103e9_e2",
+      "claim": "Nearly 45% of Indian organisations identify AI, digital, and data skills as their single largest workforce constraint.",
+      "source": "onlineaju.ac.in",
+      "source_url": "https://onlineaju.ac.in/india-ai-talent-shortage-2026",
+      "date": "2026-08-26",
+      "confidence": 0.892,
+      "status": "accepted"
+    },
+    {
+      "id": "E11",
+      "evidence_id": "s_20b25a52_e6",
+      "claim": "Nearly 60% of organizations now co-innovate with startups.",
+      "source": "ey.com",
+      "source_url": "https://www.ey.com/en_in/newsroom/2025/11/india-s-ai-shift-from-pilots-to-performance-47-percent-of-enterprises-have-multiple-ai-use-cases-live-in-production-ey-cii-report",
+      "date": "2025-11-16",
+      "confidence": 0.812,
+      "status": "accepted"
+    },
+    {
+      "id": "E12",
+      "evidence_id": "s_30085e94_e6",
+      "claim": "Internet connections jumped from 0.25 billion in March 2014 to 0.97 billion in June 2024.",
+      "source": "cespi.it",
+      "source_url": "https://www.cespi.it/sites/default/files/osservatori/allegati/the_impact_of_ai_on_indian_economy_mitra.pdf",
+      "date": "",
+      "confidence": 0.645,
+      "status": "accepted"
+    },
+    {
+      "id": "E13",
+      "evidence_id": "s_add103e9_e1",
+      "claim": "82% of employers in India report difficulty filling roles.",
+      "source": "onlineaju.ac.in",
+      "source_url": "https://onlineaju.ac.in/india-ai-talent-shortage-2026",
+      "date": "2026-08-26",
+      "confidence": 0.863,
+      "status": "accepted"
+    },
+    {
+      "id": "E14",
+      "evidence_id": "s_add103e9_e8",
+      "claim": "Only 25% of Indian organisations believe their workforce is adequately prepared to use AI effectively.",
+      "source": "onlineaju.ac.in",
+      "source_url": "https://onlineaju.ac.in/india-ai-talent-shortage-2026",
+      "date": "2026-08-26",
+      "confidence": 0.892,
+      "status": "accepted"
+    },
+    {
+      "id": "E15",
+      "evidence_id": "s_54c24fd1_e8",
+      "claim": "The Artificial Intelligence (Ethics and Accountability) Bill, 2025 proposes penalties up to 5 crore rupees.",
+      "source": "prashantmali.com",
+      "source_url": "https://www.prashantmali.com/cyber-law-blog-india/ai-laws-and-regulations-in-india-as-of-2026",
+      "date": "2026-02-20",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E16",
+      "evidence_id": "s_add103e9_e4",
+      "claim": "There is an 82.9% GenAI skills gap in India.",
+      "source": "onlineaju.ac.in",
+      "source_url": "https://onlineaju.ac.in/india-ai-talent-shortage-2026",
+      "date": "2026-08-26",
+      "confidence": 0.892,
+      "status": "accepted"
+    },
+    {
+      "id": "E17",
+      "evidence_id": "s_20b25a52_e5",
+      "claim": "91% of business leaders identified rapid deployment as the single biggest factor influencing their buy versus build decisions.",
+      "source": "ey.com",
+      "source_url": "https://www.ey.com/en_in/newsroom/2025/11/india-s-ai-shift-from-pilots-to-performance-47-percent-of-enterprises-have-multiple-ai-use-cases-live-in-production-ey-cii-report",
+      "date": "2025-11-16",
+      "confidence": 0.812,
+      "status": "accepted"
+    },
+    {
+      "id": "E18",
+      "evidence_id": "s_2cd41da9_e5",
+      "claim": "ISO/IEC 42001 is an AI management system standard adopted by BIS.",
+      "source": "psa.gov.in",
+      "source_url": "https://psa.gov.in/CMS/web/sites/default/files/publication/AI-WP_TechnoLegal.pdf",
+      "date": "",
+      "confidence": 0.838,
+      "status": "needs_review"
+    },
+    {
+      "id": "E19",
+      "evidence_id": "s_20b25a52_e8",
+      "claim": "PE/VC investments in India reached US$11.7 billion across 369 deals in 3Q2025.",
+      "source": "ey.com",
+      "source_url": "https://www.ey.com/en_in/newsroom/2025/11/india-s-ai-shift-from-pilots-to-performance-47-percent-of-enterprises-have-multiple-ai-use-cases-live-in-production-ey-cii-report",
+      "date": "2025-11-16",
+      "confidence": 0.738,
+      "status": "needs_review"
+    },
+    {
+      "id": "E20",
+      "evidence_id": "s_20b25a52_e18",
+      "claim": "PE/VC investments in India reached US$26.4 billion across 593 deals in 1H 2025.",
+      "source": "ey.com",
+      "source_url": "https://www.ey.com/en_in/newsroom/2025/11/india-s-ai-shift-from-pilots-to-performance-47-percent-of-enterprises-have-multiple-ai-use-cases-live-in-production-ey-cii-report",
+      "date": "2025-11-16",
+      "confidence": 0.738,
+      "status": "needs_review"
+    },
+    {
+      "id": "E21",
+      "evidence_id": "s_5f523e65_e1",
+      "claim": "Global hyperscalers are projected to invest $660–750 billion+ in 2026, with roughly 75% directed toward AI infrastructure.",
+      "source": "ellenox.com",
+      "source_url": "https://www.ellenox.com/post/india-ai-infrastructure-statistics",
+      "date": "2026-06-16",
+      "confidence": 0.73,
+      "status": "needs_review"
+    },
+    {
+      "id": "E22",
+      "evidence_id": "s_5f523e65_e17",
+      "claim": "The global data center cooling market is projected to reach $66.3 billion by 2030.",
+      "source": "ellenox.com",
+      "source_url": "https://www.ellenox.com/post/india-ai-infrastructure-statistics",
+      "date": "2026-06-16",
+      "confidence": 0.73,
+      "status": "needs_review"
+    },
+    {
+      "id": "E23",
+      "evidence_id": "s_1e25d28b_e2",
+      "claim": "Demand for Agentic AI engineers grew 260 per cent in 2026.",
+      "source": "linkedin.com",
+      "source_url": "https://www.linkedin.com/posts/ethrworld_indias-ai-talent-demand-outstrips-supply-activity-7514644703691116544-36y1",
+      "date": "2026-10-10",
+      "confidence": 0.718,
+      "status": "needs_review"
+    },
+    {
+      "id": "E24",
+      "evidence_id": "s_1e25d28b_e4",
+      "claim": "The AI Readiness Index places India at 10th globally with a score of 23.8.",
+      "source": "linkedin.com",
+      "source_url": "https://www.linkedin.com/posts/ethrworld_indias-ai-talent-demand-outstrips-supply-activity-7514644703691116544-36y1",
+      "date": "2026-10-10",
+      "confidence": 0.718,
+      "status": "needs_review"
+    },
+    {
+      "id": "E25",
+      "evidence_id": "s_1e25d28b_e5",
+      "claim": "Only 43% of organizations in India are deploying artificial intelligence.",
+      "source": "linkedin.com",
+      "source_url": "https://www.linkedin.com/posts/ethrworld_indias-ai-talent-demand-outstrips-supply-activity-7514644703691116544-36y1",
+      "date": "2026-10-10",
+      "confidence": 0.718,
+      "status": "needs_review"
+    }
+  ],
+  "pdf_path": "storage/reports\\job_20261114_191220_66723deb.pdf",
+  "warnings": []
+}

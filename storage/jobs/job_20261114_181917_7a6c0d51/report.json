@@ -1,0 +1,351 @@
+{
+  "job_id": "job_20261114_181917_7a6c0d51",
+  "sections": [
+    {
+      "title": "Executive Summary",
+      "content": "Artificial Intelligence is expected to contribute between $500 billion and $540 billion to the Indian economy by 2025 [E1][E2]. Projections indicate that nearly 20 million new jobs could be created by 2025 [E3][E4]. However, automation poses risks, with estimates suggesting up to 60 million workers in the manufacturing sector could be displaced by 2030 [E5].",
+      "citations": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Market Insights",
+      "content": "The Indian market faces significant shifts due to Artificial Intelligence, with approximately 25% of the workforce in occupations exposed to this technology [E6]. In urban India, nearly half of all jobs are exposed to AI-related changes [E7]. Furthermore, AI is expected to impact about 300 million blue-collar workers in the country [E8].",
+      "citations": [
+        "E6",
+        "E7",
+        "E8"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Competitor Analysis",
+      "content": "The accepted evidence does not identify enough verified companies providing products or services in the Artificial Intelligence and Employment market to support a company-level competitor comparison. Funding and investor activity may provide market context, but do not establish that an organisation is a competitor.",
+      "citations": [],
+      "needs_review": false
+    },
+    {
+      "title": "Opportunities and Risks",
+      "content": "Opportunities:\n• The expansion of the semiconductor market in India is projected to reach $110 billion by 2030 and is expected to create one million jobs by 2026 [E9][E10].\n• Government and industry collaborations, such as the YUVAI program launched by the National e-Governance Division and Intel India, aim to provide school students with essential AI skills [E11][E12].\n• Employers are increasingly prioritizing skills over formal education, as evidenced by a 36 percent increase in job postings in India that do not require a specific degree between 2024 and 2026 [E13].\nRisks:\n• A potential white-collar recession is anticipated in India by 2027, with 67.5% of engineers reporting that their jobs are already being negatively impacted by AI [E14][E15].\n• The Digital Personal Data Protection Act of 2023 has been criticized for neglecting challenges related to algorithmic labour management, workplace monitoring, and gig economy insecurity (verify the current status) [E16].\n• India reports the highest cybercrime rate in the world, which is thirty percent above the global average, presenting a significant challenge for the digital workforce [E17].",
+      "citations": [
+        "E9",
+        "E10",
+        "E11",
+        "E12",
+        "E13",
+        "E14",
+        "E15",
+        "E16",
+        "E17"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Recommendations",
+      "content": "• Prioritize upskilling programs for engineers, as 87.5% of them believe such training is critical to safeguarding their careers against technological disruption [E18].\n• Develop targeted transition support for the manufacturing sector, given that automation could displace up to 60 million workers by 2030 [E5].\n• Focus on roles that do not require specific degrees, as job postings of this nature increased by 36 percent between 2024 and 2026 [E13].",
+      "citations": [
+        "E18",
+        "E5",
+        "E13"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Evidence Requiring Review",
+      "content": "These 8 statements could not be fully confirmed, so they are not used in the findings above. All of them come from pages written by individual users. Please check them before using them.\n• Over 40% of India’s IT and gig workforce use AI tools for work [E19].\n• Amazon plans to invest over $35 billion in India by 2030 [E20].\n• India's AI sector could generate more than 2.3 million job openings by 2027 [E21].\n• The available skilled AI talent in India is expected to grow to around 1.2 million by 2027 [E22].\n• The projected AI talent gap is estimated to occur by 2027 [E23].\n• The digital economy will contribute 20% to India's GDP by 2026 [E24].\n• India will need more than 3 million AI and data science professionals by 2027 [E25].\n• Future Skills Prime aims to skill more than 1.4 million professionals in emerging technologies [E26].",
+      "citations": [
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25",
+        "E26"
+      ],
+      "needs_review": true
+    },
+    {
+      "title": "Method and Limitations",
+      "content": "AI-generated draft for consultant review. Not final client advice.\nNumbers in square brackets, such as [E3], refer to the Evidence Appendix at the end of this report.\nFacts checked: 44 accepted, 54 need review (the 8 most relevant are listed in the review section) and 5 rejected (duplicates, quotes not found on the page, or claims the quote does not support).\nEstimates of the same market differ between sources. They are shown side by side, not averaged.\nDates come from page information and are approximate. Rules and schemes change, so check policy statements with the official source before relying on them.",
+      "citations": [],
+      "needs_review": false
+    },
+    {
+      "title": "Glossary",
+      "content": "Simple explanations of important terms used in this report. These definitions are explanatory notes, not research evidence.\n- Artificial Intelligence: This refers to computer systems capable of performing tasks that typically require human intelligence.\n- Automation: This is the use of technology to perform tasks with minimal human intervention.\n- Blue-collar workers: These are employees who perform manual labor in industrial or manufacturing settings.\n- Semiconductor: This is a material used in electronic devices to control the flow of electrical current.\n- White-collar recession: This describes a period of significant job losses or economic decline specifically affecting professional and office-based roles.\n- Algorithmic labour management: This involves using software and data analysis to oversee and direct the work of employees.\n- Gig economy: This is a labor market characterized by the prevalence of short-term contracts or freelance work.\n- Upskilling: This is the process of teaching employees new skills to improve their performance or prepare them for different roles.\n- Technological disruption: This refers to significant changes in industries or markets caused by the introduction of new technologies.",
+      "citations": [],
+      "needs_review": false
+    }
+  ],
+  "charts": [],
+  "evidence_appendix": [
+    {
+      "id": "E1",
+      "evidence_id": "s_30e6ea12_e1",
+      "claim": "Artificial Intelligence is expected to contribute over $500 billion to the Indian economy by 2025.",
+      "source": "nationalskillsnetwork.in",
+      "source_url": "https://nationalskillsnetwork.in/artificial-intelligence-ai-government-of-indias-initiatives-in-boosting-skills-and-education",
+      "date": "2024-01-10",
+      "confidence": 0.676,
+      "status": "accepted"
+    },
+    {
+      "id": "E2",
+      "evidence_id": "s_c4740291_e14",
+      "claim": "NASSCOM estimates that AI and data could contribute between USD 540 billion to 500 billion to India's GDP by 2025.",
+      "source": "drishtiias.com",
+      "source_url": "https://www.drishtiias.com/blog/impact-of-ai-and-automation-on-indias-employment-landscape",
+      "date": "2024-10-23",
+      "confidence": 0.738,
+      "status": "accepted"
+    },
+    {
+      "id": "E3",
+      "evidence_id": "s_30e6ea12_e2",
+      "claim": "Artificial Intelligence is expected to create nearly 20 million jobs in India by 2025.",
+      "source": "nationalskillsnetwork.in",
+      "source_url": "https://nationalskillsnetwork.in/artificial-intelligence-ai-government-of-indias-initiatives-in-boosting-skills-and-education",
+      "date": "2024-01-10",
+      "confidence": 0.676,
+      "status": "accepted"
+    },
+    {
+      "id": "E4",
+      "evidence_id": "s_c4740291_e13",
+      "claim": "The Ministry of Electronics and Information Technology expects around 20 million new jobs to be created in India by 2025.",
+      "source": "drishtiias.com",
+      "source_url": "https://www.drishtiias.com/blog/impact-of-ai-and-automation-on-indias-employment-landscape",
+      "date": "2024-10-23",
+      "confidence": 0.738,
+      "status": "accepted"
+    },
+    {
+      "id": "E5",
+      "evidence_id": "s_c4740291_e15",
+      "claim": "McKinsey Global Institute estimates that automation could displace up to 60 million workers in India's manufacturing sector by 2030.",
+      "source": "drishtiias.com",
+      "source_url": "https://www.drishtiias.com/blog/impact-of-ai-and-automation-on-indias-employment-landscape",
+      "date": "2024-10-23",
+      "confidence": 0.738,
+      "status": "accepted"
+    },
+    {
+      "id": "E6",
+      "evidence_id": "s_53bb914d_e1",
+      "claim": "Approximately 25% of India's workforce is employed in occupations exposed to AI.",
+      "source": "applyin.in",
+      "source_url": "https://applyin.in/ai-impact-on-indian-jobs-2026",
+      "date": "2026-10-16",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E7",
+      "evidence_id": "s_53bb914d_e3",
+      "claim": "Nearly half of jobs in urban India are exposed to AI-related changes.",
+      "source": "applyin.in",
+      "source_url": "https://applyin.in/ai-impact-on-indian-jobs-2026",
+      "date": "2026-10-16",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E8",
+      "evidence_id": "s_c4740291_e8",
+      "claim": "AI will impact about 300 million blue-collar workers in India.",
+      "source": "drishtiias.com",
+      "source_url": "https://www.drishtiias.com/blog/impact-of-ai-and-automation-on-indias-employment-landscape",
+      "date": "2024-10-23",
+      "confidence": 0.738,
+      "status": "accepted"
+    },
+    {
+      "id": "E9",
+      "evidence_id": "s_80d4068a_e8",
+      "claim": "The semiconductor market in India is projected to reach 110 billion dollars by 2030.",
+      "source": "gratuityconsulting.com",
+      "source_url": "https://gratuityconsulting.com/in-demand-skills-in-india-2026",
+      "date": "2026-01-19",
+      "confidence": 0.75,
+      "status": "accepted"
+    },
+    {
+      "id": "E10",
+      "evidence_id": "s_80d4068a_e9",
+      "claim": "The expansion of the semiconductor market in India is expected to create one million jobs by 2026.",
+      "source": "gratuityconsulting.com",
+      "source_url": "https://gratuityconsulting.com/in-demand-skills-in-india-2026",
+      "date": "2026-01-19",
+      "confidence": 0.75,
+      "status": "accepted"
+    },
+    {
+      "id": "E11",
+      "evidence_id": "s_30e6ea12_e4",
+      "claim": "The National e-Governance Division launched YUVAI in collaboration with Intel India to empower school students with AI skills.",
+      "source": "nationalskillsnetwork.in",
+      "source_url": "https://nationalskillsnetwork.in/artificial-intelligence-ai-government-of-indias-initiatives-in-boosting-skills-and-education",
+      "date": "2024-01-10",
+      "confidence": 0.706,
+      "status": "accepted"
+    },
+    {
+      "id": "E12",
+      "evidence_id": "s_30e6ea12_e5",
+      "claim": "Intel India collaborated with the National e-Governance Division to launch the YUVAI program.",
+      "source": "nationalskillsnetwork.in",
+      "source_url": "https://nationalskillsnetwork.in/artificial-intelligence-ai-government-of-indias-initiatives-in-boosting-skills-and-education",
+      "date": "2024-01-10",
+      "confidence": 0.676,
+      "status": "accepted"
+    },
+    {
+      "id": "E13",
+      "evidence_id": "s_f0cc648a_e3",
+      "claim": "Job postings in India not requiring a specific degree increased by 36 percent between 2024 and 2026.",
+      "source": "savannahr.com",
+      "source_url": "https://savannahr.com/blog/india-hiring-trends-2026-employer-guide",
+      "date": "2026-04-20",
+      "confidence": 0.75,
+      "status": "accepted"
+    },
+    {
+      "id": "E14",
+      "evidence_id": "s_c4740291_e7",
+      "claim": "There is a potential white-collar recession in India by 2027.",
+      "source": "drishtiias.com",
+      "source_url": "https://www.drishtiias.com/blog/impact-of-ai-and-automation-on-indias-employment-landscape",
+      "date": "2024-10-23",
+      "confidence": 0.738,
+      "status": "accepted"
+    },
+    {
+      "id": "E15",
+      "evidence_id": "s_c4740291_e17",
+      "claim": "67.5% of engineers feel their jobs are being negatively impacted by AI.",
+      "source": "drishtiias.com",
+      "source_url": "https://www.drishtiias.com/blog/impact-of-ai-and-automation-on-indias-employment-landscape",
+      "date": "2024-10-23",
+      "confidence": 0.738,
+      "status": "accepted"
+    },
+    {
+      "id": "E16",
+      "evidence_id": "s_b964ad49_e1",
+      "claim": "The Digital Personal Data Protection Act of 2023 neglects the challenges posed by algorithmic labour management practices, gig economy insecurity, and monitoring at the workplace.",
+      "source": "ijnrefm.com",
+      "source_url": "https://ijnrefm.com/wp-content/uploads/ijnrefm-volume4-issue1-142.pdf",
+      "date": "",
+      "confidence": 0.7,
+      "status": "accepted"
+    },
+    {
+      "id": "E17",
+      "evidence_id": "s_80d4068a_e6",
+      "claim": "India reports the highest cybercrime rate in the world, which is thirty percent above the global average.",
+      "source": "gratuityconsulting.com",
+      "source_url": "https://gratuityconsulting.com/in-demand-skills-in-india-2026",
+      "date": "2026-01-19",
+      "confidence": 0.75,
+      "status": "accepted"
+    },
+    {
+      "id": "E18",
+      "evidence_id": "s_c4740291_e18",
+      "claim": "87.5% of engineers believe that upskilling is critical to safeguarding their careers in the face of technological disruption.",
+      "source": "drishtiias.com",
+      "source_url": "https://www.drishtiias.com/blog/impact-of-ai-and-automation-on-indias-employment-landscape",
+      "date": "2024-10-23",
+      "confidence": 0.688,
+      "status": "accepted"
+    },
+    {
+      "id": "E19",
+      "evidence_id": "s_bd20259e_e3",
+      "claim": "Over 40% of India’s IT and gig workforce use AI tools for work.",
+      "source": "linkedin.com",
+      "source_url": "https://www.linkedin.com/pulse/real-impact-ai-indias-workforce-2026-beyond-hype-meraquii-cw3nc",
+      "date": "2026-01-02",
+      "confidence": 0.718,
+      "status": "needs_review"
+    },
+    {
+      "id": "E20",
+      "evidence_id": "s_cdacd90b_e1",
+      "claim": "Amazon plans to invest over $35 billion in India by 2030.",
+      "source": "linkedin.com",
+      "source_url": "https://www.linkedin.com/pulse/indias-ai-workforce-moment-promise-preparation-need-reimagine-rajesh-em7rc",
+      "date": "2025-12-17",
+      "confidence": 0.718,
+      "status": "needs_review"
+    },
+    {
+      "id": "E21",
+      "evidence_id": "s_cdacd90b_e2",
+      "claim": "India's AI sector could generate more than 2.3 million job openings by 2027.",
+      "source": "linkedin.com",
+      "source_url": "https://www.linkedin.com/pulse/indias-ai-workforce-moment-promise-preparation-need-reimagine-rajesh-em7rc",
+      "date": "2025-12-17",
+      "confidence": 0.718,
+      "status": "needs_review"
+    },
+    {
+      "id": "E22",
+      "evidence_id": "s_cdacd90b_e3",
+      "claim": "The available skilled AI talent in India is expected to grow to around 1.2 million by 2027.",
+      "source": "linkedin.com",
+      "source_url": "https://www.linkedin.com/pulse/indias-ai-workforce-moment-promise-preparation-need-reimagine-rajesh-em7rc",
+      "date": "2025-12-17",
+      "confidence": 0.718,
+      "status": "needs_review"
+    },
+    {
+      "id": "E23",
+      "evidence_id": "s_cdacd90b_e5",
+      "claim": "The projected AI talent gap is estimated to occur by 2027.",
+      "source": "linkedin.com",
+      "source_url": "https://www.linkedin.com/pulse/indias-ai-workforce-moment-promise-preparation-need-reimagine-rajesh-em7rc",
+      "date": "2025-12-17",
+      "confidence": 0.718,
+      "status": "needs_review"
+    },
+    {
+      "id": "E24",
+      "evidence_id": "s_8d3773e3_e1",
+      "claim": "The digital economy will contribute 20% to India's GDP by 2026.",
+      "source": "linkedin.com",
+      "source_url": "https://www.linkedin.com/pulse/reskilling-nation-indias-ai-revolution-workforce-future-bhardwaj-wu0pf",
+      "date": "2025-05-01",
+      "confidence": 0.696,
+      "status": "needs_review"
+    },
+    {
+      "id": "E25",
+      "evidence_id": "s_8d3773e3_e9",
+      "claim": "India will need more than 3 million AI and data science professionals by 2027.",
+      "source": "linkedin.com",
+      "source_url": "https://www.linkedin.com/pulse/reskilling-nation-indias-ai-revolution-workforce-future-bhardwaj-wu0pf",
+      "date": "2025-05-01",
+      "confidence": 0.696,
+      "status": "needs_review"
+    },
+    {
+      "id": "E26",
+      "evidence_id": "s_8d3773e3_e10",
+      "claim": "Future Skills Prime aims to skill more than 1.4 million professionals in emerging technologies.",
+      "source": "linkedin.com",
+      "source_url": "https://www.linkedin.com/pulse/reskilling-nation-indias-ai-revolution-workforce-future-bhardwaj-wu0pf",
+      "date": "2025-05-01",
+      "confidence": 0.696,
+      "status": "needs_review"
+    }
+  ],
+  "pdf_path": "storage/reports\\job_20261114_181917_7a6c0d51.pdf",
+  "warnings": []
+}

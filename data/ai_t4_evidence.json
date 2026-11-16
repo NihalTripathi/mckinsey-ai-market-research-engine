@@ -1,0 +1,223 @@
+[
+  {
+    "claim": "AI is projected to add US$15.7 trillion to the global Gross Domestic Product by 2030.",
+    "entity": "Global Gross Domestic Product",
+    "topic": "market size",
+    "excerpt": "Even as AI is projected to add US$15.7 trillion to the global Gross Domestic Product by 2030, North America, China, and Europe are estimated to capture over 84 percent of these gains.",
+    "source_id": "s_b2632d56",
+    "date": "2026-01-05",
+    "excerpt_found": true,
+    "evidence_id": "s_b2632d56_e1",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2030
+  },
+  {
+    "claim": "North America, China, and Europe are estimated to capture over 84 percent of the AI-driven economic gains.",
+    "entity": "North America",
+    "topic": "market share",
+    "excerpt": "Even as AI is projected to add US$15.7 trillion to the global Gross Domestic Product by 2030, North America, China, and Europe are estimated to capture over 84 percent of these gains.",
+    "source_id": "s_b2632d56",
+    "date": "2026-01-05",
+    "excerpt_found": true,
+    "evidence_id": "s_b2632d56_e2",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "The United States leads the field in AI chip production, raw compute capacity, global cloud infrastructure, and foundation model development.",
+    "entity": "United States",
+    "topic": "infrastructure",
+    "excerpt": "The United States (US) leads the field in AI chip production, raw compute capacity, global cloud infrastructure, and foundation model development, powered by deep private investment, patent ownership, and a strong venture ecosystem.",
+    "source_id": "s_b2632d56",
+    "date": "2026-01-05",
+    "excerpt_found": true,
+    "evidence_id": "s_b2632d56_e3",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "The European Union has positioned itself as a norm-setter and regulatory power in AI.",
+    "entity": "European Union",
+    "topic": "policy",
+    "excerpt": "Where the US leads on infrastructural capacity, the European Union has positioned itself as a norm-setter and regulatory power, aiming to set global standards through its rights-based and transparency-driven frameworks.",
+    "source_id": "s_b2632d56",
+    "date": "2026-01-05",
+    "excerpt_found": true,
+    "evidence_id": "s_b2632d56_e4",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "The US has imposed semiconductor export restrictions on China since 2018.",
+    "entity": "China",
+    "topic": "policy",
+    "excerpt": "China, meanwhile, is investing heavily in domestic AI ecosystems, integrating state-led research with industrial application, undeterred by the semiconductor export restrictions imposed by the US since 2018.",
+    "source_id": "s_b2632d56",
+    "date": "2026-01-05",
+    "excerpt_found": true,
+    "evidence_id": "s_b2632d56_e5",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2018
+  },
+  {
+    "claim": "India championed Digital Public Infrastructure as a global public good during its G20 Presidency in 2023.",
+    "entity": "India",
+    "topic": "policy",
+    "excerpt": "During its G20 Presidency in 2023, it championed Digital Public Infrastructure (DPI) as a global public good to accelerate progress on the Sustainable Development Goals.",
+    "source_id": "s_b2632d56",
+    "date": "2026-01-05",
+    "excerpt_found": true,
+    "evidence_id": "s_b2632d56_e6",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": 2023
+  },
+  {
+    "claim": "India served as co-chair of the Paris AI Action Summit in February 2025.",
+    "entity": "India",
+    "topic": "other",
+    "excerpt": "Moreover, as co-chair of the Paris AI Action Summit in February 2025, India advanced the global dialogue on responsible AI governance.",
+    "source_id": "s_b2632d56",
+    "date": "2026-01-05",
+    "excerpt_found": true,
+    "evidence_id": "s_b2632d56_e7",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025
+  },
+  {
+    "claim": "India is investing INR 10,300 crore in its AI infrastructure under the IndiaAI Mission.",
+    "entity": "India",
+    "topic": "infrastructure",
+    "excerpt": "As of October 2025, India's AI infrastructure is supported by an INR 10,300 crore investment under the IndiaAI Mission, which aims to deploy 38,000 Graphics Processing Units (GPUs) and establish 600 AI Data Labs to boost innovation.",
+    "source_id": "s_b2632d56",
+    "date": "2026-01-05",
+    "excerpt_found": true,
+    "evidence_id": "s_b2632d56_e8",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025
+  },
+  {
+    "claim": "The IndiaAI Mission aims to deploy 38,000 Graphics Processing Units.",
+    "entity": "IndiaAI Mission",
+    "topic": "infrastructure",
+    "excerpt": "As of October 2025, India's AI infrastructure is supported by an INR 10,300 crore investment under the IndiaAI Mission, which aims to deploy 38,000 Graphics Processing Units (GPUs) and establish 600 AI Data Labs to boost innovation.",
+    "source_id": "s_b2632d56",
+    "date": "2026-01-05",
+    "excerpt_found": true,
+    "evidence_id": "s_b2632d56_e9",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025
+  },
+  {
+    "claim": "India is establishing 600 AI Data Labs.",
+    "entity": "India",
+    "topic": "infrastructure",
+    "excerpt": "As of October 2025, India's AI infrastructure is supported by an INR 10,300 crore investment under the IndiaAI Mission, which aims to deploy 38,000 Graphics Processing Units (GPUs) and establish 600 AI Data Labs to boost innovation.",
+    "source_id": "s_b2632d56",
+    "date": "2026-01-05",
+    "excerpt_found": true,
+    "evidence_id": "s_b2632d56_e10",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2025
+  },
+  {
+    "claim": "India's AI-focussed talent base is expected to reach 1.25 million by 2027.",
+    "entity": "India",
+    "topic": "growth",
+    "excerpt": "As India works to build an inclusive AI ecosystem, its AI-focussed talent base is also expected to grow from 600,000 to 1.25 million by 2027.",
+    "source_id": "s_b2632d56",
+    "date": "2026-01-05",
+    "excerpt_found": true,
+    "evidence_id": "s_b2632d56_e11",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": 2027
+  },
+  {
+    "claim": "Price of automation, uncertainty regarding future and top management support were identified as factors that drive other bottlenecks in MSMEs.",
+    "entity": "MSMEs",
+    "topic": "technology",
+    "excerpt": "Price of automation, uncertainty regarding future and top management support were identified as factors that drive other bottlenecks.",
+    "source_id": "s_92b9104f",
+    "date": "2025-02-02",
+    "excerpt_found": true,
+    "evidence_id": "s_92b9104f_e1",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": false,
+    "date_source": "page_metadata",
+    "data_year": null
+  },
+  {
+    "claim": "The barriers to AI adoption in MSMEs in India were studied using the TOE framework.",
+    "entity": "MSMEs",
+    "topic": "other",
+    "excerpt": "This is the first study of this type, to the best of the authors’ knowledge, on MSMEs in India. Factors such as lack of top management support, change resistance, perseverance and price of the automation can be viewed as organizational blocks to AI implementation. Lack of knowledge about AI in automation and Lack of resources are technology-related barriers, whereas uncertainty regarding the future of technology and job loss are related to the environment.",
+    "source_id": "s_92b9104f",
+    "date": "2025-02-02",
+    "excerpt_found": true,
+    "evidence_id": "s_92b9104f_e2",
+    "task_id": "t4",
+    "task_ids": [
+      "t4"
+    ],
+    "claim_supported": true,
+    "date_source": "page_metadata",
+    "data_year": null
+  }
+]

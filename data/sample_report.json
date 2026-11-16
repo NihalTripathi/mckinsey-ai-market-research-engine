@@ -1,0 +1,476 @@
+{
+  "job_id": "job_real",
+  "sections": [
+    {
+      "title": "Executive Summary",
+      "content": "As of March 2026, India operates 27,700 public electric vehicle (EV) charging stations with a charger-to-EV ratio of 1:235 [E1][E2]. The market is supported by government initiatives like the PM E-DRIVE scheme, which aims to add 72,300 public charging stations by March 2028 (verify the current status) [E3][E4]. Operating a charging station is a de-licensed activity, simplifying entry for new providers (verify the current status) [E5][E6].",
+      "citations": [
+        "E1",
+        "E2",
+        "E3",
+        "E4",
+        "E5",
+        "E6"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Market Insights",
+      "content": "Market estimates vary by source; for instance, Grand View Research reported the market generated $557.4 million in 2025, while Markets and Markets valued it at $129 million in 2026 [E7][E8]. These figures are not directly comparable as they originate from different sources that define the market differently. Demand is influenced by regional adoption, with Uttar Pradesh accounting for 20% of India's EV fleet and Karnataka representing 20% of the national charging network [E9][E10]. In Karnataka, two-wheelers make up 78% of the local EV market, highlighting the importance of segment-specific infrastructure [E11].",
+      "citations": [
+        "E7",
+        "E8",
+        "E9",
+        "E10",
+        "E11"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Competitor Analysis",
+      "content": "The competitive landscape includes companies such as Tata Power and EZ Charge, both of which are actively building dense charging coverage across metro areas and highways [E12][E13]. While these firms are established, the market remains open due to the de-licensed nature of operating charging stations (verify the current status) [E5][E14].",
+      "citations": [
+        "E12",
+        "E13",
+        "E5",
+        "E14"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Opportunities and Risks",
+      "content": "Opportunities:\n• Financial support is available for charging projects through government programs like the PM E-DRIVE scheme and specialized green loans from banks such as SBI and Indian Bank (verify the current status) [E15][E16][E17][E18][E19].\n• There is potential to integrate battery energy storage systems and second-life batteries into charging stations to improve efficiency and grid management [E20][E21].\n• Small towns and rural areas present a specific opportunity for simple, rugged charging systems that prioritize ease of maintenance and local training [E22].\nRisks:\n• Most current EV chargers in India do not support vehicle-to-grid (V2G) technology, which allows cars to send power back to the electrical grid [E23].\n• The previous FAME-II support scheme concluded in March 2024, and charging operators must navigate complex grid connection and billing requirements set by local Distribution Companies (DISCOMs) (verify the current status) [E24][E25].",
+      "citations": [
+        "E15",
+        "E16",
+        "E17",
+        "E18",
+        "E19",
+        "E20",
+        "E21",
+        "E22",
+        "E23",
+        "E24",
+        "E25"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Recommendations",
+      "content": "• Focus on developing charging infrastructure for two-wheelers, as they represent a significant portion of the market in key states like Karnataka [E11].\n• Leverage available financial support, such as the PM E-DRIVE capital support or loans from institutions like SBI and Indian Bank, to manage initial setup costs (verify the current status) [E15][E18][E19][E26].\n• Prioritize the installation of standardized charging connectors to ensure compatibility with national infrastructure requirements and streamline operations [E27][E28].",
+      "citations": [
+        "E11",
+        "E15",
+        "E18",
+        "E19",
+        "E26",
+        "E27",
+        "E28"
+      ],
+      "needs_review": false
+    },
+    {
+      "title": "Evidence Requiring Review",
+      "content": "These 8 statements could not be fully confirmed, so they are not used in the findings above. The reason for each is shown in brackets. Please check them before using them.\n• The Bureau of Indian Standards (BIS) is the national standards body of India responsible for formulating EV charging standards for the country [E29] (publication date unknown).\n• IS-17017-Part-23 specifies requirements for DC charging stations with power output ranging from 50kW to 200kW [E30] (publication date unknown).\n• IMARC estimated the India EV market size was $1.45 billion in 2025 [E31] (disagrees with another source).\n• Expert Market Research stated the India EV market size reached $7.38 billion in 2025 [E32] (disagrees with another source).\n• DC fast charging in India typically commands ₹12-18 per kWh [E33] (publication date unknown).\n• AC charging in India ranges from ₹8-14 per kWh [E34] (publication date unknown).\n• EV charging stations in India typically achieve gross margins of 30-50% after electricity costs [E35] (publication date unknown).\n• EV charging stations in India achieve net margins of 15-25% after all operating expenses [E36] (publication date unknown).",
+      "citations": [
+        "E29",
+        "E30",
+        "E31",
+        "E32",
+        "E33",
+        "E34",
+        "E35",
+        "E36"
+      ],
+      "needs_review": true
+    },
+    {
+      "title": "Method and Limitations",
+      "content": "AI-generated draft for consultant review. Not final client advice.\nNumbers in square brackets, such as [E3], refer to the Evidence Appendix at the end of this report.\nFacts checked: 69 accepted, 28 need review and 4 rejected (duplicates, quotes not found on the page, or claims the quote does not support).\nEstimates of the same market differ between sources. They are shown side by side, not averaged.\nDates come from page information and are approximate. Rules and schemes change, so check policy statements with the official source before relying on them.",
+      "citations": [],
+      "needs_review": false
+    },
+    {
+      "title": "Glossary",
+      "content": "Simple explanations of important terms used in this report. These definitions are explanatory notes, not research evidence.\n- EV: An electric vehicle is a vehicle that uses one or more electric motors for propulsion.\n- De-licensed: This refers to an activity that does not require a specific government license to operate.\n- Battery energy storage systems: These are technologies that store electrical energy in batteries for later use to balance supply and demand.\n- Second-life batteries: These are used electric vehicle batteries that are repurposed for stationary energy storage applications.\n- Vehicle-to-grid: This is a system where electric vehicles can discharge stored energy back into the electrical power grid.\n- DISCOMs: Distribution companies are entities responsible for the distribution of electricity to end users in a specific region.\n- FAME-II: Faster Adoption and Manufacturing of Hybrid and Electric Vehicles is a government scheme designed to promote electric mobility.\n- PM E-DRIVE: This is a government initiative aimed at expanding electric vehicle charging infrastructure and promoting electric mobility.",
+      "citations": [],
+      "needs_review": false
+    }
+  ],
+  "charts": [
+    {
+      "title": "India EV charging infrastructure market size: estimates by source (USD billion)",
+      "plotly_json": "{\"data\":[{\"marker\":{\"color\":\"#2F5597\"},\"name\":\"Grand View Research\",\"text\":[\"0.5574\",null,null],\"textposition\":\"outside\",\"x\":[\"2025\",\"2026\",\"2030\"],\"y\":[0.5574,null,null],\"type\":\"bar\"},{\"marker\":{\"color\":\"#ED7D31\"},\"name\":\"Markets and Markets\",\"text\":[null,\"0.129\",null],\"textposition\":\"outside\",\"x\":[\"2025\",\"2026\",\"2030\"],\"y\":[null,0.129,null],\"type\":\"bar\"},{\"marker\":{\"color\":\"#70AD47\"},\"name\":\"Next MSC\",\"text\":[null,null,\"1.65\"],\"textposition\":\"outside\",\"x\":[\"2025\",\"2026\",\"2030\"],\"y\":[null,null,1.65],\"type\":\"bar\"}],\"layout\":{\"template\":{\"data\":{\"barpolar\":[{\"marker\":{\"line\":{\"color\":\"white\",\"width\":0.5},\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"barpolar\"}],\"bar\":[{\"error_x\":{\"color\":\"#2a3f5f\"},\"error_y\":{\"color\":\"#2a3f5f\"},\"marker\":{\"line\":{\"color\":\"white\",\"width\":0.5},\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"bar\"}],\"carpet\":[{\"aaxis\":{\"endlinecolor\":\"#2a3f5f\",\"gridcolor\":\"#C8D4E3\",\"linecolor\":\"#C8D4E3\",\"minorgridcolor\":\"#C8D4E3\",\"startlinecolor\":\"#2a3f5f\"},\"baxis\":{\"endlinecolor\":\"#2a3f5f\",\"gridcolor\":\"#C8D4E3\",\"linecolor\":\"#C8D4E3\",\"minorgridcolor\":\"#C8D4E3\",\"startlinecolor\":\"#2a3f5f\"},\"type\":\"carpet\"}],\"choropleth\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"type\":\"choropleth\"}],\"contourcarpet\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"type\":\"contourcarpet\"}],\"contour\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"contour\"}],\"heatmap\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"heatmap\"}],\"histogram2dcontour\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"histogram2dcontour\"}],\"histogram2d\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"histogram2d\"}],\"histogram\":[{\"marker\":{\"pattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2}},\"type\":\"histogram\"}],\"mesh3d\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"type\":\"mesh3d\"}],\"parcoords\":[{\"line\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"parcoords\"}],\"pie\":[{\"automargin\":true,\"type\":\"pie\"}],\"scatter3d\":[{\"line\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scatter3d\"}],\"scattercarpet\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scattercarpet\"}],\"scattergeo\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scattergeo\"}],\"scattergl\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scattergl\"}],\"scattermap\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scattermap\"}],\"scatterpolargl\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scatterpolargl\"}],\"scatterpolar\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scatterpolar\"}],\"scatter\":[{\"fillpattern\":{\"fillmode\":\"overlay\",\"size\":10,\"solidity\":0.2},\"type\":\"scatter\"}],\"scatterternary\":[{\"marker\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"type\":\"scatterternary\"}],\"surface\":[{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"},\"colorscale\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"type\":\"surface\"}],\"table\":[{\"cells\":{\"fill\":{\"color\":\"#EBF0F8\"},\"line\":{\"color\":\"white\"}},\"header\":{\"fill\":{\"color\":\"#C8D4E3\"},\"line\":{\"color\":\"white\"}},\"type\":\"table\"}]},\"layout\":{\"annotationdefaults\":{\"arrowcolor\":\"#2a3f5f\",\"arrowhead\":0,\"arrowwidth\":1},\"autotypenumbers\":\"strict\",\"coloraxis\":{\"colorbar\":{\"outlinewidth\":0,\"ticks\":\"\"}},\"colorscale\":{\"diverging\":[[0,\"#8e0152\"],[0.1,\"#c51b7d\"],[0.2,\"#de77ae\"],[0.3,\"#f1b6da\"],[0.4,\"#fde0ef\"],[0.5,\"#f7f7f7\"],[0.6,\"#e6f5d0\"],[0.7,\"#b8e186\"],[0.8,\"#7fbc41\"],[0.9,\"#4d9221\"],[1,\"#276419\"]],\"sequential\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]],\"sequentialminus\":[[0.0,\"#0d0887\"],[0.1111111111111111,\"#46039f\"],[0.2222222222222222,\"#7201a8\"],[0.3333333333333333,\"#9c179e\"],[0.4444444444444444,\"#bd3786\"],[0.5555555555555556,\"#d8576b\"],[0.6666666666666666,\"#ed7953\"],[0.7777777777777778,\"#fb9f3a\"],[0.8888888888888888,\"#fdca26\"],[1.0,\"#f0f921\"]]},\"colorway\":[\"#636efa\",\"#EF553B\",\"#00cc96\",\"#ab63fa\",\"#FFA15A\",\"#19d3f3\",\"#FF6692\",\"#B6E880\",\"#FF97FF\",\"#FECB52\"],\"font\":{\"color\":\"#2a3f5f\"},\"geo\":{\"bgcolor\":\"white\",\"lakecolor\":\"white\",\"landcolor\":\"white\",\"showlakes\":true,\"showland\":true,\"subunitcolor\":\"#C8D4E3\"},\"hoverlabel\":{\"align\":\"left\"},\"hovermode\":\"closest\",\"paper_bgcolor\":\"white\",\"plot_bgcolor\":\"white\",\"polar\":{\"angularaxis\":{\"gridcolor\":\"#EBF0F8\",\"linecolor\":\"#EBF0F8\",\"ticks\":\"\"},\"bgcolor\":\"white\",\"radialaxis\":{\"gridcolor\":\"#EBF0F8\",\"linecolor\":\"#EBF0F8\",\"ticks\":\"\"}},\"scene\":{\"xaxis\":{\"backgroundcolor\":\"white\",\"gridcolor\":\"#DFE8F3\",\"gridwidth\":2,\"linecolor\":\"#EBF0F8\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"#EBF0F8\"},\"yaxis\":{\"backgroundcolor\":\"white\",\"gridcolor\":\"#DFE8F3\",\"gridwidth\":2,\"linecolor\":\"#EBF0F8\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"#EBF0F8\"},\"zaxis\":{\"backgroundcolor\":\"white\",\"gridcolor\":\"#DFE8F3\",\"gridwidth\":2,\"linecolor\":\"#EBF0F8\",\"showbackground\":true,\"ticks\":\"\",\"zerolinecolor\":\"#EBF0F8\"}},\"shapedefaults\":{\"line\":{\"color\":\"#2a3f5f\"}},\"ternary\":{\"aaxis\":{\"gridcolor\":\"#DFE8F3\",\"linecolor\":\"#A2B1C6\",\"ticks\":\"\"},\"baxis\":{\"gridcolor\":\"#DFE8F3\",\"linecolor\":\"#A2B1C6\",\"ticks\":\"\"},\"bgcolor\":\"white\",\"caxis\":{\"gridcolor\":\"#DFE8F3\",\"linecolor\":\"#A2B1C6\",\"ticks\":\"\"}},\"title\":{\"x\":0.05},\"xaxis\":{\"automargin\":true,\"gridcolor\":\"#EBF0F8\",\"linecolor\":\"#EBF0F8\",\"ticks\":\"\",\"title\":{\"standoff\":15},\"zerolinecolor\":\"#EBF0F8\",\"zerolinewidth\":2},\"yaxis\":{\"automargin\":true,\"gridcolor\":\"#EBF0F8\",\"linecolor\":\"#EBF0F8\",\"ticks\":\"\",\"title\":{\"standoff\":15},\"zerolinecolor\":\"#EBF0F8\",\"zerolinewidth\":2}}},\"title\":{\"text\":\"India EV charging infrastructure market size: estimates by source (USD billion)\"},\"xaxis\":{\"title\":{\"text\":\"Year\"}},\"yaxis\":{\"title\":{\"text\":\"USD billion\"}},\"barmode\":\"overlay\",\"showlegend\":true}}",
+      "png_path": "storage/charts\\job_real_market_size.png",
+      "name": "market_size",
+      "section": "Market Insights",
+      "description": "Estimates range from US$0.129 billion (2026) to US$1.65 billion (2030). The estimates come from different sources and do not form one consistent trend (the 2026 figure is lower than the 2025 figure), so they should not be read as growth. The 2030 figure is a forecast.\nSource: Grand View Research, Markets and Markets, Next MSC, as reported in the pages listed in the Evidence Appendix. Based on 3 estimates."
+    }
+  ],
+  "evidence_appendix": [
+    {
+      "id": "E1",
+      "evidence_id": "s_39864bd5_e1",
+      "claim": "As of March 2026, India had 27,700 public EV charging stations installed.",
+      "source": "renewableenergyindiaexpo.com",
+      "source_url": "https://www.renewableenergyindiaexpo.com/blog/ev-charging-infrastructure-india",
+      "date": "2026-10-09",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E2",
+      "evidence_id": "s_39864bd5_e3",
+      "claim": "India's charger-to-EV ratio is 1:235.",
+      "source": "renewableenergyindiaexpo.com",
+      "source_url": "https://www.renewableenergyindiaexpo.com/blog/ev-charging-infrastructure-india",
+      "date": "2026-10-09",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E3",
+      "evidence_id": "s_39864bd5_e2",
+      "claim": "The PM E-DRIVE scheme aims to add 72,300 public charging stations by March 2028.",
+      "source": "renewableenergyindiaexpo.com",
+      "source_url": "https://www.renewableenergyindiaexpo.com/blog/ev-charging-infrastructure-india",
+      "date": "2026-10-09",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E4",
+      "evidence_id": "s_39864bd5_e5",
+      "claim": "The PM E-DRIVE scheme was notified in September 2024 with a total outlay of ₹10,900 crore.",
+      "source": "renewableenergyindiaexpo.com",
+      "source_url": "https://www.renewableenergyindiaexpo.com/blog/ev-charging-infrastructure-india",
+      "date": "2026-10-09",
+      "confidence": 0.69,
+      "status": "accepted"
+    },
+    {
+      "id": "E5",
+      "evidence_id": "s_ca4a152c_e1",
+      "claim": "Setting up and operating an EV charging station is a de-licensed activity in India.",
+      "source": "zevpoint.com",
+      "source_url": "https://www.zevpoint.com/blogs/guides/how-to-start-ev-charging-station-business-india",
+      "date": "2026-02-27",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E6",
+      "evidence_id": "s_ca4a152c_e10",
+      "claim": "The Ministry of Power has designated the operation of EV charging stations as a de-licensed activity.",
+      "source": "zevpoint.com",
+      "source_url": "https://www.zevpoint.com/blogs/guides/how-to-start-ev-charging-station-business-india",
+      "date": "2026-02-27",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E7",
+      "evidence_id": "s_af8f590e_e7",
+      "claim": "Grand View Research stated that the India EV charging infrastructure market generated $557.4 million in revenue in 2025.",
+      "source": "evinfrastructurenews.com",
+      "source_url": "https://www.evinfrastructurenews.com/emobility/india-ev-market-2026-growth-infrastructure-and-investment-opportunity",
+      "date": "2026-09-25",
+      "confidence": 0.843,
+      "status": "accepted"
+    },
+    {
+      "id": "E8",
+      "evidence_id": "s_af8f590e_e5",
+      "claim": "Markets and Markets reported the India EV charging infrastructure market was valued at $129 million in 2026.",
+      "source": "evinfrastructurenews.com",
+      "source_url": "https://www.evinfrastructurenews.com/emobility/india-ev-market-2026-growth-infrastructure-and-investment-opportunity",
+      "date": "2026-09-25",
+      "confidence": 0.843,
+      "status": "accepted"
+    },
+    {
+      "id": "E9",
+      "evidence_id": "s_af8f590e_e20",
+      "claim": "Karnataka's EV charging stations represent approximately 20% of India's EV charging network.",
+      "source": "evinfrastructurenews.com",
+      "source_url": "https://www.evinfrastructurenews.com/emobility/india-ev-market-2026-growth-infrastructure-and-investment-opportunity",
+      "date": "2026-09-25",
+      "confidence": 0.843,
+      "status": "accepted"
+    },
+    {
+      "id": "E10",
+      "evidence_id": "s_af8f590e_e21",
+      "claim": "Uttar Pradesh accounts for approximately 20% of India's EV fleet.",
+      "source": "evinfrastructurenews.com",
+      "source_url": "https://www.evinfrastructurenews.com/emobility/india-ev-market-2026-growth-infrastructure-and-investment-opportunity",
+      "date": "2026-09-25",
+      "confidence": 0.843,
+      "status": "accepted"
+    },
+    {
+      "id": "E11",
+      "evidence_id": "s_af8f590e_e18",
+      "claim": "Two-wheelers account for 78% of the Karnataka EV market.",
+      "source": "evinfrastructurenews.com",
+      "source_url": "https://www.evinfrastructurenews.com/emobility/india-ev-market-2026-growth-infrastructure-and-investment-opportunity",
+      "date": "2026-09-25",
+      "confidence": 0.843,
+      "status": "accepted"
+    },
+    {
+      "id": "E12",
+      "evidence_id": "s_39864bd5_e6",
+      "claim": "Tata Power builds dense metro and highway charging coverage.",
+      "source": "renewableenergyindiaexpo.com",
+      "source_url": "https://www.renewableenergyindiaexpo.com/blog/ev-charging-infrastructure-india",
+      "date": "2026-10-09",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E13",
+      "evidence_id": "s_39864bd5_e7",
+      "claim": "EZ Charge is building dense metro and highway coverage.",
+      "source": "renewableenergyindiaexpo.com",
+      "source_url": "https://www.renewableenergyindiaexpo.com/blog/ev-charging-infrastructure-india",
+      "date": "2026-10-09",
+      "confidence": 0.75,
+      "status": "accepted"
+    },
+    {
+      "id": "E14",
+      "evidence_id": "s_ca4a152c_e5",
+      "claim": "Setting up and operating an EV charging station is a de-licensed activity per 2024 guidelines.",
+      "source": "zevpoint.com",
+      "source_url": "https://www.zevpoint.com/blogs/guides/how-to-start-ev-charging-station-business-india",
+      "date": "2026-02-27",
+      "confidence": 0.74,
+      "status": "accepted"
+    },
+    {
+      "id": "E15",
+      "evidence_id": "s_3bc30a3c_e7",
+      "claim": "FAME-II and PM E-DRIVE programs offer capital support for charging infrastructure.",
+      "source": "Source details unavailable",
+      "source_url": "",
+      "date": "2026-02-27",
+      "confidence": 0.75,
+      "status": "accepted"
+    },
+    {
+      "id": "E16",
+      "evidence_id": "s_ca4a152c_e3",
+      "claim": "SBI offers EV Mitra loans for charging stations.",
+      "source": "zevpoint.com",
+      "source_url": "https://www.zevpoint.com/blogs/guides/how-to-start-ev-charging-station-business-india",
+      "date": "2026-02-27",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E17",
+      "evidence_id": "s_ca4a152c_e4",
+      "claim": "Indian Bank offers IND Green Charge loans for charging stations.",
+      "source": "zevpoint.com",
+      "source_url": "https://www.zevpoint.com/blogs/guides/how-to-start-ev-charging-station-business-india",
+      "date": "2026-02-27",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E18",
+      "evidence_id": "s_ca4a152c_e8",
+      "claim": "SBI EV Mitra offers loans for charging stations ranging from ₹10 lakh to ₹5 crore.",
+      "source": "zevpoint.com",
+      "source_url": "https://www.zevpoint.com/blogs/guides/how-to-start-ev-charging-station-business-india",
+      "date": "2026-02-27",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E19",
+      "evidence_id": "s_ca4a152c_e9",
+      "claim": "Indian Bank's IND Green Charge offers loans for charging stations up to ₹10 crore.",
+      "source": "zevpoint.com",
+      "source_url": "https://www.zevpoint.com/blogs/guides/how-to-start-ev-charging-station-business-india",
+      "date": "2026-02-27",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E20",
+      "evidence_id": "s_3bc30a3c_e4",
+      "claim": "In India, battery energy storage systems are increasingly paired with EV charging.",
+      "source": "Source details unavailable",
+      "source_url": "",
+      "date": "2026-02-27",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E21",
+      "evidence_id": "s_3bc30a3c_e6",
+      "claim": "Second-life EV batteries were used in Bengaluru’s airport project.",
+      "source": "Source details unavailable",
+      "source_url": "",
+      "date": "2026-02-27",
+      "confidence": 0.75,
+      "status": "accepted"
+    },
+    {
+      "id": "E22",
+      "evidence_id": "s_3bc30a3c_e10",
+      "claim": "Projects like the Jabalpur kiosks show the need for simple, rugged systems, easy maintenance, and local training in small towns and rural areas.",
+      "source": "Source details unavailable",
+      "source_url": "",
+      "date": "2026-02-27",
+      "confidence": 0.73,
+      "status": "accepted"
+    },
+    {
+      "id": "E23",
+      "evidence_id": "s_3bc30a3c_e1",
+      "claim": "Most electric vehicle chargers currently used in India do not support vehicle-to-grid (V2G) capability.",
+      "source": "Source details unavailable",
+      "source_url": "",
+      "date": "2026-02-27",
+      "confidence": 0.75,
+      "status": "accepted"
+    },
+    {
+      "id": "E24",
+      "evidence_id": "s_af8f590e_e11",
+      "claim": "The FAME II scheme concluded in March 2024.",
+      "source": "evinfrastructurenews.com",
+      "source_url": "https://www.evinfrastructurenews.com/emobility/india-ev-market-2026-growth-infrastructure-and-investment-opportunity",
+      "date": "2026-09-25",
+      "confidence": 0.753,
+      "status": "accepted"
+    },
+    {
+      "id": "E25",
+      "evidence_id": "s_3bc30a3c_e5",
+      "claim": "India's DISCOMs determine how solar power at charging stations is metered, billed, and connected to the grid.",
+      "source": "Source details unavailable",
+      "source_url": "",
+      "date": "2026-02-27",
+      "confidence": 0.78,
+      "status": "accepted"
+    },
+    {
+      "id": "E26",
+      "evidence_id": "s_3bc30a3c_e8",
+      "claim": "PM E-DRIVE programs offer capital support for charging infrastructure.",
+      "source": "Source details unavailable",
+      "source_url": "",
+      "date": "2026-02-27",
+      "confidence": 0.75,
+      "status": "accepted"
+    },
+    {
+      "id": "E27",
+      "evidence_id": "s_e62b3e8c_e1",
+      "claim": "The Government of India has introduced standardization for electric vehicle (EV) charging infrastructure to streamline the process across the country.",
+      "source": "Source details unavailable",
+      "source_url": "",
+      "date": "2024-02-17",
+      "confidence": 0.71,
+      "status": "accepted"
+    },
+    {
+      "id": "E28",
+      "evidence_id": "s_e62b3e8c_e3",
+      "claim": "India introduced a national standard for a combined AC and DC charging connector for light electric vehicles.",
+      "source": "Source details unavailable",
+      "source_url": "",
+      "date": "2024-02-17",
+      "confidence": 0.71,
+      "status": "accepted"
+    },
+    {
+      "id": "E29",
+      "evidence_id": "s_b0de20af_e1",
+      "claim": "The Bureau of Indian Standards (BIS) is the national standards body of India responsible for formulating EV charging standards for the country.",
+      "source": "niti.gov.in",
+      "source_url": "https://www.niti.gov.in/sites/default/files/2023-02/EV_Handbook_Final_14Oct.pdf",
+      "date": "",
+      "confidence": 0.792,
+      "status": "needs_review"
+    },
+    {
+      "id": "E30",
+      "evidence_id": "s_b0de20af_e3",
+      "claim": "IS-17017-Part-23 specifies requirements for DC charging stations with power output ranging from 50kW to 200kW.",
+      "source": "niti.gov.in",
+      "source_url": "https://www.niti.gov.in/sites/default/files/2023-02/EV_Handbook_Final_14Oct.pdf",
+      "date": "",
+      "confidence": 0.792,
+      "status": "needs_review"
+    },
+    {
+      "id": "E31",
+      "evidence_id": "s_af8f590e_e1",
+      "claim": "IMARC estimated the India EV market size was $1.45 billion in 2025.",
+      "source": "evinfrastructurenews.com",
+      "source_url": "https://www.evinfrastructurenews.com/emobility/india-ev-market-2026-growth-infrastructure-and-investment-opportunity",
+      "date": "2026-09-25",
+      "confidence": 0.768,
+      "status": "needs_review"
+    },
+    {
+      "id": "E32",
+      "evidence_id": "s_af8f590e_e9",
+      "claim": "Expert Market Research stated the India EV market size reached $7.38 billion in 2025.",
+      "source": "evinfrastructurenews.com",
+      "source_url": "https://www.evinfrastructurenews.com/emobility/india-ev-market-2026-growth-infrastructure-and-investment-opportunity",
+      "date": "2026-09-25",
+      "confidence": 0.768,
+      "status": "needs_review"
+    },
+    {
+      "id": "E33",
+      "evidence_id": "s_0ad46773_e1",
+      "claim": "DC fast charging in India typically commands ₹12-18 per kWh.",
+      "source": "Source details unavailable",
+      "source_url": "",
+      "date": "",
+      "confidence": 0.68,
+      "status": "needs_review"
+    },
+    {
+      "id": "E34",
+      "evidence_id": "s_0ad46773_e2",
+      "claim": "AC charging in India ranges from ₹8-14 per kWh.",
+      "source": "Source details unavailable",
+      "source_url": "",
+      "date": "",
+      "confidence": 0.68,
+      "status": "needs_review"
+    },
+    {
+      "id": "E35",
+      "evidence_id": "s_0ad46773_e3",
+      "claim": "EV charging stations in India typically achieve gross margins of 30-50% after electricity costs.",
+      "source": "Source details unavailable",
+      "source_url": "",
+      "date": "",
+      "confidence": 0.68,
+      "status": "needs_review"
+    },
+    {
+      "id": "E36",
+      "evidence_id": "s_0ad46773_e4",
+      "claim": "EV charging stations in India achieve net margins of 15-25% after all operating expenses.",
+      "source": "Source details unavailable",
+      "source_url": "",
+      "date": "",
+      "confidence": 0.68,
+      "status": "needs_review"
+    }
+  ],
+  "pdf_path": "storage/reports\\job_real.pdf",
+  "warnings": [
+    "Source metadata is missing for 2 source IDs used in this report. Publisher names and source links could not be verified."
+  ]
+}
