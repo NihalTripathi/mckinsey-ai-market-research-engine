@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>McKinsey | Strategy Engine — AI Market Research</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Newsreader:ital,opsz,wght@0,6..72,600;0,6..72,700;1,6..72,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- Top Navigation Header -->
+  <header class="app-header">
+    <div class="header-container">
+      <div class="brand-group">
+        <span class="brand-logo">McKinsey</span>
+        <span class="brand-separator">|</span>
+        <span class="brand-title">Strategy Engine</span>
+        <span class="academic-badge">Academic Project</span>
+      </div>
+
+      <nav class="nav-links">
+        <a href="#research" class="nav-item active" id="navResearch">
+          <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/>
+            <polyline points="9 22 9 12 15 12 15 22"/>
+          </svg>
+          Research
+        </a>
+        <a href="#sample-report" class="nav-item" id="navSampleReport">
+          <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <line x1="18" y1="20" x2="18" y2="10"/>
+            <line x1="12" y1="20" x2="12" y2="4"/>
+            <line x1="6" y1="20" x2="6" y2="14"/>
+          </svg>
+          Sample Report
+        </a>
+        <a href="#methodology" class="nav-item" id="navMethodology">
+          <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/>
+            <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/>
+          </svg>
+          Methodology
+        </a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero-section">
+    <div class="hero-container">
+      <div class="hero-text-content">
+        <div class="hero-title-row">
+          <span class="hero-accent-bar"></span>
+          <h1 class="hero-heading">AI Market Research</h1>
+        </div>
+        <p class="hero-subtitle">
+          Configure your strategic research parameters to structure an automated market intelligence brief.
+        </p>
+      </div>
+      <div class="hero-image-wrapper">
+        <img 
+          src="images/corporate-building.jpg" 
+          alt="Modern Corporate Headquarters Building Architecture" 
+          class="hero-building-image"
+        >
+      </div>
+    </div>
+  </section>
+
+  <!-- Main Content Layout -->
+  <main class="main-content">
+    <div class="content-container">
+
+      <!-- Status Notification Message (Shown upon submission) -->
+      <div id="statusNotification" class="status-notification hidden">
+        <div class="status-content">
+          <div class="status-header">
+            <span class="status-badge-icon">✓</span>
+            <div>
+              <h3 class="status-title">Research request saved locally. Backend integration pending.</h3>
+              <p class="status-desc" id="statusPlanId"></p>
+            </div>
+          </div>
+          <div class="status-summary-grid" id="statusSummaryGrid"></div>
+          <div class="status-actions">
+            <span class="status-tag">Ready for LangGraph Research Agent Integration</span>
+            <button type="button" class="btn-reset" id="btnResetForm">Submit Another Query</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="two-column-grid">
+
+        <!-- LEFT PANEL: Research Configuration Form -->
+        <section class="panel-card left-panel">
+          <div class="card-header">
+            <div class="card-icon-circle blue-outline">
+              <svg viewBox="0 0 24 24" fill="none" stroke="#0047BA" stroke-width="2.5">
+                <circle cx="11" cy="11" r="8"/>
+                <line x1="21" y1="21" x2="16.65" y2="16.65"/>
+              </svg>
+            </div>
+            <div class="card-title-group">
+              <h2 class="card-title">Research Configuration</h2>
+              <p class="card-subtitle">Provide key details to generate your market research plan.</p>
+            </div>
+          </div>
+
+          <form id="researchForm" class="research-form" novalidate>
+            
+            <!-- 1. Research Question (Required) -->
+            <div class="form-group">
+              <div class="label-row">
+                <label for="researchQuestion" class="field-label">
+                  <svg class="field-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/>
+                    <circle cx="12" cy="7" r="4"/>
+                  </svg>
+                  1. Research Question <span class="required-star">*</span>
+                </label>
+                <span class="field-hint">Core problem or objective</span>
+              </div>
+              <textarea 
+                id="researchQuestion" 
+                name="researchQuestion" 
+                rows="3" 
+                placeholder="What would you like to research?"
+                class="form-control form-textarea"
+                required
+              ></textarea>
+              <div class="error-feedback" id="errResearchQuestion"></div>
+            </div>
+
+            <!-- Row 2: Target Market & Geography -->
+            <div class="form-row-2col">
+              
+              <!-- 2. Target Market (Required) -->
+              <div class="form-group">
+                <label for="targetMarket" class="field-label">
+                  <svg class="field-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <line x1="18" y1="20" x2="18" y2="10"/>
+                    <line x1="12" y1="20" x2="12" y2="4"/>
+                    <line x1="6" y1="20" x2="6" y2="14"/>
+                  </svg>
+                  2. Target Market <span class="required-star">*</span>
+                </label>
+                <input 
+                  type="text" 
+                  id="targetMarket" 
+                  name="targetMarket" 
+                  placeholder="Enter industry or market (e.g., EV, FinTech)"
+                  class="form-control"
+                  required
+                >
+                <div class="error-feedback" id="errTargetMarket"></div>
+              </div>
+
+              <!-- 3. Geography (Required) -->
+              <div class="form-group">
+                <label for="geography" class="field-label">
+                  <svg class="field-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/>
+                    <circle cx="12" cy="10" r="3"/>
+                  </svg>
+                  3. Geography <span class="required-star">*</span>
+                </label>
+                <div class="select-wrapper">
+                  <select id="geography" name="geography" class="form-control form-select" required>
+                    <option value="">Select Geography</option>
+                    <option value="India">India</option>
+                    <option value="United States">United States</option>
+                    <option value="Global">Global</option>
+                    <option value="Other">Other</option>
+                  </select>
+                </div>
+                <div class="error-feedback" id="errGeography"></div>
+
+                <!-- Custom Geography Input (Conditionally displayed when 'Other' selected) -->
+                <div id="customGeographyContainer" class="custom-geo-box hidden">
+                  <input 
+                    type="text" 
+                    id="customGeography" 
+                    name="customGeography" 
+                    placeholder="Enter custom country or region (e.g., Southeast Asia, Brazil)" 
+                    class="form-control"
+                  >
+                  <div class="error-feedback" id="errCustomGeography"></div>
+                </div>
+              </div>
+
+            </div>
+
+            <!-- Row 3: Timeframe & Competitors -->
+            <div class="form-row-2col">
+
+              <!-- 4. Timeframe (Optional) -->
+              <div class="form-group">
+                <div class="label-row">
+                  <label for="timeframe" class="field-label">
+                    <svg class="field-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                      <rect x="3" y="4" width="18" height="18" rx="2" ry="2"/>
+                      <line x1="16" y1="2" x2="16" y2="6"/>
+                      <line x1="8" y1="2" x2="8" y2="6"/>
+                      <line x1="3" y1="10" x2="21" y2="10"/>
+                    </svg>
+                    4. Timeframe
+                  </label>
+                  <span class="badge-optional">Optional</span>
+                </div>
+                <div class="select-wrapper">
+                  <select id="timeframe" name="timeframe" class="form-control form-select">
+                    <option value="Last 3 Years (Default)" selected>Last 3 Years (Default)</option>
+                    <option value="Last 1 Year">Last 1 Year</option>
+                    <option value="Last 5 Years">Last 5 Years</option>
+                  </select>
+                </div>
+              </div>
+
+              <!-- 5. Competitors (Optional) -->
+              <div class="form-group">
+                <div class="label-row">
+                  <label for="competitors" class="field-label">
+                    <svg class="field-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                      <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/>
+                      <circle cx="9" cy="7" r="4"/>
+                      <path d="M23 21v-2a4 4 0 0 0-3-3.87"/>
+                      <path d="M16 3.13a4 4 0 0 1 0 7.75"/>
+                    </svg>
+                    5. Competitors
+                  </label>
+                  <span class="badge-optional">Optional</span>
+                </div>
+                <input 
+                  type="text" 
+                  id="competitors" 
+                  name="competitors" 
+                  placeholder="Enter competitor names (e.g., Ola, Ather, TVS)"
+                  class="form-control"
+                >
+              </div>
+
+            </div>
+
+            <!-- Submit Button -->
+            <div class="form-submit-row">
+              <button type="submit" id="btnSubmit" class="btn-primary-navy">
+                <svg class="btn-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/>
+                  <polyline points="14 2 14 8 20 8"/>
+                  <line x1="16" y1="13" x2="8" y2="13"/>
+                  <line x1="16" y1="17" x2="8" y2="17"/>
+                  <polyline points="10 9 9 9 8 9"/>
+                </svg>
+                <span class="btn-text">Generate Research Plan &rarr;</span>
+              </button>
+            </div>
+
+          </form>
+        </section>
+
+        <!-- RIGHT PANEL: How It Works & Research Output -->
+        <div class="right-panel-stack">
+
+          <!-- 1. How It Works Panel -->
+          <section class="panel-card right-card-top">
+            <div class="card-header">
+              <div class="card-icon-circle blue-outline">
+                <svg viewBox="0 0 24 24" fill="none" stroke="#0047BA" stroke-width="2.5">
+                  <circle cx="12" cy="12" r="10"/>
+                  <circle cx="12" cy="12" r="6"/>
+                  <circle cx="12" cy="12" r="2"/>
+                </svg>
+              </div>
+              <h2 class="card-title">How It Works</h2>
+            </div>
+
+            <div class="how-it-works-steps">
+              <!-- Step 1 -->
+              <div class="step-card">
+                <div class="step-icon-bubble">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="#0047BA" stroke-width="2">
+                    <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/>
+                    <polyline points="14 2 14 8 20 8"/>
+                    <line x1="16" y1="13" x2="8" y2="13"/>
+                    <line x1="16" y1="17" x2="8" y2="17"/>
+                  </svg>
+                </div>
+                <h3 class="step-heading">Provide Input</h3>
+                <p class="step-description">Define your research question &amp; parameters</p>
+              </div>
+
+              <!-- Connector Arrow -->
+              <div class="step-arrow">&rarr;</div>
+
+              <!-- Step 2 -->
+              <div class="step-card">
+                <div class="step-icon-bubble">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="#0047BA" stroke-width="2">
+                    <circle cx="12" cy="12" r="3"/>
+                    <path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"/>
+                  </svg>
+                </div>
+                <h3 class="step-heading">Run Analysis</h3>
+                <p class="step-description">The engine performs multiple strategic analyses</p>
+              </div>
+
+              <!-- Connector Arrow -->
+              <div class="step-arrow">&rarr;</div>
+
+              <!-- Step 3 -->
+              <div class="step-card">
+                <div class="step-icon-bubble">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="#0047BA" stroke-width="2">
+                    <line x1="18" y1="20" x2="18" y2="10"/>
+                    <line x1="12" y1="20" x2="12" y2="4"/>
+                    <line x1="6" y1="20" x2="6" y2="14"/>
+                  </svg>
+                </div>
+                <h3 class="step-heading">Get Research Plan</h3>
+                <p class="step-description">A structured market research brief</p>
+              </div>
+            </div>
+          </section>
+
+          <!-- 2. Research Output (12 Analyses) Panel -->
+          <section class="panel-card right-card-bottom">
+            <div class="card-header">
+              <div class="card-icon-circle blue-outline">
+                <svg viewBox="0 0 24 24" fill="none" stroke="#0047BA" stroke-width="2.5">
+                  <polygon points="12 2 2 7 12 12 22 7 12 2"/>
+                  <polyline points="2 17 12 22 22 17"/>
+                  <polyline points="2 12 12 17 22 12"/>
+                </svg>
+              </div>
+              <h2 class="card-title">Research Output (12 Analyses)</h2>
+            </div>
+
+            <div class="analyses-grid-2col">
+              <!-- Left Column (Items 1-6) -->
+              <div class="analyses-column">
+                <div class="analysis-item">
+                  <span class="check-icon-circle">✓</span>
+                  <span class="analysis-text">Market Sizing &amp; TAM</span>
+                </div>
+                <div class="analysis-item">
+                  <span class="check-icon-circle">✓</span>
+                  <span class="analysis-text">Competitive Landscape</span>
+                </div>
+                <div class="analysis-item">
+                  <span class="check-icon-circle">✓</span>
+                  <span class="analysis-text">Customer Personas</span>
+                </div>
+                <div class="analysis-item">
+                  <span class="check-icon-circle">✓</span>
+                  <span class="analysis-text">Industry Trends (5-Year)</span>
+                </div>
+                <div class="analysis-item">
+                  <span class="check-icon-circle">✓</span>
+                  <span class="analysis-text">SWOT + Porter's Five Forces</span>
+                </div>
+                <div class="analysis-item">
+                  <span class="check-icon-circle">✓</span>
+                  <span class="analysis-text">Pricing Strategy (3-Tier)</span>
+                </div>
+              </div>
+
+              <!-- Right Column (Items 7-12) -->
+              <div class="analyses-column">
+                <div class="analysis-item">
+                  <span class="check-icon-circle">✓</span>
+                  <span class="analysis-text">Go-to-Market Plan</span>
+                </div>
+                <div class="analysis-item">
+                  <span class="check-icon-circle">✓</span>
+                  <span class="analysis-text">Customer Journey Mapping</span>
+                </div>
+                <div class="analysis-item">
+                  <span class="check-icon-circle">✓</span>
+                  <span class="analysis-text">Financial Modeling (3-Year)</span>
+                </div>
+                <div class="analysis-item">
+                  <span class="check-icon-circle">✓</span>
+                  <span class="analysis-text">Risk Assessment (15 Risks)</span>
+                </div>
+                <div class="analysis-item">
+                  <span class="check-icon-circle">✓</span>
+                  <span class="analysis-text">Market Entry Strategy (12-Month)</span>
+                </div>
+                <div class="analysis-item">
+                  <span class="check-icon-circle">✓</span>
+                  <span class="analysis-text">Executive Strategy Synthesis</span>
+                </div>
+              </div>
+            </div>
+          </section>
+
+        </div>
+
+      </div>
+
+    </div>
+  </main>
+
+  <!-- Modal for Sample Report & Methodology previews -->
+  <div id="infoModal" class="modal-backdrop hidden">
+    <div class="modal-card">
+      <div class="modal-header">
+        <h3 id="modalTitle" class="modal-title">Information</h3>
+        <button type="button" class="modal-close-btn" id="modalClose">&times;</button>
+      </div>
+      <div id="modalBody" class="modal-body"></div>
+    </div>
+  </div>
+
+  <!-- Client-side Logic Script -->
+  <script src="js/app.js"></script>
+</body>
+</html>

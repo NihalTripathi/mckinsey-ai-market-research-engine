@@ -1,0 +1,23 @@
+{
+  "name": "mckinsey-ai-market-research-engine",
+  "version": "1.0.0",
+  "description": "McKinsey AI Market Research & Strategy Engine - Frontend Interface & Research Query Intake",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "mckinsey",
+    "market-research",
+    "ai-strategy-engine",
+    "almabetter",
+    "frontend-redesign"
+  ],
+  "author": "AlmaBetter Student Developer",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.3.0"
+  }
+}

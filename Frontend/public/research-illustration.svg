@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 400" width="100%" height="100%" fill="none">
+  <!-- Background Card / Canvas -->
+  <rect x="30" y="30" width="440" height="340" rx="16" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="2"/>
+  
+  <!-- Header bar inside dashboard canvas -->
+  <rect x="50" y="55" width="400" height="40" rx="8" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5"/>
+  <circle cx="75" cy="75" r="6" fill="#EF4444"/>
+  <circle cx="95" cy="75" r="6" fill="#F59E0B"/>
+  <circle cx="115" cy="75" r="6" fill="#10B981"/>
+  <rect x="145" y="70" width="160" height="10" rx="5" fill="#E2E8F0"/>
+
+  <!-- Left Analytics Panel: Bar Chart -->
+  <rect x="50" y="115" width="190" height="150" rx="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5"/>
+  <text x="70" y="142" font-family="system-ui, sans-serif" font-size="12" font-weight="600" fill="#334155">Market Growth</text>
+  
+  <!-- Grid lines -->
+  <line x1="70" y1="165" x2="220" y2="165" stroke="#F1F5F9" stroke-width="1.5"/>
+  <line x1="70" y1="195" x2="220" y2="195" stroke="#F1F5F9" stroke-width="1.5"/>
+  <line x1="70" y1="225" x2="220" y2="225" stroke="#F1F5F9" stroke-width="1.5"/>
+
+  <!-- Bars -->
+  <rect x="80" y="195" width="22" height="45" rx="4" fill="#93C5FD"/>
+  <rect x="115" y="170" width="22" height="70" rx="4" fill="#60A5FA"/>
+  <rect x="150" y="150" width="22" height="90" rx="4" fill="#2563EB"/>
+  <rect x="185" y="130" width="22" height="110" rx="4" fill="#1D4ED8"/>
+
+  <!-- Right Analytics Panel: Strategic Metrics & Donut Chart -->
+  <rect x="260" y="115" width="190" height="150" rx="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5"/>
+  <text x="280" y="142" font-family="system-ui, sans-serif" font-size="12" font-weight="600" fill="#334155">Market Share</text>
+
+  <!-- Donut Chart -->
+  <circle cx="355" cy="195" r="42" stroke="#E2E8F0" stroke-width="14" fill="none"/>
+  <circle cx="355" cy="195" r="42" stroke="#1D4ED8" stroke-width="14" stroke-dasharray="160 264" stroke-dashoffset="0" fill="none"/>
+  <circle cx="355" cy="195" r="42" stroke="#0D9488" stroke-width="14" stroke-dasharray="70 264" stroke-dashoffset="-160" fill="none"/>
+  <circle cx="355" cy="195" r="42" stroke="#F59E0B" stroke-width="14" stroke-dasharray="34 264" stroke-dashoffset="-230" fill="none"/>
+  <text x="355" y="200" font-family="system-ui, sans-serif" font-size="13" font-weight="700" fill="#0F172A" text-anchor="middle">68%</text>
+
+  <!-- Bottom Panel: Strategy Insight Banner -->
+  <rect x="50" y="280" width="400" height="70" rx="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5"/>
+  
+  <!-- Magnifying Glass / Research Icon -->
+  <circle cx="85" cy="315" r="16" stroke="#2563EB" stroke-width="3" fill="#EFF6FF"/>
+  <line x1="97" y1="327" x2="110" y2="340" stroke="#2563EB" stroke-width="3.5" stroke-linecap="round"/>
+  
+  <!-- Research Strategy Trend line -->
+  <path d="M 75 318 Q 85 308 95 314" stroke="#1D4ED8" stroke-width="2" fill="none"/>
+
+  <!-- Trend text placeholder lines -->
+  <rect x="130" y="300" width="180" height="10" rx="5" fill="#334155"/>
+  <rect x="130" y="320" width="240" height="8" rx="4" fill="#94A3B8"/>
+
+  <!-- Target Badge -->
+  <rect x="390" y="298" width="46" height="22" rx="11" fill="#DCFCE7"/>
+  <text x="413" y="313" font-family="system-ui, sans-serif" font-size="10" font-weight="700" fill="#15803D" text-anchor="middle">ACTIVE</text>
+</svg>
